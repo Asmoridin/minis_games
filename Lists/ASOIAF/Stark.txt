@@ -1,0 +1,175 @@
+Faction: Stark
+Commander: Eddard Stark - Lord of Winterfell
+Points: 40 / 40
+Activations: 7
+
+Combat Units
+ • Eddard's Honor Guard ( 6 )
+     Eddard Stark - Lord of Winterfell ( 0 )
+ • House Tully Cavaliers ( 8 )
+     Glory Seeker ( 1 )
+ • Golden Company Crossbowmen ( 7 )
+     Crannogman Warden ( 1 )
+ • Crannogman Trackers ( 5 )
+
+Non Combat Units
+ • Arya Stark ( 4 )
+ • Catelyn Stark ( 4 )
+ • Lord Varys ( 4 )
+
+Faction: Stark
+Commander: Rodrik Cassel - Master-at-Arms
+Points: 40 / 40
+Activations: 7
+
+Combat Units
+ • Golden Company Crossbowmen ( 7 )
+     Rodrik Cassel - Master-at-Arms ( 0 )
+ • Stark Bowmen ( 6 )
+ • Crannogman Trackers ( 5 )
+ • House Tully Cavaliers ( 8 )
+     Glory Seeker ( 1 )
+
+Non Combat Units
+ • Arya Stark ( 4 )
+ • Catelyn Stark ( 4 )
+ • Eddard Stark ( 5 )
+
+Faction: Stark
+Commander: Greatjon Umber - Lord of Last Hearth
+Points: 40 / 40
+Activations: 7
+
+Combat Units
+ • Lysene Sellswords ( 5 )
+     Greatjon Umber - Lord of Last Hearth ( 0 )
+ • Crannogman Trackers ( 5 )
+ • House Tully Cavaliers ( 8 )
+     Glory Seeker ( 1 )
+ • Umber Ravagers ( 7 )
+
+Non Combat Units
+ • Arya Stark ( 4 )
+ • Catelyn Stark ( 4 )
+ • Eddard Stark ( 6 )
+
+Faction: Stark
+Commander: Robb Stark - The Wolf Lord
+Points: 40 / 40
+Activations: 7
+
+Combat Units
+ • Golden Company Crossbowmen ( 7 )
+     Robb Stark - The Wolf Lord ( 0 )
+ • House Tully Cavaliers ( 8 )
+     Winterfell Guardian ( 1 )
+ • House Tully Cavaliers ( 8 )
+     Winterfell Guardian ( 1 )
+ • Grey Wind ( 3 )
+
+Non Combat Units
+ • Sansa Stark ( 4 )
+ • Lyanna Mormont ( 4 )
+ • Arya Stark ( 4 )
+
+Faction: Stark
+Commander: Maege Mormont - Lady of Bear Island
+Points: 40 / 40
+Activations: 7
+
+Combat Units
+ • House Umber Berserkers ( 6 )
+     Maege Mormont - Lady of Bear Island ( 0 )
+ • House Umber Berserkers ( 6 )
+     Rickon Stark - Prince of Winterfell ( 1 )
+     Osha - Spearwife Guardian ( 0 )
+ • House Tully Cavaliers ( 8 )
+     Winterfell Guardian ( 1 )
+ • Shaggydog ( 3 )
+
+Non Combat Units
+ • Arya Stark ( 4 )
+ • Sansa Stark ( 4 )
+ • Eddard Stark ( 6 )
+
+Enemy Attachments
+ • Jaqen H'ghar ( 1 )
+
+Faction: Stark
+Commander: Brynden Tully - Outrider Commander
+Points: 40 / 40
+Activations: 7
+
+Combat Units
+ • Stark Outriders ( 6 )
+     Brynden Tully - Outrider Commander ( 0 )
+ • House Tully Cavaliers ( 8 )
+     Winterfell Guardian ( 1 )
+ • Umber Ravagers ( 7 )
+     Fortune Seeker ( 1 )
+ • Crannogman Trackers ( 5 )
+
+Non Combat Units
+ • Catelyn Stark ( 4 )
+ • Rodrik Cassel ( 4 )
+ • Petyr Baelish ( 4 )
+
+Faction: Stark
+Commander: Brynden Tully - The Blackfish
+Points: 40 / 40
+Activations: 7
+
+Combat Units
+ • House Umber Greataxes ( 7 )
+     Brynden Tully - The Blackfish ( 0 )
+ • House Umber Greataxes ( 7 )
+     Bran and Hodor - Protector and Ward ( 1 )
+ • Stormcrow Dervishes ( 7 )
+     Crannogman Survivalist ( 1 )
+ • Summer ( 3 )
+
+Non Combat Units
+ • Catelyn Stark ( 4 )
+ • Sansa Stark ( 4 )
+ • Eddard Stark ( 6 )
+
+Faction: Stark
+Commander: Howland Reed - Lord of the Crannogs
+Points: 40 / 40
+Activations: 7
+
+Combat Units
+ • House Tully Sworn Shields ( 6 )
+     Howland Reed - Lord of the Crannogs ( 0 )
+ • Stark Bowmen ( 6 )
+     Meera Reed - Cunning Trapper ( 1 )
+ • House Tully Cavaliers ( 8 )
+     Glory Seeker ( 1 )
+ • Lysene Sellswords ( 5 )
+
+Non Combat Units
+ • Arya Stark ( 4 )
+ • Sansa Stark ( 4 )
+ • Eddard Stark ( 5 )
+
+Faction: Stark
+Commander: Rickard Karstark - Lord of Karhold
+Points: 40
+Activations: 8
+
+Combat Units
+ • Crannogman Bog Devils (7)
+     Rickard Karstark - Lord of Karhold (0)
+ • House Tully Sworn Shields (6)
+     Rickon Stark - Prince of Winterfell (1)
+     Osha - Spearwife Guardian (0)
+ • Shaggydog (3)
+ • Winterfell Guard (7)
+     Robb Stark - The Young Wolf (2)
+ • Grey Wind (3)
+
+Non Combat Units
+ • Catelyn Stark (4)
+ • Arya Stark (4)
+ • Sansa Stark (4)
+

@@ -1,0 +1,4 @@
+Sea Raiders;Horruskh, The Thousand Wraths;Joey A;Armored Korps;Kommandant Sorscha Kratikoff;Assassination Win;50;Orbits
+Sea Raiders;Horruskh, The Thousand Wraths;Chris N;Devourer's Host;Wurmwood, Tree of Fate;Concession Win;50;Orbits
+Blindwater Congregation;Maelok the Dreadbound;Joey A;Rhul Guard;General Ossrum;Scenario Win;75;Recon II
+Blindwater Congregation;Maelok the Dreadbound;Chris N;Secret Dominion;Krueger the Stormlord;Concession Win;75;Recon II

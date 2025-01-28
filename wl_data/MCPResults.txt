@@ -1,0 +1,69 @@
+A-Force;She-Hulk;Black Order;Thanos, the Mad Titan;W;Matt P;;
+A-Force;She-Hulk;Black Order;Thanos, the Mad Titan;W;Matt P;;
+A-Force;She-Hulk;Black Order;Thanos, the Mad Titan;L;Matt P;;
+Avengers;Captain America;Guardians of the Galaxy;Star-Lord;W;Matt P;;
+Web Warriors;Spider-Man (Miles Morales);X-Force;Cable;W;Matt P;;
+Web Warriors;Spider-Man (Miles Morales);X-Force;Cable;W;Matt P;;
+Cabal;Red Skull;X-Force;Cable;W;Matt P;;
+Spider-Foes;Green Goblin;Uncanny X-Men;Storm;W;Matt P;;
+Spider-Foes;Green Goblin;X-Force;Cable;W;Matt P;;
+Dark Dimension;Dormammu;Avengers;Captain America (Sam Wilson);W;Matt P;;
+A-Force;She-Hulk;Midnight Sons;Blade;W;Matt P;;
+Web Warriors;Spider-Man (Miles Morales);Criminal Syndicate;Kingpin;W;Matt P;;
+Cabal;Red Skull;Uncanny X-Men;Storm;W;Dan R;;
+Cabal;Red Skull;Guardians of the Galaxy;Star-Lord;L;Matt P;;
+Web Warriors;Spider-Man (Miles Morales);A-Force;She-Hulk;W;Matt P;;
+Avengers;Captain America;Asgard;Thor, Prince of Asgard;L;Matt P;;
+Web Warriors;Spider-Man (Miles Morales);Criminal Syndicate;Kingpin;W;Matt P;;
+Web Warriors;Spider-Man (Miles Morales);Criminal Syndicate;Kingpin;L;Matt P;;
+Web Warriors;Spider-Man (Miles Morales);Brotherhood of Mutants;Magneto;W;Matt P;;
+Avengers;Captain America;Cabal;Red Skull;W;Matt P;;
+Cabal;Red Skull;Defenders;Doctor Strange;W;Matt P;;
+Cabal;Red Skull;Black Order;Thanos, the Mad Titan;W;Matt P;;
+Avengers;Captain America;Asgard;Thor, Prince of Asgard;W;Matt P;;
+Cabal;Red Skull;Avengers;Captain America;W;Matt P;;
+Wakanda;Black Panther;Cabal;Malekith the Accursed;W;Matt P;;
+Wakanda;Black Panther;Asgard;Thor, Prince of Asgard;W;BK;;
+Dark Dimension;Dormammu;Cabal;Malekith the Accursed;L;Matt P;;
+Dark Dimension;Dormammu;Guardians of the Galaxy;Star-Lord;W;Ryne Barrall;;
+Dark Dimension;Dormammu;Web Warriors;Spider-Man (Miles Morales);W;Jeremy Coppersmith;;
+Wakanda;Black Panther;S.H.I.E.L.D.;Nick Fury;L;Jonathan Doyon;;
+Dark Dimension;Dormammu;Uncanny X-Men;Storm;W;Don Squires;;
+Wakanda;Black Panther;Midnight Sons;Blade;W;Matt P;;
+Winter Guard;Crimson Dynamo;Hydra;Red Skull, Master of Hydra;W;Matt P;;
+Dark Dimension;Dormammu;Asgard;Thor, Prince of Asgard;W;BK;;
+Winter Guard;Crimson Dynamo;Asgard;Thor, Prince of Asgard;W;BK;;
+Winter Guard;Crimson Dynamo;Cabal;Malekith the Accursed;W;Matt P;;
+Defenders;Doctor Strange;Guardians of the Galaxy;Star-Lord;L;BK;;
+Winter Guard;Crimson Dynamo;Weapon X;;W;Matt P;Alien Ship Crashes in Downtown!;Gamma Wave Sweeps Across Midwest
+Winter Guard;Crimson Dynamo;Brotherhood of Mutants;Magneto;W;BK;Paranoia Pummels Populace!;Infinity Formula Goes Missing!
+Defenders;Doctor Strange;Brotherhood of Mutants;Magneto;L;Matt P;Mutant Extremists Target U.S. Senators!;Demons Downtown! Has Our Comeuppance Come Due?
+Defenders;Doctor Strange;Brotherhood of Mutants;Mystique;W;BK;Mutant Extremists Target U.S. Senators!;Demons Downtown! Has Our Comeuppance Come Due?
+Defenders;Doctor Strange;Criminal Syndicate;Kingpin;L;BK;Mutant Extremists Target U.S. Senators!;Super-Powered Scoundrels Form Sinister Syndicate!
+Defenders;Doctor Strange;Brotherhood of Mutants;Magneto;W;Matt P;The Montesi Formula Found;Intrusions Open Across City as Seals Collapse
+A-Force;She-Hulk;Uncanny X-Men;Cyclops;W;BK;Alien Ship Crashes in Downtown!;Cosmic Invasion! Black Order Descends on Earth
+Avengers;Captain America (Sam Wilson);Brotherhood of Mutants;Magneto;L;Matt P;Fear Grips World As "Worthy" Terrorize Cities;Intrusions Open Across City as Seals Collapse
+Convocation;;S.H.I.E.L.D.;Nick Fury;W;Matt P;Mutant Extremists Target U.S. Senators!;Deadly Meteors Mutate Civilians
+Convocation;;Inhumans;Black Bolt;W;BK;Deadly Legacy Virus Cured?;Intrusions Open Across City as Seals Collapse
+Brotherhood of Mutants;Magneto;Guardians of the Galaxy;Star-Lord;L;BK;Mutant Extremists Target U.S. Senators!;Super-Powered Scoundrels Form Sinister Syndicate!
+Convocation;;Sentinels;Sentinel Prime MK4;W;Dan R;Research Station Attacked!;Mutant Madman Turns City Center Into Lethal Amusement Park
+Convocation;;Brotherhood of Mutants;Magneto;W;Matt P;Mutant Extremists Target U.S. Senators!;Mayor Fisk Vows to Find Missing Witnesses
+Convocation;;Criminal Syndicate;Kingpin;L;Kevin Dessecker;Deadly Legacy Virus Cured?;Portals Overrun City With Spider-People!
+Convocation;;Guardians of the Galaxy;Star-Lord;W;Ryne Barrall;Skrulls Infiltrate World Leadership;Gamma Wave Sweeps Across Midwest
+Convocation;;Unaffiliated;;W;Don Squires;Spider-Infected Invade Manhattan;Mutant Madman Turns City Center Into Lethal Amusement Park
+Uncanny X-Men;Storm;Guardians of the Galaxy;Star-Lord;L;BK;Paranoia Pummels Populace!;Intrusions Open Across City as Seals Collapse
+Sentinels;Sentinel Prime MK4;Brotherhood of Mutants;Magneto;W;Will H;Deadly Legacy Virus Cured?;SWORD Establishes Base On Moons Blue Area
+Sentinels;Sentinel Prime MK4;Hydra;Baron Strucker;W;Matt P;Struggle for the Cube Continues;Gamma Wave Sweeps Across Midwest
+Sentinels;Sentinel Prime MK4;Uncanny X-Men;Storm;L;BK;Paranoia Pummels Populace!;Riots Spark Over Extremis 3.0
+Sentinels;Sentinel Prime MK4;Brotherhood of Mutants;Magneto;W;Will H;Spider-Infected Invade Manhattan;Portals Overrun City With Spider-People!
+Sentinels;Sentinel Prime MK4;Uncanny X-Men;Storm;W;Elias P;Deadly Legacy Virus Cured?;Mutant Madman Turns City Center Into Lethal Amusement Park
+Sentinels;Sentinel Prime MK4;Uncanny X-Men;Storm;W;Elias P;The Montesi Formula Found;Infinity Formula Goes Missing!
+Hellfire Club;Emma Frost;Cabal;Malekith the Accursed;W;Matt P;The Montesi Formula Found;Super-Powered Scoundrels Form Sinister Syndicate!
+Hellfire Club;Emma Frost;Uncanny X-Men;Storm;W;Dan R;Struggle for the Cube Continues;Super-Powered Scoundrels Form Sinister Syndicate!
+Hellfire Club;Emma Frost;Uncanny X-Men;Storm;W;Elias P;Struggle for the Cube Continues;Infinity Formula Goes Missing!
+Hellfire Club;Emma Frost;Spider-Foes;Green Goblin;W;Scott M;Alien Ship Crashes in Downtown!;Infinity Formula Goes Missing!
+Hellfire Club;Emma Frost;Guardians of the Galaxy;Star-Lord;L;Nick Banister;Research Station Attacked!;Mutant Madman Turns City Center Into Lethal Amusement Park
+Inhumans;Black Bolt;Brotherhood of Mutants;Magneto;L;Will H;Fear Grips World As "Worthy" Terrorize Cities;Intrusions Open Across City as Seals Collapse
+Inhumans;Black Bolt;Inhumans;Black Bolt;L;Matt Clarke;Mutant Extremists Target U.S. Senators!;Gamma Wave Sweeps Across Midwest
+Inhumans;Black Bolt;S.H.I.E.L.D.;Nick Fury;L;Jonathan Doyon;Paranoia Pummels Populace!;Gamma Wave Sweeps Across Midwest
+Inhumans;Black Bolt;Avengers;Captain America, First Avenger;L;Ryan E;Deadly Legacy Virus Cured?;Mutant Madman Turns City Center Into Lethal Amusement Park

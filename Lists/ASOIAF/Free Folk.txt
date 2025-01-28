@@ -1,0 +1,183 @@
+Faction: Free Folk
+Commander: Varamyr Sixskins - Master Skinchanger
+Points: 45 / 40
+Activations: 11
+
+Combat Units
+ • Varamyr Sixskins - Master Skinchanger ( 7 )
+ • Shadowcat ( 2 )
+ • Wolf Pack ( 3 )
+ • Thenn Warriors ( 5 )
+ • Free Folk Raiders ( 4 )
+     Borroq - Boar Skinchanger ( 2 )
+ • Borroq's Boar ( 0 )
+ • Free Folk Raiders ( 4 )
+     Skinchanger ( 1 )
+ • Spearwives ( 5 )
+     Jarl - Advance Raid Leader ( 1 )
+     Skinchanger ( 1 )
+
+Non Combat Units
+ • Craster ( 4 )
+ • Lady Val ( 4 )
+ • Jon Snow ( 4 )
+
+Faction: Free Folk
+Commander: Mag the Mighty - Mag Mar Tun Doh Weg
+Points: 40 / 40
+Activations: 7
+
+Combat Units
+ • Mag the Mighty - Mag Mar Tun Doh Weg ( 5 )
+ • Wun Wun ( 8 )
+ • Giant Spear Thrower ( 7 )
+ • Giant Spear Thrower ( 7 )
+
+Non Combat Units
+ • Mance Rayder ( 5 )
+ • Lady Val ( 4 )
+ • Lady Dalla ( 4 )
+
+Faction: Free Folk
+Commander: Mance Rayder - King Beyond the Wall
+Points: 40 / 40
+Activations: 9
+
+Combat Units
+ • Thenn Warriors ( 5 )
+     Mance Rayder - King Beyond the Wall ( 0 )
+ • Followers of Bone ( 5 )
+     Champion of Bone ( 1 )
+ • Free Folk Raiders ( 4 )
+     Walrus Clan Chieftain ( 2 )
+ • Giant Spear Thrower ( 7 )
+ • Varamyr Sixskins - Master Skinchanger ( 3 )
+ • Shadowcat ( 2 )
+
+Non Combat Units
+ • Lady Val ( 4 )
+ • Craster ( 4 )
+ • Lady Dalla ( 4 )
+
+Faction: Free Folk
+Commander: Styr - Magnar Of Thenn
+Points: 40 / 40
+Activations: 9
+
+Combat Units
+ • Thenn Warriors ( 5 )
+     Styr - Magnar Of Thenn ( 0 )
+ • Free Folk Trappers ( 4 )
+ • Free Folk Trappers ( 4 )
+ • Free Folk Raiders ( 4 )
+     Walrus Clan Chieftain ( 2 )
+ • Savage Giant ( 7 )
+ • Varamyr Sixskins - Master Skinchanger ( 3 )
+
+Non Combat Units
+ • Craster ( 4 )
+ • Lady Dalla ( 4 )
+ • Jon Snow ( 4 )
+
+Faction: Free Folk
+Commander: The Weeper - Horrific Butcher
+Points: 40 / 40
+Activations: 8
+
+Combat Units
+ • Thenn Warriors ( 5 )
+     The Weeper - Horrific Butcher ( 0 )
+ • Free Folk Trappers ( 4 )
+ • Followers of Bone ( 5 )
+ • Cave Dweller Savages ( 5 )
+     Jarl - Advance Raid Leader ( 1 )
+ • Bonelord's Chosen ( 6 )
+     Rattleshirt - Ruthless Slaughterer ( 2 )
+
+Non Combat Units
+ • Lady Val ( 4 )
+ • Styr ( 4 )
+ • Craster ( 4 )
+
+Faction: Free Folk
+Commander: Tormund Giantsbane - Thunderfist
+Points: 40 / 40
+Activations: 9
+
+Combat Units
+ • Thenn Warriors ( 5 )
+     Tormund Giantsbane - Thunderfist ( 0 )
+ • Spearwives ( 5 )
+     Harma - The Dogshead ( 2 )
+ • Cave Dweller Savages ( 5 )
+ • Free Folk Raiders ( 4 )
+     Skinchanger ( 1 )
+ • Varamyr Sixskins - Master Skinchanger ( 3 )
+ • Free Folk Raiders ( 4 )
+     Raid Leader ( 1 )
+
+Non Combat Units
+ • Lady Val ( 4 )
+ • Craster ( 4 )
+ • Mance Rayder ( 4 )
+
+Faction: Free Folk
+Commander: Harma - Vanguard Commander
+Points: 40
+Activations: 9
+
+Combat Units
+ • Spearwives (5)
+     Harma - Vanguard Commander (0)
+ • Followers of Bone (5)
+     Champion of Bone (1)
+ • Free Folk Raiders (4)
+     Raid Leader (1)
+ • Free Folk Trappers (4)
+ • Free Folk Raiders (4)
+     Harma's Bannerman (1)
+ • Free Folk Trappers (4)
+
+Non Combat Units
+ • Lady Val (4)
+ • Mance Rayder (5)
+ • Craster (4)
+
+Faction: Free Folk
+Commander: Rattleshirt - The Lord of Bones
+Points: 40
+Activations: 8
+
+Combat Units
+ • Bonelord's Chosen (6)
+     Rattleshirt - The Lord of Bones (0)
+ • Free Folk Raiders (4)
+     Raid Leader (1)
+ • Free Folk Raiders (4)
+     Skinchanger (1)
+ • Frozen Shore Bear Riders (8)
+ • Thenn Warriors (5)
+
+Non Combat Units
+ • Lady Val (4)
+ • Mance Rayder (5)
+ • Jon Snow (4)
+
+Faction: Free Folk
+Commander: The Great Walrus - Lord of the Frozen Shore
+Points: 40
+Activations: 7
+
+Combat Units
+ • Thenn Warriors (5)
+     The Great Walrus - Lord of the Frozen Shore (0)
+ • Giant Spear Thrower (7)
+ • Giant Spear Thrower (7)
+ • Mag the Mighty (9)
+ • Free Folk Raiders (4)
+     Raid Leader (1)
+
+Non Combat Units
+ • Craster (4)
+ • Lady Val (4)
+

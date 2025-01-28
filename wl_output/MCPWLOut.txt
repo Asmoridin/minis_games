@@ -1,0 +1,129 @@
+Marvel: Crisis Protocol Win-Loss Tracker and army selector
+
+My current record is 50-19
+
+Record by affiliation:
+A-Force: 4-1
+- She-Hulk: 4-1
+Avengers: 3-2
+- Captain America: 3-1
+- Captain America (Sam Wilson): 0-1
+Brotherhood of Mutants: 0-1
+- Magneto: 0-1
+Cabal: 5-1
+- Red Skull: 5-1
+Convocation: 6-1
+Dark Dimension: 5-1
+- Dormammu: 5-1
+Defenders: 2-3
+- Doctor Strange: 2-3
+Hellfire Club: 4-1
+- Emma Frost: 4-1
+Inhumans: 0-4
+- Black Bolt: 0-4
+Sentinels: 5-1
+- Sentinel Prime MK4: 5-1
+Spider-Foes: 2-0
+- Green Goblin: 2-0
+Uncanny X-Men: 0-1
+- Storm: 0-1
+Wakanda: 3-1
+- Black Panther: 3-1
+Web Warriors: 6-1
+- Spider-Man (Miles Morales): 6-1
+Winter Guard: 5-0
+- Crimson Dynamo: 5-0
+
+My H-Index is 5
+
+Record against opponents:
+BK: 7-5
+Dan R: 3-0
+Don Squires: 2-0
+Elias P: 3-0
+Jeremy Coppersmith: 1-0
+Jonathan Doyon: 0-2
+Kevin Dessecker: 0-1
+Matt Clarke: 0-1
+Matt P: 29-7
+Nick Banister: 0-1
+Ryan E: 0-1
+Ryne Barrall: 2-0
+Scott M: 1-0
+Will H: 2-1
+
+Record against opposing affiliation:
+A-Force: 1-0
+- She-Hulk: 1-0
+Asgard: 4-1
+- Thor, Prince of Asgard: 4-1
+Avengers: 2-1
+- Captain America: 1-0
+- Captain America (Sam Wilson): 1-0
+- Captain America, First Avenger: 0-1
+Black Order: 3-1
+- Thanos, the Mad Titan: 3-1
+Brotherhood of Mutants: 7-3
+- Magneto: 6-3
+- Mystique: 1-0
+Cabal: 4-1
+- Malekith the Accursed: 3-1
+- Red Skull: 1-0
+Criminal Syndicate: 2-3
+- Kingpin: 2-3
+Defenders: 1-0
+- Doctor Strange: 1-0
+Guardians of the Galaxy: 3-5
+- Star-Lord: 3-5
+Hydra: 2-0
+- Baron Strucker: 1-0
+- Red Skull, Master of Hydra: 1-0
+Inhumans: 1-1
+- Black Bolt: 1-1
+Midnight Sons: 2-0
+- Blade: 2-0
+S.H.I.E.L.D.: 1-2
+- Nick Fury: 1-2
+Sentinels: 1-0
+- Sentinel Prime MK4: 1-0
+Spider-Foes: 1-0
+- Green Goblin: 1-0
+Uncanny X-Men: 8-1
+- Cyclops: 1-0
+- Storm: 7-1
+Weapon X: 1-0
+Web Warriors: 1-0
+- Spider-Man (Miles Morales): 1-0
+X-Force: 4-0
+- Cable: 4-0
+
+I've seen these affiliations played the least (0 times): Legion of the Lost, New Mutants, Servants of the Apocalypse, Thralls of Dracula
+
+Maybe play more games as Asgard, using Thor, Prince of Asgard, who I have played 0 times
+
+*** Scenario Information ***
+Extract information (from most played to least):
+Mutant Extremists Target U.S. Senators!: 3-4
+Deadly Legacy Virus Cured?: 3-2
+Paranoia Pummels Populace!: 1-3
+Alien Ship Crashes in Downtown!: 3-0
+Struggle for the Cube Continues: 3-0
+The Montesi Formula Found: 3-0
+Spider-Infected Invade Manhattan: 2-0
+Research Station Attacked!: 1-1
+Fear Grips World As "Worthy" Terrorize Cities: 0-2
+Skrulls Infiltrate World Leadership: 1-0
+
+Secure information (from most played to least):
+Gamma Wave Sweeps Across Midwest: 3-2
+Mutant Madman Turns City Center Into Lethal Amusement Park: 3-2
+Intrusions Open Across City as Seals Collapse: 2-3
+Infinity Formula Goes Missing!: 4-0
+Super-Powered Scoundrels Form Sinister Syndicate!: 2-2
+Demons Downtown! Has Our Comeuppance Come Due?: 1-1
+Portals Overrun City With Spider-People!: 1-1
+Cosmic Invasion! Black Order Descends on Earth: 1-0
+Deadly Meteors Mutate Civilians: 1-0
+Mayor Fisk Vows to Find Missing Witnesses: 1-0
+SWORD Establishes Base On Moons Blue Area: 1-0
+Riots Spark Over Extremis 3.0: 0-1

@@ -1,0 +1,27 @@
+Star Wars: Armada Win-Loss Tracker and fleet selector
+My current record (W-L-T) is 4-4-1
+
+My record by commander: (38 total commander in game)
+Empire:
+Rebel: 4-4-1
+ - Admiral Ackbar: 1-0-0
+ - Admiral Raddus: 1-0-0
+ - General Rieekan: 0-1-0
+Republic:
+Separatist:
+
+My H-Index is 1
+
+My record against opponents:
+- Ben J: 1-0-0
+- Dan R: 0-0-1
+- Matt P: 3-3-0
+- Rob M: 0-1-0
+
+My record against opposing fleets:
+- Empire: 4-4
+
+I've seen the following commanders on the table the least (0 times)
+Commander Sato, Garm Bel Iblis, General Cracken, General Dodonna, General Draven, General Madine, Kyrsta Agate, Leia Organa, Mon Mothma, Admiral Konstantine, Admiral Motti, Admiral Ozzel, Admiral Piett, Admiral Screed, Admiral Sloane, Darth Vader, Emperor Palpatine, General Romodi, General Tagge, Grand Admiral Thrawn, Grand Moff Tarkin, Moff Jerjerrod, Anakin Skywalker, Admiral Tarkin, Admiral Yularen, Bail Organa, Luminara Unduli, Obi-Wan Kenobi, Plo Koon, Admiral Trench, Count Dooku, General Grievous, Kraken, Mar Tuuk, TF-1726
+
+I should play more games with Empire, where I only have 0 games. Suggested commander - Admiral Konstantine (0 total plays)

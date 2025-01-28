@@ -1,0 +1,11 @@
+Men of Hawkshold;Lizardmen;Rob M;W
+Elves of Ravenwood;Dwarves of Runegard;Rob M;L
+Wuxing;High Elves;Joey A;L
+High Elves;The Risen Kingdom;Rob M;L
+High Elves;Lizardmen;Rob M;W
+High Elves;Lizardmen;Rob M;L
+High Elves;Lizardmen;Rob M;L
+Umenzi Tribesmen;The Risen Kingdom;Rob M;W
+Umenzi Tribesmen;Elves of Ravenwood;Peter G;L
+Umenzi Tribesmen;High Elves;Jerry V;L
+Umenzi Tribesmen;High Elves;Jerry V;L

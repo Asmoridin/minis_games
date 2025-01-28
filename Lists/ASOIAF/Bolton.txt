@@ -1,0 +1,59 @@
+Faction: Bolton
+Commander: Ramsay Snow - Spiteful Heir
+Points: 40 / 40
+Activations: 7
+
+Combat Units
+ • Bastard's Girls ( 7 )
+     Ramsay Snow - Spiteful Heir ( 0 )
+     Theon Greyjoy - Reek ( 0 )
+ • Bastard's Girls ( 7 )
+     Ben Bones - Kennelmaster ( 0 )
+ • Blackguards ( 6 )
+     Skinner - Bastard's Boy ( 0 )
+ • Flayed Men ( 8 )
+
+Non Combat Units
+ • Roose Bolton ( 4 )
+ • Walda Frey ( 4 )
+ • Shae ( 4 )
+
+Faction: Bolton
+Commander: Steelshanks Walton - Captain of the Guard
+Points: 40 / 40
+Activations: 8
+
+Combat Units
+ • Cutthroats ( 5 )
+     Steelshanks Walton - Captain of the Guard ( 0 )
+ • Cutthroats ( 5 )
+ • Dreadfort Archers ( 6 )
+ • Dreadfort Archers ( 6 )
+ • Blackguards ( 6 )
+     Grunt - Bastard's Boy ( 0 )
+
+Non Combat Units
+ • Roose Bolton ( 4 )
+ • Walda Frey ( 4 )
+ • Ramsay Snow ( 4 )
+
+Faction: Bolton
+Commander: Roose Bolton - Lord of the Dreadfort
+Points: 41 / 40
+Activations: 7
+
+Combat Units
+ • Blackguards ( 6 )
+     Roose Bolton - Lord of the Dreadfort ( 0 )
+ • Dreadfort Spearmen ( 5 )
+     Steelshanks Walton - Relentless Soldier ( 1 )
+ • Bastard's Girls ( 7 )
+     Sour Alyn - Bastard's Boy ( 0 )
+ • Flayed Men ( 8 )
+     Glory Seeker ( 1 )
+
+Non Combat Units
+ • Jaqen H'ghar ( 4 )
+ • Ramsay Snow ( 4 )
+ • Walda Frey ( 4 )
+

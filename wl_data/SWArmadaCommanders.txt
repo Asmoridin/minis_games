@@ -1,0 +1,38 @@
+Rebel;Admiral Ackbar
+Rebel;Admiral Raddus
+Rebel;Commander Sato
+Rebel;Garm Bel Iblis
+Rebel;General Cracken
+Rebel;General Dodonna
+Rebel;General Draven
+Rebel;General Madine
+Rebel;General Rieekan
+Rebel;Kyrsta Agate
+Rebel;Leia Organa
+Rebel;Mon Mothma
+Empire;Admiral Konstantine
+Empire;Admiral Motti
+Empire;Admiral Ozzel
+Empire;Admiral Piett
+Empire;Admiral Screed
+Empire;Admiral Sloane
+Empire;Darth Vader
+Empire;Emperor Palpatine
+Empire;General Romodi
+Empire;General Tagge
+Empire;Grand Admiral Thrawn
+Empire;Grand Moff Tarkin
+Empire;Moff Jerjerrod
+Republic;Anakin Skywalker
+Republic;Admiral Tarkin
+Republic;Admiral Yularen
+Republic;Bail Organa
+Republic;Luminara Unduli
+Republic;Obi-Wan Kenobi
+Republic;Plo Koon
+Separatist;Admiral Trench
+Separatist;Count Dooku
+Separatist;General Grievous
+Separatist;Kraken
+Separatist;Mar Tuuk
+Separatist;TF-1726

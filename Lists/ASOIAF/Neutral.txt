@@ -1,0 +1,94 @@
+Faction: Neutral
+Commander: Roose Bolton - The Leech Lord
+Points: 40 / 40
+Activations: 7
+
+Combat Units
+ • House Bolton Blackguards ( 6 )
+     Roose Bolton - The Leech Lord ( 0 )
+ • House Bolton Flayed Men ( 8 )
+ • House Bolton Flayed Men ( 8 )
+ • Bloody Mummer Zorse Riders ( 6 )
+
+Non Combat Units
+ • Shae ( 4 )
+ • Petyr Baelish ( 4 )
+ • Lord Varys ( 4 )
+
+Faction: Neutral
+Commander: Jokin - Stormcrow Captain
+Points: 40 / 40
+Activations: 7
+
+Combat Units
+ • Stormcrow Archers ( 6 )
+     Jokin - Stormcrow Captain ( 0 )
+ • Golden Company Crossbowmen ( 7 )
+ • Bloody Mummer Zorse Riders ( 6 )
+     Glory Seeker ( 1 )
+ • Golden Company Swordsmen ( 7 )
+     The Widower - Stormcrow Captain ( 0 )
+ • Stormcrow Mercenaries ( 5 )
+     Sandor Clegane - Fugitive Bodyguard ( 1 )
+
+Non Combat Units
+ • Petyr Baelish ( 4 )
+ • Lord Varys ( 4 )
+
+Faction: Neutral
+Commander: Vargo Hoat - The Goat of Harrenhal
+Points: 40 / 40
+Activations: 7
+
+Combat Units
+ • Golden Company Swordsmen ( 7 )
+     Vargo Hoat - The Goat of Harrenhal ( 0 )
+ • Bloody Mummer Skirmishers ( 6 )
+     The Widower - Second In Command ( 0 )
+ • Bloody Mummer Zorse Riders ( 6 )
+     Fortune Seeker ( 1 )
+ • Stormcrow Archers ( 6 )
+     Jokin - Archer Captain ( 2 )
+
+Non Combat Units
+ • Jaqen H'ghar ( 4 )
+ • Shae ( 4 )
+ • Petyr Baelish ( 4 )
+
+Faction: Neutral
+Commander: Daario Naharis - Stormcrow Captain
+Points: 40
+Activations: 7
+
+Combat Units
+ • Stormcrow Dervishes (7)
+     Daario Naharis - Stormcrow Captain (0)
+ • Hedge Knights (7)
+     Glory Seeker (1)
+ • Stormcrow Mercenaries (5)
+     Stormcrow Lieutenant (1)
+ • Stormcrow Mercenaries (5)
+     Stormcrow Lieutenant (1)
+ • Golden Company Crossbowmen (7)
+
+Non Combat Units
+ • Petyr Baelish (4)
+ • Lord Varys (4)
+
+Faction: Neutral
+Commander: Ramsay Snow - The Bastard of Bolton
+Points: 40
+Activations: 7
+
+Combat Units
+ • House Bolton Cutthroats (5)
+     Ramsay Snow - The Bastard of Bolton (0)
+ • House Bolton Cutthroats (5)
+ • House Bolton Cutthroats (5)
+ • House Bolton Flayed Men (8)
+ • House Bolton Flayed Men (8)
+
+Non Combat Units
+ • Roose Bolton (4)
+ • Walder Frey (5)
+

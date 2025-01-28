@@ -1,0 +1,13 @@
+Scum and Villainy;Galactic Empire;Matt P;W
+Scum and Villainy;Rebellion;Ben J;L
+Scum and Villainy;Galactic Empire;Ben J;L
+Scum and Villainy;Galactic Empire;Joey A;W
+Scum and Villainy;Galactic Empire;Joey A;W
+Scum and Villainy;Separatist Alliance;Matt P;L
+Resistance;Galactic Empire;Joey A;W
+Resistance;First Order;Matt P;W
+First Order;Galactic Empire;Joey A;L
+First Order;Galactic Empire;Joey A;L
+Resistance;Scum and Villainy;Matt P;W
+Scum and Villainy;Galactic Empire;Matt P;W
+Galactic Empire;Separatist Alliance;Matt P;L

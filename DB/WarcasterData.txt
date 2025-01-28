@@ -1,0 +1,89 @@
+Aenigma;Aeternus Continuum;Vehicle Hero;1;1
+Aerolith;Empyreans;Squad Attachment;4;2
+Antecessors Eternal;Empyreans;Squad;4;1
+Artemis Fang;Marcher Worlds;Hero;1;1
+Astreus, Aeon of the First Magnitude;Empyreans;Hero;1;1
+Aurelion, Aeon Weaver;Empyreans;Hero;1;1
+Automech;Iron Star Alliance;Solo;4;1
+Axel for Hire;Wild Cards;Hero;1;1
+Baron Cassius Mooregrave;Wild Cards;Hero;1;1
+Blast Shield;Marcher Worlds;Mantlet;4;2
+Captain Jax Redblade;Wild Cards;Hero;1;1
+Carapax;Empyreans;Mantlet;4;3
+Coalition Weaver;Marcher Worlds;Solo;4;2
+Combat Engineer;Marcher Worlds;Solo;4;2
+Corebus;Wild Cards;Hero;1;1
+Daemon;Empyreans;Warjack;4;2
+Defense Pylon;Aeternus Continuum;Mantlet;4;1
+Divine Tempest;Aeternus Continuum;Champion Solo;4;1
+Doctor Myra Hurst;Wild Cards;Hero;1;1
+Dragoon Assault Team;Marcher Worlds;Squad;4;1
+Dragoon Gunner;Marcher Worlds;Squad Attachment;8;2
+Dragoon Strike Team Leader;Marcher Worlds;Solo;4;1
+Dragoon Strike Team;Marcher Worlds;Squad;4;1
+Duchess;Iron Star Alliance;Vehicle Hero;1;1
+Dusk Wolf;Marcher Worlds;Warjack;4;3
+Eternal Metator;Empyreans;Champion Solo;4;1
+Exalted Paragons;Empyreans;Squad;4;1
+Execrator Nix;Empyreans;Vehicle Hero;1;1
+Factotum;Empyreans;Solo;4;3
+Fenrik Leech;Wild Cards;Hero;1;1
+Fiddler & Co.;Marcher Worlds;Vehicle Hero;1;1
+Firebrand;Iron Star Alliance;Warjack;4;3
+Force Barrier;Iron Star Alliance;Mantlet;4;1
+Fulcrum;Empyreans;Solo;4;2
+Grafter;Aeternus Continuum;Solo;4;2
+Harlan Sek, The Curator;Wild Cards;Hero;1;1
+Headsman;Iron Star Alliance;Champion Warjack;4;1
+Heavy Saber;Empyreans;Solo;4;1
+Hierotheos Raxis;Aeternus Continuum;Hero;1;1
+Hunter;Marcher Worlds;Solo;4;3
+Immortal Weaver;Aeternus Continuum;Solo;4;3
+Interceptor;Iron Star Alliance;Vehicle;4;1
+Justicar Voss;Iron Star Alliance;Hero;1;1
+Major Aysa Drayce;Iron Star Alliance;Hero;1;1
+Marauder;Aeternus Continuum;Solo;4;3
+Master Tulcan;Wild Cards;Hero;1;1
+Morning Star;Iron Star Alliance;Warjack;4;2
+Nekosphynx;Aeternus Continuum;Solo;4;1
+Nemesis;Aeternus Continuum;Warjack;4;2
+Oculus;Empyreans;Solo;4;2
+Paladin Aegis;Iron Star Alliance;Squad Attachment;4;2
+Paladin Annihilators;Iron Star Alliance;Squad;4;2
+Paladin Commander;Iron Star Alliance;Solo;4;3
+Paladin Defenders;Iron Star Alliance;Squad;4;1
+Paladin Enforcers;Iron Star Alliance;Squad;4;3
+Paladin Siegebreaker;Iron Star Alliance;Solo;4;1
+Paladin Weaver;Iron Star Alliance;Solo;4;4
+Paragon Commander;Empyreans;Solo;4;1
+Phaethon, The Whisper of Death;Aeternus Continuum;Hero;1;1
+Raker;Aeternus Continuum;Squad Attachment;4;2
+Ranger Fire Team;Marcher Worlds;Squad;4;3
+Ranger Heavy Support;Marcher Worlds;Squad;4;2
+Ranger Infiltrator;Marcher Worlds;Squad;4;2
+Ranger Outrider;Marcher Worlds;Solo;4;1
+Razorbat;Marcher Worlds;Vehicle;4;1
+Regulator Reeve;Iron Star Alliance;Solo;4;1
+Regulators;Iron Star Alliance;Squad;4;1
+Relikon;Aeternus Continuum;Squad Attachment;4;1
+Saber Guardian Squad;Empyreans;Squad;4;2
+Saber Strike Force;Empyreans;Squad;4;2
+Saber Vanguard Squad;Empyreans;Squad;4;1
+Scourge;Aeternus Continuum;Warjack;4;3
+Scythe;Aeternus Continuum;Vehicle;4;1
+Sentinel;Empyreans;Warjack;4;2
+Storm Vulture;Marcher Worlds;Champion Vehicle;4;1
+Strike Raptor;Marcher Worlds;Warjack;4;2
+Synturions;Aeternus Continuum;Squad;4;1
+Talons;Aeternus Continuum;Squad;4;1
+The Quartermaster;Wild Cards;Hero Attachment;1;1
+Tracers;Iron Star Alliance;Squad;4;1
+Vassal Boss;Aeternus Continuum;Solo;4;1
+Vassal Raiders;Aeternus Continuum;Squad;4;1
+Vassal Reavers;Aeternus Continuum;Squad;4;3
+Vassal Witch Hunters;Aeternus Continuum;Squad;4;2
+Voitek Sudal, Bounty Hunter;Wild Cards;Hero;1;1
+Warchief Malek Sezzar;Marcher Worlds;Hero;1;1
+Warder;Marcher Worlds;Squad Attachment;4;2
+Witch Hounds;Iron Star Alliance;Squad Attachment;4;1
+Zenith;Empyreans;Vehicle;4;1

@@ -1,0 +1,186 @@
+Faction: Targaryen
+Commander: Khal Drogo - The Great Khal
+Points: 40 / 40
+Activations: 7
+
+Combat Units
+ • Dothraki Screamers ( 6 )
+     Khal Drogo - The Great Khal ( 0 )
+ • Dothraki Screamers ( 6 )
+ • Dothraki Outriders ( 6 )
+     Fortune Seeker ( 1 )
+ • Unsullied Pikemen ( 7 )
+     Jorah Mormont - The Andal ( 1 )
+
+Non Combat Units
+ • Barristan Selmy ( 5 )
+ • Jaqen H'ghar ( 4 )
+ • Lord Varys ( 4 )
+
+Faction: Targaryen
+Commander: Skahaz Mo Kandaq - The Shavepate
+Points: 40 / 40
+Activations: 7
+
+Combat Units
+ • Unsullied Pikemen ( 7 )
+     Skahaz Mo Kandaq - The Shavepate ( 0 )
+ • Dothraki Outriders ( 6 )
+     Fortune Seeker ( 1 )
+ • Dothraki Screamers ( 6 )
+ • Unsullied Pikemen ( 7 )
+     Jorah Mormont - The Andal ( 1 )
+
+Non Combat Units
+ • Daenerys Targaryen ( 4 )
+ • Mirri Maz Duur ( 4 )
+ • Lord Varys ( 4 )
+
+Faction: Targaryen
+Commander: Daenerys Targaryen - Mother of Dragons
+Points: 40 / 40
+Activations: 7
+
+Combat Units
+ • Golden Company Crossbowmen ( 7 )
+     Daenerys Targaryen - Mother of Dragons ( 0 )
+     Jorah Mormont - Penitent Betrayer ( 0 )
+ • Drogon ( 7 )
+ • Rhaegal ( 7 )
+ • Dothraki Screamers ( 6 )
+
+Non Combat Units
+ • Quaithe ( 4 )
+ • Mirri Maz Duur ( 4 )
+ • Barristan Selmy ( 5 )
+
+Faction: Targaryen
+Commander: Grey Worm - Unsullied Commander
+Points: 40 / 40
+Activations: 7
+
+Combat Units
+ • Unsullied Pikemen ( 7 )
+     Grey Worm - Unsullied Commander ( 0 )
+ • Unsullied Swordmasters ( 7 )
+     Unsullied Officer ( 2 )
+ • Dothraki Outriders ( 6 )
+     Fortune Seeker ( 1 )
+ • Stormcrow Mercenaries ( 5 )
+     Jorah Mormont - The Andal ( 1 )
+
+Non Combat Units
+ • Mirri Maz Duur ( 4 )
+ • Quaithe ( 4 )
+ • Lord Varys ( 4 )
+
+Faction: Targaryen
+Commander: Marselen - Mother's Men Commander
+Points: 40 / 40
+Activations: 7
+
+Combat Units
+ • Brazen Beasts ( 5 )
+     Marselen - Mother's Men Commander ( 0 )
+ • Dothraki Outriders ( 6 )
+ • Unsullied Swordmasters ( 7 )
+     Unsullied Officer ( 2 )
+ • Dothraki Veterans ( 8 )
+
+Non Combat Units
+ • Missandei ( 4 )
+ • Mirri Maz Duur ( 4 )
+ • Lord Varys ( 4 )
+
+Faction: Targaryen
+Commander: Daenerys Targaryen - Queen of Meereen
+Points: 40 / 40
+Activations: 7
+
+Combat Units
+ • House Bolton Blackguards ( 6 )
+     Daenerys Targaryen - Queen of Meereen ( 0 )
+     Jorah Mormont - Penitent Betrayer ( 0 )
+ • Dothraki Outriders ( 6 )
+ • Drogon ( 7 )
+ • Unsullied Swordmasters ( 7 )
+
+Non Combat Units
+ • Quaithe ( 4 )
+ • Tycho Nestoris ( 5 )
+ • Barristan Selmy ( 5 )
+
+Faction: Targaryen
+Commander: Daario Naharis - Stormcrow Captain
+Points: 40
+Activations: 7
+
+Combat Units
+ • Unsullied Swordmasters (7)
+     Daario Naharis - Stormcrow Captain (0)
+ • Stormcrow Dervishes (7)
+     Grey Worm - Freed By The Dragon (2)
+ • Dothraki Outriders (6)
+ • Dothraki Screamers (6)
+
+Non Combat Units
+ • Mirri Maz Duur (4)
+ • Quaithe (4)
+ • Lord Varys (4)
+
+Faction: Targaryen
+Commander: Jorah Mormont - Westerosi Tactician
+Points: 40
+Activations: 7
+
+Combat Units
+ • Dothraki Veterans (8)
+     Jorah Mormont - Westerosi Tactician (0)
+ • Dothraki Veterans (8)
+     Outrider Ko (1)
+ • Dothraki Hrakkars (4)
+ • Dothraki Outriders (6)
+     Fortune Seeker (1)
+
+Non Combat Units
+ • Pyat Pree (4)
+ • Hizdahr Zo Loraq (4)
+ • Mirri Maz Duur (4)
+
+Faction: Targaryen
+Commander: Barristan Selmy - Barristan The Bold
+Points: 40
+Activations: 7
+
+Combat Units
+ • Unsullied Swordmasters (7)
+     Barristan Selmy - Barristan The Bold (0)
+ • Dothraki Veterans (8)
+     Qotho - Bloodrider (2)
+ • Jorah Mormont - The Wandering Knight (4)
+ • Drogon (7)
+
+Non Combat Units
+ • Daenerys Targaryen (5)
+ • Mirri Maz Duur (4)
+ • Pyat Pree (4)
+
+Faction: Targaryen
+Commander: Belwas - The Strong
+Points: 40
+Activations: 7
+
+Combat Units
+ • Unsullied Pikemen (7)
+     Belwas - The Strong (0)
+ • Brazen Beasts (5)
+     Grey Worm - Freed By The Dragon (2)
+ • Dothraki Screamers (6)
+ • Dothraki Outriders (6)
+     Fortune Seeker (1)
+
+Non Combat Units
+ • Mirri Maz Duur (4)
+ • Xaro Xhoan Daxos (4)
+ • Barristan Selmy (5)
+

@@ -1,0 +1,527 @@
+Aiko;Temple of Ro-Kan;1;0
+Aiumi, With No Compassion;The Awoken;1;0
+Akane;Ito Clan;1;0
+Akemi;Minimoto Clan;1;0
+Akimoto;Ito Clan;1;0
+Akita, Princess of Fear and Pain;The Awoken;1;0
+Akoshi;Cult of Yurei;1;0
+Akuba;Cult of Yurei;1;0
+Akuto;Silvermoon Syndicate;1;0
+Amaruq;The Descension;1;0
+Ancestor Spirit;Ronin;1;0
+Animated Militia;Cult of Yurei;4;0
+Animated Warriors;Cult of Yurei;2;0
+Anko;Jung Pirates;1;0
+Araka;Cult of Yurei;1;0
+Arakan;Silvermoon Syndicate;1;0
+Arata;Jung Pirates;1;0
+Armoured Kairai;Cult of Yurei;2;0
+Ashigaru of the Peaks;Minimoto Clan;2;0
+Ashinaga Tenaga;Ronin;1;0
+Atsuko;Temple of Ro-Kan;1;0
+Atsunobu;Ronin;1;0
+Atsushi;Prefecture of Ryu;1;0
+Axiam;Shadow Wind Clan;1;0
+Ayame;Silvermoon Syndicate;1;0
+Azami;Ito Clan;1;0
+Baichi;Ronin;1;0
+Bakemono Archers;Savage Wave;2;0
+Bakemono Beaters;Savage Wave;2;0
+Bakemono Boomers;Savage Wave;2;0
+Bakemono Bushi;Savage Wave;2;0
+Bakemono Raiders;Savage Wave;2;0
+Bakemono Spearmen;Savage Wave;2;0
+Banri;The Awoken;1;0
+Batsu;Kinshi Temple;1;0
+Batu;Ronin;1;0
+Bikou;Ronin;1;0
+Blue Gale Scout;The Descension;2;0
+Boba;Savage Wave;1;0
+Bobata the Bell Ringer;Savage Wave;1;0
+Botan;Temple of Ro-Kan;1;0
+Brother Zendaka;Silvermoon Syndicate;1;0
+Buzenbo;The Descension;1;0
+Byiba;Temple of Ro-Kan;1;0
+Cave Bat Rider;Savage Wave;1;0
+Child of Orochi;Ito Clan;2;0
+Chinatsu, the Cold Anger;The Awoken;1;0
+Chiyo;Ito Clan;1;0
+Convocation of Eagles;The Descension;1;0
+Crabs of the Eastern Sea;Jung Pirates;3;0
+Dafukaia;Silvermoon Syndicate;1;0
+Daisuke;Prefecture of Ryu;1;0
+Daitan;Silvermoon Syndicate;1;0
+Daranibe;The Descension;1;0
+Dudiko;Shadow Wind Clan;1;0
+Duri;Jung Pirates;1;0
+Eagles of the Jwar Isles;Ronin;3;0
+Eddo Ashigaru;Prefecture of Ryu;2;0
+Edogawa;Prefecture of Ryu;1;0
+Eiko;Cult of Yurei;1;0
+Eimi, of the Mind's World;The Awoken;1;0
+Ekashiba;The Descension;1;0
+Eldest Brother;Ronin;1;0
+Electric Eel;Jung Pirates;1;0
+Enban'nage Ashigaru;Minimoto Clan;2;0
+Envy;Cult of Yurei;1;0
+Fai-ginn;Silvermoon Syndicate;1;0
+Fishermen of Ro-Kan;Temple of Ro-Kan;2;0
+Fitiaumua;Silvermoon Syndicate;1;0
+Foon Gus;Savage Wave;1;0
+Fu Ran Ku;Jung Pirates;1;0
+Fudo, the Illuminator;Silvermoon Syndicate;1;0
+Fujitaka;Prefecture of Ryu;1;0
+Fujiwaro Ran;Jung Pirates;1;0
+Fuku;Silvermoon Syndicate;1;0
+Fuma;Shadow Wind Clan;1;0
+Fuwa Kaidan;Cult of Yurei;1;0
+Gendo;Cult of Yurei;1;0
+General Wu Shuo;Ronin;1;0
+Gengo;Cult of Yurei;1;0
+Ghost;Shadow Wind Clan;1;0
+Giant Cave Bat;Savage Wave;1;0
+Giant Eagle;Ronin;2;0
+Giichi;Silvermoon Syndicate;1;0
+Gluttony;Cult of Yurei;1;0
+Gok;Cult of Yurei;1;0
+Gokuran;Shadow Wind Clan;1;0
+Golden Sentinel;Ronin;2;0
+Goro;Savage Wave;1;0
+Goshi;Prefecture of Ryu;2;0
+Guardsman of Ryu;Prefecture of Ryu;2;0
+Haiatake Guard;The Descension;2;0
+Hakushi;Silvermoon Syndicate;1;0
+Hana, The Grace in Murder;The Awoken;1;0
+Hanami;Silvermoon Syndicate;1;0
+Hanso;Prefecture of Ryu;1;0
+Haru;Temple of Ro-Kan;1;0
+Haruki;Ito Clan;1;0
+Harukichi;Silvermoon Syndicate;1;0
+Hauru;Minimoto Clan;1;0
+Hazkabo;The Descension;1;0
+Heimin;Shiho Clan;3;0
+Hideaki;Jung Pirates;1;0
+Hidemi;The Awoken;1;0
+Hikari;Cult of Yurei;1;0
+Hilltribe Tracker;The Descension;2;0
+Hilltribe Warrior;The Descension;2;0
+Himei;Jung Pirates;1;0
+Hiretsuna;Ronin;1;0
+Hirobo;The Descension;1;0
+Hirohibo;The Descension;1;0
+Hiromasa;Prefecture of Ryu;1;0
+Hiroto, Drunken Master;Ronin;1;0
+Hiryu;Prefecture of Ryu;1;0
+Hisao;Temple of Ro-Kan;1;0
+Hishigata;Kinshi Temple;1;0
+Hisoka;Ronin;1;0
+Hitokuchi;Jung Pirates;1;0
+Hitoshi;Ito Clan;1;0
+Hofuku;Temple of Ro-Kan;1;0
+Hokibo;The Descension;1;0
+Honbo;The Descension;1;0
+Honoko;Silvermoon Syndicate;1;0
+Hoshi Kimiko;Minimoto Clan;1;0
+Hoshi Machiko;Minimoto Clan;1;0
+Hoshi Odamu;Minimoto Clan;1;0
+Hoshi Rinko;Minimoto Clan;1;0
+Hotaru;Temple of Ro-Kan;1;0
+Hotene;The Descension;1;0
+Hozumi Daihanji;Ronin;1;1
+Hozumi Koga;Ronin;1;1
+Hozumi Maha;Ronin;1;1
+Ibara;Cult of Yurei;1;0
+Ichio;Ronin;1;0
+Ig;Savage Wave;1;0
+Ikiryo;Cult of Yurei;1;0
+Ima;Prefecture of Ryu;1;0
+Isamu;Prefecture of Ryu;1;0
+Isas;Ito Clan;1;0
+Ishi;Ito Clan;1;0
+Ito Ayako;Ito Clan;1;0
+Ito Haruto;Ito Clan;1;0
+Ito Itsunagi;Ito Clan;1;0
+Ito Kaihime;Ito Clan;1;0
+Ito Kenzo;Ito Clan;1;0
+Ito Kinu;Ito Clan;1;0
+Ito Koburai;Ito Clan;1;0
+Ito Mamushi;Ito Clan;1;0
+Ito Masunagi;Ito Clan;1;0
+Ito Mizuki;Ito Clan;1;0
+Ito Sadako;Ito Clan;1;0
+Ito Yudai;Ito Clan;1;0
+Ito Yuno;Ito Clan;1;0
+Itsube, Haiatake Guard;The Descension;1;0
+Izu Serpents;Ito Clan;3;0
+Jade Mamba Guard;Ito Clan;2;0
+Jin;Prefecture of Ryu;1;0
+Jinichi;Shadow Wind Clan;1;0
+Jirobo;The Descension;1;0
+Jirou;Ito Clan;1;0
+Joben;Jung Pirates;1;0
+Jori;Jung Pirates;1;1
+Josei;Cult of Yurei;1;0
+Juko;Temple of Ro-Kan;1;0
+Jum;Silvermoon Syndicate;1;0
+Jun;Savage Wave;1;0
+Jung Hibiki;Jung Pirates;1;0
+Jung Keikoku;Jung Pirates;1;0
+Jung Mari;Jung Pirates;1;0
+Jung Minato;Jung Pirates;1;0
+Jung Tora;Jung Pirates;1;1
+Junichi;Prefecture of Ryu;1;0
+Jyoto Ashigaru;Minimoto Clan;2;0
+Kaede;Silvermoon Syndicate;1;0
+Kaihei Alpha;Savage Wave;1;0
+Kaihei;Savage Wave;4;0
+Kairai Farmer;Cult of Yurei;2;0
+Kairai Militia;Cult of Yurei;2;0
+Kairai Villager;Cult of Yurei;2;0
+Kaito;Temple of Ro-Kan;1;0
+Kaiyō & Mangetsu;Temple of Ro-Kan;1;0
+Kami of Blighted Earth;Ronin;2;0
+Kami of Choking Fog;Ronin;2;0
+Kami of Reflection;Ronin;2;0
+Kami of Sapping Silt;Ronin;2;0
+Kami of Tempered Iron;Ronin;2;0
+Kami of the Empty Mind;Ronin;2;0
+Kami of the Eternal Earth;Ronin;2;0
+Kami of the Evening Flame;Ronin;2;0
+Kami of the Morning Dew;Ronin;2;0
+Kami of the Strong West Wind;Ronin;2;0
+Kami of the Summer Storm;Temple of Ro-Kan;1;0
+Kanae;Shadow Wind Clan;1;0
+Kani-chan;Jung Pirates;1;0
+Kani-kun;Jung Pirates;1;0
+Kano;Savage Wave;1;0
+Kanut;The Descension;1;0
+Kappa;Ronin;1;0
+Karapan;Shadow Wind Clan;2;0
+Karu;Ronin;1;0
+Kato the Puppet Master;Cult of Yurei;1;0
+Katsumi;Shadow Wind Clan;1;0
+Kawa no Rojin;Temple of Ro-Kan;2;0
+Kazuhiko;Ito Clan;1;0
+Kazuki;Shiho Clan;1;0
+Kemono, the Savage;Savage Wave;1;0
+Kenichi Gemu;Silvermoon Syndicate;1;0
+Kenko;Temple of Ro-Kan;1;0
+Kenmeina;Ronin;1;1
+Kerasu;Shadow Wind Clan;1;0
+Khendish;Ronin;1;0
+Kibin;Silvermoon Syndicate;1;0
+Kintaru;Temple of Ro-Kan;1;0
+Kinzoku;Minimoto Clan;1;0
+Kira'a;Cult of Yurei;1;0
+Kira;Temple of Ro-Kan;1;0
+Kiyo, Who Sees Behind;The Awoken;1;0
+Kiyozumi Haiboku;Ronin;1;1
+Kiyozumi Hinadori;Ronin;1;1
+Kiyozumi Kicho;Ronin;1;1
+Kiyozumi Sadaka;Ronin;1;1
+Kizoko;Prefecture of Ryu;1;0
+Kodai;Kinshi Temple;1;0
+Kohanin;Jung Pirates;2;0
+Koji's Pack;Temple of Ro-Kan;3;0
+Koji;Temple of Ro-Kan;1;0
+Kokei;Silvermoon Syndicate;1;0
+Kokkio;Prefecture of Ryu;1;0
+Kokoro the Harvester;Savage Wave;1;0
+Korusea;Jung Pirates;2;0
+Koshimori Yukio;Ronin;1;0
+Kosuke;Temple of Ro-Kan;1;0
+Kota;Temple of Ro-Kan;1;0
+Kotenbo;The Descension;1;0
+Kouhei;Shadow Wind Clan;1;0
+Kozo;Cult of Yurei;1;0
+Ku;Kinshi Temple;1;0
+Kukibo;The Descension;1;0
+Kuma;Temple of Ro-Kan;1;0
+Kuoto;Temple of Ro-Kan;1;0
+Kurutta;Jung Pirates;1;0
+Kusatta Kairai;Cult of Yurei;2;0
+Kyoaku-Han Crossbowman;Silvermoon Syndicate;2;0
+Kyoaku-Han;Silvermoon Syndicate;2;0
+Kyou;Ito Clan;1;0
+Kyuubi;Temple of Ro-Kan;1;0
+Lama'a;Silvermoon Syndicate;1;0
+Large Rat Swarm;Cult of Yurei;2;0
+Lost Slave;Savage Wave;2;0
+Loyal Kyudoka;Shiho Clan;2;0
+Loyal Yarimen;Shiho Clan;2;0
+Lua;Jung Pirates;1;0
+Madoka;Prefecture of Ryu;1;0
+Maiden of Sagoya;Cult of Yurei;1;0
+Maki;Shiho Clan;1;0
+Makoto;Shadow Wind Clan;1;0
+Malosi;Silvermoon Syndicate;1;0
+Maniitok;The Descension;1;0
+Manu;Silvermoon Syndicate;1;0
+Marionette;Cult of Yurei;1;0
+Maru;Kinshi Temple;1;0
+Masaema Aya;Minimoto Clan;1;0
+Masaema Tadao;Cult of Yurei;1;0
+Masaema Yama;Minimoto Clan;1;0
+Masaema Yoshinobu;Minimoto Clan;1;0
+Master Akari;Temple of Ro-Kan;1;0
+Master Charlyn;Temple of Ro-Kan;1;0
+Master Ekusa;Temple of Ro-Kan;1;0
+Master Enos;Temple of Ro-Kan;1;0
+Master Koju;Temple of Ro-Kan;1;0
+Master Po;Temple of Ro-Kan;1;0
+Master Shi;Kinshi Temple;1;0
+Meunagi;Jung Pirates;1;0
+Mina;Temple of Ro-Kan;1;0
+Minarai;Cult of Yurei;1;0
+Minimoto Akasuki;Minimoto Clan;1;0
+Minimoto Kajiya;Minimoto Clan;1;0
+Minimoto Koyama;Minimoto Clan;1;0
+Minimoto Niko;Minimoto Clan;1;0
+Minimoto Reo;Minimoto Clan;1;0
+Minimoto Yuji;Minimoto Clan;1;0
+Minuro;Prefecture of Ryu;1;0
+Misao;Silvermoon Syndicate;1;0
+Miyakomo Asami;Jung Pirates;1;1
+Miyakomo Korra;Jung Pirates;1;0
+Miyakomo's Echo;Jung Pirates;4;0
+Mizuchi;Prefecture of Ryu;1;0
+Mo Ises;Cult of Yurei;1;0
+Mokoti;Cult of Yurei;1;0
+Mother-of-Pearl;Jung Pirates;1;0
+Moyasu;Jung Pirates;1;0
+Musa;Jung Pirates;1;0
+Nachin;Silvermoon Syndicate;1;0
+Nagashikaku;Kinshi Temple;1;0
+Nagato;Shadow Wind Clan;1;0
+Naigubu;The Descension;1;0
+Naoko;Ito Clan;1;0
+Narahobo;The Descension;1;0
+Neko;Shadow Wind Clan;1;0
+Nian Rider;Savage Wave;1;0
+Nightwing Swarm;Ronin;2;0
+Ningyo;Silvermoon Syndicate;1;0
+Niseru;Temple of Ro-Kan;1;0
+Nomi;Silvermoon Syndicate;1;0
+Nuan;Minimoto Clan;1;0
+Nuniq;The Descension;1;0
+Oda & Tautolu;Silvermoon Syndicate;1;0
+Oda;Silvermoon Syndicate;1;0
+Ogai, the Skybreaker;Savage Wave;1;0
+Ojobe;The Descension;1;0
+Okina & Oto;Savage Wave;1;0
+Okishisa;Temple of Ro-Kan;2;0
+Okkete San;Silvermoon Syndicate;2;0
+Okyo Archer;Ito Clan;2;0
+Okyo Ashigaru;Ito Clan;2;0
+Old Zo;Silvermoon Syndicate;1;0
+Onyomi;Savage Wave;1;0
+Ook;Savage Wave;1;0
+Oshibe;The Descension;1;0
+Phantom;Shadow Wind Clan;1;0
+Pit Dog;Silvermoon Syndicate;2;0
+Plague Rat;Cult of Yurei;3;3
+Plainsmen Falconers;Ronin;2;0
+Qimmiq;The Descension;1;0
+Raiko;Minimoto Clan;1;0
+Rakki;Silvermoon Syndicate;2;0
+Rashka the Devastator;Savage Wave;1;0
+Ren, Powerful Hatred;The Awoken;1;0
+Renishi;Jung Pirates;1;0
+Rice Farmer of Ro-Kan;Temple of Ro-Kan;2;0
+Riku;Temple of Ro-Kan;1;0
+Rin;Shadow Wind Clan;1;0
+Rinsho;Savage Wave;2;0
+Risen Kairai;Cult of Yurei;4;0
+Risu;Cult of Yurei;1;0
+Rokuro;Cult of Yurei;1;0
+Ryoka-Sha;Prefecture of Ryu;1;0
+Ryokeen;Ronin;1;1
+Ryota;Jung Pirates;1;1
+Ryu Houseguard;Prefecture of Ryu;2;0
+Ryu Yariman;Prefecture of Ryu;2;0
+Ryuhobo;The Descension;1;0
+Ryujin;Jung Pirates;1;0
+Ryuko;Prefecture of Ryu;1;0
+Saburo;Ito Clan;1;0
+Sagoya Kaidan;Cult of Yurei;1;0
+Sakaguchi;Ito Clan;1;0
+Saki;Silvermoon Syndicate;1;0
+Sakura;Ito Clan;1;0
+Sangaku;Kinshi Temple;1;0
+Sanjakubo;The Descension;1;0
+Saruka;Temple of Ro-Kan;1;0
+Satoshi;Ito Clan;1;0
+Satou Hatchi;Cult of Yurei;1;0
+Satou Iiju;Prefecture of Ryu;1;0
+Satou Kioshi;Prefecture of Ryu;1;0
+Satou Sadao;Prefecture of Ryu;1;0
+Satou Togai;Prefecture of Ryu;1;0
+Satsuki;Ito Clan;1;0
+Satzuko;Silvermoon Syndicate;1;0
+Seibo;The Descension;1;0
+Seiji;Temple of Ro-Kan;1;0
+Senbo;Cult of Yurei;1;0
+Senpu;Silvermoon Syndicate;1;0
+Senshi;Temple of Ro-Kan;1;0
+Sensu & Uchiwa;Silvermoon Syndicate;1;0
+Shenzhiqi;Ronin;1;0
+Shichiro;Cult of Yurei;1;0
+Shiho Hiroto, The Black Eagle;Shiho Clan;1;0
+Shiho Keita;Shiho Clan;1;0
+Shiho Misaki;Shiho Clan;1;0
+Shiho Sayaka;Shiho Clan;1;0
+Shiho Shirak;Shiho Clan;1;0
+Shiho Shota;Shiho Clan;1;0
+Shiho Takuya;Shiho Clan;1;0
+Shiho Wimpie;Shiho Clan;1;0
+Shiho Yusuke;Shiho Clan;1;0
+Shikaku;Kinshi Temple;1;0
+Shimogamo Viper;Ito Clan;2;0
+Shinji;Cult of Yurei;1;0
+Shinobu;Prefecture of Ryu;1;0
+Shinyuki;Shadow Wind Clan;1;0
+Shizuka;Shadow Wind Clan;1;0
+Sho;Jung Pirates;1;1
+Shojo;Cult of Yurei;1;0
+Shokuji;Cult of Yurei;1;0
+Shonosuke;Silvermoon Syndicate;1;0
+Shosu;Ronin;1;0
+Shubo;The Descension;1;0
+Shuichi;Prefecture of Ryu;1;0
+Shuohuang;Ronin;1;0
+Silverback;Ronin;2;0
+Sloth;Cult of Yurei;1;0
+Small Rat Swarm;Cult of Yurei;3;0
+Sojobo;Ronin;1;0
+Sora;Minimoto Clan;1;0
+Souji;Shadow Wind Clan;1;0
+Souta;Cult of Yurei;1;0
+Spectre;Shadow Wind Clan;1;0
+Suchiro;Temple of Ro-Kan;1;0
+Sude;Shadow Wind Clan;1;0
+Sukoshi Kani;Silvermoon Syndicate;1;0
+Sukuratchi;Silvermoon Syndicate;1;0
+Sunzuko;Shadow Wind Clan;1;0
+Taburo, the Unbreakable;Savage Wave;1;0
+Tadaoki;Ronin;1;0
+Taiho;Jung Pirates;1;0
+Taiki;Temple of Ro-Kan;1;0
+Taisei;Ito Clan;1;0
+Taiyo;Ronin;1;1
+Taka;Cult of Yurei;1;0
+Takashi Akio;Prefecture of Ryu;1;0
+Takashi Akira;Prefecture of Ryu;1;0
+Takashi Bachiko;Prefecture of Ryu;1;0
+Takashi Daiko;Prefecture of Ryu;1;0
+Takashi Eiji;Prefecture of Ryu;1;0
+Takashi Genji;Prefecture of Ryu;1;0
+Takashi Hagane;Prefecture of Ryu;1;0
+Takashi Hiro;Prefecture of Ryu;1;0
+Takashi Katsumoto;Prefecture of Ryu;1;0
+Takashi Kazuo;Prefecture of Ryu;1;0
+Takashi Kenta;Prefecture of Ryu;1;0
+Takashi Kumiko;Prefecture of Ryu;1;0
+Takashi Mako;Prefecture of Ryu;1;0
+Takashi Matsu;Prefecture of Ryu;1;0
+Takashi Mika;Prefecture of Ryu;1;0
+Takashi Oka;Prefecture of Ryu;1;0
+Takashi Tetsuya;Prefecture of Ryu;1;0
+Takeji;Ito Clan;1;0
+Takeru;Temple of Ro-Kan;1;0
+Taliriktug;The Descension;1;0
+Tamotsu;Ito Clan;1;0
+Tanaka Gorak;Shiho Clan;1;0
+Tanaka Kazuo & Heir;Shiho Clan;1;0
+Tanaka Muna;Shiho Clan;1;0
+Tanaka Nobuko;Shiho Clan;1;0
+Tanaka Tsuki;Shiho Clan;1;0
+Tanaka Yue;Shiho Clan;1;0
+Tarobo;The Descension;1;0
+Taru;Jung Pirates;1;0
+Tashi, the Eightfold Blessing;The Awoken;1;0
+Tatsuo;Prefecture of Ryu;1;0
+Tautolu;Silvermoon Syndicate;1;0
+Temo;Ronin;1;0
+Temple Bushi;Ito Clan;2;0
+Tenbatsu;Ronin;1;0
+Tenchi;Ronin;1;0
+Tengoko;Temple of Ro-Kan;1;0
+Tetsu;Minimoto Clan;1;0
+Tetsuso;Jung Pirates;1;0
+The Dark Pilgrim;Ronin;1;0
+The Gaijin;Silvermoon Syndicate;1;0
+The Gaki;Cult of Yurei;1;0
+The Grey Pilgrim;Ronin;1;0
+The Harionago;Cult of Yurei;1;0
+The Nian;Savage Wave;1;0
+The Nine-Tailed Fox;Temple of Ro-Kan;1;0
+The Penanggalan;Cult of Yurei;1;0
+The Shadow Crow;Shadow Wind Clan;1;0
+The Wanyudo;Cult of Yurei;1;0
+The White-Faced Fox;Temple of Ro-Kan;1;0
+The Wraith;Cult of Yurei;1;0
+Tomo;Silvermoon Syndicate;1;0
+Toshiro;Ronin;1;0
+Touwa;The Awoken;1;0
+Tra-Peng;Savage Wave;1;0
+Trained Dogs;Prefecture of Ryu;2;0
+Trak;Savage Wave;1;1
+Tribal Brute;Savage Wave;2;0
+Tru'pah;Ronin;1;0
+Tsubaki;Silvermoon Syndicate;1;0
+Tsukai;Silvermoon Syndicate;1;0
+Tsuki's Pack;Shiho Clan;2;0
+Tsuta;Savage Wave;1;0
+Tsutsumi;Temple of Ro-Kan;1;0
+Tu-ning;Savage Wave;1;0
+Twin Shisa;Temple of Ro-Kan;1;0
+Two Lone Swordsmen;Ronin;1;0
+Ujimushi;Shadow Wind Clan;1;0
+Uk-Kang;Savage Wave;1;0
+Ume;Temple of Ro-Kan;1;0
+Umeka;Cult of Yurei;1;0
+Unblessed Ashigaru;Minimoto Clan;2;0
+Ushi the Sadistic;Savage Wave;1;0
+Village Militia;Temple of Ro-Kan;2;0
+Waka the Rampager;Savage Wave;1;0
+Wakaba;Shadow Wind Clan;1;0
+Wakasu Akuma;Silvermoon Syndicate;2;0
+Waku, the Soul Collector;Cult of Yurei;1;0
+Wamu;Shadow Wind Clan;1;0
+Warui;Cult of Yurei;1;0
+Wasupu;Silvermoon Syndicate;1;0
+Wei-Shu;Savage Wave;1;0
+Whale Hunter;Jung Pirates;2;0
+Wolf Ryoshi;Shiho Clan;1;0
+Wolf Spears;Shiho Clan;1;0
+Wrath;Cult of Yurei;1;0
+Wu-Zang;Savage Wave;1;0
+Xi-Han;Savage Wave;1;0
+Xi;Ronin;1;0
+Yama Uba;Cult of Yurei;1;0
+Yami'mure;Savage Wave;1;0
+Yanjing;Ronin;1;0
+Yanki;Ito Clan;1;0
+Yasei;Savage Wave;1;0
+Yatsumata;Ito Clan;1;0
+Yim;Temple of Ro-Kan;1;0
+Ying-Jian;Ronin;1;0
+Yizhi;Ronin;1;0
+Yokozuna Akashi;Silvermoon Syndicate;1;0
+Yori;Jung Pirates;1;0
+Yoshitaka;Shiho Clan;1;0
+Yugio;Cult of Yurei;1;0
+Yuji;Jung Pirates;1;0
+Yumi;Temple of Ro-Kan;1;0
+Yusha the Vindictive;Savage Wave;1;0
+Yuto;Shadow Wind Clan;1;0
+Yuui;Ito Clan;1;0
+Yuuki;Temple of Ro-Kan;1;0
+Yuyokuma;Minimoto Clan;1;0
+Zama the Falconer;Ronin;1;0
+Zenkibo;The Descension;1;0
+Zephyr Guard;The Descension;2;0
+Zhongwei;Ronin;1;0
+Zoo;Savage Wave;1;0
+Zuba the All Seeing;Savage Wave;1;0
+Zung-Fu;Savage Wave;1;0

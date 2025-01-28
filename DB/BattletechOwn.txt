@@ -1,0 +1,1000 @@
+# Behemoth (Stone Rhino)
+# Hellion
+# Howler
+# Marauder IIC
+# Pack Hunter
+# Warhammer IIC
+'Mechbuster (LB-X);Inner Sphere;Conventional Fighter;Civil War (3062 - 3067);Mechbuster;Attack;3039;0
+'Mechbuster (Laser);Inner Sphere;Conventional Fighter;Late Succession War - Renaissance (3020 - 3049);Mechbuster;Attack;3039;0
+'Mechbuster (SRM);Inner Sphere;Conventional Fighter;Late Succession War - Renaissance (3020 - 3049);Mechbuster;Attack;3039;0
+'Mechbuster;Inner Sphere;Conventional Fighter;Late Succession War - Renaissance (3020 - 3049);Mechbuster;Attack;3039;0
+AC/2 Carrier (LB-X);Inner Sphere;Heavy Vehicle;Civil War (3062 - 3067);Missile Carrier;Sniper;3058;0
+AC/2 Carrier;Inner Sphere;Heavy Vehicle;Age of War (2005 - 2570);Missile Carrier;Sniper;3039;0
+APC (Hover LRM);Inner Sphere;Light Vehicle;Age of War (2005 - 2570);Armored Personnel Carrier;Missile Boat;3039;0
+APC (Hover MG);Inner Sphere;Light Vehicle;Age of War (2005 - 2570);Armored Personnel Carrier;Scout;3039;0
+APC (Hover SRM);Inner Sphere;Light Vehicle;Age of War (2005 - 2570);Armored Personnel Carrier;Scout;3039;0
+APC (Hover);Inner Sphere;Light Vehicle;Age of War (2005 - 2570);Armored Personnel Carrier;Scout;3039;0
+APC (Tracked LRM);Inner Sphere;Light Vehicle;Age of War (2005 - 2570);Armored Personnel Carrier;Missile Boat;3039;0
+APC (Tracked MG);Inner Sphere;Light Vehicle;Age of War (2005 - 2570);Armored Personnel Carrier;Scout;3039;0
+APC (Tracked SRM);Inner Sphere;Light Vehicle;Age of War (2005 - 2570);Armored Personnel Carrier;Scout;3039;0
+APC (Tracked);Inner Sphere;Light Vehicle;Age of War (2005 - 2570);Armored Personnel Carrier;Scout;3039;0
+APC (Wheeled LRM);Inner Sphere;Light Vehicle;Age of War (2005 - 2570);Armored Personnel Carrier;Missile Boat;3039;0
+APC (Wheeled MG);Inner Sphere;Light Vehicle;Age of War (2005 - 2570);Armored Personnel Carrier;Scout;3039;0
+APC (Wheeled SRM);Inner Sphere;Light Vehicle;Age of War (2005 - 2570);Armored Personnel Carrier;Scout;3039;0
+APC (Wheeled);Inner Sphere;Light Vehicle;Age of War (2005 - 2570);Armored Personnel Carrier;Scout;3039;0
+Achileus (David);Inner Sphere;Light Battle Armor;Civil War (3062 - 3067);Achileus Light Battle Armor;Ambusher;3058;0
+Achileus (Flamer);Inner Sphere;Light Battle Armor;Clan Invasion (3050 - 3061);Achileus Light Battle Armor;Ambusher;3058;0
+Achileus (Laser);Inner Sphere;Light Battle Armor;Clan Invasion (3050 - 3061);Achileus Light Battle Armor;Ambusher;3058;0
+Achileus (MG);Inner Sphere;Light Battle Armor;Clan Invasion (3050 - 3061);Achileus Light Battle Armor;Ambusher;3058;0
+Achileus (TAG);Inner Sphere;Light Battle Armor;Clan Invasion (3050 - 3061);Achileus Light Battle Armor;Ambusher;3058;0
+Achileus (WoB);Inner Sphere;Light Battle Armor;Civil War (3062 - 3067);Achileus Light Battle Armor;Scout;3058;0
+Ahab AHB-443;Inner Sphere;Heavy Aerospace;Star League (2571 - 2780);Ahab;Attack;3050;0
+Ahab AHB-643;Inner Sphere;Heavy Aerospace;Civil War (3062 - 3067);Ahab;Attack;3050;0
+Ahab AHB-MD;Inner Sphere;Heavy Aerospace;Clan Invasion (3050 - 3061);Ahab;Attack;3050;0
+Ahab AHB-X;Inner Sphere;Heavy Aerospace;Star League (2571 - 2780);Ahab;Attack;3050;0
+Alacorn Mk III Heavy Tank;Inner Sphere;Assault Vehicle;Star League (2571 - 2780);Alacorn;Juggernaut;3058;0
+Alacorn Mk IV Heavy Tank;Inner Sphere;Assault Vehicle;Star League (2571 - 2780);Alacorn;Juggernaut;3058;0
+Alacorn Mk VI Heavy Tank;Inner Sphere;Assault Vehicle;Star League (2571 - 2780);Alacorn;Sniper;3058;0
+Alacorn Mk VII Heavy Tank;Inner Sphere;Assault Vehicle;Civil War (3062 - 3067);Alacorn;Juggernaut;3058;0
+Annihilator ANH-1A;Inner Sphere;Assault Mech;Late Succession War - LosTech (2901 - 3019);Annihilator;Juggernaut;3050;0
+Annihilator ANH-2A;Inner Sphere;Assault Mech;Late Succession War - Renaissance (3020 - 3049);Annihilator;Juggernaut;3050;0
+Annihilator ANH-3A;Inner Sphere;Assault Mech;Jihad (3068 - 3080);Annihilator;Juggernaut;3050;0
+Annihilator ANH-4A;Inner Sphere;Assault Mech;Jihad (3068 - 3080);Annihilator;Sniper;3050;0
+Annihilator C 2;Clan;Assault Mech;Early Succession War (2781 - 2900);Annihilator;Sniper;3050;0
+Annihilator C;Clan;Assault Mech;Early Succession War (2781 - 2900);Annihilator;Sniper;3050;0
+Archer ARC-2K;Inner Sphere;Heavy Mech;Early Succession War (2781 - 2900);Archer;Missile Boat;3039;0
+Archer ARC-2R;Inner Sphere;Heavy Mech;Age of War (2005 - 2570);Archer;Missile Boat;3039;1
+Archer ARC-2S;Inner Sphere;Heavy Mech;Late Succession War - LosTech (2901 - 3019);Archer;Missile Boat;3039;0
+Archer ARC-2W;Inner Sphere;Heavy Mech;Late Succession War - LosTech (2901 - 3019);Archer;Missile Boat;3039;0
+Assassin "Servitor";Inner Sphere;Medium Mech;Civil War (3062 - 3067);Assassin;Striker;3050;0
+Assassin ASN-101;Inner Sphere;Medium Mech;Late Succession War - Renaissance (3020 - 3049);Assassin;Scout;3039;0
+Assassin ASN-21;Inner Sphere;Medium Mech;Star League (2571 - 2780);Assassin;Scout;3039;1
+Assassin ASN-23;Inner Sphere;Medium Mech;Clan Invasion (3050 - 3061);Assassin;Striker;3050;0
+Assassin ASN-30;Inner Sphere;Medium Mech;Civil War (3062 - 3067);Assassin;Scout;3050;0
+Assassin ASN-99;Inner Sphere;Medium Mech;Jihad (3068 - 3080);Assassin;Scout;3050;0
+Atlas AS7-C;Inner Sphere;Assault Mech;Clan Invasion (3050 - 3061);Atlas;Sniper;3050;0
+Atlas AS7-CM;Inner Sphere;Assault Mech;Clan Invasion (3050 - 3061);Atlas;Sniper;3050;0
+Atlas AS7-D-DC;Inner Sphere;Assault Mech;Star League (2571 - 2780);Atlas;Juggernaut;3039;0
+Atlas AS7-D;Inner Sphere;Assault Mech;Star League (2571 - 2780);Atlas;Juggernaut;3039;1
+Atlas AS7-K-DC;Inner Sphere;Assault Mech;Clan Invasion (3050 - 3061);Atlas;Sniper;3050;0
+Atlas AS7-K;Inner Sphere;Assault Mech;Clan Invasion (3050 - 3061);Atlas;Sniper;3050;0
+Atlas AS7-RS;Inner Sphere;Assault Mech;Early Succession War (2781 - 2900);Atlas;Juggernaut;3039;0
+Atlas AS7-S2;Inner Sphere;Assault Mech;Clan Invasion (3050 - 3061);Atlas;Sniper;3050;0
+Atlas AS7-S3;Inner Sphere;Assault Mech;Civil War (3062 - 3067);Atlas;Sniper;3050;0
+Atlas AS7-S;Inner Sphere;Assault Mech;Clan Invasion (3050 - 3061);Atlas;Juggernaut;3050;0
+Atlas C;Mixed;Assault Mech;Early Succession War (2781 - 2900);Atlas;Juggernaut;3050;0
+Avatar AV1-O;Inner Sphere;Heavy Mech;Clan Invasion (3050 - 3061);Avatar;Brawler;3058;0
+Avatar AV1-OA;Inner Sphere;Heavy Mech;Clan Invasion (3050 - 3061);Avatar;Brawler;3058;0
+Avatar AV1-OB;Inner Sphere;Heavy Mech;Clan Invasion (3050 - 3061);Avatar;Missile Boat;3058;0
+Avatar AV1-OC;Inner Sphere;Heavy Mech;Clan Invasion (3050 - 3061);Avatar;Sniper;3058;0
+Avatar AV1-OD;Inner Sphere;Heavy Mech;Clan Invasion (3050 - 3061);Avatar;Brawler;3058;0
+Avatar AV1-OE;Inner Sphere;Heavy Mech;Civil War (3062 - 3067);Avatar;Brawler;3058;0
+Avatar AV1-OF;Inner Sphere;Heavy Mech;Civil War (3062 - 3067);Avatar;Brawler;3058;0
+Avatar AV1-OG;Inner Sphere;Heavy Mech;Clan Invasion (3050 - 3061);Avatar;Sniper;3058;0
+Avatar AV1-OH;Inner Sphere;Heavy Mech;Jihad (3068 - 3080);Avatar;Sniper;3058;0
+Avatar AV1-OI;Inner Sphere;Heavy Mech;Jihad (3068 - 3080);Avatar;Missile Boat;3058;0
+Avatar AV1-OR;Mixed;Heavy Mech;Clan Invasion (3050 - 3061);Avatar;Brawler;3058;0
+Awesome AWS-10KM;Inner Sphere;Assault Mech;Jihad (3068 - 3080);Awesome;Juggernaut;3050;0
+Awesome AWS-8Q;Inner Sphere;Assault Mech;Star League (2571 - 2780);Awesome;Sniper;3039;1
+Awesome AWS-8R;Inner Sphere;Assault Mech;Star League (2571 - 2780);Awesome;Missile Boat;3039;0
+Awesome AWS-8T;Inner Sphere;Assault Mech;Early Succession War (2781 - 2900);Awesome;Missile Boat;3039;0
+Awesome AWS-8V;Inner Sphere;Assault Mech;Late Succession War - LosTech (2901 - 3019);Awesome;Sniper;3039;0
+Awesome AWS-9M;Inner Sphere;Assault Mech;Clan Invasion (3050 - 3061);Awesome;Brawler;3050;0
+Awesome AWS-9Ma;Inner Sphere;Assault Mech;Clan Invasion (3050 - 3061);Awesome;Sniper;3050;0
+Awesome AWS-9Q Klatt;Inner Sphere;Assault Mech;Jihad (3068 - 3080);Awesome;Sniper;3050;0
+Awesome AWS-9Q;Inner Sphere;Assault Mech;Clan Invasion (3050 - 3061);Awesome;Sniper;3050;0
+Axel IIC Tank (XL);Clan;Heavy Vehicle;Jihad (3068 - 3080);Patton/Rommel;Brawler;3058;0
+Axel IIC Tank;Clan;Heavy Vehicle;Jihad (3068 - 3080);Patton/Rommel;Brawler;3058;0
+Axel Mk 1;Inner Sphere;Heavy Vehicle;Late Succession War - Renaissance (3020 - 3049);Patton/Rommel;Juggernaut;3039;0
+Axel Mk 2;Inner Sphere;Heavy Vehicle;Late Succession War - Renaissance (3020 - 3049);Patton/Rommel;Juggernaut;3039;0
+Axman AXM-1N;Inner Sphere;Heavy Mech;Late Succession War - Renaissance (3020 - 3049);Axman;Skirmisher;3050;0
+Axman AXM-2N;Inner Sphere;Heavy Mech;Clan Invasion (3050 - 3061);Axman;Skirmisher;3050;0
+Axman AXM-3S;Inner Sphere;Heavy Mech;Clan Invasion (3050 - 3061);Axman;Skirmisher;3050;0
+Axman AXM-4D;Inner Sphere;Heavy Mech;Jihad (3068 - 3080);Axman;Brawler;3050;0
+Badger (C) Tracked Transport A;Clan;Light Vehicle;Early Succession War (2781 - 2900);Badger;Striker;3058;0
+Badger (C) Tracked Transport B;Clan;Light Vehicle;Early Succession War (2781 - 2900);Badger;Scout;3058;0
+Badger (C) Tracked Transport C;Clan;Light Vehicle;Early Succession War (2781 - 2900);Badger;Scout;3058;0
+Badger (C) Tracked Transport D;Clan;Light Vehicle;Early Succession War (2781 - 2900);Badger;Scout;3058;0
+Badger (C) Tracked Transport E;Clan;Light Vehicle;Civil War (3062 - 3067);Badger;Scout;3058;0
+Badger (C) Tracked Transport F;Clan;Light Vehicle;Jihad (3068 - 3080);Badger;Scout;3058;0
+Badger (C) Tracked Transport H;Clan;Light Vehicle;Civil War (3062 - 3067);Badger;Striker;3058;0
+Badger (C) Tracked Transport Prime;Clan;Light Vehicle;Early Succession War (2781 - 2900);Badger;Striker;3058;0
+Badger Tracked Transport A;Inner Sphere;Light Vehicle;Late Succession War - LosTech (2901 - 3019);Badger;Striker;3058;0
+Badger Tracked Transport B;Inner Sphere;Light Vehicle;Late Succession War - LosTech (2901 - 3019);Badger;Scout;3058;0
+Badger Tracked Transport C;Inner Sphere;Light Vehicle;Late Succession War - LosTech (2901 - 3019);Badger;Missile Boat;3058;0
+Badger Tracked Transport D;Inner Sphere;Light Vehicle;Late Succession War - LosTech (2901 - 3019);Badger;Striker;3058;0
+Badger Tracked Transport E;Inner Sphere;Light Vehicle;Late Succession War - LosTech (2901 - 3019);Badger;Scout;3058;0
+Badger Tracked Transport F;Inner Sphere;Light Vehicle;Clan Invasion (3050 - 3061);Badger;Scout;3058;0
+Badger Tracked Transport G;Inner Sphere;Light Vehicle;Jihad (3068 - 3080);Badger;Sniper;3058;0
+Badger Tracked Transport Prime;Inner Sphere;Light Vehicle;Late Succession War - LosTech (2901 - 3019);Badger;Striker;3058;0
+Bandit (C) Hovercraft A;Clan;Medium Vehicle;Early Succession War (2781 - 2900);Bandit;Striker;3058;0
+Bandit (C) Hovercraft B;Clan;Medium Vehicle;Early Succession War (2781 - 2900);Bandit;Missile Boat;3058;0
+Bandit (C) Hovercraft C;Clan;Medium Vehicle;Early Succession War (2781 - 2900);Bandit;Striker;3058;0
+Bandit (C) Hovercraft D;Clan;Medium Vehicle;Early Succession War (2781 - 2900);Bandit;Striker;3058;0
+Bandit (C) Hovercraft E;Clan;Medium Vehicle;Civil War (3062 - 3067);Bandit;Striker;3058;0
+Bandit (C) Hovercraft F;Clan;Medium Vehicle;Jihad (3068 - 3080);Bandit;Striker;3058;0
+Bandit (C) Hovercraft G;Clan;Medium Vehicle;Jihad (3068 - 3080);Bandit;Scout;3058;0
+Bandit (C) Hovercraft H;Clan;Medium Vehicle;Civil War (3062 - 3067);Bandit;Striker;3058;0
+Bandit (C) Hovercraft Prime;Clan;Medium Vehicle;Early Succession War (2781 - 2900);Bandit;Striker;3058;0
+Bandit Hovercraft A;Inner Sphere;Medium Vehicle;Late Succession War - LosTech (2901 - 3019);Bandit;Scout;3058;0
+Bandit Hovercraft B;Inner Sphere;Medium Vehicle;Late Succession War - LosTech (2901 - 3019);Bandit;Striker;3058;0
+Bandit Hovercraft C;Inner Sphere;Medium Vehicle;Late Succession War - LosTech (2901 - 3019);Bandit;Striker;3058;0
+Bandit Hovercraft D;Inner Sphere;Medium Vehicle;Late Succession War - LosTech (2901 - 3019);Bandit;Missile Boat;3058;0
+Bandit Hovercraft E;Inner Sphere;Medium Vehicle;Late Succession War - LosTech (2901 - 3019);Bandit;Missile Boat;3058;0
+Bandit Hovercraft F;Inner Sphere;Medium Vehicle;Late Succession War - LosTech (2901 - 3019);Bandit;Striker;3058;0
+Bandit Hovercraft G;Inner Sphere;Medium Vehicle;Late Succession War - LosTech (2901 - 3019);Bandit;Striker;3058;0
+Bandit Hovercraft H;Inner Sphere;Medium Vehicle;Clan Invasion (3050 - 3061);Bandit;Skirmisher;3058;0
+Bandit Hovercraft I;Inner Sphere;Medium Vehicle;Jihad (3068 - 3080);Bandit;Striker;3058;0
+Bandit Hovercraft Prime;Inner Sphere;Medium Vehicle;Late Succession War - LosTech (2901 - 3019);Bandit;Striker;3058;0
+Banshee BNC-3E;Inner Sphere;Assault Mech;Age of War (2005 - 2570);Banshee;Sniper;3039;1
+Banshee BNC-3M;Inner Sphere;Assault Mech;Star League (2571 - 2780);Banshee;Brawler;3039;0
+Banshee BNC-3MC;Inner Sphere;Assault Mech;Late Succession War - Renaissance (3020 - 3049);Banshee;Brawler;3039;0
+Banshee BNC-3Q;Inner Sphere;Assault Mech;Late Succession War - LosTech (2901 - 3019);Banshee;Juggernaut;3039;0
+Banshee BNC-3S Reinesblatt;Inner Sphere;Assault Mech;Late Succession War - Renaissance (3020 - 3049);Banshee;Juggernaut;3039;0
+Banshee BNC-3S;Inner Sphere;Assault Mech;Late Succession War - Renaissance (3020 - 3049);Banshee;Juggernaut;3039;0
+Banshee BNC-5S Sawyer;Inner Sphere;Assault Mech;Clan Invasion (3050 - 3061);Banshee;Sniper;3050;0
+Banshee BNC-5S Vandergriff;Inner Sphere;Assault Mech;Civil War (3062 - 3067);Banshee;Skirmisher;3050;0
+Banshee BNC-5S;Inner Sphere;Assault Mech;Clan Invasion (3050 - 3061);Banshee;Sniper;3050;0
+Banshee BNC-6S;Inner Sphere;Assault Mech;Civil War (3062 - 3067);Banshee;Brawler;3050;0
+Banshee BNC-7S;Inner Sphere;Assault Mech;Civil War (3062 - 3067);Banshee;Brawler;3050;0
+Banshee BNC-8S;Inner Sphere;Assault Mech;Jihad (3068 - 3080);Banshee;Brawler;3050;0
+Banshee BNC-9S;Inner Sphere;Assault Mech;Jihad (3068 - 3080);Banshee;Juggernaut;3050;0
+Battle Cobra A;Clan;Medium Mech;Early Succession War (2781 - 2900);Battle Cobra;Striker;3058;0
+Battle Cobra B;Clan;Medium Mech;Early Succession War (2781 - 2900);Battle Cobra;Sniper;3058;0
+Battle Cobra BTL-C-20;Inner Sphere;Medium Mech;Civil War (3062 - 3067);Battle Cobra;Brawler;3058;0
+Battle Cobra BTL-C-20A;Inner Sphere;Medium Mech;Civil War (3062 - 3067);Battle Cobra;Brawler;3058;0
+Battle Cobra BTL-C-20B;Inner Sphere;Medium Mech;Civil War (3062 - 3067);Battle Cobra;Brawler;3058;0
+Battle Cobra BTL-C-20C;Inner Sphere;Medium Mech;Civil War (3062 - 3067);Battle Cobra;Scout;3058;0
+Battle Cobra BTL-C-20D;Inner Sphere;Medium Mech;Jihad (3068 - 3080);Battle Cobra;Sniper;3058;0
+Battle Cobra BTL-C-20E;Inner Sphere;Medium Mech;Jihad (3068 - 3080);Battle Cobra;Missile Boat;3058;0
+Battle Cobra BTL-C-20F;Inner Sphere;Medium Mech;Jihad (3068 - 3080);Battle Cobra;Brawler;3058;0
+Battle Cobra C;Clan;Medium Mech;Civil War (3062 - 3067);Battle Cobra;Striker;3058;0
+Battle Cobra F;Clan;Medium Mech;Clan Invasion (3050 - 3061);Battle Cobra;Striker;3058;0
+Battle Cobra H;Clan;Medium Mech;Clan Invasion (3050 - 3061);Battle Cobra;Striker;3058;0
+Battle Cobra Prime;Clan;Medium Mech;Early Succession War (2781 - 2900);Battle Cobra;Sniper;3058;0
+Battle Cobra X;Clan;Medium Mech;Jihad (3068 - 3080);Battle Cobra;Striker;3058;0
+BattleMaster BLR-1D;Inner Sphere;Assault Mech;Early Succession War (2781 - 2900);Battlemaster;Brawler;3039;0
+BattleMaster BLR-1G-DC;Inner Sphere;Assault Mech;Star League (2571 - 2780);Battlemaster;Brawler;3039;0
+BattleMaster BLR-1G;Inner Sphere;Assault Mech;Star League (2571 - 2780);Battlemaster;Brawler;3039;0
+BattleMaster BLR-1S;Inner Sphere;Assault Mech;Late Succession War - Renaissance (3020 - 3049);Battlemaster;Brawler;3039;0
+Beagle Hover Scout (C3i);Inner Sphere;Light Vehicle;Jihad (3068 - 3080);Beagle;Scout;3050;0
+Beagle Hover Scout (TAG);Inner Sphere;Light Vehicle;Jihad (3068 - 3080);Beagle;Scout;3050;0
+Beagle Hover Scout;Inner Sphere;Light Vehicle;Star League (2571 - 2780);Beagle;Scout;3050;0
+Behemoth Heavy Tank (Armor);Inner Sphere;Assault Vehicle;Late Succession War - LosTech (2901 - 3019);Behemoth Heavy Tank;Juggernaut;3039;0
+Behemoth Heavy Tank (Flamer);Inner Sphere;Assault Vehicle;Late Succession War - LosTech (2901 - 3019);Behemoth Heavy Tank;Juggernaut;3039;0
+Behemoth Heavy Tank (Kurita);Inner Sphere;Assault Vehicle;Civil War (3062 - 3067);Behemoth Heavy Tank;Juggernaut;3039;0
+Behemoth Heavy Tank;Inner Sphere;Assault Vehicle;Late Succession War - LosTech (2901 - 3019);Behemoth Heavy Tank;Juggernaut;3039;0
+Black Hawk (Nova) A;Clan;Medium Mech;Early Succession War (2781 - 2900);Black Hawk;Sniper;3050;0
+Black Hawk (Nova) B;Clan;Medium Mech;Early Succession War (2781 - 2900);Black Hawk;Sniper;3050;0
+Black Hawk (Nova) C;Clan;Medium Mech;Early Succession War (2781 - 2900);Black Hawk;Sniper;3050;0
+Black Hawk (Nova) D;Clan;Medium Mech;Early Succession War (2781 - 2900);Black Hawk;Missile Boat;3050;0
+Black Hawk (Nova) E;Clan;Medium Mech;Clan Invasion (3050 - 3061);Black Hawk;Skirmisher;3050;0
+Black Hawk (Nova) F;Clan;Medium Mech;Jihad (3068 - 3080);Black Hawk;Skirmisher;3050;0
+Black Hawk (Nova) H;Clan;Medium Mech;Clan Invasion (3050 - 3061);Black Hawk;Skirmisher;3050;0
+Black Hawk (Nova) Prime;Clan;Medium Mech;Early Succession War (2781 - 2900);Black Hawk;Skirmisher;3050;1
+Black Hawk (Nova) S;Clan;Medium Mech;Clan Invasion (3050 - 3061);Black Hawk;Skirmisher;3050;0
+Black Hawk-KU BHKU-O;Inner Sphere;Medium Mech;Clan Invasion (3050 - 3061);Black Hawk-KU;Skirmisher;3058;0
+Black Hawk-KU BHKU-OA;Inner Sphere;Medium Mech;Clan Invasion (3050 - 3061);Black Hawk-KU;Sniper;3058;0
+Black Hawk-KU BHKU-OB;Inner Sphere;Medium Mech;Clan Invasion (3050 - 3061);Black Hawk-KU;Skirmisher;3058;0
+Black Hawk-KU BHKU-OC;Inner Sphere;Medium Mech;Clan Invasion (3050 - 3061);Black Hawk-KU;Sniper;3058;0
+Black Hawk-KU BHKU-OD;Inner Sphere;Medium Mech;Clan Invasion (3050 - 3061);Black Hawk-KU;Missile Boat;3058;0
+Black Hawk-KU BHKU-OE;Inner Sphere;Medium Mech;Civil War (3062 - 3067);Black Hawk-KU;Skirmisher;3058;0
+Black Hawk-KU BHKU-OF;Inner Sphere;Medium Mech;Jihad (3068 - 3080);Black Hawk-KU;Sniper;3058;0
+Black Hawk-KU BHKU-OR;Inner Sphere;Medium Mech;Clan Invasion (3050 - 3061);Black Hawk-KU;Skirmisher;3058;0
+Black Hawk-KU BHKU-OX;Inner Sphere;Medium Mech;Clan Invasion (3050 - 3061);Black Hawk-KU;Skirmisher;3058;0
+Black Knight BL-12-KNT;Inner Sphere;Heavy Mech;Civil War (3062 - 3067);Black Knight;Brawler;3050;0
+Black Knight BL-6-KNT;Inner Sphere;Heavy Mech;Star League (2571 - 2780);Black Knight;Brawler;3050;0
+Black Knight BL-6-RR;Mixed;Heavy Mech;Clan Invasion (3050 - 3061);Black Knight;Brawler;3050;0
+Black Knight BL-6b-KNT;Inner Sphere;Heavy Mech;Star League (2571 - 2780);Black Knight;Brawler;3050;0
+Black Knight BL-7-KNT-L;Inner Sphere;Heavy Mech;Early Succession War (2781 - 2900);Black Knight;Brawler;3039;0
+Black Knight BL-7-KNT;Inner Sphere;Heavy Mech;Early Succession War (2781 - 2900);Black Knight;Brawler;3039;0
+Black Knight BL-9-KNT;Inner Sphere;Heavy Mech;Clan Invasion (3050 - 3061);Black Knight;Brawler;3050;0
+Black Lanner A;Clan;Medium Mech;Clan Invasion (3050 - 3061);Black Lanner;Skirmisher;3058;0
+Black Lanner B;Clan;Medium Mech;Clan Invasion (3050 - 3061);Black Lanner;Missile Boat;3058;0
+Black Lanner C;Clan;Medium Mech;Clan Invasion (3050 - 3061);Black Lanner;Skirmisher;3058;0
+Black Lanner D;Clan;Medium Mech;Clan Invasion (3050 - 3061);Black Lanner;Skirmisher;3058;0
+Black Lanner E;Clan;Medium Mech;Civil War (3062 - 3067);Black Lanner;Skirmisher;3058;0
+Black Lanner H;Clan;Medium Mech;Clan Invasion (3050 - 3061);Black Lanner;Skirmisher;3058;0
+Black Lanner Prime;Clan;Medium Mech;Clan Invasion (3050 - 3061);Black Lanner;Skirmisher;3058;0
+Black Lanner X;Clan;Medium Mech;Jihad (3068 - 3080);Black Lanner;Skirmisher;3058;0
+Blackjack BJ-1;Inner Sphere;Medium Mech;Star League (2571 - 2780);Blackjack;Sniper;3039;0
+Blackjack BJ-1DB;Inner Sphere;Medium Mech;Late Succession War - Renaissance (3020 - 3049);Blackjack;Brawler;3039;0
+Blackjack BJ-1DC;Inner Sphere;Medium Mech;Late Succession War - Renaissance (3020 - 3049);Blackjack;Brawler;3039;0
+Blackjack BJ-1X;Inner Sphere;Medium Mech;Star League (2571 - 2780);Blackjack;Skirmisher;3039;0
+Blackjack BJ-2;Inner Sphere;Medium Mech;Clan Invasion (3050 - 3061);Blackjack;Sniper;3050;0
+Blackjack BJ-3;Inner Sphere;Medium Mech;Late Succession War - Renaissance (3020 - 3049);Blackjack;Brawler;3050;0
+Blackjack BJ-4;Inner Sphere;Medium Mech;Civil War (3062 - 3067);Blackjack;Brawler;3050;0
+Blackjack BJ2-0;Inner Sphere;Medium Mech;Clan Invasion (3050 - 3061);Blackjack 2;Brawler;3058;0
+Blackjack BJ2-0A;Inner Sphere;Medium Mech;Clan Invasion (3050 - 3061);Blackjack 2;Missile Boat;3058;0
+Blackjack BJ2-0B;Inner Sphere;Medium Mech;Clan Invasion (3050 - 3061);Blackjack 2;Sniper;3058;0
+Blackjack BJ2-0C;Inner Sphere;Medium Mech;Clan Invasion (3050 - 3061);Blackjack 2;Brawler;3058;0
+Blackjack BJ2-0D;Inner Sphere;Medium Mech;Clan Invasion (3050 - 3061);Blackjack 2;Brawler;3058;0
+Blackjack BJ2-0E;Inner Sphere;Medium Mech;Clan Invasion (3050 - 3061);Blackjack 2;Sniper;3058;0
+Blackjack BJ2-0F;Inner Sphere;Medium Mech;Clan Invasion (3050 - 3061);Blackjack 2;Sniper;3058;0
+Blackjack BJ2-0R;Mixed;Medium Mech;Clan Invasion (3050 - 3061);Blackjack 2;Brawler;3058;0
+Blackjack BJ2-0X;Inner Sphere;Medium Mech;Jihad (3068 - 3080);Blackjack 2;Brawler;3058;0
+Blizzard Hover Transport "Black Blizzard";Inner Sphere;Light Vehicle;Civil War (3062 - 3067);Blizzard;Striker;3058;0
+Blizzard Hover Transport (SRM);Inner Sphere;Light Vehicle;Civil War (3062 - 3067);Blizzard;Scout;3058;0
+Blizzard Hover Transport;Inner Sphere;Light Vehicle;Clan Invasion (3050 - 3061);Blizzard;Scout;3058;0
+Boeing Jump Bomber;Inner Sphere;Conventional Fighter;Late Succession War - Renaissance (3020 - 3049);Boeing Jump Bomber;None;3039;0
+Bombardier BMB-05A;Inner Sphere;Heavy Mech;Jihad (3068 - 3080);Bombardier;Missile Boat;3050;0
+Bombardier BMB-10D;Inner Sphere;Heavy Mech;Early Succession War (2781 - 2900);Bombardier;Missile Boat;3039;0
+Bombardier BMB-12D;Inner Sphere;Heavy Mech;Star League (2571 - 2780);Bombardier;Missile Boat;3050;0
+Bombardier BMB-14C;Inner Sphere;Heavy Mech;Civil War (3062 - 3067);Bombardier;Missile Boat;3050;0
+Bombardier BMB-14K;Inner Sphere;Heavy Mech;Jihad (3068 - 3080);Bombardier;Missile Boat;3050;0
+Boomerang Spotter Plane;Inner Sphere;Conventional Fighter;Early Succession War (2781 - 2900);Boomerang;Attack;3039;0
+Brutus Assault Tank (LRM);Inner Sphere;Heavy Vehicle;Late Succession War - LosTech (2901 - 3019);Brutus;Missile Boat;3058;0
+Brutus Assault Tank (PPC 2);Inner Sphere;Heavy Vehicle;Late Succession War - LosTech (2901 - 3019);Brutus;Juggernaut;3058;0
+Brutus Assault Tank (PPC);Inner Sphere;Heavy Vehicle;Late Succession War - LosTech (2901 - 3019);Brutus;Juggernaut;3058;0
+Brutus Assault Tank;Inner Sphere;Heavy Vehicle;Late Succession War - LosTech (2901 - 3019);Brutus;Juggernaut;3058;0
+Bulldog Medium Tank (AC2);Inner Sphere;Heavy Vehicle;Early Succession War (2781 - 2900);Bulldog;Brawler;3039;0
+Bulldog Medium Tank (LRM);Inner Sphere;Heavy Vehicle;Early Succession War (2781 - 2900);Bulldog;Missile Boat;3039;0
+Bulldog Medium Tank;Inner Sphere;Heavy Vehicle;Star League (2571 - 2780);Bulldog;Brawler;3039;0
+Burke Defense Tank (HPPC);Inner Sphere;Heavy Vehicle;Jihad (3068 - 3080);Burke;Sniper;3050;0
+Burke Defense Tank;Inner Sphere;Heavy Vehicle;Star League (2571 - 2780);Burke;Sniper;3050;0
+Bushwacker BSW-L1;Inner Sphere;Medium Mech;Civil War (3062 - 3067);Bushwacker;Skirmisher;3058;0
+Bushwacker BSW-S2;Inner Sphere;Medium Mech;Clan Invasion (3050 - 3061);Bushwacker;Sniper;3058;0
+Bushwacker BSW-X1;Inner Sphere;Medium Mech;Clan Invasion (3050 - 3061);Bushwacker;Skirmisher;3058;0
+Bushwacker BSW-X2;Inner Sphere;Medium Mech;Clan Invasion (3050 - 3061);Bushwacker;Skirmisher;3058;0
+Caesar CES-3R "Archangel";Mixed;Heavy Mech;Clan Invasion (3050 - 3061);Caesar;Brawler;3050;0
+Caesar CES-3R "Gertrude";Inner Sphere;Heavy Mech;Civil War (3062 - 3067);Caesar;Brawler;3050;0
+Caesar CES-3R;Inner Sphere;Heavy Mech;Clan Invasion (3050 - 3061);Caesar;Brawler;3050;0
+Caesar CES-3S;Inner Sphere;Heavy Mech;Civil War (3062 - 3067);Caesar;Brawler;3050;0
+Caesar CES-4R;Inner Sphere;Heavy Mech;Civil War (3062 - 3067);Caesar;Skirmisher;3050;0
+Caesar CES-4S;Inner Sphere;Heavy Mech;Civil War (3062 - 3067);Caesar;Brawler;3050;0
+Cataphract CTF-1X;Inner Sphere;Heavy Mech;Late Succession War - Renaissance (3020 - 3049);Cataphract;Brawler;3039;0
+Cataphract CTF-2X;Inner Sphere;Heavy Mech;Late Succession War - Renaissance (3020 - 3049);Cataphract;Brawler;3039;0
+Cataphract CTF-3D;Inner Sphere;Heavy Mech;Clan Invasion (3050 - 3061);Cataphract;Sniper;3050;0
+Cataphract CTF-3L;Inner Sphere;Heavy Mech;Clan Invasion (3050 - 3061);Cataphract;Sniper;3050;0
+Cataphract CTF-3LL;Inner Sphere;Heavy Mech;Jihad (3068 - 3080);Cataphract;Skirmisher;3050;0
+Cataphract CTF-4L;Inner Sphere;Heavy Mech;Civil War (3062 - 3067);Cataphract;Sniper;3050;0
+Cataphract CTF-4X;Inner Sphere;Heavy Mech;Late Succession War - Renaissance (3020 - 3049);Cataphract;Sniper;3050;0
+Cataphract CTF-5D;Inner Sphere;Heavy Mech;Jihad (3068 - 3080);Cataphract;Skirmisher;3050;0
+Catapult CPLT-A1;Inner Sphere;Heavy Mech;Age of War (2005 - 2570);Catapult;Missile Boat;3039;0
+Catapult CPLT-C1;Inner Sphere;Heavy Mech;Age of War (2005 - 2570);Catapult;Missile Boat;3039;1
+Catapult CPLT-C1b;Inner Sphere;Heavy Mech;Star League (2571 - 2780);Catapult;Missile Boat;3039;0
+Catapult CPLT-C2;Inner Sphere;Heavy Mech;Civil War (3062 - 3067);Catapult;Missile Boat;3050;0
+Catapult CPLT-C3;Inner Sphere;Heavy Mech;Clan Invasion (3050 - 3061);Catapult;Missile Boat;3050;0
+Catapult CPLT-C4;Inner Sphere;Heavy Mech;Age of War (2005 - 2570);Catapult;Missile Boat;3039;0
+Catapult CPLT-C4C;Inner Sphere;Heavy Mech;Clan Invasion (3050 - 3061);Catapult;Missile Boat;3050;0
+Catapult CPLT-C5;Inner Sphere;Heavy Mech;Clan Invasion (3050 - 3061);Catapult;Missile Boat;3050;0
+Catapult CPLT-C6;Inner Sphere;Heavy Mech;Jihad (3068 - 3080);Catapult;Skirmisher;3050;0
+Catapult CPLT-H2;Inner Sphere;Heavy Mech;Civil War (3062 - 3067);Catapult;Skirmisher;3050;0
+Catapult CPLT-K2;Inner Sphere;Heavy Mech;Star League (2571 - 2780);Catapult;Sniper;3039;0
+Catapult CPLT-K2K;Inner Sphere;Heavy Mech;Clan Invasion (3050 - 3061);Catapult;Sniper;3050;0
+Catapult CPLT-K3;Inner Sphere;Heavy Mech;Late Succession War - Renaissance (3020 - 3049);Catapult;Sniper;3050;0
+Catapult CPLT-K4;Inner Sphere;Heavy Mech;Jihad (3068 - 3080);Catapult;Sniper;3050;0
+Catapult CPLT-K5;Inner Sphere;Heavy Mech;Clan Invasion (3050 - 3061);Catapult;Skirmisher;3050;0
+Catapult CPLT-K6;Inner Sphere;Heavy Mech;Dark Age (3131 - 3150);Catapult;Missile Boat;ilClan Vol. 5;0
+Catapult Jenny;Inner Sphere;Heavy Mech;Late Succession War - Renaissance (3020 - 3049);Catapult;Skirmisher;3039;0
+Cauldron-Born (Ebon Jaguar) A;Clan;Heavy Mech;Clan Invasion (3050 - 3061);Cauldron-Born;Skirmisher;3058;0
+Cauldron-Born (Ebon Jaguar) B;Clan;Heavy Mech;Clan Invasion (3050 - 3061);Cauldron-Born;Sniper;3058;0
+Cauldron-Born (Ebon Jaguar) C;Clan;Heavy Mech;Clan Invasion (3050 - 3061);Cauldron-Born;Missile Boat;3058;0
+Cauldron-Born (Ebon Jaguar) D;Clan;Heavy Mech;Clan Invasion (3050 - 3061);Cauldron-Born;Skirmisher;3058;0
+Cauldron-Born (Ebon Jaguar) E;Clan;Heavy Mech;Jihad (3068 - 3080);Cauldron-Born;Skirmisher;3058;0
+Cauldron-Born (Ebon Jaguar) H;Clan;Heavy Mech;Civil War (3062 - 3067);Cauldron-Born;Skirmisher;3058;0
+Cauldron-Born (Ebon Jaguar) Prime;Clan;Heavy Mech;Clan Invasion (3050 - 3061);Cauldron-Born;Skirmisher;3058;0
+Cauldron-Born (Ebon Jaguar) X;Clan;Heavy Mech;Jihad (3068 - 3080);Cauldron-Born;Skirmisher;3058;0
+Cavalier (Flamer);Inner Sphere;Medium Battle Armor;Clan Invasion (3050 - 3061);Cavalier;Ambusher;3058;0
+Cavalier (Laser);Inner Sphere;Medium Battle Armor;Clan Invasion (3050 - 3061);Cavalier;Ambusher;3058;0
+Cavalier (MG);Inner Sphere;Medium Battle Armor;Clan Invasion (3050 - 3061);Cavalier;Ambusher;3058;0
+Cavalier (SRM);Inner Sphere;Medium Battle Armor;Clan Invasion (3050 - 3061);Cavalier;Ambusher;3058;0
+Cavalry Attack Helicopter (Infantry);Inner Sphere;Light Vehicle;Civil War (3062 - 3067);Cavalry;Striker;3058;0
+Cavalry Attack Helicopter (LRM);Inner Sphere;Light Vehicle;Clan Invasion (3050 - 3061);Cavalry;Missile Boat;3058;0
+Cavalry Attack Helicopter (SRM);Inner Sphere;Light Vehicle;Clan Invasion (3050 - 3061);Cavalry;Striker;3058;0
+Cavalry Attack Helicopter (TAG);Inner Sphere;Light Vehicle;Clan Invasion (3050 - 3061);Cavalry;Missile Boat;3058;0
+Cavalry Attack Helicopter;Inner Sphere;Light Vehicle;Clan Invasion (3050 - 3061);Cavalry;Striker;3058;0
+Centipede Scout Car (SRM);Inner Sphere;Light Vehicle;Civil War (3062 - 3067);Centipede;Scout;3058;0
+Centipede Scout Car (TAG);Inner Sphere;Light Vehicle;Civil War (3062 - 3067);Centipede;Scout;3058;0
+Centipede Scout Car;Inner Sphere;Light Vehicle;Clan Invasion (3050 - 3061);Centipede;Scout;3058;0
+Centurion CN10-B;Inner Sphere;Medium Mech;Clan Invasion (3050 - 3061);Centurion;Brawler;3050;0
+Centurion CN9-A;Inner Sphere;Medium Mech;Early Succession War (2781 - 2900);Centurion;Brawler;3039;0
+Centurion CN9-AL;Inner Sphere;Medium Mech;Late Succession War - LosTech (2901 - 3019);Centurion;Brawler;3039;0
+Centurion CN9-D3;Inner Sphere;Medium Mech;Clan Invasion (3050 - 3061);Centurion;Skirmisher;3050;0
+Centurion CN9-D3D;Inner Sphere;Medium Mech;Clan Invasion (3050 - 3061);Centurion;Skirmisher;3050;0
+Centurion CN9-D4D;Inner Sphere;Medium Mech;Civil War (3062 - 3067);Centurion;Skirmisher;3050;0
+Centurion CN9-D5;Inner Sphere;Medium Mech;Civil War (3062 - 3067);Centurion;Skirmisher;3050;0
+Centurion CN9-D9;Inner Sphere;Medium Mech;Jihad (3068 - 3080);Centurion;Skirmisher;3050;0
+Centurion CN9-D;Inner Sphere;Medium Mech;Clan Invasion (3050 - 3061);Centurion;Skirmisher;3050;0
+Centurion CN9-YLW "Yen Lo Wang";Inner Sphere;Medium Mech;Late Succession War - Renaissance (3020 - 3049);Centurion;Juggernaut;3039;0
+Centurion CN9-YLW2 "Yen Lo Wang";Inner Sphere;Medium Mech;Clan Invasion (3050 - 3061);Centurion;Skirmisher;3050;0
+Cestus CTS-6X;Inner Sphere;Heavy Mech;Star League (2571 - 2780);Cestus;Brawler;3058;0
+Cestus CTS-6Y;Inner Sphere;Heavy Mech;Star League (2571 - 2780);Cestus;Brawler;3058;0
+Cestus CTS-6Z;Inner Sphere;Heavy Mech;Clan Invasion (3050 - 3061);Cestus;Brawler;3058;0
+Cestus CTS-7A;Inner Sphere;Heavy Mech;Jihad (3068 - 3080);Cestus;Brawler;3058;0
+Challenger X MBT;Inner Sphere;Assault Vehicle;Clan Invasion (3050 - 3061);Challenger MBT;Juggernaut;3058;0
+Challenger XI MBT;Inner Sphere;Assault Vehicle;Civil War (3062 - 3067);Challenger MBT;Sniper;3058;0
+Challenger XII MBT;Inner Sphere;Assault Vehicle;Civil War (3062 - 3067);Challenger MBT;Juggernaut;3058;0
+Chameleon CLN-7V;Inner Sphere;Medium Mech;Clan Invasion (3050 - 3061);Chameleon;Scout;3058;0
+Chameleon CLN-7W;Inner Sphere;Medium Mech;Clan Invasion (3050 - 3061);Chameleon;Striker;3058;0
+Chameleon CLN-7Z;Inner Sphere;Medium Mech;Clan Invasion (3050 - 3061);Chameleon;Striker;3058;0
+Chameleon TRC-4B;Inner Sphere;Medium Mech;Age of War (2005 - 2570);Chameleon;Scout;3058;0
+Champion C;Clan;Heavy Mech;Early Succession War (2781 - 2900);Champion;Skirmisher;3050;0
+Champion CHP-1N2;Inner Sphere;Heavy Mech;Star League (2571 - 2780);Champion;Skirmisher;3039;0
+Champion CHP-1N;Inner Sphere;Heavy Mech;Star League (2571 - 2780);Champion;Skirmisher;3050;0
+Champion CHP-2N;Inner Sphere;Heavy Mech;Early Succession War (2781 - 2900);Champion;Skirmisher;3039;0
+Champion CHP-3N;Inner Sphere;Heavy Mech;Clan Invasion (3050 - 3061);Champion;Skirmisher;3050;0
+Champion CHP-3P;Inner Sphere;Heavy Mech;Clan Invasion (3050 - 3061);Champion;Skirmisher;3050;0
+Chaparral Missile Artillery Tank (ERML);Inner Sphere;Medium Vehicle;Jihad (3068 - 3080);Chaparral;Missile Boat;3050;0
+Chaparral Missile Artillery Tank (MG);Inner Sphere;Medium Vehicle;Civil War (3062 - 3067);Chaparral;Missile Boat;3050;0
+Chaparral Missile Artillery Tank (SRM);Inner Sphere;Medium Vehicle;Star League (2571 - 2780);Chaparral;Missile Boat;3050;0
+Chaparral Missile Artillery Tank;Inner Sphere;Medium Vehicle;Star League (2571 - 2780);Chaparral;Missile Boat;3050;0
+Charger CGR-1A1;Inner Sphere;Assault Mech;Star League (2571 - 2780);Charger;Scout;3039;0
+Charger CGR-1A5;Inner Sphere;Assault Mech;Late Succession War - Renaissance (3020 - 3049);Charger;Juggernaut;3039;0
+Charger CGR-1A9;Inner Sphere;Assault Mech;Late Succession War - Renaissance (3020 - 3049);Charger;Skirmisher;3039;0
+Charger CGR-1L;Inner Sphere;Assault Mech;Late Succession War - Renaissance (3020 - 3049);Charger;Skirmisher;3039;0
+Charger CGR-2A2;Inner Sphere;Assault Mech;Civil War (3062 - 3067);Charger;Scout;3050;0
+Charger CGR-3K;Inner Sphere;Assault Mech;Clan Invasion (3050 - 3061);Charger;Skirmisher;3050;0
+Charger CGR-C;Inner Sphere;Assault Mech;Clan Invasion (3050 - 3061);Charger;Skirmisher;3050;0
+Charger CGR-KMZ;Inner Sphere;Assault Mech;Jihad (3068 - 3080);Charger;Sniper;3050;0
+Charger CGR-SA5;Inner Sphere;Assault Mech;Civil War (3062 - 3067);Charger;Juggernaut;3050;0
+Charger CGR-SB "Challenger";Inner Sphere;Assault Mech;Late Succession War - Renaissance (3020 - 3049);Charger;Juggernaut;3039;0
+Cheetah F-10;Inner Sphere;Light Aerospace;Star League (2571 - 2780);Cheetah;Interceptor;3039;1
+Cheetah F-11-R;Inner Sphere;Light Aerospace;Early Succession War (2781 - 2900);Cheetah;Interceptor;3039;0
+Cheetah F-11-RR;Inner Sphere;Light Aerospace;Clan Invasion (3050 - 3061);Cheetah;Interceptor;3039;0
+Cheetah F-11;Inner Sphere;Light Aerospace;Clan Invasion (3050 - 3061);Cheetah;Interceptor;3039;0
+Cheetah F-12-S;Inner Sphere;Light Aerospace;Early Succession War (2781 - 2900);Cheetah;Interceptor;3039;0
+Cheetah F-13;Inner Sphere;Light Aerospace;Jihad (3068 - 3080);Cheetah;Interceptor;3039;0
+Cheetah F-14-S;Inner Sphere;Light Aerospace;Clan Invasion (3050 - 3061);Cheetah;Interceptor;3039;0
+Chippewa CHP-W10;Inner Sphere;Heavy Aerospace;Late Succession War - LosTech (2901 - 3019);Chippewa;Attack;3039;0
+Chippewa CHP-W5;Inner Sphere;Heavy Aerospace;Star League (2571 - 2780);Chippewa;Attack;3039;0
+Chippewa CHP-W7;Inner Sphere;Heavy Aerospace;Star League (2571 - 2780);Chippewa;Attack;3039;0
+Chippewa CHP-W7T;Inner Sphere;Heavy Aerospace;Jihad (3068 - 3080);Chippewa;Attack;3039;0
+Chippewa CHP-W8;Inner Sphere;Heavy Aerospace;Jihad (3068 - 3080);Chippewa;Attack;3039;0
+Cicada CDA-2A;Inner Sphere;Medium Mech;Star League (2571 - 2780);Cicada;Scout;3039;1
+Cicada CDA-2B;Inner Sphere;Medium Mech;Early Succession War (2781 - 2900);Cicada;Scout;3039;0
+Cicada CDA-3C;Inner Sphere;Medium Mech;Early Succession War (2781 - 2900);Cicada;Scout;3039;0
+Cicada CDA-3F;Inner Sphere;Medium Mech;Clan Invasion (3050 - 3061);Cicada;Striker;3050;0
+Cicada CDA-3G;Inner Sphere;Medium Mech;Clan Invasion (3050 - 3061);Cicada;Striker;3050;0
+Cicada CDA-3M;Inner Sphere;Medium Mech;Clan Invasion (3050 - 3061);Cicada;Striker;3050;0
+Cicada CDA-3MA;Inner Sphere;Medium Mech;Jihad (3068 - 3080);Cicada;Striker;3050;0
+Cicada CDA-3P;Inner Sphere;Medium Mech;Jihad (3068 - 3080);Cicada;Striker;3050;0
+Clint CLNT-1-2R;Inner Sphere;Medium Mech;Star League (2571 - 2780);Clint;Striker;3039;0
+Clint CLNT-2-3T Denton;Inner Sphere;Medium Mech;Late Succession War - Renaissance (3020 - 3049);Clint;Striker;3039;0
+Clint CLNT-2-3T;Inner Sphere;Medium Mech;Star League (2571 - 2780);Clint;Striker;3039;1
+Clint CLNT-2-3U;Inner Sphere;Medium Mech;Clan Invasion (3050 - 3061);Clint;Striker;3050;0
+Clint CLNT-2-3UL;Inner Sphere;Medium Mech;Jihad (3068 - 3080);Clint;Striker;3050;0
+Clint CLNT-2-4T;Inner Sphere;Medium Mech;Star League (2571 - 2780);Clint;Sniper;3039;0
+Clint CLNT-3-3T;Inner Sphere;Medium Mech;Jihad (3068 - 3080);Clint;Striker;3050;0
+Clint CLNT-5U;Inner Sphere;Medium Mech;Civil War (3062 - 3067);Clint;Striker;3050;0
+Clint CLNT-6S;Inner Sphere;Medium Mech;Jihad (3068 - 3080);Clint;Striker;3050;0
+Commando COM-1B;Inner Sphere;Light Mech;Late Succession War - LosTech (2901 - 3019);Commando;Striker;3050;0
+Commando COM-1C;Inner Sphere;Light Mech;Late Succession War - Renaissance (3020 - 3049);Commando;Striker;3050;0
+Commando COM-1D;Inner Sphere;Light Mech;Age of War (2005 - 2570);Commando;Striker;3039;0
+Commando COM-2D;Inner Sphere;Light Mech;Age of War (2005 - 2570);Commando;Striker;3039;1
+Commando COM-3A;Inner Sphere;Light Mech;Late Succession War - Renaissance (3020 - 3049);Commando;Striker;3039;0
+Commando COM-4H;Inner Sphere;Light Mech;Civil War (3062 - 3067);Commando;Striker;3050;0
+Commando COM-5S;Inner Sphere;Light Mech;Clan Invasion (3050 - 3061);Commando;Striker;3050;0
+Commando COM-7B;Inner Sphere;Light Mech;Jihad (3068 - 3080);Commando;Striker;3050;0
+Commando COM-7S;Inner Sphere;Light Mech;Civil War (3062 - 3067);Commando;Striker;3050;0
+Condor Heavy Hover Tank (Davion);Inner Sphere;Medium Vehicle;Late Succession War - LosTech (2901 - 3019);Condor;Scout;3039;0
+Condor Heavy Hover Tank (Flamer);Inner Sphere;Medium Vehicle;Late Succession War - Renaissance (3020 - 3049);Condor;Striker;3039;0
+Condor Heavy Hover Tank (Laser);Inner Sphere;Medium Vehicle;Clan Invasion (3050 - 3061);Condor;Striker;3058;0
+Condor Heavy Hover Tank (Liao);Inner Sphere;Medium Vehicle;Early Succession War (2781 - 2900);Condor;Striker;3039;0
+Condor Heavy Hover Tank;Inner Sphere;Medium Vehicle;Age of War (2005 - 2570);Condor;Striker;3039;0
+Conjurer (Hellhound) 7;Clan;Medium Mech;Early Succession War (2781 - 2900);Conjurer;Skirmisher;ilClan Vol. 5;0
+Conjurer (Hellhound) 8;Clan;Medium Mech;Dark Age (3131 - 3150);Conjurer;Skirmisher;ilClan Vol. 5;0
+Conjurer (Hellhound);Clan;Medium Mech;Early Succession War (2781 - 2900);Conjurer;Skirmisher;ilClan Vol. 5;1
+Coolant Truck (Hover);Inner Sphere;Light Vehicle;Star League (2571 - 2780);Coolant Truck;None;3039;0
+Coolant Truck (Tracked);Inner Sphere;Light Vehicle;Star League (2571 - 2780);Coolant Truck;None;3039;0
+Coolant Truck 135-K "Lifesaver";Inner Sphere;Light Vehicle;Star League (2571 - 2780);Coolant Truck;Ambusher;3039;0
+Corsair CSR-V12;Inner Sphere;Medium Aerospace;Star League (2571 - 2780);Corsair;Dogfighter;3039;0
+Corsair CSR-V12M "Regulus";Inner Sphere;Medium Aerospace;Late Succession War - LosTech (2901 - 3019);Corsair;Dogfighter;3039;0
+Corsair CSR-V14;Inner Sphere;Medium Aerospace;Clan Invasion (3050 - 3061);Corsair;Dogfighter;3039;0
+Corsair CSR-V18;Inner Sphere;Medium Aerospace;Jihad (3068 - 3080);Corsair;Fire-Support;3039;0
+Corsair CSR-V20;Inner Sphere;Medium Aerospace;Late Succession War - LosTech (2901 - 3019);Corsair;Dogfighter;3039;0
+Crab CRB-20;Inner Sphere;Medium Mech;Early Succession War (2781 - 2900);Crab;Skirmisher;3039;0
+Crab CRB-27;Inner Sphere;Medium Mech;Star League (2571 - 2780);Crab;Skirmisher;3050;0
+Crab CRB-30;Inner Sphere;Medium Mech;Clan Invasion (3050 - 3061);Crab;Sniper;3050;0
+Crab CRB-45;Inner Sphere;Medium Mech;Jihad (3068 - 3080);Crab;Sniper;3050;0
+Crab CRB-54;Inner Sphere;Medium Mech;Dark Age (3131 - 3150);Crab;Skirmisher;ilClan Vol. 5;0
+Crab CRB-C;Inner Sphere;Medium Mech;Clan Invasion (3050 - 3061);Crab;Skirmisher;3050;0
+Crockett CRK-5003-1;Inner Sphere;Assault Mech;Star League (2571 - 2780);Crockett;Sniper;3050;0
+Crockett CRK-5003-3;Inner Sphere;Assault Mech;Civil War (3062 - 3067);Crockett;Sniper;3050;0
+Crockett CRK-5004-1;Inner Sphere;Assault Mech;Civil War (3062 - 3067);Crockett;Juggernaut;3050;0
+Crockett CRK-5005-1;Inner Sphere;Assault Mech;Jihad (3068 - 3080);Crockett;Sniper;3050;0
+Crossbow A;Clan;Heavy Mech;Early Succession War (2781 - 2900);Crossbow;Skirmisher;3058;0
+Crossbow B;Clan;Heavy Mech;Early Succession War (2781 - 2900);Crossbow;Skirmisher;3058;0
+Crossbow C;Clan;Heavy Mech;Civil War (3062 - 3067);Crossbow;Skirmisher;3058;0
+Crossbow D;Clan;Heavy Mech;Civil War (3062 - 3067);Crossbow;Missile Boat;3058;0
+Crossbow E;Clan;Heavy Mech;Jihad (3068 - 3080);Crossbow;Skirmisher;3058;0
+Crossbow H;Clan;Heavy Mech;Clan Invasion (3050 - 3061);Crossbow;Skirmisher;3058;0
+Crossbow Prime;Clan;Heavy Mech;Early Succession War (2781 - 2900);Crossbow;Missile Boat;3058;0
+Crusader CRD-3D;Inner Sphere;Heavy Mech;Star League (2571 - 2780);Crusader;Missile Boat;3039;0
+Crusader CRD-3K;Inner Sphere;Heavy Mech;Star League (2571 - 2780);Crusader;Missile Boat;3039;0
+Crusader CRD-3L;Inner Sphere;Heavy Mech;Star League (2571 - 2780);Crusader;Missile Boat;3039;0
+Crusader CRD-3R;Inner Sphere;Heavy Mech;Star League (2571 - 2780);Crusader;Missile Boat;3039;0
+Cyclops CP-10-HQ;Inner Sphere;Assault Mech;Star League (2571 - 2780);Cyclops;Juggernaut;3039;0
+Cyclops CP-10-Q;Inner Sphere;Assault Mech;Early Succession War (2781 - 2900);Cyclops;Missile Boat;3039;0
+Cyclops CP-10-Z;Inner Sphere;Assault Mech;Star League (2571 - 2780);Cyclops;Juggernaut;3039;1
+Cyclops CP-11-A-DC;Inner Sphere;Assault Mech;Late Succession War - Renaissance (3020 - 3049);Cyclops;Sniper;3050;0
+Cyclops CP-11-A;Inner Sphere;Assault Mech;Late Succession War - Renaissance (3020 - 3049);Cyclops;Sniper;3050;0
+Cyclops CP-11-C;Inner Sphere;Assault Mech;Clan Invasion (3050 - 3061);Cyclops;Brawler;3050;0
+Cyclops CP-11-G;Inner Sphere;Assault Mech;Clan Invasion (3050 - 3061);Cyclops;Sniper;3050;0
+Cyclops CP-11-H;Inner Sphere;Assault Mech;Civil War (3062 - 3067);Cyclops;Juggernaut;3050;0
+Cyclops CP-12-K;Inner Sphere;Assault Mech;Clan Invasion (3050 - 3061);Cyclops;Brawler;3050;0
+Cyrano Gunship (ML);Inner Sphere;Light Vehicle;Jihad (3068 - 3080);Cyrano Gunship;Striker;3050;0
+Cyrano Gunship (Plasma);Inner Sphere;Light Vehicle;Jihad (3068 - 3080);Cyrano Gunship;Scout;3050;0
+Cyrano Gunship;Inner Sphere;Light Vehicle;Star League (2571 - 2780);Cyrano Gunship;Scout;3050;0
+Daboku DCMS-MX90-D;Inner Sphere;Assault Mech;Late Succession War - Renaissance (3020 - 3049);Daboku;Sniper;3039;0
+Daishi (Dire Wolf) "Prometheus";Clan;Assault Mech;Clan Invasion (3050 - 3061);Daishi;Juggernaut;3050;0
+Daishi (Dire Wolf) "Widowmaker";Clan;Assault Mech;Clan Invasion (3050 - 3061);Daishi;Juggernaut;3050;0
+Daishi (Dire Wolf) (Hohiro);Clan;Assault Mech;Clan Invasion (3050 - 3061);Daishi;Sniper;3050;0
+Daishi (Dire Wolf) A;Clan;Assault Mech;Late Succession War - LosTech (2901 - 3019);Daishi;Juggernaut;3050;0
+Daishi (Dire Wolf) B;Clan;Assault Mech;Late Succession War - LosTech (2901 - 3019);Daishi;Sniper;3050;0
+Daishi (Dire Wolf) C;Clan;Assault Mech;Clan Invasion (3050 - 3061);Daishi;Juggernaut;3050;0
+Daishi (Dire Wolf) D;Clan;Assault Mech;Jihad (3068 - 3080);Daishi;Juggernaut;3050;0
+Daishi (Dire Wolf) H;Clan;Assault Mech;Clan Invasion (3050 - 3061);Daishi;Juggernaut;3050;0
+Daishi (Dire Wolf) Prime;Clan;Assault Mech;Late Succession War - LosTech (2901 - 3019);Daishi;Juggernaut;3050;0
+Daishi (Dire Wolf) S;Clan;Assault Mech;Clan Invasion (3050 - 3061);Daishi;Juggernaut;3050;0
+Daishi (Dire Wolf) W;Clan;Assault Mech;Clan Invasion (3050 - 3061);Daishi;Juggernaut;3050;0
+Daishi (Dire Wolf) X;Clan;Assault Mech;Clan Invasion (3050 - 3061);Daishi;Juggernaut;3050;0
+Dasher (Fire Moth) A;Clan;Light Mech;Early Succession War (2781 - 2900);Dasher;Scout;3050;0
+Dasher (Fire Moth) B;Clan;Light Mech;Early Succession War (2781 - 2900);Dasher;Striker;3050;0
+Dasher (Fire Moth) C;Clan;Light Mech;Early Succession War (2781 - 2900);Dasher;Missile Boat;3050;0
+Dasher (Fire Moth) D;Clan;Light Mech;Early Succession War (2781 - 2900);Dasher;Striker;3050;0
+Dasher (Fire Moth) E;Clan;Light Mech;Clan Invasion (3050 - 3061);Dasher;Scout;3050;0
+Dasher (Fire Moth) F;Clan;Light Mech;Jihad (3068 - 3080);Dasher;Striker;3050;0
+Dasher (Fire Moth) H;Clan;Light Mech;Clan Invasion (3050 - 3061);Dasher;Striker;3050;0
+Dasher (Fire Moth) K;Clan;Light Mech;Jihad (3068 - 3080);Dasher;Striker;3050;0
+Dasher (Fire Moth) Prime;Clan;Light Mech;Early Succession War (2781 - 2900);Dasher;Striker;3050;0
+Demolisher Heavy Tank (Arrow IV);Inner Sphere;Assault Vehicle;Civil War (3062 - 3067);Demolisher;Missile Boat;3058;0
+Demolisher Heavy Tank (Clan);Clan;Assault Vehicle;Clan Invasion (3050 - 3061);Demolisher;Juggernaut;3058;0
+Demolisher Heavy Tank (Defensive);Inner Sphere;Assault Vehicle;Early Succession War (2781 - 2900);Demolisher;Juggernaut;3039;0
+Demolisher Heavy Tank (Gauss);Inner Sphere;Assault Vehicle;Clan Invasion (3050 - 3061);Demolisher;Sniper;3058;0
+Demolisher Heavy Tank (MRM);Inner Sphere;Assault Vehicle;Clan Invasion (3050 - 3061);Demolisher;Juggernaut;3058;0
+Demolisher Heavy Tank Mk. II;Inner Sphere;Assault Vehicle;Early Succession War (2781 - 2900);Demolisher;Juggernaut;3039;0
+Demon Tank (HGR);Inner Sphere;Heavy Vehicle;Jihad (3068 - 3080);Demon;Brawler;3050;0
+Demon Tank (Horned Demon);Inner Sphere;Heavy Vehicle;Star League (2571 - 2780);Demon;Brawler;3050;0
+Demon Tank (PPC);Inner Sphere;Heavy Vehicle;Star League (2571 - 2780);Demon;Sniper;3050;0
+Demon Tank;Inner Sphere;Heavy Vehicle;Star League (2571 - 2780);Demon;Brawler;3050;0
+Dervish DV-6M;Inner Sphere;Medium Mech;Star League (2571 - 2780);Dervish;Missile Boat;3039;1
+Dervish DV-7D;Inner Sphere;Medium Mech;Late Succession War - Renaissance (3020 - 3049);Dervish;Missile Boat;3050;0
+Dervish DV-8D;Inner Sphere;Medium Mech;Civil War (3062 - 3067);Dervish;Missile Boat;3050;0
+Dervish DV-9D;Inner Sphere;Medium Mech;Jihad (3068 - 3080);Dervish;Missile Boat;3050;0
+Devastator DVS-1D;Inner Sphere;Assault Mech;Late Succession War - Renaissance (3020 - 3049);Devastator;Juggernaut;3058;0
+Devastator DVS-2;Inner Sphere;Assault Mech;Late Succession War - Renaissance (3020 - 3049);Devastator;Juggernaut;3058;0
+Devastator DVS-3;Inner Sphere;Assault Mech;Clan Invasion (3050 - 3061);Devastator;Sniper;3058;0
+Devastator Heavy Tank;Inner Sphere;Assault Vehicle;Late Succession War - LosTech (2901 - 3019);Demolisher;Juggernaut;3039;0
+Dragon DRG-1C;Inner Sphere;Heavy Mech;Star League (2571 - 2780);Dragon;Skirmisher;3039;1
+Dragon DRG-1N;Inner Sphere;Heavy Mech;Star League (2571 - 2780);Dragon;Skirmisher;3039;0
+Dragon DRG-5N;Inner Sphere;Heavy Mech;Late Succession War - Renaissance (3020 - 3049);Dragon;Skirmisher;3050;0
+Dragon DRG-7N;Inner Sphere;Heavy Mech;Civil War (3062 - 3067);Dragon;Skirmisher;3050;0
+Dragon Fire DGR-3F;Inner Sphere;Heavy Mech;Clan Invasion (3050 - 3061);Dragon Fire;Brawler;3058;0
+Dragon Fire DGR-4F;Inner Sphere;Heavy Mech;Clan Invasion (3050 - 3061);Dragon Fire;Brawler;3058;0
+Dragon Fire DGR-6FC;Inner Sphere;Heavy Mech;Civil War (3062 - 3067);Dragon Fire;Brawler;3058;0
+Dragonfly (Viper) A;Clan;Medium Mech;Late Succession War - LosTech (2901 - 3019);Dragonfly;Striker;3050;0
+Dragonfly (Viper) B;Clan;Medium Mech;Late Succession War - LosTech (2901 - 3019);Dragonfly;Striker;3050;0
+Dragonfly (Viper) C;Clan;Medium Mech;Late Succession War - LosTech (2901 - 3019);Dragonfly;Striker;3050;0
+Dragonfly (Viper) D;Clan;Medium Mech;Late Succession War - LosTech (2901 - 3019);Dragonfly;Striker;3050;0
+Dragonfly (Viper) E;Clan;Medium Mech;Clan Invasion (3050 - 3061);Dragonfly;Striker;3050;0
+Dragonfly (Viper) F;Clan;Medium Mech;Jihad (3068 - 3080);Dragonfly;Striker;3050;0
+Dragonfly (Viper) G;Clan;Medium Mech;Jihad (3068 - 3080);Dragonfly;Striker;3050;0
+Dragonfly (Viper) H;Clan;Medium Mech;Civil War (3062 - 3067);Dragonfly;Striker;3050;0
+Dragonfly (Viper) I;Clan;Medium Mech;Jihad (3068 - 3080);Dragonfly;Striker;3050;0
+Dragonfly (Viper) Prime;Clan;Medium Mech;Late Succession War - LosTech (2901 - 3019);Dragonfly;Scout;3050;0
+Drillson Heavy Hover Tank (ERLL);Inner Sphere;Medium Vehicle;Late Succession War - Renaissance (3020 - 3049);Drillson;Striker;3039;0
+Drillson Heavy Hover Tank (SRM);Inner Sphere;Medium Vehicle;Late Succession War - Renaissance (3020 - 3049);Drillson;Striker;3039;0
+Drillson Heavy Hover Tank (Streak);Inner Sphere;Medium Vehicle;Clan Invasion (3050 - 3061);Drillson;Striker;3039;0
+Drillson Heavy Hover Tank;Inner Sphere;Medium Vehicle;Late Succession War - Renaissance (3020 - 3049);Drillson;Striker;3039;0
+Elemental (AP Gauss);Clan;Medium Battle Armor;Jihad (3068 - 3080);Elemental;Ambusher;3058;0
+Elemental (ER Laser);Clan;Medium Battle Armor;Clan Invasion (3050 - 3061);Elemental;Ambusher;3058;0
+Elemental (Flamer);Clan;Medium Battle Armor;Early Succession War (2781 - 2900);Elemental;Ambusher;3058;2
+Elemental (HMG);Clan;Medium Battle Armor;Clan Invasion (3050 - 3061);Elemental;Ambusher;3058;0
+Elemental (Headhunter);Clan;Medium Battle Armor;Clan Invasion (3050 - 3061);Elemental;Ambusher;3058;0
+Elemental (Laser);Clan;Medium Battle Armor;Early Succession War (2781 - 2900);Elemental;Ambusher;3058;0
+Elemental (MG);Clan;Medium Battle Armor;Early Succession War (2781 - 2900);Elemental;Ambusher;3058;0
+Elemental (Pulse Laser);Clan;Medium Battle Armor;Clan Invasion (3050 - 3061);Elemental;Ambusher;3058;0
+Emperor EMP-5A;Inner Sphere;Assault Mech;Age of War (2005 - 2570);Emperor;Juggernaut;3058;0
+Emperor EMP-6A;Inner Sphere;Assault Mech;Star League (2571 - 2780);Emperor;Juggernaut;3058;0
+Emperor EMP-6D;Inner Sphere;Assault Mech;Jihad (3068 - 3080);Emperor;Juggernaut;3058;0
+Emperor EMP-6L;Inner Sphere;Assault Mech;Jihad (3068 - 3080);Emperor;Juggernaut;3058;0
+Emperor EMP-6M;Inner Sphere;Assault Mech;Jihad (3068 - 3080);Emperor;Sniper;3058;0
+Emperor EMP-6S;Inner Sphere;Assault Mech;Jihad (3068 - 3080);Emperor;Juggernaut;3058;0
+Emperor EMP-7L;Inner Sphere;Assault Mech;Jihad (3068 - 3080);Emperor;Juggernaut;3058;0
+Enfield END-6J;Inner Sphere;Medium Mech;Clan Invasion (3050 - 3061);Enfield;Skirmisher;3058;0
+Enfield END-6Q;Inner Sphere;Medium Mech;Clan Invasion (3050 - 3061);Enfield;Skirmisher;3058;0
+Enfield END-6S;Inner Sphere;Medium Mech;Jihad (3068 - 3080);Enfield;Skirmisher;3058;0
+Enforcer ENF-4R;Inner Sphere;Medium Mech;Star League (2571 - 2780);Enforcer;Skirmisher;3039;1
+Enforcer ENF-5D;Inner Sphere;Medium Mech;Clan Invasion (3050 - 3061);Enforcer;Skirmisher;3050;0
+Engineering Vehicle (AC);Inner Sphere;Medium Vehicle;Age of War (2005 - 2570);Engineering Vehicle;Striker;3039;0
+Engineering Vehicle (Flamer);Inner Sphere;Medium Vehicle;Age of War (2005 - 2570);Engineering Vehicle;Scout;3039;0
+Engineering Vehicle;Inner Sphere;Medium Vehicle;Age of War (2005 - 2570);Engineering Vehicle;None;3039;0
+Excalibur EXC-B1;Inner Sphere;Heavy Mech;Star League (2571 - 2780);Excalibur;Skirmisher;3058;0
+Excalibur EXC-B2;Inner Sphere;Heavy Mech;Star League (2571 - 2780);Excalibur;Skirmisher;3058;0
+Excalibur EXC-C1;Inner Sphere;Heavy Mech;Clan Invasion (3050 - 3061);Excalibur;Skirmisher;3058;0
+Excalibur EXC-CS;Inner Sphere;Heavy Mech;Civil War (3062 - 3067);Excalibur;Skirmisher;3058;0
+Excalibur EXC-D1;Inner Sphere;Heavy Mech;Civil War (3062 - 3067);Excalibur;Skirmisher;3058;0
+Exterminator EXT-4A;Inner Sphere;Heavy Mech;Late Succession War - LosTech (2901 - 3019);Exterminator;Skirmisher;3050;0
+Exterminator EXT-4C;Inner Sphere;Heavy Mech;Star League (2571 - 2780);Exterminator;Skirmisher;3050;0
+Exterminator EXT-4D;Inner Sphere;Heavy Mech;Star League (2571 - 2780);Exterminator;Skirmisher;3050;0
+Exterminator EXT-5E;Inner Sphere;Heavy Mech;Clan Invasion (3050 - 3061);Exterminator;Skirmisher;3050;0
+Exterminator EXT-5F;Inner Sphere;Heavy Mech;Jihad (3068 - 3080);Exterminator;Skirmisher;3050;0
+Fa Shih Battle Armor (Flamer);Inner Sphere;Medium Battle Armor;Civil War (3062 - 3067);Fa Shih;Ambusher;3058;0
+Fa Shih Battle Armor (LRR);Inner Sphere;Medium Battle Armor;Civil War (3062 - 3067);Fa Shih;Ambusher;3058;0
+Fa Shih Battle Armor (Laser);Inner Sphere;Medium Battle Armor;Civil War (3062 - 3067);Fa Shih;Ambusher;3058;0
+Fa Shih Battle Armor (MG);Inner Sphere;Medium Battle Armor;Civil War (3062 - 3067);Fa Shih;Ambusher;3058;0
+Fa Shih Battle Armor (TAG);Inner Sphere;Medium Battle Armor;Civil War (3062 - 3067);Fa Shih;Ambusher;3058;0
+Falcon FLC-4N;Inner Sphere;Light Mech;Star League (2571 - 2780);Falcon;Scout;3039;0
+Falcon FLC-4P;Inner Sphere;Light Mech;Clan Invasion (3050 - 3061);Falcon;Scout;3050;0
+Falcon FLC-5P;Inner Sphere;Light Mech;Civil War (3062 - 3067);Falcon;Striker;3050;0
+Falcon FLC-6C;Clan;Light Mech;Civil War (3062 - 3067);Falcon;Sniper;3050;0
+Falcon Hawk FNHK-9K1A;Inner Sphere;Light Mech;Clan Invasion (3050 - 3061);Falcon Hawk;Brawler;3058;0
+Falcon Hawk FNHK-9K1B;Inner Sphere;Light Mech;Civil War (3062 - 3067);Falcon Hawk;Brawler;3058;0
+Falcon Hawk FNHK-9K;Inner Sphere;Light Mech;Clan Invasion (3050 - 3061);Falcon Hawk;Brawler;3058;0
+Fenrir Battle Armor (ERML);Inner Sphere;Assault Battle Armor;Civil War (3062 - 3067);Fenrir;Scout;3058;0
+Fenrir Battle Armor (MG);Inner Sphere;Assault Battle Armor;Clan Invasion (3050 - 3061);Fenrir;Scout;3058;0
+Fenrir Battle Armor (MPL);Inner Sphere;Assault Battle Armor;Clan Invasion (3050 - 3061);Fenrir;Scout;3058;0
+Fenrir Battle Armor (Mortar);Inner Sphere;Assault Battle Armor;Civil War (3062 - 3067);Fenrir;Scout;3058;0
+Fenrir Battle Armor (SL);Inner Sphere;Assault Battle Armor;Clan Invasion (3050 - 3061);Fenrir;Scout;3058;0
+Fenrir Battle Armor (SPL);Inner Sphere;Assault Battle Armor;Clan Invasion (3050 - 3061);Fenrir;Scout;3058;0
+Fenrir Battle Armor (SRM);Inner Sphere;Assault Battle Armor;Clan Invasion (3050 - 3061);Fenrir;Scout;3058;0
+Fenrir Battle Armor (VSP);Inner Sphere;Assault Battle Armor;Jihad (3068 - 3080);Fenrir;Scout;3058;0
+Fenris (Ice Ferret) A;Clan;Medium Mech;Late Succession War - LosTech (2901 - 3019);Fenris;Striker;3050;0
+Fenris (Ice Ferret) B;Clan;Medium Mech;Late Succession War - LosTech (2901 - 3019);Fenris;Striker;3050;0
+Fenris (Ice Ferret) C;Clan;Medium Mech;Late Succession War - LosTech (2901 - 3019);Fenris;Missile Boat;3050;0
+Fenris (Ice Ferret) D;Clan;Medium Mech;Late Succession War - LosTech (2901 - 3019);Fenris;Striker;3050;0
+Fenris (Ice Ferret) E;Clan;Medium Mech;Clan Invasion (3050 - 3061);Fenris;Striker;3050;0
+Fenris (Ice Ferret) H;Clan;Medium Mech;Clan Invasion (3050 - 3061);Fenris;Striker;3050;0
+Fenris (Ice Ferret) L;Clan;Medium Mech;Jihad (3068 - 3080);Fenris;Scout;3050;0
+Fenris (Ice Ferret) Prime;Clan;Medium Mech;Late Succession War - LosTech (2901 - 3019);Fenris;Striker;3050;0
+Ferret Light Scout VTOL (Armor) "Wild Weasel";Inner Sphere;Light Vehicle;Late Succession War - LosTech (2901 - 3019);Ferret;Scout;3039;0
+Ferret Light Scout VTOL (Cargo);Inner Sphere;Light Vehicle;Late Succession War - LosTech (2901 - 3019);Ferret;None;3039;1
+Ferret Light Scout VTOL;Inner Sphere;Light Vehicle;Late Succession War - LosTech (2901 - 3019);Ferret;Scout;3039;1
+Fire Falcon A;Clan;Light Mech;Clan Invasion (3050 - 3061);Fire Falcon;Striker;3058;0
+Fire Falcon B;Clan;Light Mech;Clan Invasion (3050 - 3061);Fire Falcon;Sniper;3058;0
+Fire Falcon C;Clan;Light Mech;Clan Invasion (3050 - 3061);Fire Falcon;Striker;3058;0
+Fire Falcon D;Clan;Light Mech;Clan Invasion (3050 - 3061);Fire Falcon;Striker;3058;0
+Fire Falcon E;Clan;Light Mech;Clan Invasion (3050 - 3061);Fire Falcon;Striker;3058;0
+Fire Falcon F;Clan;Light Mech;Jihad (3068 - 3080);Fire Falcon;Striker;3058;0
+Fire Falcon H;Clan;Light Mech;Civil War (3062 - 3067);Fire Falcon;Striker;3058;0
+Fire Falcon Prime;Clan;Light Mech;Clan Invasion (3050 - 3061);Fire Falcon;Striker;3058;1
+Firefly FFL-4A;Inner Sphere;Light Mech;Early Succession War (2781 - 2900);Firefly;Striker;3050;0
+Firefly FFL-4B;Inner Sphere;Light Mech;Late Succession War - Renaissance (3020 - 3049);Firefly;Striker;3050;0
+Firefly FFL-4C;Inner Sphere;Light Mech;Late Succession War - Renaissance (3020 - 3049);Firefly;Striker;3050;0
+Firefly FFL-4D;Inner Sphere;Light Mech;Civil War (3062 - 3067);Firefly;Striker;3050;0
+Firefly FFL-4DA;Inner Sphere;Light Mech;Civil War (3062 - 3067);Firefly;Striker;3050;0
+Firestarter FS9-A;Inner Sphere;Light Mech;Age of War (2005 - 2570);Firestarter;Scout;3039;0
+Firestarter FS9-B;Inner Sphere;Light Mech;Jihad (3068 - 3080);Firestarter;Scout;3050;0
+Firestarter FS9-C;Inner Sphere;Light Mech;Civil War (3062 - 3067);Firestarter;Striker;3050;0
+Firestarter FS9-H;Inner Sphere;Light Mech;Star League (2571 - 2780);Firestarter;Scout;3039;0
+Firestarter FS9-K;Inner Sphere;Light Mech;Age of War (2005 - 2570);Firestarter;Scout;3039;0
+Firestarter FS9-M "Mirage";Inner Sphere;Light Mech;Early Succession War (2781 - 2900);Firestarter;Scout;3039;0
+Firestarter FS9-O;Inner Sphere;Medium Mech;Clan Invasion (3050 - 3061);Firestarter (OmniMech);Striker;3058;0
+Firestarter FS9-OA;Inner Sphere;Medium Mech;Clan Invasion (3050 - 3061);Firestarter (OmniMech);Striker;3058;0
+Firestarter FS9-OB;Inner Sphere;Medium Mech;Clan Invasion (3050 - 3061);Firestarter (OmniMech);Striker;3058;0
+Firestarter FS9-OC;Inner Sphere;Medium Mech;Clan Invasion (3050 - 3061);Firestarter (OmniMech);Missile Boat;3058;0
+Firestarter FS9-OD;Inner Sphere;Medium Mech;Clan Invasion (3050 - 3061);Firestarter (OmniMech);Sniper;3058;0
+Firestarter FS9-OE;Inner Sphere;Medium Mech;Clan Invasion (3050 - 3061);Firestarter (OmniMech);Striker;3058;0
+Firestarter FS9-OF;Inner Sphere;Medium Mech;Clan Invasion (3050 - 3061);Firestarter (OmniMech);Sniper;3058;0
+Firestarter FS9-OG;Inner Sphere;Medium Mech;Civil War (3062 - 3067);Firestarter (OmniMech);Striker;3058;0
+Firestarter FS9-OH;Inner Sphere;Medium Mech;Jihad (3068 - 3080);Firestarter (OmniMech);Striker;3058;0
+Firestarter FS9-OR;Mixed;Medium Mech;Clan Invasion (3050 - 3061);Firestarter (OmniMech);Sniper;3058;0
+Firestarter FS9-OX;Inner Sphere;Medium Mech;Clan Invasion (3050 - 3061);Firestarter (OmniMech);Striker;3058;0
+Firestarter FS9-P;Inner Sphere;Light Mech;Civil War (3062 - 3067);Firestarter;Striker;3050;0
+Firestarter FS9-S1;Inner Sphere;Light Mech;Clan Invasion (3050 - 3061);Firestarter;Scout;3050;0
+Firestarter FS9-S2;Inner Sphere;Light Mech;Jihad (3068 - 3080);Firestarter;Scout;3050;0
+Firestarter FS9-S3;Inner Sphere;Light Mech;Jihad (3068 - 3080);Firestarter;Scout;3050;0
+Firestarter FS9-S;Inner Sphere;Light Mech;Clan Invasion (3050 - 3061);Firestarter;Scout;3050;0
+Flashman FLS-7K;Inner Sphere;Heavy Mech;Early Succession War (2781 - 2900);Flashman;Brawler;3039;0
+Flashman FLS-8K;Inner Sphere;Heavy Mech;Star League (2571 - 2780);Flashman;Skirmisher;3050;0
+Flashman FLS-9B;Inner Sphere;Heavy Mech;Jihad (3068 - 3080);Flashman;Skirmisher;3050;0
+Flashman FLS-9C;Inner Sphere;Heavy Mech;Clan Invasion (3050 - 3061);Flashman;Skirmisher;3050;0
+Flashman FLS-9M;Inner Sphere;Heavy Mech;Jihad (3068 - 3080);Flashman;Brawler;3050;0
+Flashman FLS-C;Inner Sphere;Heavy Mech;Civil War (3062 - 3067);Flashman;Skirmisher;3050;0
+Flea "Fire Ant";Inner Sphere;Light Mech;Civil War (3062 - 3067);Flea;Scout;3039;0
+Flea FLE-15;Inner Sphere;Light Mech;Age of War (2005 - 2570);Flea;Scout;3050;0
+Flea FLE-17;Inner Sphere;Light Mech;Clan Invasion (3050 - 3061);Flea;Striker;3050;0
+Flea FLE-19;Inner Sphere;Light Mech;Jihad (3068 - 3080);Flea;Striker;3050;0
+Flea FLE-20;Inner Sphere;Light Mech;Jihad (3068 - 3080);Flea;Striker;3050;0
+Flea FLE-4;Inner Sphere;Light Mech;Age of War (2005 - 2570);Flea;Scout;3039;0
+Fulcrum Heavy Hovertank II;Inner Sphere;Medium Vehicle;Civil War (3062 - 3067);Fulcrum;Striker;3058;0
+Fulcrum Heavy Hovertank;Inner Sphere;Medium Vehicle;Clan Invasion (3050 - 3061);Fulcrum;Striker;3058;0
+Fury Command Tank (C3M);Inner Sphere;Assault Vehicle;Jihad (3068 - 3080);Fury;Brawler;3050;0
+Fury Command Tank (C3S);Inner Sphere;Assault Vehicle;Jihad (3068 - 3080);Fury;Sniper;3050;0
+Fury Command Tank (Fury II);Inner Sphere;Assault Vehicle;Star League (2571 - 2780);Fury;Sniper;3050;0
+Fury Command Tank (Original);Inner Sphere;Assault Vehicle;Star League (2571 - 2780);Fury;Sniper;3050;0
+Fury Command Tank;Inner Sphere;Assault Vehicle;Civil War (3062 - 3067);Fury;Sniper;3050;0
+Gabriel Reconnaissance Hovercraft (ERSL);Inner Sphere;Light Vehicle;Civil War (3062 - 3067);Gabriel;Scout;3050;0
+Gabriel Reconnaissance Hovercraft (TDF);Inner Sphere;Light Vehicle;Civil War (3062 - 3067);Gabriel;Scout;3050;0
+Gabriel Reconnaissance Hovercraft;Inner Sphere;Light Vehicle;Star League (2571 - 2780);Gabriel;Scout;3050;0
+Galleon Light Tank GAL-100;Inner Sphere;Light Vehicle;Star League (2571 - 2780);Galleon;Scout;3058;0
+Galleon Light Tank GAL-102;Inner Sphere;Light Vehicle;Late Succession War - Renaissance (3020 - 3049);Galleon;Striker;3058;0
+Galleon Light Tank GAL-103;Inner Sphere;Light Vehicle;Civil War (3062 - 3067);Galleon;Scout;3058;0
+Galleon Light Tank GAL-104;Inner Sphere;Light Vehicle;Civil War (3062 - 3067);Galleon;Scout;3058;0
+Galleon Light Tank GAL-200;Inner Sphere;Light Vehicle;Late Succession War - LosTech (2901 - 3019);Galleon;Scout;3058;0
+Gladiator (Executioner) A;Clan;Assault Mech;Late Succession War - LosTech (2901 - 3019);Gladiator;Skirmisher;3050;0
+Gladiator (Executioner) B;Clan;Assault Mech;Late Succession War - LosTech (2901 - 3019);Gladiator;Skirmisher;3050;0
+Gladiator (Executioner) C;Clan;Assault Mech;Late Succession War - LosTech (2901 - 3019);Gladiator;Missile Boat;3050;0
+Gladiator (Executioner) D;Clan;Assault Mech;Late Succession War - LosTech (2901 - 3019);Gladiator;Skirmisher;3050;0
+Gladiator (Executioner) E;Clan;Assault Mech;Clan Invasion (3050 - 3061);Gladiator;Skirmisher;3050;0
+Gladiator (Executioner) H;Clan;Assault Mech;Clan Invasion (3050 - 3061);Gladiator;Skirmisher;3050;0
+Gladiator (Executioner) K;Clan;Assault Mech;Jihad (3068 - 3080);Gladiator;Skirmisher;3050;0
+Gladiator (Executioner) P;Clan;Assault Mech;Jihad (3068 - 3080);Gladiator;Skirmisher;3050;0
+Gladiator (Executioner) Prime;Clan;Assault Mech;Late Succession War - LosTech (2901 - 3019);Gladiator;Sniper;3050;1
+Gnome Battle Armor (Upgrade) [Bearhunter];Clan;Heavy Battle Armor;Jihad (3068 - 3080);Gnome;Juggernaut;3058;0
+Gnome Battle Armor (Upgrade) [MRR];Clan;Heavy Battle Armor;Jihad (3068 - 3080);Gnome;Juggernaut;3058;0
+Gnome Battle Armor (Upgrade) [Pulse Laser];Clan;Heavy Battle Armor;Jihad (3068 - 3080);Gnome;Juggernaut;3058;0
+Gnome Battle Armor;Clan;Heavy Battle Armor;Clan Invasion (3050 - 3061);Gnome;Juggernaut;3058;0
+Goblin II Infantry Support Vehicle;Inner Sphere;Medium Vehicle;Jihad (3068 - 3080);Goblin Infantry Support Vehicle;Missile Boat;3058;0
+Goblin Infantry Support Vehicle;Inner Sphere;Medium Vehicle;Clan Invasion (3050 - 3061);Goblin Infantry Support Vehicle;Juggernaut;3058;0
+Goblin Medium Tank (LRM);Inner Sphere;Medium Vehicle;Star League (2571 - 2780);Goblin Medium Tank;Missile Boat;3039;0
+Goblin Medium Tank (MG);Inner Sphere;Medium Vehicle;Star League (2571 - 2780);Goblin Medium Tank;Juggernaut;3039;0
+Goblin Medium Tank (SRM);Inner Sphere;Medium Vehicle;Star League (2571 - 2780);Goblin Medium Tank;Juggernaut;3039;0
+Goblin Medium Tank;Inner Sphere;Medium Vehicle;Star League (2571 - 2780);Goblin Medium Tank;Brawler;3039;0
+Goliath GOL-1H;Inner Sphere;Assault Mech;Star League (2571 - 2780);Goliath;Sniper;3039;0
+Gotha GTHA-100;Inner Sphere;Medium Aerospace;Star League (2571 - 2780);Gotha;Attack;3050;0
+Gotha GTHA-300;Inner Sphere;Medium Aerospace;Star League (2571 - 2780);Gotha;Attack;3050;0
+Gotha GTHA-400;Inner Sphere;Medium Aerospace;Late Succession War - LosTech (2901 - 3019);Gotha;Attack;3050;0
+Gotha GTHA-500;Inner Sphere;Medium Aerospace;Star League (2571 - 2780);Gotha;Attack;3050;0
+Gotha GTHA-600;Inner Sphere;Medium Aerospace;Civil War (3062 - 3067);Gotha;Dogfighter;3050;0
+Grand Dragon DRG-1G;Inner Sphere;Heavy Mech;Late Succession War - Renaissance (3020 - 3049);Dragon;Skirmisher;3039;0
+Grand Dragon DRG-5K-DC;Inner Sphere;Heavy Mech;Clan Invasion (3050 - 3061);Dragon;Skirmisher;3050;0
+Grand Dragon DRG-5K;Inner Sphere;Heavy Mech;Clan Invasion (3050 - 3061);Dragon;Skirmisher;3050;0
+Grand Dragon DRG-7K;Inner Sphere;Heavy Mech;Civil War (3062 - 3067);Dragon;Skirmisher;3050;0
+Grand Dragon DRG-9KC;Inner Sphere;Heavy Mech;Jihad (3068 - 3080);Dragon;Skirmisher;3050;0
+Grand Dragon DRG-C;Inner Sphere;Heavy Mech;Clan Invasion (3050 - 3061);Dragon;Skirmisher;3050;0
+Grasshopper GHR-5H;Inner Sphere;Heavy Mech;Star League (2571 - 2780);Grasshopper;Skirmisher;3039;1
+Grasshopper GHR-5J;Inner Sphere;Heavy Mech;Clan Invasion (3050 - 3061);Grasshopper;Skirmisher;3050;1
+Grasshopper GHR-5N;Inner Sphere;Heavy Mech;Late Succession War - Renaissance (3020 - 3049);Grasshopper;Skirmisher;3050;0
+Grasshopper GHR-6K;Inner Sphere;Heavy Mech;Civil War (3062 - 3067);Grasshopper;Skirmisher;3050;0
+Grasshopper GHR-7K "Gravedigger";Inner Sphere;Heavy Mech;Jihad (3068 - 3080);Grasshopper;Skirmisher;3050;0
+Grasshopper GHR-7K;Inner Sphere;Heavy Mech;Jihad (3068 - 3080);Grasshopper;Skirmisher;3050;0
+Grasshopper GHR-C;Inner Sphere;Heavy Mech;Clan Invasion (3050 - 3061);Grasshopper;Skirmisher;3050;0
+Gray Death Scout Suit;Inner Sphere;Light Battle Armor;Clan Invasion (3050 - 3061);Gray Death Scout;Scout;3058;0
+Gray Death Standard Suit [Flamer];Inner Sphere;Medium Battle Armor;Clan Invasion (3050 - 3061);Gray Death Standard;Ambusher;3058;0
+Gray Death Standard Suit [LRR];Inner Sphere;Medium Battle Armor;Jihad (3068 - 3080);Gray Death Standard;Ambusher;3058;0
+Gray Death Standard Suit [Laser];Inner Sphere;Medium Battle Armor;Clan Invasion (3050 - 3061);Gray Death Standard;Ambusher;3058;0
+Gray Death Standard Suit [MG];Inner Sphere;Medium Battle Armor;Clan Invasion (3050 - 3061);Gray Death Standard;Ambusher;3058;0
+Gray Death Standard Suit [SRM];Inner Sphere;Medium Battle Armor;Clan Invasion (3050 - 3061);Gray Death Standard;Ambusher;3058;0
+Grendel (Mongrel) A;Clan;Medium Mech;Clan Invasion (3050 - 3061);Grendel;Missile Boat;3058;0
+Grendel (Mongrel) B;Clan;Medium Mech;Clan Invasion (3050 - 3061);Grendel;Striker;3058;0
+Grendel (Mongrel) C;Clan;Medium Mech;Clan Invasion (3050 - 3061);Grendel;Striker;3058;0
+Grendel (Mongrel) D;Clan;Medium Mech;Clan Invasion (3050 - 3061);Grendel;Striker;3058;0
+Grendel (Mongrel) E;Clan;Medium Mech;Clan Invasion (3050 - 3061);Grendel;Striker;3058;0
+Grendel (Mongrel) F;Clan;Medium Mech;Jihad (3068 - 3080);Grendel;Striker;3058;0
+Grendel (Mongrel) H;Clan;Medium Mech;Civil War (3062 - 3067);Grendel;Striker;3058;0
+Grendel (Mongrel) Prime;Clan;Medium Mech;Clan Invasion (3050 - 3061);Grendel;Striker;3058;1
+Griffin GRF-1E "Sparky";Inner Sphere;Medium Mech;Late Succession War - Renaissance (3020 - 3049);Griffin;Skirmisher;3039;0
+Griffin GRF-1N;Inner Sphere;Medium Mech;Age of War (2005 - 2570);Griffin;Sniper;3039;0
+Griffin GRF-1S;Inner Sphere;Medium Mech;Early Succession War (2781 - 2900);Griffin;Skirmisher;3039;0
+Grizzly 2;Clan;Heavy Mech;Civil War (3062 - 3067);Grizzly;Skirmisher;3058;0
+Grizzly;Clan;Heavy Mech;Late Succession War - LosTech (2901 - 3019);Grizzly;Skirmisher;3058;0
+Guardian Fighter B;Inner Sphere;Conventional Fighter;Late Succession War - LosTech (2901 - 3019);Guardian;Dogfighter;3039;0
+Guardian Fighter C;Inner Sphere;Conventional Fighter;Clan Invasion (3050 - 3061);Guardian;Fast Dogfighter;3039;0
+Guardian Fighter D;Inner Sphere;Conventional Fighter;Clan Invasion (3050 - 3061);Guardian;Fast Dogfighter;3039;0
+Guardian Fighter;Inner Sphere;Conventional Fighter;Early Succession War (2781 - 2900);Guardian;Fast Dogfighter;3039;0
+Guillotine GLT-3N;Inner Sphere;Heavy Mech;Age of War (2005 - 2570);Guillotine;Skirmisher;3050;0
+Guillotine GLT-4L;Inner Sphere;Heavy Mech;Early Succession War (2781 - 2900);Guillotine;Skirmisher;3039;0
+Guillotine GLT-4P;Inner Sphere;Heavy Mech;Early Succession War (2781 - 2900);Guillotine;Skirmisher;3039;0
+Guillotine GLT-5M;Inner Sphere;Heavy Mech;Clan Invasion (3050 - 3061);Guillotine;Skirmisher;3050;0
+Guillotine GLT-6WB2;Inner Sphere;Heavy Mech;Jihad (3068 - 3080);Guillotine;Sniper;3050;0
+Guillotine GLT-6WB3;Inner Sphere;Heavy Mech;Jihad (3068 - 3080);Guillotine;Brawler;3050;0
+Guillotine GLT-6WB;Inner Sphere;Heavy Mech;Jihad (3068 - 3080);Guillotine;Brawler;3050;0
+Guillotine GLT-8D;Inner Sphere;Heavy Mech;Civil War (3062 - 3067);Guillotine;Skirmisher;3050;0
+Hammerhead HMR-HD;Inner Sphere;Medium Aerospace;Star League (2571 - 2780);Hammerhead;Fast Dogfighter;3050;0
+Hammerhead HMR-HE;Inner Sphere;Medium Aerospace;Star League (2571 - 2780);Hammerhead;Fast Dogfighter;3050;0
+Hammerhead HMR-HF;Inner Sphere;Medium Aerospace;Jihad (3068 - 3080);Hammerhead;Fast Dogfighter;3050;0
+Hammerhead HMR-HG;Inner Sphere;Medium Aerospace;Jihad (3068 - 3080);Hammerhead;Fast Dogfighter;3050;0
+Hammerhead;Clan;Medium Mech;Dark Age (3131 - 3150);Hammerhead Mech;Skirmisher;ilClan Vol. 5;0
+Hankyu (Arctic Cheetah) A;Clan;Light Mech;Late Succession War - Renaissance (3020 - 3049);Hankyu;Striker;3058;0
+Hankyu (Arctic Cheetah) B;Clan;Light Mech;Late Succession War - Renaissance (3020 - 3049);Hankyu;Striker;3058;0
+Hankyu (Arctic Cheetah) C;Clan;Light Mech;Late Succession War - Renaissance (3020 - 3049);Hankyu;Striker;3058;0
+Hankyu (Arctic Cheetah) D;Clan;Light Mech;Late Succession War - Renaissance (3020 - 3049);Hankyu;Missile Boat;3058;0
+Hankyu (Arctic Cheetah) E;Clan;Light Mech;Jihad (3068 - 3080);Hankyu;Striker;3058;0
+Hankyu (Arctic Cheetah) H;Clan;Light Mech;Civil War (3062 - 3067);Hankyu;Striker;3058;0
+Hankyu (Arctic Cheetah) Prime;Clan;Light Mech;Late Succession War - Renaissance (3020 - 3049);Hankyu;Striker;3058;0
+Harasser Laser Platform;Inner Sphere;Light Vehicle;Late Succession War - LosTech (2901 - 3019);Harasser;Scout;3039;0
+Harasser Missile Platform "Leaping Lisa";Inner Sphere;Light Vehicle;Early Succession War (2781 - 2900);Harasser;Striker;3039;0
+Harasser Missile Platform "Mini-Peggy";Inner Sphere;Light Vehicle;Late Succession War - Renaissance (3020 - 3049);Harasser;Striker;3039;0
+Harasser Missile Platform (Flamer);Inner Sphere;Light Vehicle;Early Succession War (2781 - 2900);Harasser;Striker;3039;0
+Harasser Missile Platform (LRM);Inner Sphere;Light Vehicle;Early Succession War (2781 - 2900);Harasser;Missile Boat;3039;0
+Harasser Missile Platform;Inner Sphere;Light Vehicle;Early Succession War (2781 - 2900);Harasser;Striker;3039;0
+Hatamoto-Chi HTM-26T;Inner Sphere;Assault Mech;Late Succession War - Renaissance (3020 - 3049);Hatamoto;Brawler;3039;0
+Hatamoto-Chi HTM-27T;Inner Sphere;Assault Mech;Late Succession War - Renaissance (3020 - 3049);Hatamoto;Brawler;3050;0
+Hatamoto-Chi HTM-28T (Shin);Inner Sphere;Assault Mech;Clan Invasion (3050 - 3061);Hatamoto;Brawler;3050;0
+Hatamoto-Chi HTM-28T;Inner Sphere;Assault Mech;Clan Invasion (3050 - 3061);Hatamoto;Sniper;3050;0
+Hatamoto-Hi HTM-27U;Inner Sphere;Assault Mech;Late Succession War - Renaissance (3020 - 3049);Hatamoto;Brawler;3050;0
+Hatamoto-Hi HTM-C;Inner Sphere;Assault Mech;Clan Invasion (3050 - 3061);Hatamoto;Brawler;3050;0
+Hatamoto-Hi HTM-CM;Inner Sphere;Assault Mech;Clan Invasion (3050 - 3061);Hatamoto;Brawler;3050;0
+Hatamoto-Kaze HTM-27V;Inner Sphere;Assault Mech;Late Succession War - Renaissance (3020 - 3049);Hatamoto;Sniper;3050;0
+Hatamoto-Ku HTM-27W;Inner Sphere;Assault Mech;Late Succession War - Renaissance (3020 - 3049);Hatamoto;Sniper;3050;0
+Hatamoto-Mizo HTM-27Y;Inner Sphere;Assault Mech;Clan Invasion (3050 - 3061);Hatamoto;Sniper;3050;0
+Hatchetman HCT-3F;Inner Sphere;Medium Mech;Late Succession War - Renaissance (3020 - 3049);Hatchetman;Brawler;3039;0
+Hatchetman HCT-5D;Inner Sphere;Medium Mech;Civil War (3062 - 3067);Hatchetman;Brawler;3050;0
+Hatchetman HCT-5DD;Inner Sphere;Medium Mech;Civil War (3062 - 3067);Hatchetman;Skirmisher;3050;0
+Hatchetman HCT-5K;Inner Sphere;Medium Mech;Jihad (3068 - 3080);Hatchetman;Brawler;3050;0
+Hatchetman HCT-5S;Inner Sphere;Medium Mech;Clan Invasion (3050 - 3061);Hatchetman;Brawler;3050;0
+Hatchetman HCT-6D;Inner Sphere;Medium Mech;Civil War (3062 - 3067);Hatchetman;Skirmisher;3050;0
+Hatchetman HCT-6S;Inner Sphere;Medium Mech;Civil War (3062 - 3067);Hatchetman;Brawler;3050;0
+Heavy Strike Fighter Bat Hawk;Inner Sphere;Conventional Fighter;Late Succession War - LosTech (2901 - 3019);Heavy Strike Fighter;Attack;3039;0
+Heavy Strike Fighter Inseki II;Inner Sphere;Conventional Fighter;Early Succession War (2781 - 2900);Heavy Strike Fighter;Attack;3039;0
+Heavy Strike Fighter Inseki;Inner Sphere;Conventional Fighter;Star League (2571 - 2780);Heavy Strike Fighter;Attack;3039;0
+Heavy Strike Fighter Meteor-G;Inner Sphere;Conventional Fighter;Clan Invasion (3050 - 3061);Heavy Strike Fighter;Attack;3039;0
+Heavy Strike Fighter Meteor-U;Inner Sphere;Conventional Fighter;Civil War (3062 - 3067);Heavy Strike Fighter;Attack;3039;0
+Heavy Strike Fighter Meteor;Inner Sphere;Conventional Fighter;Star League (2571 - 2780);Heavy Strike Fighter;Attack;3039;0
+Hellcat II HCT-212;Inner Sphere;Medium Aerospace;Early Succession War (2781 - 2900);Hellcat II;Fast Dogfighter;3050;0
+Hellcat II HCT-213B;Inner Sphere;Medium Aerospace;Star League (2571 - 2780);Hellcat II;Fast Dogfighter;3050;0
+Hellcat II HCT-214;Inner Sphere;Medium Aerospace;Star League (2571 - 2780);Hellcat II;Fast Dogfighter;3050;0
+Hellcat II HCT-215;Inner Sphere;Medium Aerospace;Jihad (3068 - 3080);Hellcat II;Fire-Support;3050;0
+Hermes HER-1A;Inner Sphere;Light Mech;Early Succession War (2781 - 2900);Hermes;Scout;3039;0
+Hermes HER-1B;Inner Sphere;Light Mech;Early Succession War (2781 - 2900);Hermes;Striker;3039;0
+Hermes HER-1S;Inner Sphere;Light Mech;Star League (2571 - 2780);Hermes;Scout;3050;0
+Hermes HER-3S1;Inner Sphere;Light Mech;Clan Invasion (3050 - 3061);Hermes;Scout;3050;0
+Hermes HER-3S2;Inner Sphere;Light Mech;Clan Invasion (3050 - 3061);Hermes;Scout;3050;0
+Hermes HER-3S;Inner Sphere;Light Mech;Late Succession War - Renaissance (3020 - 3049);Hermes;Scout;3050;0
+Hermes HER-4K;Inner Sphere;Light Mech;Clan Invasion (3050 - 3061);Hermes;Striker;3050;0
+Hermes HER-4M;Inner Sphere;Light Mech;Clan Invasion (3050 - 3061);Hermes;Striker;3050;0
+Hermes HER-4S;Inner Sphere;Light Mech;Clan Invasion (3050 - 3061);Hermes;Striker;3050;0
+Hermes HER-4WB;Inner Sphere;Light Mech;Jihad (3068 - 3080);Hermes;Striker;3050;0
+Hermes II HER-2M "Mercury";Inner Sphere;Medium Mech;Early Succession War (2781 - 2900);Hermes II;Striker;3039;0
+Hermes II HER-2S;Inner Sphere;Medium Mech;Early Succession War (2781 - 2900);Hermes II;Scout;3039;1
+Hermes II HER-5C;Inner Sphere;Medium Mech;Civil War (3062 - 3067);Hermes II;Striker;3050;0
+Hermes II HER-5ME "Mercury Elite";Inner Sphere;Medium Mech;Clan Invasion (3050 - 3061);Hermes II;Sniper;3050;0
+Hermes II HER-5S;Inner Sphere;Medium Mech;Clan Invasion (3050 - 3061);Hermes II;Striker;3050;0
+Hermes II HER-5SA;Inner Sphere;Medium Mech;Jihad (3068 - 3080);Hermes II;Striker;3050;0
+Hermes II HER-6D;Inner Sphere;Medium Mech;Civil War (3062 - 3067);Hermes II;Striker;3050;0
+Hermes III HER-4K;Inner Sphere;Medium Mech;Late Succession War - Renaissance (3020 - 3049);Hermes II;Scout;3039;0
+Hetzer Wheeled Assault Gun (AC10);Inner Sphere;Medium Vehicle;Early Succession War (2781 - 2900);Hetzer;Ambusher;3039;0
+Hetzer Wheeled Assault Gun (LB-X);Inner Sphere;Medium Vehicle;Civil War (3062 - 3067);Hetzer;Ambusher;3058;0
+Hetzer Wheeled Assault Gun (LRM);Inner Sphere;Medium Vehicle;Late Succession War - LosTech (2901 - 3019);Hetzer;Missile Boat;3039;0
+Hetzer Wheeled Assault Gun (Laser);Inner Sphere;Medium Vehicle;Early Succession War (2781 - 2900);Hetzer;Ambusher;3039;0
+Hetzer Wheeled Assault Gun (SRM);Inner Sphere;Medium Vehicle;Late Succession War - LosTech (2901 - 3019);Hetzer;Ambusher;3039;0
+Hetzer Wheeled Assault Gun (Scout);Inner Sphere;Medium Vehicle;Late Succession War - LosTech (2901 - 3019);Hetzer;Ambusher;3039;0
+Hetzer Wheeled Assault Gun;Inner Sphere;Medium Vehicle;Early Succession War (2781 - 2900);Hetzer;Ambusher;3039;0
+Hi-Scout Drone Carrier;Inner Sphere;Heavy Vehicle;Late Succession War - LosTech (2901 - 3019);Hi-Scout Drone Carrier;None;3039;0
+Highlander HGN-694;Inner Sphere;Assault Mech;Civil War (3062 - 3067);Highlander;Juggernaut;3050;0
+Highlander HGN-732;Inner Sphere;Assault Mech;Star League (2571 - 2780);Highlander;Sniper;3050;0
+Highlander HGN-733;Inner Sphere;Assault Mech;Early Succession War (2781 - 2900);Highlander;Juggernaut;3039;0
+Highlander HGN-733C;Inner Sphere;Assault Mech;Early Succession War (2781 - 2900);Highlander;Juggernaut;3039;0
+Highlander HGN-733P;Inner Sphere;Assault Mech;Early Succession War (2781 - 2900);Highlander;Sniper;3039;0
+Highlander HGN-734;Inner Sphere;Assault Mech;Civil War (3062 - 3067);Highlander;Juggernaut;3050;0
+Highlander HGN-736;Inner Sphere;Assault Mech;Clan Invasion (3050 - 3061);Highlander;Sniper;3050;0
+Highlander HGN-738;Inner Sphere;Assault Mech;Jihad (3068 - 3080);Highlander;Juggernaut;3050;0
+Hoplite C;Clan;Medium Mech;Clan Invasion (3050 - 3061);Hoplite;Brawler;3050;0
+Hoplite HOP-4B;Inner Sphere;Medium Mech;Star League (2571 - 2780);Hoplite;Sniper;3050;0
+Hoplite HOP-4C;Inner Sphere;Medium Mech;Star League (2571 - 2780);Hoplite;Brawler;3050;0
+Hoplite HOP-4D;Inner Sphere;Medium Mech;Clan Invasion (3050 - 3061);Hoplite;Sniper;3050;0
+Hornet HNT-151;Inner Sphere;Light Mech;Star League (2571 - 2780);Hornet;Striker;3039;0
+Hornet HNT-152;Inner Sphere;Light Mech;Late Succession War - LosTech (2901 - 3019);Hornet;Striker;3039;0
+Hornet HNT-161;Inner Sphere;Light Mech;Clan Invasion (3050 - 3061);Hornet;Striker;3050;0
+Hornet HNT-171;Inner Sphere;Light Mech;Clan Invasion (3050 - 3061);Hornet;Striker;3050;0
+Hunchback HBK-4G;Inner Sphere;Medium Mech;Star League (2571 - 2780);Hunchback;Juggernaut;3039;1
+Hunchback HBK-4H;Inner Sphere;Medium Mech;Early Succession War (2781 - 2900);Hunchback;Juggernaut;3039;0
+Hunchback HBK-4J;Inner Sphere;Medium Mech;Early Succession War (2781 - 2900);Hunchback;Missile Boat;3039;0
+Hunchback HBK-4N;Inner Sphere;Medium Mech;Late Succession War - LosTech (2901 - 3019);Hunchback;Brawler;3039;0
+Hunchback HBK-4P;Inner Sphere;Medium Mech;Late Succession War - LosTech (2901 - 3019);Hunchback;Juggernaut;3039;0
+Hunchback HBK-4SP;Inner Sphere;Medium Mech;Late Succession War - Renaissance (3020 - 3049);Hunchback;Juggernaut;3039;0
+Hunchback HBK-5H;Inner Sphere;Medium Mech;Civil War (3062 - 3067);Hunchback;Juggernaut;3050;0
+Hunchback HBK-5M;Inner Sphere;Medium Mech;Late Succession War - Renaissance (3020 - 3049);Hunchback;Juggernaut;3050;0
+Hunchback HBK-5N;Inner Sphere;Medium Mech;Clan Invasion (3050 - 3061);Hunchback;Juggernaut;3050;0
+Hunchback HBK-5P;Inner Sphere;Medium Mech;Jihad (3068 - 3080);Hunchback;Juggernaut;3050;0
+Hunchback HBK-5S;Inner Sphere;Medium Mech;Clan Invasion (3050 - 3061);Hunchback;Juggernaut;3050;0
+Hunchback HBK-5SG;Inner Sphere;Medium Mech;Jihad (3068 - 3080);Hunchback;Brawler;3050;0
+Hunchback HBK-5SS;Inner Sphere;Medium Mech;Jihad (3068 - 3080);Hunchback;Missile Boat;3050;0
+Hunchback HBK-6N;Inner Sphere;Medium Mech;Clan Invasion (3050 - 3061);Hunchback;Juggernaut;3050;0
+Hunchback HBK-6S;Inner Sphere;Medium Mech;Civil War (3062 - 3067);Hunchback;Striker;3050;0
+Hunchback IIC 2;Clan;Medium Mech;Clan Invasion (3050 - 3061);Hunchback II;Ambusher;3058;0
+Hunchback IIC 3;Clan;Medium Mech;Civil War (3062 - 3067);Hunchback II;Brawler;3058;0
+Hunchback IIC;Clan;Medium Mech;Early Succession War (2781 - 2900);Hunchback II;Ambusher;3058;1
+Hunter Light Support Tank "Assault Hunter";Inner Sphere;Light Vehicle;Civil War (3062 - 3067);Hunter Light Support Tank;Ambusher;3058;0
+Hunter Light Support Tank (3054 Upgrade);Inner Sphere;Light Vehicle;Clan Invasion (3050 - 3061);Hunter Light Support Tank;Missile Boat;3058;0
+Hunter Light Support Tank (Ammo);Inner Sphere;Light Vehicle;Late Succession War - LosTech (2901 - 3019);Hunter Light Support Tank;Missile Boat;3039;0
+Hunter Light Support Tank (ERLL);Inner Sphere;Light Vehicle;Clan Invasion (3050 - 3061);Hunter Light Support Tank;Sniper;3058;0
+Hunter Light Support Tank (LPL);Inner Sphere;Light Vehicle;Clan Invasion (3050 - 3061);Hunter Light Support Tank;Sniper;3058;0
+Hunter Light Support Tank (LRM10);Inner Sphere;Light Vehicle;Late Succession War - LosTech (2901 - 3019);Hunter Light Support Tank;Brawler;3039;0
+Hunter Light Support Tank (LRM15);Inner Sphere;Light Vehicle;Late Succession War - LosTech (2901 - 3019);Hunter Light Support Tank;Missile Boat;3039;0
+Hunter Light Support Tank;Inner Sphere;Light Vehicle;Late Succession War - LosTech (2901 - 3019);Hunter Light Support Tank;Missile Boat;3039;0
+Hussar HSR-200-D;Inner Sphere;Light Mech;Star League (2571 - 2780);Hussar;Scout;3050;0
+Hussar HSR-300-D;Inner Sphere;Light Mech;Late Succession War - Renaissance (3020 - 3049);Hussar;Scout;3039;0
+Hussar HSR-350-D;Inner Sphere;Light Mech;Late Succession War - Renaissance (3020 - 3049);Hussar;Striker;3039;0
+Hussar HSR-400-D;Inner Sphere;Light Mech;Clan Invasion (3050 - 3061);Hussar;Scout;3050;0
+Hussar HSR-500-D;Inner Sphere;Light Mech;Clan Invasion (3050 - 3061);Hussar;Scout;3050;0
+Hussar HSR-900-D;Inner Sphere;Light Mech;Jihad (3068 - 3080);Hussar;Scout;3050;0
+Hussar HSR-950-D;Inner Sphere;Light Mech;Jihad (3068 - 3080);Hussar;Striker;3050;0
+IS Standard Battle Armor [Flamer];Inner Sphere;Medium Battle Armor;Clan Invasion (3050 - 3061);IS Standard Battle Armor;Ambusher;3058;0
+IS Standard Battle Armor [LRR];Inner Sphere;Medium Battle Armor;Clan Invasion (3050 - 3061);IS Standard Battle Armor;Ambusher;3058;0
+IS Standard Battle Armor [Laser];Inner Sphere;Medium Battle Armor;Clan Invasion (3050 - 3061);IS Standard Battle Armor;Ambusher;3058;0
+IS Standard Battle Armor [MG];Inner Sphere;Medium Battle Armor;Clan Invasion (3050 - 3061);IS Standard Battle Armor;Ambusher;3058;0
+IS Standard Battle Armor [SRM];Inner Sphere;Medium Battle Armor;Clan Invasion (3050 - 3061);IS Standard Battle Armor;Ambusher;3058;0
+Imp C;Clan;Assault Mech;Early Succession War (2781 - 2900);Imp;Juggernaut;3050;0
+Imp IMP-2E;Inner Sphere;Assault Mech;Late Succession War - LosTech (2901 - 3019);Imp;Juggernaut;3050;0
+Imp IMP-3E;Inner Sphere;Assault Mech;Clan Invasion (3050 - 3061);Imp;Juggernaut;3050;0
+Imp IMP-4E;Inner Sphere;Assault Mech;Clan Invasion (3050 - 3061);Imp;Juggernaut;3050;0
+Infiltrator Mk. I Battle Armor "Waddle";Inner Sphere;Light Battle Armor;Clan Invasion (3050 - 3061);Infiltrator Mk. I;Ambusher;3058;0
+Infiltrator Mk. I Battle Armor (Special Ops);Inner Sphere;Light Battle Armor;Civil War (3062 - 3067);Infiltrator Mk. I;Ambusher;3058;0
+Infiltrator Mk. II Battle Armor "Puma";Inner Sphere;Medium Battle Armor;Clan Invasion (3050 - 3061);Infiltrator Mk. II;Ambusher;3058;0
+Infiltrator Mk. II Battle Armor (Sensor);Inner Sphere;Medium Battle Armor;Civil War (3062 - 3067);Infiltrator Mk. II;Ambusher;3058;0
+Ironsides IRN-SD1;Inner Sphere;Medium Aerospace;Star League (2571 - 2780);Ironsides;Dogfighter;3050;0
+Ironsides IRN-SD2;Inner Sphere;Medium Aerospace;Star League (2571 - 2780);Ironsides;Dogfighter;3050;0
+Ironsides IRN-SD3;Inner Sphere;Medium Aerospace;Jihad (3068 - 3080);Ironsides;Dogfighter;3050;0
+J-27 Ordnance Transport (Armor);Inner Sphere;Light Vehicle;Early Succession War (2781 - 2900);J-27 Ordnance Transport;None;3039;0
+J-27 Ordnance Transport (Fusion);Inner Sphere;Light Vehicle;Star League (2571 - 2780);J-27 Ordnance Transport;None;3039;0
+J-27 Ordnance Transport K-27 "Killjoy";Inner Sphere;Light Vehicle;Early Succession War (2781 - 2900);J-27 Ordnance Transport;Ambusher;3039;0
+J-27 Ordnance Transport Trailer;Inner Sphere;Light Vehicle;Star League (2571 - 2780);J-27 Ordnance Transport Trailer;None;3039;0
+J-27 Ordnance Transport;Inner Sphere;Light Vehicle;Star League (2571 - 2780);J-27 Ordnance Transport;None;3039;0
+J. Edgar Light Hover Tank (Flamer);Inner Sphere;Light Vehicle;Early Succession War (2781 - 2900);J. Edgar Light Hover Tank;Scout;3039;0
+J. Edgar Light Hover Tank (ICE);Inner Sphere;Light Vehicle;Early Succession War (2781 - 2900);J. Edgar Light Hover Tank;Scout;3039;0
+J. Edgar Light Hover Tank (Kurita);Inner Sphere;Light Vehicle;Clan Invasion (3050 - 3061);J. Edgar Light Hover Tank;Scout;3058;0
+J. Edgar Light Hover Tank (MG);Inner Sphere;Light Vehicle;Early Succession War (2781 - 2900);J. Edgar Light Hover Tank;Scout;3039;0
+J. Edgar Light Hover Tank (TAG);Inner Sphere;Light Vehicle;Clan Invasion (3050 - 3061);J. Edgar Light Hover Tank;Scout;3058;0
+J. Edgar Light Hover Tank;Inner Sphere;Light Vehicle;Star League (2571 - 2780);J. Edgar Light Hover Tank;Scout;3039;0
+JagerMech JM6-A;Inner Sphere;Heavy Mech;Star League (2571 - 2780);JagerMech;Missile Boat;3039;0
+JagerMech JM6-DD;Inner Sphere;Heavy Mech;Clan Invasion (3050 - 3061);JagerMech;Sniper;3050;0
+JagerMech JM6-DG;Inner Sphere;Heavy Mech;Clan Invasion (3050 - 3061);JagerMech;Sniper;3050;0
+JagerMech JM6-DGr;Inner Sphere;Heavy Mech;Clan Invasion (3050 - 3061);JagerMech;Sniper;3050;0
+JagerMech JM6-H;Inner Sphere;Heavy Mech;Civil War (3062 - 3067);JagerMech;Brawler;3050;0
+JagerMech JM6-S;Inner Sphere;Heavy Mech;Star League (2571 - 2780);JagerMech;Sniper;3039;1
+JagerMech JM7-D;Inner Sphere;Heavy Mech;Clan Invasion (3050 - 3061);JagerMech;Sniper;3050;0
+JagerMech JM7-F;Inner Sphere;Heavy Mech;Civil War (3062 - 3067);JagerMech;Brawler;3050;0
+JagerMech JM7-G;Inner Sphere;Heavy Mech;Jihad (3068 - 3080);JagerMech;Sniper;3050;0
+Javelin JVN-10F "Fire Javelin";Inner Sphere;Light Mech;Early Succession War (2781 - 2900);Javelin;Striker;3039;0
+Javelin JVN-10N;Inner Sphere;Light Mech;Star League (2571 - 2780);Javelin;Striker;3039;0
+Javelin JVN-10P;Inner Sphere;Light Mech;Clan Invasion (3050 - 3061);Javelin;Striker;3050;0
+Javelin JVN-11A "Fire Javelin";Inner Sphere;Light Mech;Clan Invasion (3050 - 3061);Javelin;Striker;3050;0
+Javelin JVN-11B;Inner Sphere;Light Mech;Clan Invasion (3050 - 3061);Javelin;Striker;3050;0
+Javelin JVN-11D;Inner Sphere;Light Mech;Civil War (3062 - 3067);Javelin;Striker;3050;0
+Javelin JVN-11F;Inner Sphere;Light Mech;Jihad (3068 - 3080);Javelin;Scout;3050;0
+Jenner JR7-A;Inner Sphere;Light Mech;Star League (2571 - 2780);Jenner;Scout;3039;0
+Jenner JR7-C2;Inner Sphere;Light Mech;Jihad (3068 - 3080);Jenner;Missile Boat;3050;0
+Jenner JR7-C3;Inner Sphere;Light Mech;Jihad (3068 - 3080);Jenner;Striker;3050;0
+Jenner JR7-C;Inner Sphere;Light Mech;Clan Invasion (3050 - 3061);Jenner;Striker;3050;0
+Jenner JR7-D;Inner Sphere;Light Mech;Early Succession War (2781 - 2900);Jenner;Striker;3039;1
+Jenner JR7-F;Inner Sphere;Light Mech;Early Succession War (2781 - 2900);Jenner;Striker;3039;0
+Jenner JR7-K;Inner Sphere;Light Mech;Late Succession War - Renaissance (3020 - 3049);Jenner;Striker;3050;0
+Kage Light Battle Armor (DEST);Inner Sphere;Light Battle Armor;Clan Invasion (3050 - 3061);Kage;Ambusher;3058;0
+Kage Light Battle Armor (Vibro-Claw);Inner Sphere;Light Battle Armor;Jihad (3068 - 3080);Kage;Scout;3058;0
+Kage Light Battle Armor [ECM];Inner Sphere;Light Battle Armor;Clan Invasion (3050 - 3061);Kage;Scout;3058;0
+Kage Light Battle Armor [Flamer];Inner Sphere;Light Battle Armor;Clan Invasion (3050 - 3061);Kage;Scout;3058;0
+Kage Light Battle Armor [Laser];Inner Sphere;Light Battle Armor;Clan Invasion (3050 - 3061);Kage;Scout;3058;0
+Kage Light Battle Armor [MG];Inner Sphere;Light Battle Armor;Clan Invasion (3050 - 3061);Kage;Scout;3058;0
+Kage Light Battle Armor [TAG];Inner Sphere;Light Battle Armor;Clan Invasion (3050 - 3061);Kage;Scout;3058;0
+Kanazuchi Assault Battle Armor (Upgrade) [Battle Claw];Inner Sphere;Assault Battle Armor;Jihad (3068 - 3080);Kanazuchi Assault Battle Armor (Upgrade);Juggernaut;3058;0
+Kanazuchi Assault Battle Armor [Battle Claw];Inner Sphere;Assault Battle Armor;Clan Invasion (3050 - 3061);Kanazuchi Assault Battle Armor;Juggernaut;3058;0
+Kanazuchi Assault Battle Armor [Industrial Drill];Inner Sphere;Assault Battle Armor;Clan Invasion (3050 - 3061);Kanazuchi Assault Battle Armor;Juggernaut;3058;0
+Kanazuchi Assault Battle Armor [Salvage Arm];Inner Sphere;Assault Battle Armor;Clan Invasion (3050 - 3061);Kanazuchi Assault Battle Armor;Juggernaut;3058;0
+Kodiak 2;Clan;Assault Mech;Civil War (3062 - 3067);Kodiak;Brawler;3058;0
+Kodiak 3;Clan;Assault Mech;Jihad (3068 - 3080);Kodiak;Brawler;3058;0
+Kodiak 4;Clan;Assault Mech;Civil War (3062 - 3067);Kodiak;Missile Boat;3058;0
+Kodiak 5;Clan;Assault Mech;Clan Invasion (3050 - 3061);Kodiak;Brawler;3058;0
+Kodiak;Clan;Assault Mech;Late Succession War - LosTech (2901 - 3019);Kodiak;Brawler;3058;1
+LRM Carrier (3055 Upgrade);Inner Sphere;Heavy Vehicle;Clan Invasion (3050 - 3061);Missile Carrier;Missile Boat;3058;0
+LRM Carrier (WoB);Inner Sphere;Heavy Vehicle;Civil War (3062 - 3067);Missile Carrier;Missile Boat;3058;0
+LRM Carrier;Inner Sphere;Heavy Vehicle;Age of War (2005 - 2570);Missile Carrier;Missile Boat;3039;0
+Laser Carrier;Inner Sphere;Heavy Vehicle;Early Succession War (2781 - 2900);Missile Carrier;Ambusher;3039;0
+MRM Carrier;Inner Sphere;Heavy Vehicle;Civil War (3062 - 3067);Missile Carrier;Ambusher;3058;0
+Mad Cat (Timber Wolf) (Bounty Hunter);Clan;Heavy Mech;Clan Invasion (3050 - 3061);Mad Cat;Brawler;3050;0
+Mad Cat (Timber Wolf) (Pryde);Clan;Heavy Mech;Clan Invasion (3050 - 3061);Mad Cat;Missile Boat;3050;0
+Mad Cat (Timber Wolf) A;Clan;Heavy Mech;Late Succession War - LosTech (2901 - 3019);Mad Cat;Skirmisher;3050;0
+Mad Cat (Timber Wolf) B;Clan;Heavy Mech;Late Succession War - LosTech (2901 - 3019);Mad Cat;Sniper;3050;0
+Mad Cat (Timber Wolf) C;Clan;Heavy Mech;Late Succession War - LosTech (2901 - 3019);Mad Cat;Sniper;3050;0
+Mad Cat (Timber Wolf) D;Clan;Heavy Mech;Late Succession War - LosTech (2901 - 3019);Mad Cat;Skirmisher;3050;0
+Mad Cat (Timber Wolf) E;Clan;Heavy Mech;Clan Invasion (3050 - 3061);Mad Cat;Sniper;3050;0
+Mad Cat (Timber Wolf) F;Clan;Heavy Mech;Jihad (3068 - 3080);Mad Cat;Missile Boat;3050;0
+Mad Cat (Timber Wolf) Prime;Clan;Heavy Mech;Late Succession War - LosTech (2901 - 3019);Mad Cat;Brawler;3050;2
+Mad Cat (Timber Wolf) S;Clan;Heavy Mech;Clan Invasion (3050 - 3061);Mad Cat;Skirmisher;3050;0
+Panther PNT-10K;Inner Sphere;Light Mech;Clan Invasion (3050 - 3061);Panther;Brawler;3050;0
+Panther PNT-10KA;Inner Sphere;Light Mech;Clan Invasion (3050 - 3061);Panther;Brawler;3050;0
+Panther PNT-12A;Inner Sphere;Light Mech;Civil War (3062 - 3067);Panther;Brawler;3050;0
+Panther PNT-14S;Inner Sphere;Light Mech;Jihad (3068 - 3080);Panther;Scout;3050;0
+Panther PNT-16K;Inner Sphere;Light Mech;Jihad (3068 - 3080);Panther;Brawler;3050;0
+Panther PNT-8Z;Inner Sphere;Light Mech;Star League (2571 - 2780);Panther;Brawler;3039;0
+Panther PNT-9R;Inner Sphere;Light Mech;Star League (2571 - 2780);Panther;Brawler;3039;1
+Panther PNT-C;Inner Sphere;Light Mech;Clan Invasion (3050 - 3061);Panther;Brawler;3050;0
+Panther PNT-CA;Inner Sphere;Light Mech;Clan Invasion (3050 - 3061);Panther;Brawler;3050;0
+Patton Tank (Ultra);Inner Sphere;Heavy Vehicle;Civil War (3062 - 3067);Patton/Rommel;Brawler;3058;0
+Patton Tank;Inner Sphere;Heavy Vehicle;Late Succession War - Renaissance (3020 - 3049);Patton/Rommel;Brawler;3039;0
+Puma (Adder) A;Clan;Light Mech;Late Succession War - LosTech (2901 - 3019);Puma;Missile Boat;3050;0
+Puma (Adder) B;Clan;Light Mech;Late Succession War - LosTech (2901 - 3019);Puma;Sniper;3050;0
+Puma (Adder) C;Clan;Light Mech;Late Succession War - LosTech (2901 - 3019);Puma;Missile Boat;3050;0
+Puma (Adder) D;Clan;Light Mech;Late Succession War - LosTech (2901 - 3019);Puma;Sniper;3050;0
+Puma (Adder) E;Clan;Light Mech;Clan Invasion (3050 - 3061);Puma;Sniper;3050;0
+Puma (Adder) H;Clan;Light Mech;Clan Invasion (3050 - 3061);Puma;Brawler;3050;0
+Puma (Adder) J;Clan;Light Mech;Jihad (3068 - 3080);Puma;Sniper;3050;0
+Puma (Adder) Prime;Clan;Light Mech;Late Succession War - LosTech (2901 - 3019);Puma;Sniper;3050;1
+Quickdraw QKD-4G;Inner Sphere;Heavy Mech;Star League (2571 - 2780);Quickdraw;Skirmisher;3039;1
+Quickdraw QKD-4H;Inner Sphere;Heavy Mech;Early Succession War (2781 - 2900);Quickdraw;Skirmisher;3039;0
+Quickdraw QKD-5A;Inner Sphere;Heavy Mech;Late Succession War - LosTech (2901 - 3019);Quickdraw;Skirmisher;3039;0
+Quickdraw QKD-5K2;Inner Sphere;Heavy Mech;Clan Invasion (3050 - 3061);Quickdraw;Skirmisher;3050;0
+Quickdraw QKD-5K;Inner Sphere;Heavy Mech;Clan Invasion (3050 - 3061);Quickdraw;Skirmisher;3050;0
+Quickdraw QKD-5M;Inner Sphere;Heavy Mech;Clan Invasion (3050 - 3061);Quickdraw;Skirmisher;3050;0
+Quickdraw QKD-8K;Inner Sphere;Heavy Mech;Civil War (3062 - 3067);Quickdraw;Skirmisher;3050;0
+Quickdraw QKD-C;Inner Sphere;Heavy Mech;Clan Invasion (3050 - 3061);Quickdraw;Skirmisher;3050;0
+Rommel Tank (Gauss);Inner Sphere;Heavy Vehicle;Clan Invasion (3050 - 3061);Patton/Rommel;Brawler;3058;0
+Rommel Tank;Inner Sphere;Heavy Vehicle;Late Succession War - Renaissance (3020 - 3049);Patton/Rommel;Juggernaut;3039;0
+SRM Carrier (3054 Upgrade);Inner Sphere;Heavy Vehicle;Clan Invasion (3050 - 3061);Missile Carrier;Ambusher;3058;0
+SRM Carrier (C3);Inner Sphere;Heavy Vehicle;Civil War (3062 - 3067);Missile Carrier;Ambusher;3058;0
+SRM Carrier (WoB);Inner Sphere;Heavy Vehicle;Jihad (3068 - 3080);Missile Carrier;Ambusher;3058;0
+SRM Carrier;Inner Sphere;Heavy Vehicle;Age of War (2005 - 2570);Missile Carrier;Ambusher;3039;0
+Seydlitz SYD-21;Inner Sphere;Light Aerospace;Age of War (2005 - 2570);Seydlitz;Interceptor;3039;1
+Seydlitz SYD-Z1;Inner Sphere;Light Aerospace;Clan Invasion (3050 - 3061);Seydlitz;Interceptor;3039;0
+Seydlitz SYD-Z2;Inner Sphere;Light Aerospace;Star League (2571 - 2780);Seydlitz;Interceptor;3039;0
+Seydlitz SYD-Z2A;Inner Sphere;Light Aerospace;Clan Invasion (3050 - 3061);Seydlitz;Interceptor;3039;0
+Seydlitz SYD-Z2B;Inner Sphere;Light Aerospace;Civil War (3062 - 3067);Seydlitz;Interceptor;3039;0
+Seydlitz SYD-Z3;Inner Sphere;Light Aerospace;Early Succession War (2781 - 2900);Seydlitz;Interceptor;3039;0
+Seydlitz SYD-Z3A;Inner Sphere;Light Aerospace;Civil War (3062 - 3067);Seydlitz;Interceptor;3039;0
+Seydlitz SYD-Z4;Inner Sphere;Light Aerospace;Civil War (3062 - 3067);Seydlitz;Interceptor;3039;0
+Spider SDR-5D;Inner Sphere;Light Mech;Early Succession War (2781 - 2900);Spider;Scout;3039;0
+Spider SDR-5K;Inner Sphere;Light Mech;Early Succession War (2781 - 2900);Spider;Scout;3039;0
+Spider SDR-5V;Inner Sphere;Light Mech;Star League (2571 - 2780);Spider;Scout;3039;1
+Spider SDR-7K2;Inner Sphere;Light Mech;Jihad (3068 - 3080);Spider;Scout;3050;0
+Spider SDR-7K;Inner Sphere;Light Mech;Civil War (3062 - 3067);Spider;Striker;3050;0
+Spider SDR-7KC;Inner Sphere;Light Mech;Jihad (3068 - 3080);Spider;Scout;3050;0
+Spider SDR-7M;Inner Sphere;Light Mech;Clan Invasion (3050 - 3061);Spider;Striker;3050;0
+Spider SDR-8M;Inner Sphere;Light Mech;Clan Invasion (3050 - 3061);Spider;Striker;3050;0
+Spider SDR-C;Inner Sphere;Light Mech;Clan Invasion (3050 - 3061);Spider;Striker;3050;0
+Supernova 2;Clan;Assault Mech;Civil War (3062 - 3067);Supernova;Juggernaut;3058;0
+Supernova 3;Clan;Assault Mech;Civil War (3062 - 3067);Supernova;Sniper;3058;0
+Supernova 4;Clan;Assault Mech;Civil War (3062 - 3067);Supernova;Juggernaut;3058;0
+Supernova;Clan;Assault Mech;Early Succession War (2781 - 2900);Supernova;Sniper;3058;1
+Sylph Battle Armor (Upgrade);Clan;Light Battle Armor;Clan Invasion (3050 - 3061);Sylph;Scout;3058;0
+Sylph Battle Armor;Clan;Light Battle Armor;Clan Invasion (3050 - 3061);Sylph;Scout;3058;0
+Trebuchet TBT-3C;Inner Sphere;Medium Mech;Star League (2571 - 2780);Trebuchet;Missile Boat;3050;0
+Trebuchet TBT-5J;Inner Sphere;Medium Mech;Early Succession War (2781 - 2900);Trebuchet;Skirmisher;3039;0
+Trebuchet TBT-5N;Inner Sphere;Medium Mech;Early Succession War (2781 - 2900);Trebuchet;Missile Boat;3039;1
+Trebuchet TBT-5S;Inner Sphere;Medium Mech;Early Succession War (2781 - 2900);Trebuchet;Skirmisher;3039;0
+Trebuchet TBT-7K;Inner Sphere;Medium Mech;Late Succession War - Renaissance (3020 - 3049);Trebuchet;Sniper;3039;0
+Trebuchet TBT-7M;Inner Sphere;Medium Mech;Late Succession War - Renaissance (3020 - 3049);Trebuchet;Missile Boat;3050;0
+Trebuchet TBT-8B;Inner Sphere;Medium Mech;Jihad (3068 - 3080);Trebuchet;Missile Boat;3050;0
+Trebuchet TBT-9K;Inner Sphere;Medium Mech;Clan Invasion (3050 - 3061);Trebuchet;Striker;3050;0
+UrbanMech UM-R60;Inner Sphere;Light Mech;Star League (2571 - 2780);UrbanMech;Ambusher;3039;0
+UrbanMech UM-R60L;Inner Sphere;Light Mech;Late Succession War - LosTech (2901 - 3019);UrbanMech;Ambusher;3039;0
+UrbanMech UM-R63;Inner Sphere;Light Mech;Clan Invasion (3050 - 3061);UrbanMech;Sniper;3050;1
+UrbanMech UM-R68;Inner Sphere;Light Mech;Civil War (3062 - 3067);UrbanMech;Ambusher;3050;0
+UrbanMech UM-R69;Inner Sphere;Light Mech;Civil War (3062 - 3067);UrbanMech;Sniper;3050;0
+UrbanMech UM-R70;Inner Sphere;Light Mech;Civil War (3062 - 3067);UrbanMech;Ambusher;3050;0
+Vindicator VND-1AA "Avenging Angel";Inner Sphere;Medium Mech;Early Succession War (2781 - 2900);Vindicator;Skirmisher;3039;0
+Vindicator VND-1R (Vong);Inner Sphere;Medium Mech;Late Succession War - Renaissance (3020 - 3049);Vindicator;Brawler;3039;0
+Vindicator VND-1R;Inner Sphere;Medium Mech;Early Succession War (2781 - 2900);Vindicator;Brawler;3039;1
+Vindicator VND-1SIC;Inner Sphere;Medium Mech;Late Succession War - Renaissance (3020 - 3049);Vindicator;Brawler;3039;0
+Vindicator VND-1X;Inner Sphere;Medium Mech;Early Succession War (2781 - 2900);Vindicator;Brawler;3039;0
+Vindicator VND-3L;Inner Sphere;Medium Mech;Clan Invasion (3050 - 3061);Vindicator;Brawler;3050;0
+Vindicator VND-4L;Inner Sphere;Medium Mech;Civil War (3062 - 3067);Vindicator;Skirmisher;3050;0
+Vindicator VND-5L;Inner Sphere;Medium Mech;Clan Invasion (3050 - 3061);Vindicator;Skirmisher;3050;0
+Vindicator VND-6L;Inner Sphere;Medium Mech;Jihad (3068 - 3080);Vindicator;Skirmisher;3050;0
+Vulture (Mad Dog) A;Clan;Heavy Mech;Late Succession War - LosTech (2901 - 3019);Vulture;Skirmisher;3050;0
+Vulture (Mad Dog) B;Clan;Heavy Mech;Late Succession War - LosTech (2901 - 3019);Vulture;Skirmisher;3050;0
+Vulture (Mad Dog) C;Clan;Heavy Mech;Late Succession War - LosTech (2901 - 3019);Vulture;Sniper;3050;0
+Vulture (Mad Dog) D;Clan;Heavy Mech;Clan Invasion (3050 - 3061);Vulture;Skirmisher;3050;0
+Vulture (Mad Dog) E;Clan;Heavy Mech;Jihad (3068 - 3080);Vulture;Sniper;3050;0
+Vulture (Mad Dog) F;Clan;Heavy Mech;Jihad (3068 - 3080);Vulture;Skirmisher;3050;0
+Vulture (Mad Dog) H;Clan;Heavy Mech;Clan Invasion (3050 - 3061);Vulture;Missile Boat;3050;0
+Vulture (Mad Dog) Prime;Clan;Heavy Mech;Late Succession War - LosTech (2901 - 3019);Vulture;Missile Boat;3050;1
+Whitworth WTH-0;Inner Sphere;Medium Mech;Star League (2571 - 2780);Whitworth;Skirmisher;3039;0
+Whitworth WTH-1;Inner Sphere;Medium Mech;Star League (2571 - 2780);Whitworth;Missile Boat;3039;1
+Whitworth WTH-1H;Inner Sphere;Medium Mech;Civil War (3062 - 3067);Whitworth;Juggernaut;3050;0
+Whitworth WTH-1S;Inner Sphere;Medium Mech;Star League (2571 - 2780);Whitworth;Skirmisher;3039;0
+Whitworth WTH-2;Inner Sphere;Medium Mech;Clan Invasion (3050 - 3061);Whitworth;Missile Boat;3050;0
+Whitworth WTH-2A;Inner Sphere;Medium Mech;Jihad (3068 - 3080);Whitworth;Juggernaut;3050;0
+Whitworth WTH-3;Inner Sphere;Medium Mech;Jihad (3068 - 3080);Whitworth;Missile Boat;3050;0
+Whitworth WTH-K;Inner Sphere;Medium Mech;Jihad (3068 - 3080);Whitworth;Missile Boat;3050;0
+Zephyr Hovertank (C3i);Inner Sphere;Medium Vehicle;Civil War (3062 - 3067);Zephyr;Striker;3050;0
+Zephyr Hovertank (LRM);Inner Sphere;Medium Vehicle;Civil War (3062 - 3067);Zephyr;Missile Boat;3050;0
+Zephyr Hovertank (SRM2);Inner Sphere;Medium Vehicle;Star League (2571 - 2780);Zephyr;Striker;3050;0
+Zephyr Hovertank;Inner Sphere;Medium Vehicle;Star League (2571 - 2780);Zephyr;Striker;3050;0
+Zero ZRO-114;Inner Sphere;Light Aerospace;Star League (2571 - 2780);Zero;Dogfighter;3050;0
+Zero ZRO-115;Inner Sphere;Light Aerospace;Clan Invasion (3050 - 3061);Zero;Dogfighter;3050;0
+Zeus ZEU-10WB;Inner Sphere;Assault Mech;Jihad (3068 - 3080);Zeus;Sniper;3050;0
+Zeus ZEU-5S;Inner Sphere;Assault Mech;Early Succession War (2781 - 2900);Zeus;Sniper;3039;0
+Zeus ZEU-5T;Inner Sphere;Assault Mech;Early Succession War (2781 - 2900);Zeus;Sniper;3039;0
+Zeus ZEU-6S;Inner Sphere;Assault Mech;Early Succession War (2781 - 2900);Zeus;Sniper;3039;1
+Zeus ZEU-6T;Inner Sphere;Assault Mech;Late Succession War - Renaissance (3020 - 3049);Zeus;Sniper;3039;0
+Zeus ZEU-9S-DC;Inner Sphere;Assault Mech;Clan Invasion (3050 - 3061);Zeus;Sniper;3050;0
+Zeus ZEU-9S2;Inner Sphere;Assault Mech;Clan Invasion (3050 - 3061);Zeus;Sniper;3050;0
+Zeus ZEU-9S;Inner Sphere;Assault Mech;Clan Invasion (3050 - 3061);Zeus;Sniper;3050;0
+Zeus ZEU-9T;Inner Sphere;Assault Mech;Civil War (3062 - 3067);Zeus;Brawler;3050;0
+Zeus-X ZEU-9WD;Inner Sphere;Assault Mech;Civil War (3062 - 3067);Zeus-X;Brawler;3050;0
+Zhukov Heavy Tank (WoB);Inner Sphere;Heavy Vehicle;Jihad (3068 - 3080);Zhukov;Juggernaut;3058;0
+Zhukov Heavy Tank;Inner Sphere;Heavy Vehicle;Late Succession War - Renaissance (3020 - 3049);Zhukov;Juggernaut;3058;0
+Kanga Medium Hovertank;Inner Sphere;Medium Vehicle;Star League (2571 - 2780);Kanga;Striker;3050;0
+Karnov UR Transport (AC);Inner Sphere;Light Vehicle;Unknown (4000 - 4000);Karnov;Striker;3039;0
+Karnov UR Transport (Artillery);Inner Sphere;Light Vehicle;Unknown (4000 - 4000);Karnov;Missile Boat;3039;0
+Karnov UR Transport (BA);Inner Sphere;Light Vehicle;Civil War (3062 - 3067);Karnov;None;3058;0
+Karnov UR Gunship;Inner Sphere;Light Vehicle;Late Succession War - Renaissance (3020 - 3049);Karnov;Striker;3039;0
+Karnov UR Transport (Periphery);Inner Sphere;Light Vehicle;Civil War (3062 - 3067);Karnov;Scout;3058;0
+Karnov UR Transport;Inner Sphere;Light Vehicle;Unknown (4000 - 4000);Karnov;Scout;3039;0
+Karnov UR Transport (3055 Upgrade);Inner Sphere;Light Vehicle;Clan Invasion (3050 - 3061);Karnov;None;3058;0
+Katana (Crockett) CRK-5003-C;Inner Sphere;Assault Mech;Clan Invasion (3050 - 3061);Katana;Juggernaut;3050;0
+Katana (Crockett) CRK-5003-CJ;Inner Sphere;Assault Mech;Jihad (3068 - 3080);Katana;Skirmisher;3050;0
+Katana (Crockett) CRK-5003-CM;Inner Sphere;Assault Mech;Clan Invasion (3050 - 3061);Katana;Juggernaut;3050;0
+Katana (Crockett) CRK-5006-1;Inner Sphere;Assault Mech;Late Republic (3101 - 3130);Katana;Skirmisher;3050;0

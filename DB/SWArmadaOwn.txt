@@ -1,0 +1,67 @@
+A-Wing Squadron;2
+ARC-170 Starfighter Squadron;2
+Acclamator Assault Ship;1
+Aggressor Assault Fighter;1
+Arquitens Cruiser;1
+Assault Frigate;1
+B-Wing Squadron;2
+BTL-B Y-Wing Squadron;2
+Belbullab-22 Starfighter Squadron;2
+CR90 Corvette;2
+Consular-class;2
+Corellian Conflict;1
+Delta-7 Aethersprite Squadron;2
+Droid Tri-Fighter Squadron;2
+E-Wing Squadron;2
+Executor;0
+Firespray-31;1
+GR-75;1
+Gladiator Star Destroyer;0
+Gozanti-class Cruiser;2
+HWK-290;1
+Hammerhead Corvette;2
+Hardcell;2
+Hyena-Class Droid Bomber Squadron;2
+Imperial Star Destroyer (Refit);0
+Imperial Star Destroyer;0
+Interdictor;1
+JumpMaster 5000;1
+Lambda-Class Shuttle;2
+Lancer-class Pursuit Craft;2
+MC30c Frigate;2
+MC75 Cruiser;1
+MC80 Cruiser;1
+MC80 Star Cruiser;0
+Mandalorian Gauntlet Fighter;0
+Mandalorian Gauntlet Fighter;0
+Modified Pelta-Class;1
+Munificent-class Frigate;1
+Nebulon-B;2
+Onager;0
+Pelta-class Frigate;0
+Providence-Class;1
+Quasar Fire Carrier;0
+Raider Corvette;0
+Rebellion in the Rim;0
+Recusant-class Destroyer;0
+Scurrg H-6 Bomber;1
+Starhawk-Class Battleship;0
+TIE Advanced Squadron;2
+TIE Bomber Squadron;2
+TIE Defender Squadron;2
+TIE Fighter Squadron;8
+TIE Interceptor Squadron;2
+TIE Phantom Squadron;2
+Upgrade Card Pack;1
+V-19 Torrent Squadron;6
+VCX-100 Freighter;2
+VT-49 Decimator;2
+Venator-class Star Destroyer;1
+Victory Star Destroyer;2
+Vulture-Class Droid Fighter Squadron;6
+X-Wing Squadron;6
+Y-Wing Squadron;2
+YT-1300;1
+YT-2400;1
+YV-666;1
+Z-95 Headhunter Squadron;2

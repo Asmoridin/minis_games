@@ -1,0 +1,245 @@
+Faction: Baratheon
+Commander: Loras Tyrell - The Knight of Flowers
+Points: 40 / 40
+Activations: 7
+
+Combat Units
+ • Rose Knights ( 7 )
+     Loras Tyrell - The Knight of Flowers ( 0 )
+ • Golden Company Crossbowmen ( 7 )
+     Bronn - The Sellsword ( 1 )
+ • Crownland Scouts ( 6 )
+ • Riders of Highgarden ( 6 )
+
+Non Combat Units
+ • Cortnay Penrose ( 4 )
+ • Olenna Tyrell ( 5 )
+ • Lord Varys ( 4 )
+
+Faction: Baratheon
+Commander: Stannis Baratheon - The Rightful Heir
+Points: 40 / 40
+Activations: 7
+
+Combat Units
+ • King's Men ( 7 )
+     Stannis Baratheon - The Rightful Heir ( 0 )
+ • R'hllor Lightbringers ( 6 )
+     Bronn - The Sellsword ( 1 )
+ • Dragonstone Noble ( 4 )
+ • Champions of The Stag ( 8 )
+     Glory Seeker ( 1 )
+
+Non Combat Units
+ • Alester Florent ( 4 )
+ • Patchface ( 4 )
+ • Cressen ( 5 )
+
+Faction: Baratheon
+Commander: Stannis Baratheon - The One True King
+Points: 40 / 40
+Activations: 7
+
+Combat Units
+ • R'hllor Queen's Men ( 7 )
+     Stannis Baratheon - The One True King ( 0 )
+ • King's Men ( 7 )
+     Ramsay Snow - Sadist ( 2 )
+     Theon Greyjoy - Reek ( 0 )
+ • R'hllor Lightbringers ( 6 )
+     Davos Seaworth - Onion Knight ( 1 )
+ • Dragonstone Noble ( 4 )
+
+Non Combat Units
+ • Melisandre ( 5 )
+ • Jaqen H'ghar ( 4 )
+ • Patchface ( 4 )
+
+Faction: Baratheon
+Commander: Cortnay Penrose - Castellan of Storm's End
+Points: 40 / 40
+Activations: 7
+
+Combat Units
+ • Stag Knights ( 7 )
+     Cortnay Penrose - Castellan of Storm's End ( 0 )
+ • Golden Company Crossbowmen ( 7 )
+     Bronn - The Sellsword ( 1 )
+ • Riders of Highgarden ( 6 )
+ • Crownland Scouts ( 6 )
+
+Non Combat Units
+ • Olenna Tyrell ( 5 )
+ • Lord Varys ( 4 )
+ • Margaery Tyrell ( 4 )
+
+Faction: Baratheon
+Commander: Andrew Estermont - First of The King's Men
+Points: 40 / 40
+Activations: 7
+
+Combat Units
+ • King's Men ( 7 )
+     Andrew Estermont - First of The King's Men ( 0 )
+ • R'hllor Lightbringers ( 6 )
+     Davos Seaworth - Onion Knight ( 1 )
+ • R'hllor Queen's Men ( 7 )
+     Axell Florent - Fanatical Devotee ( 2 )
+ • Baratheon Wardens ( 5 )
+
+Non Combat Units
+ • Shyra Errol ( 4 )
+ • Alester Florent ( 4 )
+ • Patchface ( 4 )
+
+Faction: Baratheon
+Commander: Axell Florent - First of the Queen's Men
+Points: 40 / 40
+Activations: 7
+
+Combat Units
+ • House Bolton Cutthroats ( 5 )
+     Axell Florent - First of the Queen's Men ( 0 )
+ • Crownland Scouts ( 6 )
+ • R'hllor Lightbringers ( 6 )
+     Davos Seaworth - Onion Knight ( 1 )
+ • King's Men ( 7 )
+     Ramsay Snow - Sadist ( 2 )
+     Theon Greyjoy - Reek ( 0 )
+
+Non Combat Units
+ • Alester Florent ( 4 )
+ • Melisandre ( 5 )
+ • Jaqen H'ghar ( 4 )
+
+Faction: Baratheon
+Commander: Davos Seaworth - Hero of Blackwater
+Points: 40 / 40
+Activations: 7
+
+Combat Units
+ • King's Men ( 7 )
+     Davos Seaworth - Hero of Blackwater ( 0 )
+     Devan Seaworth - King's Squire ( 1 )
+ • Baratheon Halberdiers ( 6 )
+ • Crownland Scouts ( 6 )
+ • R'hllor Lightbringers ( 6 )
+     Bronn - The Sellsword ( 1 )
+
+Non Combat Units
+ • Alester Florent ( 4 )
+ • Axell Florent ( 4 )
+ • Cressen ( 5 )
+
+Faction: Baratheon
+Commander: Eldon Estermont - Lord of Greenstone
+Points: 40 / 40
+Activations: 7
+
+Combat Units
+ • Baratheon Sentinels ( 5 )
+     Eldon Estermont - Lord of Greenstone ( 0 )
+ • Champions of The Stag ( 8 )
+ • Rose Knights ( 7 )
+     Loras Tyrell - King's Squire ( 2 )
+ • Baratheon Wardens ( 5 )
+
+Non Combat Units
+ • Margaery Tyrell ( 4 )
+ • Olenna Tyrell ( 5 )
+ • Cortnay Penrose ( 4 )
+
+Faction: Baratheon
+Commander: Justin Massey - The Smiler
+Points: 40 / 40
+Activations: 7
+
+Combat Units
+ • R'hllor Lightbringers ( 6 )
+     Justin Massey - The Smiler ( 0 )
+ • R'hllor Lightbringers ( 6 )
+     Bronn - The Sellsword ( 1 )
+ • Crownland Scouts ( 6 )
+ • House Bolton Flayed Men ( 8 )
+     Glory Seeker ( 1 )
+
+Non Combat Units
+ • Axell Florent ( 4 )
+ • Davos Seaworth ( 4 )
+ • Shyra Errol ( 4 )
+
+Faction: Baratheon
+Commander: Renly Baratheon - The Charismatic Heir
+Points: 40 / 40
+Activations: 7
+
+Combat Units
+ • Golden Company Crossbowmen ( 7 )
+     Renly Baratheon - The Charismatic Heir ( 0 )
+ • Rose Knights ( 7 )
+ • Rose Knights ( 7 )
+ • Crownland Scouts ( 6 )
+
+Non Combat Units
+ • Cortnay Penrose ( 4 )
+ • Margaery Tyrell ( 4 )
+ • Tycho Nestoris ( 5 )
+
+Faction: Baratheon
+Commander: Renly Baratheon - King in the South
+Points: 40 / 40
+Activations: 7
+
+Combat Units
+ • Rainbow Guard ( 6 )
+     Renly Baratheon - King in the South ( 0 )
+ • Stag Knights ( 7 )
+     Biter - Rorge's Mad Dog ( 0 )
+ • Crownland Scouts ( 6 )
+ • Thorn Watch ( 6 )
+     Rorge - The Mad Dog of Saltpans ( 2 )
+
+Non Combat Units
+ • Olenna Tyrell ( 5 )
+ • Jaqen H'ghar ( 4 )
+ • Cortnay Penrose ( 4 )
+
+Faction: Baratheon
+Commander: Renly Baratheon - Lord Paramount of the Stormlands
+Points: 40 / 40
+Activations: 7
+
+Combat Units
+ • Rose Knights ( 7 )
+     Renly Baratheon - Lord Paramount of the Stormlands ( 0 )
+ • Golden Company Crossbowmen ( 7 )
+     Brienne - The Blue ( 1 )
+ • Stag Knights ( 7 )
+     Stag Knight Noble ( 1 )
+ • Baratheon Wardens ( 5 )
+
+Non Combat Units
+ • Cortnay Penrose ( 4 )
+ • Margaery Tyrell ( 4 )
+ • Lord Varys ( 4 )
+
+Faction: Baratheon
+Commander: Stannis Baratheon - King at the Wall
+Points: 40 / 40
+Activations: 7
+
+Combat Units
+ • Hedge Knights ( 7 )
+     Stannis Baratheon - King at the Wall ( 0 )
+ • R'hllor Lightbringers ( 6 )
+     Red Priestess ( 1 )
+ • King's Men ( 7 )
+     Devan Seaworth - King's Squire ( 1 )
+ • Stormcrow Mercenaries ( 5 )
+     Davos Seaworth - Onion Knight ( 1 )
+
+Non Combat Units
+ • Axell Florent ( 4 )
+ • Cressen ( 5 )
+ • Alester Florent ( 4 )
+

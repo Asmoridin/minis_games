@@ -1,0 +1,11 @@
+SAS Troopers (Paired);UK;Trooper;3;0
+SAS Trooper;UK;Trooper;3;0
+SAS Sergeant;UK;Character;2;0
+SAS Officer;UK;Character;1;0
+Dog Handler;Germany;Trooper;3;0
+Feldgendarmes (Paired);Germany;Trooper;2;0
+Feldgendarme;Germany;Trooper;2;0
+Sentries (Paired);Germany;Trooper;3;0
+Sentry;Germany;Trooper;3;0
+Heer Sergeant;Germany;Character;2;0
+Heer Officer;Germany;Character;1;0

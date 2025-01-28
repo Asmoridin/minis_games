@@ -1,0 +1,152 @@
+Faction: Lannister
+Commander: Tyrion Lannister - Halfman
+Points: 40 / 40
+Activations: 7
+
+Combat Units
+ • Golden Company Crossbowmen ( 7 )
+     Tyrion Lannister - Halfman ( 0 )
+ • Lannister Crossbowmen ( 6 )
+     Bronn - The Sellsword ( 1 )
+ • Gregor Clegane - The Mountain That Rides ( 4 )
+ • Knights of Casterly Rock ( 8 )
+
+Non Combat Units
+ • Tywin Lannister ( 6 )
+ • Tommen Baratheon ( 4 )
+ • Petyr Baelish ( 4 )
+
+Faction: Lannister
+Commander: Gregor Clegane - The Mountain
+Points: 40 / 40
+Activations: 7
+
+Combat Units
+ • Casterly Rock Honor Guard ( 7 )
+     Gregor Clegane - The Mountain ( 0 )
+ • House Clegane Brigands ( 6 )
+ • Stormcrow Mercenaries ( 5 )
+     Tyrion Lannister - The Giant of Lannister ( 1 )
+ • Knights of Casterly Rock ( 8 )
+
+Non Combat Units
+ • Tywin Lannister ( 6 )
+ • Qyburn ( 4 )
+ • Shae ( 4 )
+
+Faction: Lannister
+Commander: Tywin Lannister - Lord of Casterly Rock
+Points: 40 / 40
+Activations: 7
+
+Combat Units
+ • Casterly Rock Honor Guard ( 7 )
+     Tywin Lannister - Lord of Casterly Rock ( 0 )
+ • Pyromancers ( 7 )
+     Bronn - The Sellsword ( 1 )
+ • Knights of Casterly Rock ( 8 )
+ • Stone Crows ( 5 )
+     Tyrion Lannister - The Giant of Lannister ( 1 )
+
+Non Combat Units
+ • Pycelle ( 4 )
+ • Lord Varys ( 4 )
+ • Petyr Baelish ( 4 )
+
+Faction: Lannister
+Commander: Kevan Lannister - Protector of the Realm
+Points: 40 / 40
+Activations: 7
+
+Combat Units
+ • Casterly Rock Honor Guard ( 7 )
+     Kevan Lannister - Protector of the Realm ( 0 )
+ • Lannister Guardsmen ( 5 )
+     Barristan Selmy - Kingsguard ( 2 )
+ • Knights of Casterly Rock ( 8 )
+ • Gregor Clegane - The Mountain That Rides ( 4 )
+
+Non Combat Units
+ • Petyr Baelish ( 4 )
+ • Lord Varys ( 4 )
+ • Tywin Lannister ( 6 )
+
+Faction: Lannister
+Commander: Addam Marbrand - Commander of the City Watch
+Points: 40 / 40
+Activations: 8
+
+Combat Units
+ • Lannister Guardsmen ( 5 )
+     Addam Marbrand - Commander of the City Watch ( 0 )
+ • Lannister Crossbowmen ( 6 )
+ • Golden Company Crossbowmen ( 7 )
+ • Gregor Clegane - The Mountain That Rides ( 4 )
+ • House Clegane Brigands ( 6 )
+
+Non Combat Units
+ • Pycelle ( 4 )
+ • Tommen Baratheon ( 4 )
+ • Lord Varys ( 4 )
+
+Faction: Lannister
+Commander: The High Sparrow - His High Holiness
+Points: 40 / 40
+Activations: 7
+
+Combat Units
+ • Pyromancers ( 7 )
+     The High Sparrow - His High Holiness ( 0 )
+ • Stone Crows ( 5 )
+     Tyrion Lannister - The Giant of Lannister ( 1 )
+ • House Bolton Flayed Men ( 8 )
+     Glory Seeker ( 1 )
+ • Lannister Crossbowmen ( 6 )
+
+Non Combat Units
+ • Tommen Baratheon ( 4 )
+ • Kevan Lannister ( 5 )
+ • Pycelle ( 4 )
+
+Faction: Lannister
+Commander: Jaime Lannister - The Kingslayer
+Points: 40 / 40
+Activations: 7
+
+Combat Units
+ • Casterly Rock Honor Guard ( 7 )
+     Jaime Lannister - The Kingslayer ( 0 )
+ • Stone Crows ( 5 )
+     Tyrion Lannister - The Giant of Lannister ( 1 )
+ • Knights of Casterly Rock ( 8 )
+ • Lannister Halberdiers ( 5 )
+     Boros Blount - Kingsguard ( 1 )
+ • Lannister Halberdiers ( 5 )
+     Bronn - The Sellsword ( 1 )
+
+Non Combat Units
+ • Pycelle ( 4 )
+ • Qyburn ( 4 )
+
+Faction: Lannister
+Commander: Joffrey Baratheon - First of His Name
+Points: 40 / 40
+Activations: 7
+
+Combat Units
+ • Kingsguard ( 6 )
+     Joffrey Baratheon - First of His Name ( 0 )
+ • Lannister Crossbowmen ( 6 )
+     Bronn - The Sellsword ( 1 )
+ • House Clegane Brigands ( 6 )
+ • Stormcrow Mercenaries ( 5 )
+     Tyrion Lannister - The Giant of Lannister ( 1 )
+
+Non Combat Units
+ • Qyburn ( 4 )
+ • Kevan Lannister ( 5 )
+ • Tywin Lannister ( 6 )
+
+Enemy Attachments
+ • Turncoat ( 1 )
+

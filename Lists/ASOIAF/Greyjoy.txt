@@ -1,0 +1,159 @@
+Faction: Greyjoy
+Commander: Baelor Blacktyde - Lord of Blacktyde
+Points: 40 / 40
+Activations: 8
+
+Combat Units
+ • Iron Victory Crew ( 6 )
+     Baelor Blacktyde - Lord of Blacktyde ( 0 )
+ • Ironmakers ( 7 )
+     Stormcrow Lieutenant ( 1 )
+ • Drowned Men ( 4 )
+ • Ironborn Bowmen ( 4 )
+ • Stony Shore Pillagers ( 5 )
+
+Non Combat Units
+ • Wendamyr ( 4 )
+ • Erik Ironmaker ( 4 )
+ • Balon Greyjoy ( 5 )
+
+Faction: Greyjoy
+Commander: Victarion Greyjoy - The Iron Captain
+Points: 40 / 40
+Activations: 8
+
+Combat Units
+ • Iron Victory Crew ( 6 )
+     Victarion Greyjoy - The Iron Captain ( 0 )
+ • Drowned Men ( 4 )
+ • Ironborn Bowmen ( 4 )
+ • Stony Shore Pillagers ( 5 )
+     Dagmer Cleftjaw - Captain of the Foamdrinker ( 1 )
+ • Iron Victory Crew ( 6 )
+     Nute - The Barber ( 1 )
+
+Non Combat Units
+ • Wendamyr ( 4 )
+ • Moqorro ( 4 )
+ • Balon Greyjoy ( 5 )
+
+Faction: Greyjoy
+Commander: Erik Ironmaker - Anvil-Breaker
+Points: 40 / 40
+Activations: 7
+
+Combat Units
+ • Ironmakers ( 7 )
+     Erik Ironmaker - Anvil-Breaker ( 0 )
+ • Silenced Men ( 7 )
+     Asha Greyjoy - Captain of the Black Wind ( 1 )
+ • Stony Shore Pillagers ( 5 )
+     Dagmer Cleftjaw - Captain of the Foamdrinker ( 1 )
+ • Blacktyde Chosen ( 6 )
+
+Non Combat Units
+ • Balon Greyjoy ( 5 )
+ • Wendamyr ( 4 )
+ • Aeron Greyjoy ( 4 )
+
+Faction: Greyjoy
+Commander: Asha Greyjoy - The Kraken's Daughter
+Points: 40 / 40
+Activations: 7
+
+Combat Units
+ • Stony Shore Pillagers ( 5 )
+     Asha Greyjoy - The Kraken's Daughter ( 0 )
+ • Blacktyde Chosen ( 6 )
+ • Golden Company Crossbowmen ( 7 )
+     Bronn - The Sellsword ( 1 )
+ • Silenced Men ( 7 )
+     Dagmer Cleftjaw - Captain of the Foamdrinker ( 1 )
+
+Non Combat Units
+ • Balon Greyjoy ( 5 )
+ • Wendamyr ( 4 )
+ • Erik Ironmaker ( 4 )
+
+Faction: Greyjoy
+Commander: Balon Greyjoy - The Kraken King
+Points: 40 / 40
+Activations: 7
+
+Combat Units
+ • Ironmakers ( 7 )
+     Balon Greyjoy - The Kraken King ( 0 )
+ • Ironmakers ( 7 )
+     Theon Greyjoy - Kinslayer ( 1 )
+ • Ironmakers ( 7 )
+     Dagmer Cleftjaw - Captain of the Foamdrinker ( 1 )
+ • Drowned Men ( 4 )
+
+Non Combat Units
+ • Rodrik Harlaw ( 4 )
+ • Erik Ironmaker ( 4 )
+ • Tycho Nestoris ( 5 )
+
+Faction: Greyjoy
+Commander: Dagmer Cleftjaw - Master-At-Arms
+Points: 40 / 40
+Activations: 7
+
+Combat Units
+ • Blacktyde Chosen ( 6 )
+     Dagmer Cleftjaw - Master-At-Arms ( 0 )
+ • Iron Victory Crew ( 6 )
+     Victarion Greyjoy - Master of the Iron Victory ( 2 )
+ • Stony Shore Pillagers ( 5 )
+ • Ironmakers ( 7 )
+     Baelor Blacktyde - Captain of the Nightflyer ( 1 )
+
+Non Combat Units
+ • Balon Greyjoy ( 5 )
+ • Beron Blacktyde ( 4 )
+ • Wendamyr ( 4 )
+
+Faction: Greyjoy
+Commander: Theon Greyjoy - "Prince" of Winterfell
+Points: 40 / 40
+Activations: 7
+
+Combat Units
+ • Silenced Men ( 7 )
+     Theon Greyjoy - "Prince" of Winterfell ( 0 )
+ • Ironborn Reavers ( 5 )
+     Asha Greyjoy - Lady Greyjoy ( 2 )
+ • Ironborn Reavers ( 5 )
+     Baelor Blacktyde - Captain of the Nightflyer ( 1 )
+ • Blacktyde Chosen ( 6 )
+     Dagmer Cleftjaw - Captain of the Foamdrinker ( 1 )
+
+Non Combat Units
+ • Wendamyr ( 4 )
+ • Balon Greyjoy ( 5 )
+ • Rodrik Harlaw ( 4 )
+
+Faction: Greyjoy
+Commander: Euron Greyjoy - Lord Reaper of Pyke
+Points: 50
+Activations: 8
+
+Combat Units
+ • Silenced Men (7)
+     Euron Greyjoy - Lord Reaper of Pyke (0)
+ • Lysene Sellswords (5)
+     Lysene Bosun (1)
+ • Ironmakers (7)
+     Asha Greyjoy - Lady Greyjoy (2)
+     Qarl - Asha's Champion (1)
+ • Lysene Sellswords (5)
+     Bolton Flayer (1)
+ • House Harlaw Reapers (6)
+     Dreadfort Captain (1)
+     Reaver Captain (1)
+
+Non Combat Units
+ • Balon Greyjoy (5)
+ • Erik Ironmaker (4)
+ • Wendamyr (4)
+

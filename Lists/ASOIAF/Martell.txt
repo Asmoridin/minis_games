@@ -1,0 +1,111 @@
+Faction: Martell
+Commander: Harmen Uller - Lord of Hellholt
+Points: 40 / 40
+Activations: 7
+
+Combat Units
+ • Sand Skirmishers ( 7 )
+     Harmen Uller - Lord of Hellholt ( 0 )
+     Edric Dayne - Lord of Starfall ( 1 )
+ • Sand Skirmishers ( 7 )
+     High Hermitage Sentinel ( 1 )
+ • Starfall Outriders ( 6 )
+     Glory Seeker ( 1 )
+ • Stormcrow Mercenaries ( 5 )
+     Spearmen Captain ( 1 )
+
+Non Combat Units
+ • Doran Martell ( 4 )
+ • Ellaria Sand ( 4 )
+ • Petyr Baelish ( 4 )
+
+Faction: Martell
+Commander: Oberyn Martell - Prince of Dorne
+Points: 40 / 40
+Activations: 7
+
+Combat Units
+ • Sand Skirmishers ( 7 )
+     Oberyn Martell - Prince of Dorne ( 0 )
+ • Sand Skirmishers ( 7 )
+     Spearlord ( 1 )
+ • Starfall Outriders ( 6 )
+ • Starfall Outriders ( 6 )
+
+Non Combat Units
+ • Ellaria Sand ( 4 )
+ • Lord Varys ( 4 )
+ • Arianne Martell ( 5 )
+
+Faction: Martell
+Commander: Daemon Sand - Vengeful Knight
+Points: 40 / 40
+Activations: 7
+
+Combat Units
+ • Sunspear Royal Guard ( 7 )
+     Daemon Sand - Vengeful Knight ( 0 )
+ • Sand Skirmishers ( 7 )
+     Spearlord ( 1 )
+ • Martell Spearmen ( 5 )
+ • Starfall Knights ( 8 )
+
+Non Combat Units
+ • Nymeria Sand ( 4 )
+ • Ellaria Sand ( 4 )
+ • Arys Oakheart ( 4 )
+
+Faction: Martell
+Commander: Doran Martell - Lord of Sunspear
+Points: 40 / 40
+Activations: 7
+
+Combat Units
+ • Darkstar Retinue ( 7 )
+     Areo Hotah - Captain of the Guard ( 0 )
+ • Sand Skirmishers ( 7 )
+     Spearlord ( 1 )
+ • Starfall Outriders ( 6 )
+ • Sunspear Royal Guard ( 7 )
+
+Non Combat Units
+ • Doran Martell ( 4 )
+ • Ellaria Sand ( 4 )
+ • Nymeria Sand ( 4 )
+
+Faction: Martell
+Commander: Gerold Dayne - Darkstar
+Points: 40 / 40
+Activations: 7
+
+Combat Units
+ • Sand Skirmishers ( 7 )
+     Gerold Dayne - Darkstar ( 0 )
+     Quentyn Martell - Prince of Dorne ( 1 )
+ • Starfall Knights ( 8 )
+ • Starfall Outriders ( 6 )
+ • Stormcrow Mercenaries ( 5 )
+     Spearmen Captain ( 1 )
+
+Non Combat Units
+ • Doran Martell ( 4 )
+ • Tyene Sand ( 5 )
+ • Lord Varys ( 4 )
+
+Faction: Martell
+Commander: Obara Sand - Eldest Sister
+Points: 40 / 40
+Activations: 7
+
+Combat Units
+ • Sunspear Dervishes ( 6 )
+     Obara Sand - Eldest Sister ( 0 )
+ • Starfall Knights ( 8 )
+ • Starfall Knights ( 8 )
+ • Martell Spearmen ( 5 )
+
+Non Combat Units
+ • Tyene Sand ( 5 )
+ • Ellaria Sand ( 4 )
+ • Lord Varys ( 4 )
+

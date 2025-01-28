@@ -1,0 +1,10 @@
+Bounty Hunters;4
+Cultists;5
+Cyborgs;3
+Mercenaries;6
+Merchants;3
+Militias;6
+Miners;5
+Pirates;6
+Psionics;3
+Star Cops;6

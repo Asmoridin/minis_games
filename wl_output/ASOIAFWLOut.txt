@@ -1,0 +1,34 @@
+A Song of Ice and Fire Win-Loss Tracker and army selector
+My current record is 2-0
+
+My record by commander:
+Stark: 1-0
+ - Robb Stark, The Wolf Lord: 1-0
+Targaryen: 1-0
+ - Khal Drogo, The Great Khal: 1-0
+
+My H-Index is 1
+
+My record against opponents:
+- Eric (Bazooka): 1-0
+- Joey A: 1-0
+
+My record against opposing armies:
+- Baratheon: 1-0
+- Lannister: 1-0
+
+Record by game mode (most played first):
+- A Clash of Kings : 1-0
+- A Game of Thrones : 1-0
+- A Dance With Dragons : 0-0
+- A Feast for Crows : 0-0
+- Dark Wings, Dark Words : 0-0
+- Fire & Blood : 0-0
+- Here We Stand : 0-0
+- Honed and Ready : 0-0
+- Winds of Winter : 0-0
+
+I've seen the following commanders on the table the least (0 times)
+Addam Marbrand, Commander of the City Watch; Alliser Thorne, Master-at-Arms; Asha Greyjoy, The Kraken's Daughter; Axell Florent, First of the Queen's Men; Baelor Blacktyde, Lord of Blacktyde; Balon Greyjoy, The Kraken King; Barristan Selmy, The Bold; Belwas, The Strong; Benjen Stark, Beyond the Wall; Benjen Stark, First Ranger; Beric Dondarrion, Lightning Lord; Brynden Tully, Outrider Commander; Brynden Tully, The Blackfish; Catelyn Stark, Lady Stoneheart; Cortnay Penrose, Castellan of Storm's End; Cotter Pyke, Eastwatch Commander; Daario Naharis, Stormcrow Captain; Daemon Sand, Vengeful Knight; Daenerys Targaryen, Mother of Dragons; Daenerys Targaryen, Queen of Meereen; Dagmer Cleftjaw, Master-at-Arms; Davos Seaworth, Hero of Blackwater; Donal Noye, Defender of Castle Black; Doran Martell, Lord of Sunspear; Eddard Stark, Lord of Winterfell; Eldon Estermont, Lord of Greenstone; Erik Ironmaker, Anvil-Breaker; Euron Greyjoy, Lord Reaper of Pyke; Gerold Dayne, Darkstar; Greatjon Umber, Lord of Last Hearth; Gregor Clegane, The Mountain; Grey Worm, Unsullied Commander; Harma, Vanguard Commander; Harmen Uller, Lord of Hellholt; Howland Reed, Lord of the Crannogs; Jaime Lannister, The Kingslayer; Jeor Mormont, 997th Lord Commander; Joffrey Baratheon, First of His Name; Jokin, Stormcrow Captain; Jon Snow, 998th Lord Commander; Jorah Mormont, Westerosi Tactician; Justin Massey, The Smiler; Kevan Lannister, Protector of the Realm; Loras Tyrell, The Knight of Flowers; Maege Mormont, Lady of Bear Island; Mag the Mighty; Mance Rayder, King Beyond the Wall; Marselen, Mother's Men Commander; Obara Sand, Eldest Sister; Oberyn Martell, Prince of Dorne; Othell Yarwyck, First Builder; Ramsay Snow, Spiteful Heir; Ramsay Snow, The Bastard of Bolton; Rattleshirt, The Lord of Bones; Renly Baratheon, King in the South; Renly Baratheon, Lord Paramount of the Stormlands; Renly Baratheon, The Charismatic Heir; Rickard Karstark, Lord of Karhold; Rodrik Cassel, Master-at-Arms; Roose Bolton, Lord of the Dreadfort; Roose Bolton, The Leech Lord; Ser Denys Mallister, Shadow Tower Commander; Shakaz Mo Kandaq, The Shavepate; Stannis Baratheon, King at the Wall; Stannis Baratheon, The One True King; Stannis Baratheon, The Rightful Heir; Steelshanks Walton, Captain of the Guard; Styr, Magnar of Thenn; The Great Walrus, Lord of the Frozen Shore; The High Sparrow, His High Holiness; The Weeper, Horrific Butcher; Theon Greyjoy, "Prince" of Winterfell; Thoros of Myr, The Red Wizard; Tormund Giantsbane, Thunderfist; Tyrion Lannister, Halfman; Varamyr Sixskins, Master Skinchanger; Vargo Hoat, The Goat of Harrenhal; Victarion Greyjoy, The Iron Captain
+
+I should play more games with Lannister, where I only have 0 games. Suggested Commander - Gregor Clegane, The Mountain (0 total plays)

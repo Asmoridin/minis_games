@@ -1,0 +1,9 @@
+Rebel;Unknown;Empire;Unknown;Ben J;W
+Rebel;Unknown;Empire;Unknown;Dan R;D
+Rebel;Admiral Ackbar;Empire;Unknown;Matt P;W
+Rebel;Admiral Raddus;Empire;Unknown;Matt P;W
+Rebel;Unknown;Empire;Unknown;Matt P;W
+Rebel;General Rieekan;Empire;Unknown;Matt P;L
+Rebel;Unknown;Empire;Unknown;Matt P;L
+Rebel;Unknown;Empire;Unknown;Matt P;L
+Rebel;Unknown;Empire;Unknown;Rob M;L
