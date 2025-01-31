@@ -28,8 +28,8 @@ Bob, Agent of Hydra;Cabal, Hydra;0
 Bullseye;Cabal, Criminal Syndicate;1
 Cable;Avengers, Uncanny X-Men, X-Force/L, New Mutants, Servants of the Apocalypse;1
 Captain America (Sam Wilson);Avengers/L;1
+Captain America (Steve Rogers);Avengers/L;1
 Captain America, First Avenger;Avengers/L, S.H.I.E.L.D.;1
-Captain America;Avengers/L;1
 Captain Marvel, Cosmic Avenger;A-Force, Avengers;1
 Captain Marvel;A-Force, Avengers;1
 Carnage;Spider-Foes;0
@@ -73,7 +73,7 @@ Gwenpool;A-Force, Avengers, Criminal Syndicate;0
 Hawkeye;Avengers, Defenders, S.H.I.E.L.D.;1
 Heimdall, The All-Seeing;Asgard;0
 Hela, Queen of Hel;Asgard;1
-Hony Badger;Uncanny X-Men, Weapon X, X-Force, Servants of the Apocalypse;0
+Honey Badger;Uncanny X-Men, Weapon X, X-Force, Servants of the Apocalypse;0
 Hood;Cabal, Criminal Syndicate;0
 Hulk;Avengers, Defenders;1
 Hulkbuster;Avengers/L;0
@@ -111,8 +111,8 @@ Moon Knight;Defenders, Midnight Sons, Web Warriors;1
 Ms. Marvel;Avengers, Inhumans;0
 Mysterio;Cabal, Criminal Syndicate, Spider-Foes;0
 Mystique;Brotherhood of Mutants/L, Cabal;1
-N'Kantu, The Living Mummy;Midnight Sons;0
-Namor, The Sub-Mariner;Defenders, S.H.I.E.L.D./L;0
+N'Kantu, the Living Mummy;Midnight Sons;0
+Namor, the Sub-Mariner;Defenders, S.H.I.E.L.D./L;0
 Nebula;Guardians of the Galaxy;0
 Nick Fury & the Howling Commandos;S.H.I.E.L.D.;0
 Nick Fury;S.H.I.E.L.D./L;1
@@ -186,7 +186,7 @@ War Machine;Avengers, S.H.I.E.L.D.;1
 Warlock;New Mutants, X-Force;0
 Wasp;A-Force, Avengers;0
 Weapon X;Weapon X;0
-Werewolf by Night;Midnight Sons;0
+Werewolf By Night;Midnight Sons;0
 Winter Soldier, Operative;Avengers, Cabal, Hydra, S.H.I.E.L.D., Winter Guard;1
 Winter Soldier;S.H.I.E.L.D.;0
 Wolverine;Avengers, Defenders, Uncanny X-Men, X-Force, Servants of the Apocalypse;1

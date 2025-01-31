@@ -8,14 +8,17 @@ import os
 
 from steve_utils.output_utils import double_print
 from steve_utils.sort_and_filter import sort_and_filter
+from steve_utils.check_inventory import check_inventory
 
 GAME_NAME = "Marvel Crisis Protocol"
 COMPANY = "AMG"
 
 if os.getcwd().endswith('minis_games'):
     file_h = open('DB/MCPData.txt', 'r', encoding="UTF-8")
+    LIST_DIR = 'Lists/MCP'
 else:
     file_h = open('minis_games/DB/MCPData.txt', 'r', encoding="UTF-8")
+    LIST_DIR = 'minis_games/Lists/MCP'
 
 lines = file_h.readlines()
 file_h.close()
@@ -39,6 +42,7 @@ for affiliation in valid_affiliations:
     affil_own[affiliation] = [0, 0]
 TOTAL_MAX = 0
 TOTAL_OWN = 0
+mini_dict = {}
 for line in lines:
     if line == "":
         continue
@@ -47,7 +51,9 @@ for line in lines:
     model_affils = [affiliation.strip() for affiliation in model_affils]
     actual_model_affils = []
     model_own = int(model_own)
+    mini_dict[model_name] = 0
     if model_own == 1:
+        mini_dict[model_name] = 1
         owned_models.add(model_name)
     for affiliation in model_affils:
         cleaned_affil = affiliation.replace("/L", '')
@@ -79,6 +85,50 @@ if len(temp_list) > 0:
     filtered_list = temp_list
 chosen_model, filtered_list = sort_and_filter(filtered_list, 0)
 
+army_lists = []
+for sub_dir in os.listdir(LIST_DIR):
+    if sub_dir == 'Unplayed.txt':
+        continue
+    for fac_list_file in os.listdir(LIST_DIR + "/" + sub_dir):
+        list_name = sub_dir + "/" + fac_list_file.replace('.txt', '')
+        this_list = {}
+        list_fh = open(LIST_DIR + "/" + sub_dir + "/" + fac_list_file, 'r', encoding="UTF-8")
+        list_lines = list_fh.readlines()
+        list_fh.close()
+        list_lines = [lline.strip() for lline in list_lines]
+        PAST_CHARS = False
+        for line in list_lines:
+            if PAST_CHARS:
+                continue
+            if line.startswith('#') or line == '':
+                continue
+            if line.startswith('Characters (') or line.startswith('Threat:'):
+                continue
+            if line.startswith('Tactics ('):
+                PAST_CHARS = True
+                continue
+            if line.startswith('*'):
+                line = line[1:]
+            line = line.replace(' (2)', '').replace(' (3)', '').replace(' (4)', '')
+            line = line.replace(' (5)', '').replace(' (6)', '').replace(' (7)', '')
+            line = line.replace(' (8)', '').replace(' (Mind)', '').replace(' (Space)', '')
+            line = line.replace(' (Reality)', '').replace(' (Power)', '').replace(' (Soul)', '')
+            line = line.replace(' (Time)', '')
+            line = line.replace(' (Reality, Space)', '').replace(' (Mind, Space)', '')
+            if line not in this_list:
+                this_list[line] = 0
+            this_list[line] += 1
+        army_lists.append({'name':list_name, 'list':this_list})
+unowned_items = {}
+lists_minus_inventory = check_inventory(army_lists, mini_dict)
+lists_minus_inventory = sorted(lists_minus_inventory, key=lambda x:x[1])
+for army_list in lists_minus_inventory:
+    army_items = army_list[2]
+    for list_item, list_item_qty in army_items.items():
+        if list_item not in unowned_items:
+            unowned_items[list_item] = 0
+        unowned_items[list_item] += list_item_qty
+
 if __name__ == "__main__":
     if os.getcwd().endswith('minis_games'):
         out_file_h = open("output/MCPOutput.txt", 'w', encoding="UTF-8")
@@ -91,3 +141,23 @@ if __name__ == "__main__":
     double_print(summary_str, out_file_h)
     buy_string = f"Buy a {chosen_model} from the {chosen_affil} affiliation"
     double_print(buy_string, out_file_h)
+
+    LOW_INDEX = 0
+    completed_lists = []
+    for print_list in lists_minus_inventory:
+        if print_list[1] == 0:
+            completed_lists.append(print_list[0])
+            LOW_INDEX += 1
+        else:
+            break
+    double_print(f"\nCompleted lists: {', '.join(sorted(completed_lists))}", out_file_h)
+    double_print(f"Closest list to completion is {lists_minus_inventory[LOW_INDEX][0]} - " + \
+        f"needs {lists_minus_inventory[LOW_INDEX][1]} items", out_file_h)
+    for item_name, item_qty in lists_minus_inventory[LOW_INDEX][2].items():
+        double_print(f"- {item_name}: {item_qty}", out_file_h)
+
+    double_print("\nTen most needed minis: ", out_file_h)
+    uo_item_list = unowned_items.items()
+    uo_item_list = sorted(uo_item_list, key = lambda x: (-1 * x[1], x[0]))
+    for uo_item in uo_item_list[:10]:
+        double_print(f"{uo_item[0]}: {uo_item[1]}", out_file_h)

@@ -1,5 +1,4 @@
 Baron Helmut Zemo;Cabal, Hydra/L;1
-Cable;Avengers, Uncanny X-Men, X-Force/L, New Mutants, Servants of the Apocalypse;1
 Doctor Strange;Convocation, Defenders/L, Midnight Sons;1
 Elsa Bloodstone;Defenders, Midnight Sons/L;0
 Invincible Iron Man;Avengers, S.H.I.E.L.D./L;1
@@ -7,7 +6,6 @@ Killmonger, Usurper;Criminal Syndicate, Wakanda/L;0
 King T'Challa;Avengers, Wakanda/L;0
 Klaw;Cabal, Criminal Syndicate/L;0
 Logan, The Wolverine;Uncanny X-Men, Weapon X/L;1
-M'Baku;Criminal Syndicate, Wakanda/L;0
 Magik;Convocation, Defenders, Uncanny X-Men, New Mutants/L, Servants of the Apocalypse;1
 Magneto;Brotherhood of Mutants/L, Cabal;1
 Malekith the Accursed;Cabal/L;0

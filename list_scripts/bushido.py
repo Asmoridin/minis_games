@@ -211,7 +211,7 @@ for sub_dir in os.listdir(LIST_DIR):
                 this_list[line] = 0
             this_list[line] += 1
         cleanup_list = clean_list(this_list)
-        army_lists.append({'name':list_name, 'list':this_list})
+        army_lists.append({'name':list_name, 'list':cleanup_list})
 unowned_items = {}
 lists_minus_inventory = check_inventory(army_lists, mini_dict)
 lists_minus_inventory = sorted(lists_minus_inventory, key=lambda x:x[1])
