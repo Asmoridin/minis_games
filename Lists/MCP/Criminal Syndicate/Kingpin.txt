@@ -1,37 +1,37 @@
-# Updated 1/19/25 37th/64 LVO Invitationals
+# Updated 2/2/25 11/45 UK tournament
 
 
 Characters (10):
-Threat: 33
-*Kingpin (4)
+Threat: 38
+Abomination (5)
 Black Cat (3)
 Bullseye (2)
-Crossbones, Merciless Merc (3)
-Gwenpool (4)
+Killmonger (4)
+*Kingpin (4)
+*M'Baku (4)
+Omega Red (4)
+*Red Skull, Master of Hydra (5)
 Rhino (4)
-Taskmaster (3)
-Deadpool (3)
-Lizard (3)
-Sandman (4)
+Winter Soldier (3)
 
 Tactics (10):
-Shadow Organization
-Patch Up (R)
-This is a Robbery
-Brace for Impact (R)
-Chimichangas
-Recalibration Matrix
-Monkey Brain is Lizard Home
 All According to Plan
-Joint Effort
-No, Try This One!
+Brace for Impact (R)
+Cruel Tutelage
+Cruelty
+Gamma Burst
+Indomitable (R)
+Soldat Activated
+This is a Robbery
+Usurp the Throne
+Warpath
 
 Secure Crisis:
-Infinity Formula Goes Missing! (B, 17)
-Super-Powered Scoundrels Form Sinister Syndicate! (F, 20)
 Mayor Fisk Vows to Find Missing Witnesses (H, 16)
+Riots Spark Over Extremis 3.0 (D, 17)
+Super-Powered Scoundrels Form Sinister Syndicate! (F, 20)
 
 Extract Crisis:
-Paranoia Pummels Populace! (K, 16)
-Deadly Legacy Virus Cured? (C, 19)
 Alien Ship Crashes in Downtown! (C, 17)
+Deadly Legacy Virus Cured? (C, 19)
+Paranoia Pummels Populace! (K, 16)

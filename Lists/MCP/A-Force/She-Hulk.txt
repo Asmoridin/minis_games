@@ -1,37 +1,38 @@
-# Updated 1/19/25 67th/75 LVO GT
+# Updated 2/2/25 1st/45 UK tournament
+
 
 
 Characters (10):
-Threat: 37
+Threat: 33
 Black Cat (3)
-Captain Marvel, Cosmic Avenger (5)
-Gamora (4)
-Hela, Queen of Hel (4)
-Nebula (2)
+Bullseye (2)
+Hood (3)
+*Kingpin (4)
 Okoye (2)
 *She-Hulk (6)
-Spider-Woman (4)
-The Black Widow (4)
+*Spider-Man (Miles Morales) (3)
+*The Mighty Thor (5)
 Wasp (3)
+Wong (2)
 
 Tactics (10):
 A-Force Assemble
 Brace for Impact (R)
-Daughter of Thanos
+Grievous Wounds
+Hood's Gang
 Patch Up (R)
 Pym Particles
+Recalibration Matrix
 Special Delivery
 Stalwart Determination
-Venomized
-Vertical Assistance
-Double Agent
+Warpath
 
 Secure Crisis:
-Deadly Meteors Mutate Citizens (I, 17)
-Intrusions Open Across City As Seals Collapse (C, 19)
+Infinity Formula Goes Missing! (B, 17)
+Mutant Madman Turns City Center Into Lethal Amusement Park (B, 18)
 Super-Powered Scoundrels Form Sinister Syndicate! (F, 20)
 
 Extract Crisis:
-Alien Ship Crashes in Downtown! (C, 17)
-Deadly Legacy Virus Cured? (C, 19)
+Fear Grips World as "Worthy" Terrorize Cities (D, 18)
 Skrulls Infiltrate World Leadership (J, 20)
+The Montesi Formula Found (E, 18)

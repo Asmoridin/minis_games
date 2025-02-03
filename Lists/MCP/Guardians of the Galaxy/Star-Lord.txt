@@ -1,37 +1,36 @@
-# Updated 1/19/25 9th/64 LVO Invitationals
-
+# Updated 2/2/25 2/27 Mid-Atlantic tournament
 
 Characters (10):
-Threat: 40
-Agent Venom (4)
-Beta Ray Bill (4)
-Cosmic Ghost Rider (6)
-Ghost Rider (5)
-Groot (3)
-Nebula (2)
-*Red Skull, Master of Hydra (5)
-Rocket Raccoon (2)
+Threat: 34
 *Star-Lord (3)
-Thor, Hero of Midgard (6)
+Rocket Raccoon (2)
+Groot (3)
+Gamora (4)
+Nebula (2)
+Beta Ray Bill (4)
+Agent Venom (4)
+Yondu (4)
+Nova (5)
+Baron Zemo (3)
 
 Tactics (10):
+Sacrifice (R)
 Brace for Impact (R)
-Cosmic Obliteration
 Deadly Duo
-Deal with the Devil
-Foreign Assignment
 Galaxy's Greatest
-Lovable Misfits
 Recalibration Matrix
-Survival
-Warpath
+Foreign Assignment
+I Am A Baron, After All
+Lovable Misfits
+Plundered Goods
+Daughter of Thanos
 
 Secure Crisis:
+Infinity Formula Goes Missing! (B, 17)
 Demons Downtown! Has Our Comeuppance Come Due? (E, 19)
 Gamma Wave Sweeps Across Midwest (E, 15)
-S.W.O.R.D. Establishes Base on Moon's Blue Area (G, 15)
 
 Extract Crisis:
+Deadly Legacy Virus Cured? (C, 19)
 Mutant Extremists Target U.S. Senators! (L, 19)
-Research Station Attacked! (E, 15) (R)
-The Montesi Formula Found (E, 18)
+Paranoia Pummels Populace! (K, 16)

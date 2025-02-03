@@ -1,35 +1,34 @@
-# Updated 1/19/25 23rd/64 LVO Invitationals
-
+# Updated 2/2/25 1st/20 Belgium tournament
 
 Characters (10):
-Threat: 37
+Threat: 32
 Beast (3)
-Bullseye (2)
 Doctor Voodoo (4)
 Domino (3)
-Hulk (6)
 Iceman (3)
-*Namor, the Sub-Mariner (5)
+*Logan, The Wolverine (4)
 Nightcrawler (4)
-Shang-Chi (4)
+Pyro (3)
+Shadowcat (3)
 *Storm (3)
+Toad (2)
 
 Tactics (10):
 Brace for Impact (R)
-Chi Mastery
 Children of the Atom
 First Class
-Human Weapon
+Pyrotechnics
 Recalibration Matrix
 Sacrifice (R)
 Survival
 To Me, My X-Men!
+Warpath
 Xavier's Dream
 
 Secure Crisis:
-Infinity Formula Goes Missing! (B, 17)
+Mutant Madman Turns City Center Into Lethal Amusement Park (B, 18)
+Portals Overrun City with Spider-People! (D, 18)
 S.W.O.R.D. Establishes Base on Moon's Blue Area (G, 15)
-Super-Powered Scoundrels Form Sinister Syndicate! (F, 20)
 
 Extract Crisis:
 Mutant Extremists Target U.S. Senators! (L, 19)

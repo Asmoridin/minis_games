@@ -51,9 +51,11 @@ for line in lines:
     model_affils = [affiliation.strip() for affiliation in model_affils]
     actual_model_affils = []
     model_own = int(model_own)
+    if model_name in ['Sentinel MK4 (1)', 'Sentinel MK4 (2)']:
+        model_name = 'Sentinel MK4'
     mini_dict[model_name] = 0
     if model_own == 1:
-        mini_dict[model_name] = 1
+        mini_dict[model_name] += 1
         owned_models.add(model_name)
     for affiliation in model_affils:
         cleaned_affil = affiliation.replace("/L", '')
@@ -87,7 +89,7 @@ chosen_model, filtered_list = sort_and_filter(filtered_list, 0)
 
 army_lists = []
 for sub_dir in os.listdir(LIST_DIR):
-    if sub_dir == 'Unplayed.txt':
+    if sub_dir == 'Status.txt':
         continue
     for fac_list_file in os.listdir(LIST_DIR + "/" + sub_dir):
         list_name = sub_dir + "/" + fac_list_file.replace('.txt', '')

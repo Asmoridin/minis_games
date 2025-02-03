@@ -1,37 +1,36 @@
-# Updated 1/19/25 52nd/64 LVO Invitationals
+# Updated 2/2/25 4/20 Belgium tournament
 
 Characters (10):
-Threat: 29
-Ant-Man (3)
+Threat: 34
+Baron Zemo (3)
 Beast (3)
-Black Cat (3)
-Black Panther, Chosen of Bast (3)
 Black Widow (2)
 *Captain America (Sam Wilson) (3)
-Doctor Voodoo (4)
-Iron Fist (3)
-Proxima Midnight (3)
-Toad (2)
+Ghost-Spider (3)
+Lizard (3)
+Luke Cage (3)
+N'Kantu, the Living Mummy (3)
+Shang-Chi (4)
+The Immortal Hulk (7)
 
 Tactics (10):
 Avengers Assemble
 Bird of Prey
 Brace for Impact (R)
-Fall Back (R)
+Chi Mastery
 Heroes for Hire
+I Am A Baron, After All
+One Below All
+Patch Up (R)
 Recalibration Matrix
-Reserve Members
 Second Wind
-Survival
-Wisdom of the Ancestors
 
 Secure Crisis:
 Infinity Formula Goes Missing! (B, 17)
-Riots Spark Over Extremis 3.0 (D, 17)
+Mutant Madman Turns City Center Into Lethal Amusement Park (B, 18)
 Super-Powered Scoundrels Form Sinister Syndicate! (F, 20)
 
 Extract Crisis:
+Fear Grips World as "Worthy" Terrorize Cities (D, 18)
 Mutant Extremists Target U.S. Senators! (L, 19)
-Skrulls Infiltrate World Leadership (J, 20)
-Spider-Infected Invade Manhattan (F, 17)
-
+Struggle for the Cube Continues (F, 17)

@@ -1,37 +1,36 @@
-# Updated 1/19/25 63rd/75 LVO GT
-
+# Updated 2/2/25 1st/14 Canadian tournament
 
 Characters (10):
 Threat: 38
-Thor, Hero of Midgard (6)
-*Black Bolt (5)
-*Namor, the Sub-Mariner (5)
-*Medusa (4)
-Shang-Chi (4)
-Ms. Marvel (3)
-Quicksilver (3)
+Ancient One (4)
 Beast (3)
-Black Cat (3)
+*Black Bolt (5)
+*Captain America (Sam Wilson) (3)
+Lockjaw (3)
+*Medusa (4)
+Ms. Marvel (3)
+*Namor, the Sub-Mariner (5)
+Thor, Hero of Midgard (6)
 Toad (2)
 
 Tactics (10):
-Brace for Impact (R)
-Sacrifice (R)
-Terrigenesis
-Inhuman Royal Family
-Can I Borrow That?
 Attilan Rising
+Bird of Prey
+Brace for Impact (R)
+Fall Back (R)
+Inhuman Royal Family
+Last-Minute Save
+Prince's Protection
 Recalibration Matrix
-Warpath
 Survival
-Chi Mastery
+Terrigenesis
 
 Secure Crisis:
 Deadly Meteors Mutate Citizens (I, 17)
 Infinity Formula Goes Missing! (B, 17)
-Intrusions Open Across City As Seals Collapse (C, 19)
+Mutant Madman Turns City Center Into Lethal Amusement Park (B, 18)
 
 Extract Crisis:
-Skrulls Infiltrate World Leadership (J, 20)
-Spider-Infected Invade Manhattan (F, 17)
+Deadly Legacy Virus Cured? (C, 19)
 Mutant Extremists Target U.S. Senators! (L, 19)
+Skrulls Infiltrate World Leadership (J, 20)

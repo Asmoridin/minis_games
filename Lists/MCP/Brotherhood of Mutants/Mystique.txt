@@ -1,37 +1,37 @@
-# Updated 1/19/25 54th/64 LVO Invitationals
+# Updated 2/2/25 21/45 UK Tournament
 
 
 Characters (10):
-Threat: 34
+Threat: 39
 Baron Zemo (3)
-Beta Ray Bill (4)
-Bullseye (2)
+Black Cat (3)
+Hulk (6)
 Juggernaut (5)
+*Magneto (6)
 *Mystique (3)
 Pyro (3)
+Rhino (4)
 Sabretooth, Apex Predator (4)
-Scarlet Witch (5)
 Toad (2)
-Winter Soldier (3)
 
 Tactics (10):
 Asteroid M
 Brace for Impact (R)
 Do You Know Who I Am?
-Happy Birthday, Runt!
 I Am A Baron, After All
-No More Mutants
+Instant Recovery
+Magnetic Refraction
 Patch Up (R)
 Pyrotechnics
-Survival
-The Books of Truth
+Recalibration Matrix
+This is a Robbery
 
 Secure Crisis:
 Cosmic Invasion! Black Order Descends on Earth (D, 16)
-Demons Downtown! Has Our Comeuppance Come Due? (E, 19)
+Riots Spark Over Extremis 3.0 (D, 17)
 Super-Powered Scoundrels Form Sinister Syndicate! (F, 20)
 
 Extract Crisis:
-Deadly Legacy Virus Cured? (C, 19)
-Fear Grips World as "Worthy" Terrorize Cities (D, 18)
-Struggle for the Cube Continues (F, 17)
+Mutant Extremists Target U.S. Senators! (L, 19)
+Paranoia Pummels Populace! (K, 16)
+Skrulls Infiltrate World Leadership (J, 20)

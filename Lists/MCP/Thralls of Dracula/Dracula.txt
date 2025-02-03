@@ -1,37 +1,37 @@
-# Updated 1/19/25 48th/64 LVO Invitationals
+# Updated 2/2/25 26/45 UK Tournament
 
 
 Characters (10):
-Threat: 35
-Doctor Voodoo (4)
+Threat: 37
+Abomination (5)
+Baron Zemo (3)
+Bullseye (2)
 *Dracula (5)
 Drax the Destroyer (3)
-Frankenstein's Monster (4)
-Iron Fist (3)
+Lady Sif (4)
 Lizard (3)
+*Logan, The Wolverine (4)
 N'Kantu, the Living Mummy (3)
-Pyro (3)
-Werewolf By Night (5)
-Wong (2)
+Ulik (5)
 
 Tactics (10):
 Brace for Impact (R)
-Heroes for Hire
-Hideous Monster
+I Am A Baron, After All
 Instant Recovery
-Patch Up (R)
-Phases of the Moon
+Monkey Brain is Lizard Home
 Recalibration Matrix
-Seance
+Rock and Troll
+Sacrifice (R)
+Survival
 Thralls of Dracula
 Warpath
 
 Secure Crisis:
-Cosmic Invasion! Black Order Descends on Earth (D, 16)
-Infinity Formula Goes Missing! (B, 17)
-Super-Powered Scoundrels Form Sinister Syndicate! (F, 20)
+Intrusions Open Across City As Seals Collapse (C, 19)
+Mutant Madman Turns City Center Into Lethal Amusement Park (B, 18)
+S.W.O.R.D. Establishes Base on Moon's Blue Area (G, 15)
 
 Extract Crisis:
-Alien Ship Crashes in Downtown! (C, 17)
 Deadly Legacy Virus Cured? (C, 19)
-Struggle for the Cube Continues (F, 17)
+Fear Grips World as "Worthy" Terrorize Cities (D, 18)
+Skrulls Infiltrate World Leadership (J, 20)
