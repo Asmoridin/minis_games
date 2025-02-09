@@ -2,11 +2,11 @@ Abomination;Criminal Syndicate, Hydra;0
 Agent Venom;Guardians of the Galaxy, S.H.I.E.L.D., Web Warriors;0
 Amazing Spider-Man;Defenders, Web Warriors/L;1
 Ancient One;Convocation, Defenders;1
-Angel;Uncanny X-Men;0
+Angel;Uncanny X-Men, Hellfire Club;0
 Angela;A-Force, Asgard, Guardians of the Galaxy;1
 Ant-Man;Avengers;0
 Apocalypse;Servants of the Apocalypse/L;0
-Archangel;X-Force, Servants of the Apocalypse;0
+Archangel;X-Force, Servants of the Apocalypse, Hellfire Club;0
 Arnim Zola;Cabal, Hydra;0
 Baron Helmut Zemo;Cabal, Hydra/L;1
 Baron Mordo;Cabal, Convocation;1
@@ -33,7 +33,7 @@ Captain America, First Avenger;Avengers/L, S.H.I.E.L.D.;1
 Captain Marvel, Cosmic Avenger;A-Force, Avengers;1
 Captain Marvel;A-Force, Avengers;1
 Carnage;Spider-Foes;0
-Cassandra Nova;Cabal, Sentinels, Servants of the Apocalypse;1
+Cassandra Nova;Cabal, Sentinels, Servants of the Apocalypse, Hellfire Club;1
 Clea;Convocation, Defenders;1
 Colossus;Brotherhood of Mutants, Uncanny X-Men, X-Force, Servants of the Apocalypse;1
 Corvus Glaive;Black Order/L;1
@@ -100,17 +100,17 @@ M'Baku;Criminal Syndicate, Wakanda/L;0
 M.O.D.O.K. Scientist Supreme;Criminal Syndicate/L, Hydra;0
 M.O.D.O.K.;Cabal, Criminal Syndicate;1
 Magik;Convocation, Defenders, Uncanny X-Men, New Mutants/L, Servants of the Apocalypse;1
-Magneto;Brotherhood of Mutants/L, Cabal;1
+Magneto;Brotherhood of Mutants/L, Cabal, Hellfire Club;1
 Malekith the Accursed;Cabal/L;0
 Man-Thing;Defenders, Midnight Sons;0
 Maverick;Weapon X;0
 Medusa;A-Force, Inhumans/L;1
 Mephisto, Lord of Temptation;Cabal, Criminal Syndicate, Legion of the Lost/L;0
-Mister Sinister;Cabal, Servants of the Apocalypse;0
+Mister Sinister;Cabal, Servants of the Apocalypse, Hellfire Club;0
 Moon Knight;Defenders, Midnight Sons, Web Warriors;1
 Ms. Marvel;Avengers, Inhumans;0
 Mysterio;Cabal, Criminal Syndicate, Spider-Foes;0
-Mystique;Brotherhood of Mutants/L, Cabal;1
+Mystique;Brotherhood of Mutants/L, Cabal, Hellfire Club;1
 N'Kantu, the Living Mummy;Midnight Sons;0
 Namor, the Sub-Mariner;Defenders, S.H.I.E.L.D./L;0
 Nebula;Guardians of the Galaxy;0
@@ -119,10 +119,10 @@ Nick Fury;S.H.I.E.L.D./L;1
 Nightcrawler;Uncanny X-Men;0
 Nova;Guardians of the Galaxy;0
 Okoye;A-Force, Wakanda;1
-Omega Red;Cabal, Criminal Syndicate, Winter Guard;0
+Omega Red;Cabal, Criminal Syndicate, Winter Guard, Hellfire Club;0
 Professor X;Uncanny X-Men/L;0
 Proxima Midnight;Black Order;1
-Psylocke;Uncanny X-Men, X-Force, Servants of the Apocalypse;1
+Psylocke;Uncanny X-Men, X-Force, Servants of the Apocalypse, Hellfire Club;1
 Punisher;Defenders;0
 Pyro;Brotherhood of Mutants;0
 Quicksilver;Avengers, Brotherhood of Mutants, Inhumans;0
@@ -142,7 +142,7 @@ Scarlet Witch;A-Force, Avengers, Defenders, Brotherhood of Mutants;0
 Sentinel MK4 (1);Sentinels;1
 Sentinel MK4 (2);Sentinels;1
 Sentinel Prime MK4;Sentinels/L;1
-Shadow King;Brotherhood of Mutants;0
+Shadow King;Brotherhood of Mutants, Hellfire Club;0
 Shadowcat;Uncanny X-Men, New Mutants;0
 Shadowland Daredevil;Criminal Syndicate/L;1
 Shang-Chi;Avengers, Defenders;0
@@ -159,8 +159,8 @@ Spider-Woman;A-Force, Avengers, Hydra, S.H.I.E.L.D., Web Warriors;0
 Squirrel Girl;A-Force, Avengers;0
 Star-Lord;Guardians of the Galaxy/L;1
 Steve Rogers, Captain America;S.H.I.E.L.D./L;0
-Storm;A-Force, Uncanny X-Men/L, Wakanda;1
-Sunspot;New Mutants, X-Force;0
+Storm;A-Force, Uncanny X-Men/L, Wakanda, Hellfire Club;1
+Sunspot;New Mutants, X-Force, Hellfire Club;0
 Supergiant;Black Order;0
 Taskmaster;Criminal Syndicate, Hydra, S.H.I.E.L.D.;0
 Thanos, the Mad Titan;Black Order/L;1
