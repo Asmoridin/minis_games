@@ -1,22 +1,31 @@
-# Pulled 12/23/24 31st/32
+# Pulled 2/15/25 6th/10
 
 Jung Pirates - Black Sails - [100Rice]
 
 # ++ Risen Sun ++ [100Rice]
-## Faction Profile Cards [94Rice]
+## Faction Profile Cards [81Rice]
 Crabs of the Eastern Sea [1 Rice]:
 • 1x Horseshoe Crab [1 Rice]
-Jung Hibiki [22 Rice]: Taunt
-Jung Tora [17 Rice]
-Kani-chan [15 Rice]
+Fu Ran Ku [9 Rice]: Peg Leg
+Hideaki [14 Rice]
+Jori [13 Rice]
+Jung Hibiki [20 Rice]
 Kani-kun [15 Rice]
 Sho [9 Rice]
-Taiho [15 Rice]: Peg Leg
 
-## Faction Event Cards [6Rice]
+## Faction Event Cards [5Rice]
 Blow the Man Down [2 Rice]
 Blow the Man Down [2 Rice]
-Squall [2 Rice]
+Kamikaze [1 Rice]: Models
 
 ## Faction Theme Cards
 Black Sails
+
+## Ronin Profile Cards [12Rice]
+Temo [12 Rice]
+
+## Ronin Event Cards [1Rice]
+Opportune Uprising [1 Rice]
+
+## Ronin Terrain Cards [1Rice]
+Rice Bale Barricades [1 Rice]

@@ -113,6 +113,8 @@ def manual_fix(in_item):
         return 'Zephyr Guard'
     if in_item in ['• 1x Joji', '• 1x Lita']:
         return "Koji's Pack"
+    if in_item in ["• 1x Hilltribe Tracker A", "• 1x Hilltribe Tracker B"]:
+        return "Hilltribe Tracker"
     return in_item
 
 def clean_list(in_list):
