@@ -171,6 +171,7 @@ Jung Minato;Jung Pirates;1;0
 Jung Tora;Jung Pirates;1;1
 Junichi;Prefecture of Ryu;1;0
 Jyoto Ashigaru;Minimoto Clan;2;0
+Ka-Feng, the Gardener;Savage Wave;1;0
 Kaede;Silvermoon Syndicate;1;0
 Kaihei Alpha;Savage Wave;1;0
 Kaihei;Savage Wave;4;0
