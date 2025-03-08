@@ -1,3 +1,8 @@
+Gladiator;0
+Maximus the Mad;Inhumans/L;0
+Gorgon;Inhumans;0
+Karnak;Inhumans;0
+King Black Bolt;Inhumans;0
 Abomination;Criminal Syndicate, Hydra;0
 Agent Venom;Guardians of the Galaxy, S.H.I.E.L.D., Web Warriors;0
 Amazing Spider-Man;Defenders, Web Warriors/L;1
