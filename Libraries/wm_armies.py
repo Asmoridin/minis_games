@@ -4,12 +4,16 @@
 Handler to identify the various WM armies
 """
 
+VALID_FACTIONS = ['Cryx', 'Cygnar', 'Circle Orboros', 'Mercenaries']
+
 class Army:
     """
     Just a helper class to keep track of an army
     """
-    def __init__(self, army_name, faction, is_prime, is_mkiv, is_cadre):
+    def __init__(self, army_name:str, faction:str, is_prime:bool, is_mkiv:bool, is_cadre:bool):
         self.army_name = army_name
+        if faction not in VALID_FACTIONS:
+            print(f"Invalid faction: {faction}")
         self.army_faction = faction
         self.is_prime = is_prime
         self.is_mkiv = is_mkiv
@@ -46,6 +50,10 @@ armies = [
     Army("Devourer's Host", "Circle Orboros", True, False, False),
     Army("MKIV Mercenary", "Mercenaries", True, True, True),
     Army("Secret Dominion", "Circle Orboros", True, False, False),
+    Army("Necrofactorium", "Cryx", True, True, False),
+    Army("Gravediggers", "Cygnar", True, True, False),
+    Army("Storm Legion", "Cygnar", True, True, False),
+    Army("Blackfleet", "Cryx", True, False, False)
 ]
 army_dict = {}
 for army in armies:

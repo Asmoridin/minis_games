@@ -29,7 +29,7 @@ valid_affiliations = ['Avengers', 'Hydra', 'Cabal', 'A-Force', 'Inhumans', 'X-Fo
     'Criminal Syndicate', 'Weapon X', 'Guardians of the Galaxy', 'Sentinels', 'Spider-Foes', 
     'S.H.I.E.L.D.', 'Asgard', 'Midnight Sons', 'Brotherhood of Mutants', 'Wakanda',
     'Dark Dimension', 'Hellfire Club', 'New Mutants', 'Servants of the Apocalypse',
-    'Thralls of Dracula', 'Legion of the Lost']
+    'Thralls of Dracula', 'Legion of the Lost', 'UNAFFILIATED']
 
 data = []
 leaders = {}
@@ -46,7 +46,12 @@ mini_dict = {}
 for line in lines:
     if line == "":
         continue
-    model_name, model_affils, model_own = line.split(';')
+    try:
+        model_name, model_affils, model_own = line.split(';')
+    except ValueError:
+        print("Issue with line:")
+        print(line)
+        continue
     model_affils = model_affils.split(',')
     model_affils = [affiliation.strip() for affiliation in model_affils]
     actual_model_affils = []
@@ -141,8 +146,8 @@ if __name__ == "__main__":
 
     summary_str = f"I own {TOTAL_OWN} out of {TOTAL_MAX} - {100 * TOTAL_OWN/TOTAL_MAX:.2f} percent"
     double_print(summary_str, out_file_h)
-    buy_string = f"Buy a {chosen_model} from the {chosen_affil} affiliation"
-    double_print(buy_string, out_file_h)
+    BUY_STRING = f"Buy a {chosen_model} from the {chosen_affil} affiliation"
+    double_print(BUY_STRING, out_file_h)
 
     LOW_INDEX = 0
     completed_lists = []

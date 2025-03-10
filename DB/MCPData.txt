@@ -1,8 +1,3 @@
-Gladiator;0
-Maximus the Mad;Inhumans/L;0
-Gorgon;Inhumans;0
-Karnak;Inhumans;0
-King Black Bolt;Inhumans;0
 Abomination;Criminal Syndicate, Hydra;0
 Agent Venom;Guardians of the Galaxy, S.H.I.E.L.D., Web Warriors;0
 Amazing Spider-Man;Defenders, Web Warriors/L;1
@@ -71,6 +66,8 @@ Gambit;Brotherhood of Mutants, Uncanny X-Men, Servants of the Apocalypse;0
 Gamora;A-Force, Guardians of the Galaxy;0
 Ghost Rider;Defenders, Midnight Sons;0
 Ghost-Spider;Web Warriors;1
+Gladiator;UNAFFILIATED;0
+Gorgon;Inhumans;0
 Green Goblin;Spider-Foes/L, Criminal Syndicate;1
 Groot;Guardians of the Galaxy;0
 Gwenom;Web Warriors;0
@@ -88,8 +85,10 @@ Iron Fist;Avengers, Defenders, Midnight Sons;0
 Iron Man;Avengers, S.H.I.E.L.D.;1
 Jean Grey;Uncanny X-Men;1
 Juggernaut;Brotherhood of Mutants;0
+Karnak;Inhumans;0
 Killmonger, Usurper;Criminal Syndicate, Wakanda/L;0
 Killmonger;Wakanda, Cabal, Criminal Syndicate;1
+King Black Bolt;Inhumans;0
 King T'Challa;Avengers, Wakanda/L;0
 Kingpin;Cabal, Criminal Syndicate/L, Spider-Foes;1
 Klaw;Cabal, Criminal Syndicate/L;0
@@ -109,6 +108,7 @@ Magneto;Brotherhood of Mutants/L, Cabal, Hellfire Club;1
 Malekith the Accursed;Cabal/L;0
 Man-Thing;Defenders, Midnight Sons;0
 Maverick;Weapon X;0
+Maximus the Mad;Inhumans/L;0
 Medusa;A-Force, Inhumans/L;1
 Mephisto, Lord of Temptation;Cabal, Criminal Syndicate, Legion of the Lost/L;0
 Mister Sinister;Cabal, Servants of the Apocalypse, Hellfire Club;0

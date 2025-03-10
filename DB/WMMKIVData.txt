@@ -51,3 +51,7 @@ Woldwyrd;Secret Dominion;Light Warbeast;2;?;7;4;0
 Woldwrath;Secret Dominion;Gargantuan Warbeast;10;?;27;2;0
 Megalith;Secret Dominion;Heavy Warbeast;4;?;15;1;0
 Celestial Fulcrum;Secret Dominion;Battle Engine;10;?;13;2;0
+Discerptor Eviscerus;Necrofactorium;Warcaster;2;?;0;1;0
+Captain Buck Hasker;Gravediggers;Warcaster;1;?;0;1;0
+Captain Athena di Baro;Storm Legion;Warcaster;1;?;0;1;0
+Captain Aiakos;Blackfleet;Warcaster;1;?;0;1;0
