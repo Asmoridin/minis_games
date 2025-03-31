@@ -1,0 +1,310 @@
+
+Name: The Old Guard
+Faction: Imperial
+Commander: Moff Jerjerrod
+
+Imperial II (120)
+• Moff Jerjerrod (23)
+• Expert Shield Tech (5)
+• Boarding Troopers (3)
+• Early Warning System (7)
+• Point Defense Ion Cannons (6)
+• Dual Turbolaser Turrets (4)
+• Chimaera (4)
+• Entrapment Formation! (5)
+= 177 Points
+
+Imperial II (120)
+• Expert Shield Tech (5)
+• Boarding Troopers (3)
+• Early Warning System (7)
+• Point Defense Ion Cannons (6)
+• Dual Turbolaser Turrets (4)
+= 145 Points
+
+Gozanti Cruisers (23)
+• Minister Tua (2)
+• Comms Net (2)
+• Suppressor (4)
+• Electronic Countermeasures (7)
+= 38 Points
+
+Gozanti Cruisers (23)
+• Darth Vader (4)
+• Comms Net (2)
+= 29 Points
+
+Squadrons:
+= 0 Points
+
+Total Points: 389
+Damon Jordan
+Mutually Assured Reds, Totally Ubiquitous, Unfortunately Knavish 
+Author: Xantos1159
+
+Faction: Separatist Alliance
+Commander: Mar Tuuk
+Points: 398/400 
+
+[ flagship ] Providence-class Carrier (102 points)
+-  Mar Tuuk  ( 28  points)
+-  Invincible  ( 5  points)
+-  Rune Haako  ( 4  points)
+-  Reserve Hangar Deck  ( 4  points)
+-  Thermal Shields  ( 5  points)
+
+-  Early Warning System  ( 7  points)
+
+-  H9 Turbolasers  ( 8  points)
+-  Point Defense Ion Cannons  ( 6  points)
+-  External Racks  ( 4  points)
+-  Intensify Firepower!  ( 6  points)
+= 179 total ship cost
+
+Recusant Light Destroyer (85 points)
+-  Patriot Fist  ( 6  points)
+-  Tikkes  ( 2  points)
+-  Sensor Team  ( 5  points)
+-  Reserve Hangar Deck  ( 4  points)
+-  Spinal Armament  ( 9  points)
+-  External Racks  ( 4  points)
+= 115 total ship cost
+
+Gozanti-class Cruisers (cis) (24 points)
+= 24 total ship cost
+
+Gozanti-class Cruisers (cis) (24 points)
+= 24 total ship cost
+
+7 Vulture-class Droid Fighter Squadron ( 56 points)
+= 56 total squadron cost
+Ryan Becker
+Name:Double ISD
+>
+>  
+> Faction: rebels
+> Commander: Admiral Raddus
+> Version: Official Game
+>
+> MC75 Armored Cruiser (99)
+> • Admiral Raddus (26)
+> • Ahsoka Tano (2)
+> • Flag Bridge (0)
+> • Reinforced Blast Doors (5)
+> • External Racks (4)
+> • Point Defense Ion Cannons (6)
+> • Intensify Firepower! (6)
+> = 148 Points
+>
+> GR-75 Medium Transports (18)
+> • Leia Organa (3)
+> • Comms Net (2)
+> = 23 Points
+>
+> MC75 Armored Cruiser (99)
+> • Lando Calrissian (4)
+> • Boarding Troopers (3)
+> • Reinforced Blast Doors (5)
+> • External Racks (4)
+> • Point Defense Ion Cannons (6)
+> • Quad Battery Turrets (5)
+> • Profundity (7)
+> = 133 Points
+>
+> CR90 Corvette B (39)
+> • Hondo Ohnaka (2)
+> • Overload Pulse (6)
+>
+> = 47 Points
+>
+>
+> Squadrons:
+> • Shara Bey (17)
+> • Tycho Celchu (16)
+> = 33 Points
+>
+> Total Points: 384
+Colin Looney
+ISD Kuat Refit (112 + 52: 164)
+· Admiral Sloane (24)
+· Admiral Montferrat (5)
+· Boarding Troopers (3)
+· Electronic Countermeasures (7)
+· Leading Shots (5)
+· External Racks (4)
+· Sovereign (4)
+
+Quasar I Cruiser-Carrier (54 + 27: 81)
+· Admiral Chiraneau (10)
+· Flight Controllers (6)
+· Boosted Comms (4)
+· Squall (7)
+
+Gozanti Cruisers (23 + 3: 26)
+· Parts Resupply (3)
+
+Darth Vader [TIE/D] (25)
+Colonel Jendon (23)
+Maarek Stele (21)
+Mauler Mithel (15)
+Saber Squadron (12)
+2 x Tie Advanced Squadron (2 x 12)
+Black Squadron (9)
+Adam Newton
+Ackbar 2025 Angry Ewok
+
+Faction: Rebel Alliance
+Commander: Admiral Ackbar
+Points: 389/400
+
+[ flagship ] Assault Frigate Mark II B (72 points)
+-  Admiral Ackbar  ( 38  points)
+-  Gallant Haven  ( 8  points)
+-  Intel Officer  ( 7  points)
+-  Caitken and Shollan  ( 6  points)
+-  Electronic Countermeasures  ( 7  points)
+-  XI7 Turbolasers  ( 6  points)
+= 144 total ship cost
+
+CR90 Corvette A (44 points)
+-  Jainas Light  ( 5  points)
+-  Turbolaser Reroute Circuits  ( 7  points)
+= 56 total ship cost
+
+
+GR-75 Medium Transports (18 points)
+-  Toryn Farr  ( 7  points)
+-  Boosted Comms  ( 4  points)
+-  Comms Net  ( 2  points)
+= 31 total ship cost
+
+GR-75 Medium Transports (18 points)
+-  Boosted Comms  ( 4  points)
+-  Comms Net  ( 2  points)
+= 24 total ship cost
+
+1 Jan Ors ( 19 points)
+1 Lando Calrissian ( 24 points)
+1 Shara Bey ( 17 points)
+1 Tycho Celchu ( 16 points)
+1 A-Wing Squadron ( 11 points)
+2 YT-2400 ( 32 points)
+1 VCX-100 Freighter ( 15 points)
+= 134 total squadron cost
+Nicholas Brown
+Name: giga raddus drop of hell
+Faction: Rebel
+Commander: Admiral Raddus
+
+MC80 Command Cruiser (102)
+• Admiral Raddus (26)
+• Expert Shield Tech (5)
+• Engine Techs (8)
+• Flag Bridge (0)
+• Electronic Countermeasures (7)
+• Point Defense Ion Cannons (6)
+• Home One (5)
+• Intensify Firepower! (6)
+= 165 Points
+
+MC75 Ordnance Cruiser (95)
+• Walex Blissex (5)
+• Ordnance Experts (4)
+• Electronic Countermeasures (7)
+• Expanded Launchers (8)
+• External Racks (4)
+• Profundity (7)
+= 130 Points
+
+CR90 Corvette B (39)
+• Hondo Ohnaka (2)
+• Projection Experts (6)
+• Tantive IV (3)
+= 50 Points
+
+Hammerhead Torpedo Corvette (36)
+• Veteran Captain (2)
+• Shriv Suurgav (4)
+• External Racks (4)
+= 46 Points
+
+Squadrons:
+= 0 Points
+
+Total Points: 391
+Jacek Klopotowski
+Assault Frigate Mk2 B (72)
+â˘ Admiral Ackbar (38)
+â˘ Intel Officer (7)
+â˘ Caitken and Shollan (6)
+â˘ Electronic Countermeasures (7)
+â˘ Slaved Turrets (6)
+= 136 Points
+
+MC30c Scout Frigate (69)
+â˘ Expert Shield Tech (5)
+â˘ Ordnance Experts (4)
+â˘ External Racks (4)
+â˘ H9 Turbolasers (8)
+â˘ Foresight (10)
+= 100 Points
+
+GR-75 Medium Transports (18)
+â˘ Ezra Bridger (3)
+â˘ Comms Net (2)
+= 23 Points
+
+GR-75 Medium Transports (18)
+â˘ Hondo Ohnaka (2)
+â˘ Comms Net (2)
+= 22 Points
+
+Squadrons:
+â˘ Lando Calrissian (24)
+â˘ Jan Ors (19)
+â˘ Shara Bey (17)
+â˘ Tycho Celchu (16)
+â˘ 2 x YT-2400 (32)
+â˘ A-wing Squadron (11)
+= 119 Points
+
+Total Points: 400
+Rhys Aghatabay
+Name: D Caps These Cheeks & Ig On My Nition
+Faction: Imperial
+Commander: General Romodi
+
+Onager Testbed (116)
+• General Romodi (28)
+• Governor Pryce (6)
+• Gunnery Chief Varnillian (6)
+• Ordnance Experts (4)
+• Orbital Bombardment Particle Cannons (5)
+= 165 Points
+
+Victory II (80)
+• Minister Tua (2)
+• Gunnery Team (7)
+• Disposable Capacitors (3)
+• XI7 Turbolasers (6)
+• Point Defense Ion Cannons (6)
+• Harrow (3)
+• Electronic Countermeasures (7)
+= 114 Points
+
+Gozanti Cruisers (23)
+• Darth Vader (4)
+• Parts Resupply (3)
+= 30 Points
+
+Gozanti Cruisers (23)
+• Comms Net (2)
+= 25 Points
+
+Squadrons:
+• Captain Jonus (16)
+• 5 x TIE Fighter Squadron (40)
+= 56 Points
+
+Total Points: 390
+
