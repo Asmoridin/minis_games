@@ -1,6 +1,6 @@
 Inventory tracker and purchase suggestions for the Song of Ice and Fire miniatures game.
 
-I own 83 out of 1017 list items for this game (8.16 percent)
+I own 83 out of 1019 list items for this game (8.15 percent)
 Maybe purchase a(n) Cavalry Attachment from Lannister - perhaps a Clegane Butcher (have 0 out of 4)
 
 I own 18 out of 82 Commanders
@@ -8,7 +8,7 @@ I own 18 out of 82 Commanders
 Current points by faction:
 - Targaryen: 83
 - Lannister: 63
-- Stark: 56
+- Stark: 55
 - Neutral: 33
 - Bolton: 22
 - Baratheon: 0

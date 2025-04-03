@@ -1,0 +1,41 @@
+Commander: Admiral Raddus
+> Version: Official Game
+>
+> MC75 Armored Cruiser (99)
+> • Admiral Raddus (26)
+> • Ahsoka Tano (2)
+> • Flag Bridge (0)
+> • Reinforced Blast Doors (5)
+> • External Racks (4)
+> • Point Defense Ion Cannons (6)
+> • Intensify Firepower! (6)
+> = 148 Points
+>
+> GR-75 Medium Transports (18)
+> • Leia Organa (3)
+> • Comms Net (2)
+> = 23 Points
+>
+> MC75 Armored Cruiser (99)
+> • Lando Calrissian (4)
+> • Boarding Troopers (3)
+> • Reinforced Blast Doors (5)
+> • External Racks (4)
+> • Point Defense Ion Cannons (6)
+> • Quad Battery Turrets (5)
+> • Profundity (7)
+> = 133 Points
+>
+> CR90 Corvette B (39)
+> • Hondo Ohnaka (2)
+> • Overload Pulse (6)
+>
+> = 47 Points
+>
+>
+> Squadrons:
+> • Shara Bey (17)
+> • Tycho Celchu (16)
+> = 33 Points
+>
+> Total Points: 384

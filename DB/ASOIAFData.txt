@@ -2,7 +2,7 @@
 # Points for units are frequently used to determine max: 28 / points of unit = max
 # The Attachments have a max of 4 or min point of a unit + 1 
 Addam Marbrand, Commander of the City Watch;Lannister;Commander;0;1;0
-Addam Marbrand, Trusted Bannerman;Lannister;Infantry Attachment;2;1;0
+Addam Marbrand, Trusted Bannerman;Lannister;Infantry Attachment;1;1;0
 Aemon, Master of Castle Black;Night's Watch;NCU;4;1;0
 Aeron Greyjoy, The Damphair;Greyjoy;NCU;4;1;0
 Alester Florent, Lord of Brightwater;Baratheon;NCU;4;1;0
@@ -12,24 +12,24 @@ Alliser Thorne, Vindictive Overseer;Night's Watch;Infantry Attachment;1;1;0
 Andrew Estermont, First of the King's Men;Baratheon;Commander;0;1;0
 Andrew Estermont, The Loyalist;Baratheon;Infantry Attachment;1;1;0
 Anguy, The Archer;Brotherhood Without Banners;Infantry Attachment;2;1;0
-Areo Hotah, Dutiful Juggernaut;Martell;Infantry Attachment;2;1;0
+Areo Hotah, Dutiful Juggernaut;Martell;Infantry Attachment;1;1;0
 Arianne Martell, Heiress To Dorne;Martell;NCU;5;1;0
 Arya Stark, Fugitive Princess;Neutral;Infantry Attachment;1;1;0
 Arya Stark, The Wolf Girl;Stark;NCU;4;1;0
 Arys Oakheart, Crown's Ambassador;Martell;NCU;4;1;0
 Arys Oakheart, Kingsguard;Lannister;Infantry Attachment;1;1;0
 Arys Oakheart, The White Knight;Martell;Infantry Attachment;1;1;0
-Asha Greyjoy, "Lady Greyjoy";Greyjoy;Infantry Attachment;2;1;0
+Asha Greyjoy, "Lady Greyjoy";Greyjoy;Infantry Attachment;1;1;0
 Asha Greyjoy, Captain of the Black Wind;Greyjoy;Infantry Attachment;1;1;0
 Asha Greyjoy, The Kraken's Daughter;Greyjoy;Commander;0;1;0
 Asha Greyjoy, Would-be Queen;Greyjoy;NCU;4;1;0
 Assault Veteran;Lannister;Infantry Attachment;1;4;2
-Axell Florent, Fanatical Devotee;Baratheon;Infantry Attachment;2;1;0
+Axell Florent, Fanatical Devotee;Baratheon;Infantry Attachment;1;1;0
 Axell Florent, First of the Queen's Men;Baratheon;Commander;0;1;0
 Axell Florent, Hand of the Queen;Baratheon;NCU;4;1;0
 Baelor Blacktyde, Captain of the Nightflyer;Greyjoy;Infantry Attachment;1;1;0
 Baelor Blacktyde, Lord of Blacktyde;Greyjoy;Commander;0;1;0
-Balon Greyjoy, King of Salt and Rock;Greyjoy;NCU;5;1;0
+Balon Greyjoy, King of Salt and Rock;Greyjoy;NCU;6;1;0
 Balon Greyjoy, The Kraken King;Greyjoy;Commander;0;1;0
 Baratheon Halberdiers;Baratheon;Infantry;6;4;0
 Baratheon Sentinels;Baratheon;Infantry;5;5;0
@@ -55,7 +55,7 @@ Boros Blount, Kingsguard;Lannister;Infantry Attachment;1;1;0
 Borroq, Boar Skinchanger;Free Folk;Infantry Attachment;2;1;0
 Bowen Marsh, First Steward;Night's Watch;NCU;4;1;0
 Bran and Hodor, Protector and Ward;Stark;Infantry Attachment;1;1;1
-Brazen Beasts Captain;Targaryen;Infantry Attachment;2;4;0
+Brazen Beasts Captain;Targaryen;Infantry Attachment;1;4;0
 Brazen Beasts;Targaryen;Infantry;5;5;0
 Brienne, Maiden of Tarth;Neutral;Infantry Attachment;2;1;1
 Brienne, Rainbow Guard;Baratheon;Infantry Attachment;1;1;0
@@ -67,8 +67,8 @@ Bryce Caron, Bryce the Orange;Baratheon;Infantry Attachment;1;1;0
 Bryen Farring, King's Squire;Baratheon;Infantry Attachment;1;1;0
 Brynden Tully, Outrider Commander;Stark;Commander;0;1;1
 Brynden Tully, The Blackfish;Stark;Commander;0;1;1
-Brynden Tully, Unyielding Knight;Stark;Infantry Attachment;2;1;0
-Brynden Tully;Stark;Cavalry Attachment;2;1;0
+Brynden Tully, Unyielding Knight;Stark;Infantry Attachment;1;1;0
+Brynden Tully, Vanguard Infiltrator;Stark;Cavalry Attachment;1;1;0
 Builder Crossbowmen;Night's Watch;Infantry;7;4;0
 Builder Scorpion Crew;Night's Watch;War Machine;5;2;0 # Limit 2
 Builder Stone Thrower;Night's Watch;War Machine;8;2;0 # Limit 2
@@ -84,7 +84,7 @@ Champion of the Faith;Lannister;Infantry Attachment;1;4;0
 Champions of the Stag;Baratheon;Cavalry;8;3;0
 Chosen of Styr;Free Folk;Infantry Attachment;1;4;0
 Clegane Butcher;Lannister;Cavalry Attachment;1;4;0
-Cohollo, Bloodrider;Targaryen;Cavalry Attachment;2;1;0
+Cohollo, Bloodrider;Targaryen;Cavalry Attachment;1;1;0
 Coldhands, Enigmatic Guide;Night's Watch;Infantry Attachment;1;1;0
 Coldhands, Former Crow;Night's Watch;Cavalry Attachment;1;1;0
 Coldhands, Mysterious Ally;Night's Watch;Cavalry;5;1;0
@@ -135,8 +135,8 @@ Dreadfort Spearmen;Bolton;Infantry;5;5;0
 Drogo's Bloodriders;Targaryen;Cavalry;8;1;0 # Character
 Drogon;Targaryen;Monster;7;1;1
 Drowned Men;Greyjoy;Infantry;4;6;0
-Drowned Prophet;Greyjoy;Infantry Attachment;2;4;0
-Dune Vipers;Martell;Infantry;6;4;0
+Drowned Prophet;Greyjoy;Infantry Attachment;1;4;0
+Dune Vipers;Martell;Infantry;5;5;0
 Eddard Stark, Hand of the King;Stark;NCU;5;1;0
 Eddard Stark, Lord of Winterfell;Stark;Commander;0;1;1
 Eddard Stark, Warden of the North;Stark;NCU;6;1;0
@@ -173,7 +173,7 @@ Gilly, The Wildling Girl;Night's Watch;NCU;1;1;0
 Glory Seeker;Neutral;Cavalry Attachment;1;4;0
 Gold Cloaks;Lannister;Infantry;5;5;0
 Golden Company Crossbowmen;Neutral;Infantry;7;4;0
-Golden Company Officer;Neutral;Infantry Attachment;2;4;0
+Golden Company Officer;Neutral;Infantry Attachment;1;4;0
 Golden Company Swordsmen;Neutral;Infantry;7;4;0
 Golden Company War Elephant;Neutral;Monster;6;2;0
 Greatjon Umber, Fierce Bannerman;Stark;Infantry Attachment;2;1;0
@@ -188,8 +188,8 @@ Grey Worm, Freed by the Dragon;Targaryen;Infantry Attachment;2;1;0
 Grey Worm, Unsullied Commander;Targaryen;Commander;0;1;0
 Grunt, Bastard's Boy;Bolton;Infantry Attachment;1;1;0
 Guard Captain;Lannister;Infantry Attachment;1;4;3
-Guyard Morrigen, Guyard The Green;Baratheon;Infantry Attachment;2;1;0
-Haggo, Bloodrider;Targaryen;Cavalry Attachment;2;1;0
+Guyard Morrigen, Guyard The Green;Baratheon;Infantry Attachment;1;1;0
+Haggo, Bloodrider;Targaryen;Cavalry Attachment;1;1;0
 Hardened Ranger;Night's Watch;Infantry Attachment;1;4;0
 Harma's Bannerman;Free Folk;Infantry Attachment;1;1;0 # Character
 Harma's Vanguard;Free Folk;Cavalry;5;5;0
@@ -229,7 +229,7 @@ Ironmakers;Greyjoy;Infantry;7;4;0
 Jaime Lannister, Kingsguard;Lannister;Infantry Attachment;2;1;0
 Jaime Lannister, Maimed Hostage;Lannister;Infantry Attachment;1;1;1
 Jaime Lannister, The Kingslayer;Lannister;Commander;0;1;1
-Jaime Lannister, The Young Lion;Lannister;Infantry Attachment;2;1;0
+Jaime Lannister, The Young Lion;Lannister;Infantry Attachment;1;1;0
 Jaqen H'ghar, Follower of the Red God;Neutral;NCU;4;1;0
 Jaqen H'ghar, Mysterious Prisoner;Stark;Infantry Attachment;1;1;0
 Jaqen H'ghar, Unnamed;Neutral;Infantry Attachment;1;1;0
@@ -239,7 +239,7 @@ Jeor Mormont, The Old Bear;Night's Watch;NCU;4;1;0
 Jeyne Poole, Arya Stark, Bride of Bolton;Bolton;NCU;5;1;0
 Joffrey Baratheon, First of His Name;Lannister;Commander;0;1;0
 Joffrey Baratheon, Lord of the Seven Kingdoms;Lannister;NCU;5;1;0
-Jojen Reed, Greensight;Stark;Infantry Attachment;2;1;0
+Jojen Reed, Greensight;Stark;Infantry Attachment;1;1;0
 Jokin, Archer Captain;Neutral;Infantry Attachment;2;1;0
 Jokin, Stormcrow Captain;Neutral;Commander;0;1;0
 Jon Show, Turncloak Crow;Free Folk;NCU;4;1;0
@@ -266,7 +266,7 @@ Lannister Guardsmen;Lannister;Infantry;5;5;2
 Lannister Halberdiers;Lannister;Infantry;5;5;1
 Lannister Upgrade Card Pack;Lannister;Cards;0;1;0
 Lem Lemoncloak, The Lemon;Brotherhood Without Banners;Infantry Attachment;1;1;0
-Loras Tyrell, King's Squire;Baratheon;Infantry Attachment;2;1;0
+Loras Tyrell, King's Squire;Baratheon;Infantry Attachment;1;1;0
 Loras Tyrell, Lord Commander of the Rainbow Guard;Baratheon;Infantry Attachment;1;1;0
 Loras Tyrell, The Knight of Flowers;Baratheon;Commander;0;1;0
 Lord Varys, The Spider;Neutral;NCU;4;1;1
@@ -275,7 +275,7 @@ Lyanna Mormont, Youngest She-Bear;Stark;NCU;4;1;0
 Lysene Bosun;Neutral;Infantry Attachment;1;4;0
 Lysene Sellswords;Neutral;Infantry;5;5;0
 Maege Mormont, Lady of Bear Island;Stark;Commander;0;1;0
-Maege Mormont, The She-Bear;Stark;Infantry Attachment;2;1;1
+Maege Mormont, The She-Bear;Stark;Infantry Attachment;1;1;1
 Mag the Mighty;Free Folk;Monster/Commander;9;1;0
 Man-At-Arms;Brotherhood Without Banners;Infantry;6;4;0
 Mance Rayder, Abel The Bard;Free Folk;Infantry;2;1;0
@@ -285,7 +285,7 @@ Mance Rayder, King Beyond the Wall;Free Folk;Commander;0;1;0
 Mandon Moore, Kingsguard;Lannister;Infantry Attachment;1;1;0
 Margaery Tyrell, Little Rose;Baratheon;NCU;4;1;0
 Marselen, Mother's Men Commander;Targaryen;Commander;0;1;1
-Marselen, Unsullied Captain;Targaryen;Infantry Attachment;2;1;0
+Marselen, Unsullied Captain;Targaryen;Infantry Attachment;1;1;0
 Martell Spearmen;Martell;Infantry;5;5;0
 Master Warden;Baratheon;Infantry Attachment;1;4;0
 Meera Reed, Cunning Trapper;Stark;Infantry Attachment;1;1;0
@@ -301,7 +301,7 @@ Neutral Upgrade Card Pack;Neutral;Cards;0;1;0
 Night's Watch Upgrade Card Pack;Night's Watch;Cards;0;1;0
 Nute, The Barber;Greyjoy;Infantry Attachment;1;1;0
 Nymeria Sand, Lady Nym;Martell;NCU;4;1;0
-Nymeria Sand, Sand Snake;Martell;Infantry Attachment;2;1;0
+Nymeria Sand, Sand Snake;Martell;Infantry Attachment;1;1;0
 Obara Sand, Eldest Sister;Martell;Commander;0;1;0
 Obara Sand, Sand Snake;Martell;Infantry Attachment;1;1;0
 Oberyn Martell, Prince of Dorne;Martell;Commander;0;1;0
@@ -317,7 +317,7 @@ Patchface, Patches;Baratheon;NCU;4;1;0
 Peasant Levy;Brotherhood Without Banners;Infantry;4;6;0
 Petyr Baelish, Littlefinger;Neutral;NCU;4;1;1
 Pikeman Captain;Baratheon;Infantry Attachment;1;4;0
-Pit Fighters;Targaryen;Infantry;6;4;0
+Pit Fighters;Targaryen;Infantry;5;5;0
 Poor Fellows;Lannister;Infantry;4;6;0 # Felt like these needed attachments, so not 7
 Preston Greenfield, Kingsguard;Lannister;Infantry Attachment;1;1;0
 Pyat Pree, Warlock of Qarth;Targaryen;NCU;4;1;0
@@ -328,7 +328,7 @@ Qarl, Asha's Champion;Greyjoy;Infantry Attachment;1;1;0
 Qarl, The Maid;Greyjoy;Infantry Attachment;2;1;0
 Qhorin Halfhand, Grizzled Ranger;Night's Watch;Infantry Attachment;1;1;0
 Qhorin Halfhand, Unwavering Ranger;Night's Watch;NCU;5;1;0
-Qotho, Bloodrider;Targaryen;Cavalry Attachment;2;1;0
+Qotho, Bloodrider;Targaryen;Cavalry Attachment;1;1;0
 Quaithe, Of The Shadow;Targaryen;NCU;4;1;1
 Quentyn Martell, Prince of Dorne;Martell;Infantry Attachment;1;1;0
 Qyburn, Forbidden Knowledge;Lannister;Infantry Attachment;1;1;0
@@ -338,7 +338,7 @@ R'hllor Lightbringers;Baratheon;Infantry;6;4;0
 R'hllor Queen's Men;Baratheon;Infantry;7;4;0
 Raid Leader;Free Folk;Infantry Attachment;1;4;0
 Rainbow Guard;Baratheon;Infantry;6;1;0 # Character
-Rakharo, Bloodrider;Targaryen;Cavalry Attachment;2;1;0
+Rakharo, Bloodrider;Targaryen;Cavalry Attachment;1;1;0
 Ramsay Snow, Red Helm;Bolton;NCU;4;1;0
 Ramsay Snow, Sadist;Neutral/Bolton;Infantry Attachment;2;1;0
 Ramsay Snow, Spiteful Heir;Bolton;Commander;0;1;0
@@ -358,10 +358,10 @@ Renly Baratheon, The Charismatic Heir;Baratheon;Commander;0;1;0
 Rhaegal;Targaryen;Monster;7;1;1
 Rhaenyra Targaryen, Dragon Queen;Targaryen;NCU;4;1;0
 Rickard Karstark, Lord of Karhold;Stark;Commander;0;1;0
-Rickard Karstark, Vengeful Bannerman;Stark;Infantry Attachment;2;1;0
+Rickard Karstark, Vengeful Bannerman;Stark;Infantry Attachment;1;1;0
 Rickon Stark, Prince of Winterfell;Stark;Infantry Attachment;1;1;0
 Riders of Highgarden;Baratheon;Cavalry;6;4;0
-Robar Royce, Robar The Red;Baratheon;Infantry Attachment;2;1;0
+Robar Royce, Robar The Red;Baratheon;Infantry Attachment;1;1;0
 Robb Stark, King in the North;Stark;NCU;4;1;0
 Robb Stark, The Wolf Lord;Stark;Commander;0;1;1
 Robb Stark, The Young Wolf;Stark;Infantry Attachment;2;1;0
@@ -374,7 +374,7 @@ Roose Bolton, The Leech Lord;Neutral;Commander;0;1;1
 Rorge, The Mad Dog of Saltpans;Neutral;Infantry Attachment;2;1;0
 Rose Knights;Baratheon;Infantry;7;4;0
 Samwell Tarly, Craven Scholar;Night's Watch;NCU;4;1;0
-Samwell Tarly, Sam The Slayer;Night's Watch;Infantry Attachment;2;1;0
+Samwell Tarly, Sam The Slayer;Night's Watch;Infantry Attachment;1;1;0
 Sand Skirmishers;Martell;Infantry;7;4;0
 Sandor Clegane, Fugitive Bodyguard;Neutral;Infantry Attachment;1;1;0
 Sandor Clegane, The Hound;Lannister;Infantry Attachment;1;1;1
@@ -388,7 +388,7 @@ Senior Builder;Night's Watch;Infantry Attachment;1;4;0
 Sentinel Enforcer;Lannister;Infantry Attachment;1;4;0
 Ser Denys Mallister, Honorable Brother;Night's Watch;NCU;4;1;0
 Ser Denys Mallister, Shadow Tower Commander;Night's Watch;Commander;0;1;0
-Ser Robert Strong, The Silent Giant;Lannister;Infantry Attachment;3;1;0
+Ser Robert Strong, The Silent Giant;Lannister;Infantry Attachment;2;1;0
 Shadow Tower Spearmen;Night's Watch;Infantry;7;4;0
 Shadowcat;Free Folk;Monster;2;1;0 
 Shae, Hidden in Court;Neutral;NCU;4;1;0
@@ -432,7 +432,7 @@ Sunspear Dervishes;Martell;Infantry;6;4;0
 Sunspear Royal Guard;Martell;Infantry;7;4;0
 Sworn Brothers;Night's Watch;Infantry;7;4;0
 Sworn Sword Captain;Stark;Infantry Attachment;1;4;3
-Syrio Forel, First Blade of Braavos;Stark;Infantry Attachment;2;1;0
+Syrio Forel, First Blade of Braavos;Stark;Infantry Attachment;1;1;0
 Targaryen Upgrade Card Pack;Targaryen;Cards;0;1;0
 The Bonelord's Chosen;Free Folk;Infantry;6;1;0
 The Great Walrus, Lord of the Frozen Shore;Free Folk;Commander;0;1;0
@@ -479,7 +479,7 @@ Victarion Greyjoy, The Iron Captain;Greyjoy;Commander;0;1;0
 Viserion;Targaryen;Monster;7;1;1
 Walda Frey, Fat Walda;Bolton;NCU;4;1;0
 Walder Frey, Lord of the Crossing;Neutral;NCU;5;1;0
-Walrus Clan Chieftain;Free Folk;Infantry Attachment;2;4;0
+Walrus Clan Chieftain;Free Folk;Infantry Attachment;1;4;0
 War Mammoth;Free Folk;Monster;6;2;0 # Limit 2
 Warsworn;Greyjoy;Infantry Attachment;1;4;0
 Watch Captain;Night's Watch;Infantry Attachment;2;4;0
@@ -495,4 +495,4 @@ Xaro Xhan Daxos, Merchant Prince of Qarth;Targaryen;NCU;4;1;0
 Ygritte, Kissed by Fire;Free Folk;NCU;4;1;0
 Ygritte, Spearwife Archer;Free Folk;Infantry Attachment;2;1;0
 Yoren, Harsh Recruiter;Night's Watch;Infantry Attachment;2;1;0
-Yoren, Wandering Crow;Night's Watch;NCU;6;1;0
+Yoren, Wandering Crow;Night's Watch;NCU;5;1;0

@@ -1,0 +1,35 @@
+Commander: Mar Tuuk
+Points: 398/400 
+
+[ flagship ] Providence-class Carrier (102 points)
+-  Mar Tuuk  ( 28  points)
+-  Invincible  ( 5  points)
+-  Rune Haako  ( 4  points)
+-  Reserve Hangar Deck  ( 4  points)
+-  Thermal Shields  ( 5  points)
+
+-  Early Warning System  ( 7  points)
+
+-  H9 Turbolasers  ( 8  points)
+-  Point Defense Ion Cannons  ( 6  points)
+-  External Racks  ( 4  points)
+-  Intensify Firepower!  ( 6  points)
+= 179 total ship cost
+
+Recusant Light Destroyer (85 points)
+-  Patriot Fist  ( 6  points)
+-  Tikkes  ( 2  points)
+-  Sensor Team  ( 5  points)
+-  Reserve Hangar Deck  ( 4  points)
+-  Spinal Armament  ( 9  points)
+-  External Racks  ( 4  points)
+= 115 total ship cost
+
+Gozanti-class Cruisers (cis) (24 points)
+= 24 total ship cost
+
+Gozanti-class Cruisers (cis) (24 points)
+= 24 total ship cost
+
+7 Vulture-class Droid Fighter Squadron ( 56 points)
+= 56 total squadron cost

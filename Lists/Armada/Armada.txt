@@ -1,129 +1,3 @@
-
-Name: The Old Guard
-Faction: Imperial
-Commander: Moff Jerjerrod
-
-Imperial II (120)
-• Moff Jerjerrod (23)
-• Expert Shield Tech (5)
-• Boarding Troopers (3)
-• Early Warning System (7)
-• Point Defense Ion Cannons (6)
-• Dual Turbolaser Turrets (4)
-• Chimaera (4)
-• Entrapment Formation! (5)
-= 177 Points
-
-Imperial II (120)
-• Expert Shield Tech (5)
-• Boarding Troopers (3)
-• Early Warning System (7)
-• Point Defense Ion Cannons (6)
-• Dual Turbolaser Turrets (4)
-= 145 Points
-
-Gozanti Cruisers (23)
-• Minister Tua (2)
-• Comms Net (2)
-• Suppressor (4)
-• Electronic Countermeasures (7)
-= 38 Points
-
-Gozanti Cruisers (23)
-• Darth Vader (4)
-• Comms Net (2)
-= 29 Points
-
-Squadrons:
-= 0 Points
-
-Total Points: 389
-Damon Jordan
-Mutually Assured Reds, Totally Ubiquitous, Unfortunately Knavish 
-Author: Xantos1159
-
-Faction: Separatist Alliance
-Commander: Mar Tuuk
-Points: 398/400 
-
-[ flagship ] Providence-class Carrier (102 points)
--  Mar Tuuk  ( 28  points)
--  Invincible  ( 5  points)
--  Rune Haako  ( 4  points)
--  Reserve Hangar Deck  ( 4  points)
--  Thermal Shields  ( 5  points)
-
--  Early Warning System  ( 7  points)
-
--  H9 Turbolasers  ( 8  points)
--  Point Defense Ion Cannons  ( 6  points)
--  External Racks  ( 4  points)
--  Intensify Firepower!  ( 6  points)
-= 179 total ship cost
-
-Recusant Light Destroyer (85 points)
--  Patriot Fist  ( 6  points)
--  Tikkes  ( 2  points)
--  Sensor Team  ( 5  points)
--  Reserve Hangar Deck  ( 4  points)
--  Spinal Armament  ( 9  points)
--  External Racks  ( 4  points)
-= 115 total ship cost
-
-Gozanti-class Cruisers (cis) (24 points)
-= 24 total ship cost
-
-Gozanti-class Cruisers (cis) (24 points)
-= 24 total ship cost
-
-7 Vulture-class Droid Fighter Squadron ( 56 points)
-= 56 total squadron cost
-Ryan Becker
-Name:Double ISD
->
->  
-> Faction: rebels
-> Commander: Admiral Raddus
-> Version: Official Game
->
-> MC75 Armored Cruiser (99)
-> • Admiral Raddus (26)
-> • Ahsoka Tano (2)
-> • Flag Bridge (0)
-> • Reinforced Blast Doors (5)
-> • External Racks (4)
-> • Point Defense Ion Cannons (6)
-> • Intensify Firepower! (6)
-> = 148 Points
->
-> GR-75 Medium Transports (18)
-> • Leia Organa (3)
-> • Comms Net (2)
-> = 23 Points
->
-> MC75 Armored Cruiser (99)
-> • Lando Calrissian (4)
-> • Boarding Troopers (3)
-> • Reinforced Blast Doors (5)
-> • External Racks (4)
-> • Point Defense Ion Cannons (6)
-> • Quad Battery Turrets (5)
-> • Profundity (7)
-> = 133 Points
->
-> CR90 Corvette B (39)
-> • Hondo Ohnaka (2)
-> • Overload Pulse (6)
->
-> = 47 Points
->
->
-> Squadrons:
-> • Shara Bey (17)
-> • Tycho Celchu (16)
-> = 33 Points
->
-> Total Points: 384
 Colin Looney
 ISD Kuat Refit (112 + 52: 164)
 · Admiral Sloane (24)
@@ -191,47 +65,7 @@ GR-75 Medium Transports (18 points)
 2 YT-2400 ( 32 points)
 1 VCX-100 Freighter ( 15 points)
 = 134 total squadron cost
-Nicholas Brown
-Name: giga raddus drop of hell
-Faction: Rebel
-Commander: Admiral Raddus
 
-MC80 Command Cruiser (102)
-• Admiral Raddus (26)
-• Expert Shield Tech (5)
-• Engine Techs (8)
-• Flag Bridge (0)
-• Electronic Countermeasures (7)
-• Point Defense Ion Cannons (6)
-• Home One (5)
-• Intensify Firepower! (6)
-= 165 Points
-
-MC75 Ordnance Cruiser (95)
-• Walex Blissex (5)
-• Ordnance Experts (4)
-• Electronic Countermeasures (7)
-• Expanded Launchers (8)
-• External Racks (4)
-• Profundity (7)
-= 130 Points
-
-CR90 Corvette B (39)
-• Hondo Ohnaka (2)
-• Projection Experts (6)
-• Tantive IV (3)
-= 50 Points
-
-Hammerhead Torpedo Corvette (36)
-• Veteran Captain (2)
-• Shriv Suurgav (4)
-• External Racks (4)
-= 46 Points
-
-Squadrons:
-= 0 Points
-
-Total Points: 391
 Jacek Klopotowski
 Assault Frigate Mk2 B (72)
 â˘ Admiral Ackbar (38)
@@ -311,60 +145,7 @@ Total Points: 390
 DAY 2:
 
 
-Home
-Events
-AdeptiCon 2025: World Championship Day 2
-AdeptiCon 2025: World Championship Day 2
-Star Wars: Armada
- Friday, 28 Mar, 2025
- 48
- Signups closed
- Lists visible & unlocked
- Ladder visible
- starwarsarmada25@gmail.com
- Ladder
- Rounds
- Lists
-Jason Hughley
-Name: The Old Guard
-Faction: Imperial
-Commander: Moff Jerjerrod
 
-Imperial II (120)
-• Moff Jerjerrod (23)
-• Expert Shield Tech (5)
-• Boarding Troopers (3)
-• Early Warning System (7)
-• Point Defense Ion Cannons (6)
-• Dual Turbolaser Turrets (4)
-• Chimaera (4)
-• Entrapment Formation! (5)
-= 177 Points
-
-Imperial II (120)
-• Expert Shield Tech (5)
-• Boarding Troopers (3)
-• Early Warning System (7)
-• Point Defense Ion Cannons (6)
-• Dual Turbolaser Turrets (4)
-= 145 Points
-
-Gozanti Cruisers (23)
-• Minister Tua (2)
-• Comms Net (2)
-• Suppressor (4)
-• Electronic Countermeasures (7)
-= 38 Points
-
-Gozanti Cruisers (23)
-• Darth Vader (4)
-• Comms Net (2)
-= 29 Points
-
-Squadrons:
-= 0 Points
-
-Total Points: 389
 Colin Looney
 ISD Kuat Refit (112 + 52: 164)
 · Admiral Sloane (24)
@@ -429,46 +210,7 @@ Squadrons:
 = 56 Points
 
 Total Points: 390
-Damon Jordan
-Mutually Assured Reds, Totally Ubiquitous, Unfortunately Knavish 
-Author: Xantos1159
 
-Faction: Separatist Alliance
-Commander: Mar Tuuk
-Points: 398/400 
-
-[ flagship ] Providence-class Carrier (102 points)
--  Mar Tuuk  ( 28  points)
--  Invincible  ( 5  points)
--  Rune Haako  ( 4  points)
--  Reserve Hangar Deck  ( 4  points)
--  Thermal Shields  ( 5  points)
-
--  Early Warning System  ( 7  points)
-
--  H9 Turbolasers  ( 8  points)
--  Point Defense Ion Cannons  ( 6  points)
--  External Racks  ( 4  points)
--  Intensify Firepower!  ( 6  points)
-= 179 total ship cost
-
-Recusant Light Destroyer (85 points)
--  Patriot Fist  ( 6  points)
--  Tikkes  ( 2  points)
--  Sensor Team  ( 5  points)
--  Reserve Hangar Deck  ( 4  points)
--  Spinal Armament  ( 9  points)
--  External Racks  ( 4  points)
-= 115 total ship cost
-
-Gozanti-class Cruisers (cis) (24 points)
-= 24 total ship cost
-
-Gozanti-class Cruisers (cis) (24 points)
-= 24 total ship cost
-
-7 Vulture-class Droid Fighter Squadron ( 56 points)
-= 56 total squadron cost
 Jacek Klopotowski
 Assault Frigate Mk2 B (72)
 â˘ Admiral Ackbar (38)
@@ -547,120 +289,7 @@ GR-75 Medium Transports (18 points)
 2 YT-2400 ( 32 points)
 1 VCX-100 Freighter ( 15 points)
 = 134 total squadron cost
-Nicholas Brown
-Name: giga raddus drop of hell
-Faction: Rebel
-Commander: Admiral Raddus
 
-MC80 Command Cruiser (102)
-• Admiral Raddus (26)
-• Expert Shield Tech (5)
-• Engine Techs (8)
-• Flag Bridge (0)
-• Electronic Countermeasures (7)
-• Point Defense Ion Cannons (6)
-• Home One (5)
-• Intensify Firepower! (6)
-= 165 Points
-
-MC75 Ordnance Cruiser (95)
-• Walex Blissex (5)
-• Ordnance Experts (4)
-• Electronic Countermeasures (7)
-• Expanded Launchers (8)
-• External Racks (4)
-• Profundity (7)
-= 130 Points
-
-CR90 Corvette B (39)
-• Hondo Ohnaka (2)
-• Projection Experts (6)
-• Tantive IV (3)
-= 50 Points
-
-Hammerhead Torpedo Corvette (36)
-• Veteran Captain (2)
-• Shriv Suurgav (4)
-• External Racks (4)
-= 46 Points
-
-Squadrons:
-= 0 Points
-
-Total Points: 391
-Ryan Becker
-Name:Double ISD
->
->  
-> Faction: rebels
-> Commander: Admiral Raddus
-> Version: Official Game
->
-> MC75 Armored Cruiser (99)
-> • Admiral Raddus (26)
-> • Ahsoka Tano (2)
-> • Flag Bridge (0)
-> • Reinforced Blast Doors (5)
-> • External Racks (4)
-> • Point Defense Ion Cannons (6)
-> • Intensify Firepower! (6)
-> = 148 Points
->
-> GR-75 Medium Transports (18)
-> • Leia Organa (3)
-> • Comms Net (2)
-> = 23 Points
->
-> MC75 Armored Cruiser (99)
-> • Lando Calrissian (4)
-> • Boarding Troopers (3)
-> • Reinforced Blast Doors (5)
-> • External Racks (4)
-> • Point Defense Ion Cannons (6)
-> • Quad Battery Turrets (5)
-> • Profundity (7)
-> = 133 Points
->
-> CR90 Corvette B (39)
-> • Hondo Ohnaka (2)
-> • Overload Pulse (6)
->
-> = 47 Points
->
->
-> Squadrons:
-> • Shara Bey (17)
-> • Tycho Celchu (16)
-> = 33 Points
->
-> Total Points: 384
-Daniel Unzeitig
-There Is Always a Bigger Fish (134/391/400)
-==============================================
-
-MC75 Armored Cruiser (99 + 36: 135)
-· Hondo Ohnaka (2)
-· Ordnance Experts (4)
-· Rapid Launch Bays (6)
-· Electronic Countermeasures (7)
-· Point Defense Ion Cannons (6)
-· External Racks (4)
-· Profundity (7)
-
-CR90 Corvette B (39 + 36: 75)
-· Admiral Raddus (26)
-· Toryn Farr (7)
-· Tantive IV (3)
-
-Hammerhead Torpedo Corvette (36 + 11: 47)
-· Ezra Bridger (3)
-· Ordnance Experts (4)
-· External Racks (4)
-
-5 x YT-2400 (5 x 16)
-2 x B-wing Squadron (2 x 14)
-Rogue Squadron (14)
-Gold Squadron (12)
 James McCartney
 Name: Prep event - James McCartney
 Faction: Republic
@@ -698,51 +327,7 @@ Squadrons:
 = 126 Points
 
 Total Points: 398
-Andrew Graber
-Shadow Meta ‘Mada Gang— 
 
-We love Maarek Stele.
-
-This song is brought to you by: Imp 134
-
-Legalize Raddus Bombs
-
-Faction: Imperial
-Commander: Moff Jerjerrod
-
-Imperial II (120)
-• Moff Jerjerrod (23)
-• Captain Needa (2)
-• Flight Controllers (6)
-• Expanded Hangar Bay (5)
-• Electronic Countermeasures (7)
-• Ion Cannon Batteries (5)
-• Turbolaser Reroute Circuits (7)
-= 175 Points
-
-Gladiator I (56)
-• Skilled First Officer (1)
-• Ordnance Experts (4)
-• External Racks (4)
-• Demolisher (10)
-= 75 Points
-
-Gozanti Cruisers (23)
-• Hondo Ohnaka (2)
-• Comms Net (2)
-• Reserve Hangar Deck (4)
-= 31 Points
-
-Squadrons:
-• Colonel Jendon (23)
-• Darth Vader (TIE Defender) (25)
-• Maarek Stele (21)
-• Mauler Mithel (15)
-• 2 x TIE Interceptor Squadron (22)
-• Saber Squadron (12)
-= 118 Points
-
-Total Points: 399
 Andrew Armbruster
 Name: MC80
 Faction: Rebel
@@ -780,71 +365,7 @@ Squadrons:
 = 133 Points
 
 Total Points: 389
-Samuel Simon
-Imperial II Star Destroyer (120 + 52: 172)
-· Moff Jerjerrod (23)
-· Captain Brunson (9)
-· Boarding Troopers (3)
-· Electronic Countermeasures (7)
-· Point Defense Ion Cannons (6)
-· Dual Turbolaser Turrets (4)
 
-Gladiator I (56 + 27: 83)
-· Minister Tua (2)
-· Ordnance Experts (4)
-· External Racks (4)
-· Demolisher (10)
-· Electronic Countermeasures (7)
-
-Gozanti Cruisers (23 + 2: 25)
-· Comms Net (2)
-
-Darth Vader [TIE/D] (25)
-Colonel Jendon (23)
-Maarek Stele (21)
-Mauler Mithel (15)
-Saber Squadron (12)
-3 x Tie Fighter Squadron (3 x 8)
-Justin Preyer
-Name: Going Fishing at Worlds
-Faction: Imperial
-Commander: Moff Jerjerrod
-
-Imperial II (120)
-• Moff Jerjerrod (23)
-• Expert Shield Tech (5)
-• Gunnery Team (7)
-• Early Warning System (7)
-• Point Defense Ion Cannons (6)
-• XI7 Turbolasers (6)
-• Chimaera (4)
-• Entrapment Formation! (5)
-= 183 Points
-
-Imperial II (120)
-• Expert Shield Tech (5)
-• Boarding Troopers (3)
-• Early Warning System (7)
-• Point Defense Ion Cannons (6)
-• XI7 Turbolasers (6)
-• Sovereign (4)
-= 151 Points
-
-Gozanti Cruisers (23)
-• Hondo Ohnaka (2)
-• Munitions Resupply (3)
-• Suppressor (4)
-= 32 Points
-
-Gozanti Cruisers (23)
-• Darth Vader (4)
-• Comms Net (2)
-= 29 Points
-
-Squadrons:
-= 0 Points
-
-Total Points: 395
 Paul Conrad
 Name: Sloane isd2
 Faction: Imperial
@@ -880,51 +401,7 @@ Squadrons:
 = 129 Points
 
 Total Points: 400
-Patrick Doupe
-Name: Hephs hammer new points
-Faction: Rebel
-Commander: Admiral Raddus
 
-
-MC75 Ordnance Cruiser (95)
-• Walex Blissex (5)
-• Ordnance Experts (4)
-• Electronic Countermeasures (7)
-• Expanded Launchers (8)
-• External Racks (4)
-• Profundity (7)
-= 130 Points
-
-GR-75 Medium Transports (18)
-• Hondo Ohnaka (2)
-• Comms Net (2)
-= 22 Points
-
-GR-75 Medium Transports (18)
-• Slicer Tools (7)
-= 25 Points
-
-Hammerhead Torpedo Corvette (36)
-• Ezra Bridger (3)
-• Shriv Suurgav (4)
-• External Racks (4)
-= 47 Points
-
-MC80 Command Cruiser (102)
-• Admiral Raddus (26)
-• Expert Shield Tech (5)
-• Engine Techs (8)
-• Flag Bridge (0)
-• Early Warning System (7)
-• Point Defense Ion Cannons (6)
-• Home One (5)
-• Intensify Firepower! (6)
-= 165 Points
-
-Squadrons:
-= 0 Points
-
-Total Points: 389
 Paul Adler
 Vic(h) Betta Have My Money (AMG, 1991)
 Faction: Imperial
@@ -1204,45 +681,7 @@ CR90 Corvette A (44 + 7: 51)
 
 GR-75 Medium Transports (18 + 7: 25)
 · Slicer Tools (7)
-Kyle Campagna
-Name: Double the Fall
-Faction: separatists
-Commander: Mar Tuuk
-Version: Official Game
 
-Providence Carrier (102)
-• Mar Tuuk (28)
-• Rune Haako (4)
-• Thermal Shields (5)
-• Intensify Firepower! (6)
-• Reserve Hangar Deck (4)
-• External Racks (4)
-• Leading Shots (5)
-• H9 Turbolasers (8)
-• Invincible (5)
-• Electronic Countermeasures (7)
-= 178 Points
-
-Recusant Light Destroyer (85)
-• Shu Mai (4)
-• Ordnance Experts (4)
-• Reserve Hangar Deck (4)
-• Assault Concussion Missiles (5)
-• Swivel-Mount Batteries (8)
-• Patriot Fist (6)
-= 116 Points
-
-Hardcell Transport (47)
-• Parts Resupply (3)
-• Beast of Burden (6)
-= 56 Points
-
-
-Squadrons:
-• 4 x Droid Tri-Fighter Squadron (44)
-= 44 Points
-
-Total Points: 394
 Eric Burtch
 Name: Ozzel IGG Firespray
 Faction: Imperial
@@ -1311,65 +750,7 @@ Wat Tambor (18)
 Phlac-Arphocc Prototypes (18)
 DIS-T81 (17)
 2 x Vulture Droid Squadron (2 x 8)
-Matthew Moncrief
-Raddus (134/392/400)
-===================
 
-MC75 Ordnance Cruiser (95 + 26: 121)
-· Intel Officer (7)
-· Ordnance Experts (4)
-· Electronic Countermeasures (7)
-· External Racks (4)
-· Assault Proton Torpedoes (4)
-
-CR90 Corvette B (39 + 46: 85)
-· Admiral Raddus (26)
-· Major Derlin (7)
-· Electronic Countermeasures (7)
-· Point Defense Ion Cannons (6)
-
-GR-75 Medium Transports (18 + 11: 29)
-· Hondo Ohnaka (2)
-· Slicer Tools (7)
-· Bright Hope (2)
-
-GR-75 Medium Transports (18 + 5: 23)
-· Ezra Bridger (3)
-· Comms Net (2)
-
-Lando Calrissian (24)
-Malee Hurra (21)
-4 x YT-2400 (4 x 16)
-Rogue Squadron (14)
-A-wing Squadron (11)
-Daniel Allen
-SSD Assault Prototype (250)
-• Moff Jerjerrod (23)
-• Reeva Demesne (4)
-• Intel Officer (7)
-• Captain Needa (2)
-• Gunnery Team (7)
-• Rapid Launch Bays (6)
-• Heavy Ion Emplacements (9)
-• Turbolaser Reroute Circuits (7)
-• Quad Turbolaser Cannons (10)
-• Ravager (4)
-= 329 Points
-
-Gozanti Cruisers (23)
-• Darth Vader (4)
-• Comms Net (2)
-= 29 Points
-
-Gozanti Cruisers (23)
-• Repair Crews (3)
-= 26 Points
-
-Squadrons:
-• Captain Jonus (16)
-= 16 Points
-
-Total Points: 400
 Aron Huckaba
 Providence Carrier (95)
 • Kyrsta Agate (25)
@@ -1504,43 +885,7 @@ Wat Tambor (18)
 DFS-311 (16)
 5 x Hyena-class Bomber Squadron (5 x 11)
 5 x Vulture Droid Squadron (5 x 8)
-Andrew Sackett
-Name: Raddus is OP Worlds '25 FINAL
-Faction: Rebel
-Commander: Admiral Raddus
 
-
-Assault Frigate Mk2 B (72)
-• Admiral Raddus (26)
-• Hondo Ohnaka (2)
-= 100 Points
-
-MC75 Armored Cruiser (99)
-• Ezra Bridger (3)
-• Boarding Troopers (3)
-• Electronic Countermeasures (7)
-• External Racks (4)
-• Point Defense Ion Cannons (6)
-• Quad Battery Turrets (5)
-• Profundity (7)
-= 134 Points
-
-GR-75 Medium Transports (18)
-• Comms Net (2)
-= 20 Points
-
-CR90 Corvette B (39)
-• Overload Pulse (6)
-= 45 Points
-
-Squadrons:
-• Ketsu Onyo (22)
-• Tycho Celchu (16)
-• Gold Squadron (12)
-• 3 x YT-2400 (48)
-= 98 Points
-
-Total Points: 397
 Samuel Wang
 Name: The Jabbawookiee Special (Evil)
 Faction: Empire
@@ -2158,70 +1503,7 @@ Event Packet: https://docs.google.com/document/d/1yKL8VcdiY4XG3BJy5OCs8W6BdDRuF9
  Ladder
  Rounds
  Lists
-Andrew Sackett
-Name: Raddus is OP Worlds '25 FINAL
-Faction: Rebel
-Commander: Admiral Raddus
 
-
-Assault Frigate Mk2 B (72)
-• Admiral Raddus (26)
-• Hondo Ohnaka (2)
-= 100 Points
-
-MC75 Armored Cruiser (99)
-• Ezra Bridger (3)
-• Boarding Troopers (3)
-• Electronic Countermeasures (7)
-• External Racks (4)
-• Point Defense Ion Cannons (6)
-• Quad Battery Turrets (5)
-• Profundity (7)
-= 134 Points
-
-GR-75 Medium Transports (18)
-• Comms Net (2)
-= 20 Points
-
-CR90 Corvette B (39)
-• Overload Pulse (6)
-= 45 Points
-
-Squadrons:
-• Ketsu Onyo (22)
-• Tycho Celchu (16)
-• Gold Squadron (12)
-• 3 x YT-2400 (48)
-= 98 Points
-
-Total Points: 397
-Daniel Unzeitig
-There Is Always a Bigger Fish (134/391/400)
-==============================================
-
-MC75 Armored Cruiser (99 + 36: 135)
-· Hondo Ohnaka (2)
-· Ordnance Experts (4)
-· Rapid Launch Bays (6)
-· Electronic Countermeasures (7)
-· Point Defense Ion Cannons (6)
-· External Racks (4)
-· Profundity (7)
-
-CR90 Corvette B (39 + 36: 75)
-· Admiral Raddus (26)
-· Toryn Farr (7)
-· Tantive IV (3)
-
-Hammerhead Torpedo Corvette (36 + 11: 47)
-· Ezra Bridger (3)
-· Ordnance Experts (4)
-· External Racks (4)
-
-5 x YT-2400 (5 x 16)
-2 x B-wing Squadron (2 x 14)
-Rogue Squadron (14)
-Gold Squadron (12)
 Christopher Fritz
 Tribute (Greatest Ship in the World) (129/400/400)
 
@@ -2347,51 +1629,7 @@ Squadrons:
 = 109 Points
 
 Total Points: 391
-Patrick Doupe
-Name: Hephs hammer new points
-Faction: Rebel
-Commander: Admiral Raddus
 
-
-MC75 Ordnance Cruiser (95)
-• Walex Blissex (5)
-• Ordnance Experts (4)
-• Electronic Countermeasures (7)
-• Expanded Launchers (8)
-• External Racks (4)
-• Profundity (7)
-= 130 Points
-
-GR-75 Medium Transports (18)
-• Hondo Ohnaka (2)
-• Comms Net (2)
-= 22 Points
-
-GR-75 Medium Transports (18)
-• Slicer Tools (7)
-= 25 Points
-
-Hammerhead Torpedo Corvette (36)
-• Ezra Bridger (3)
-• Shriv Suurgav (4)
-• External Racks (4)
-= 47 Points
-
-MC80 Command Cruiser (102)
-• Admiral Raddus (26)
-• Expert Shield Tech (5)
-• Engine Techs (8)
-• Flag Bridge (0)
-• Early Warning System (7)
-• Point Defense Ion Cannons (6)
-• Home One (5)
-• Intensify Firepower! (6)
-= 165 Points
-
-Squadrons:
-= 0 Points
-
-Total Points: 389
 Jordan Shettell
 MC30c Scout Frigate (69)
 • Admiral Ackbar (38)
@@ -2435,46 +1673,7 @@ Squadrons:
 = 0 Points
 
 Total Points: 399
-Damon Jordan
-Mutually Assured Reds, Totally Ubiquitous, Unfortunately Knavish 
-Author: Xantos1159
 
-Faction: Separatist Alliance
-Commander: Mar Tuuk
-Points: 398/400 
-
-[ flagship ] Providence-class Carrier (102 points)
--  Mar Tuuk  ( 28  points)
--  Invincible  ( 5  points)
--  Rune Haako  ( 4  points)
--  Reserve Hangar Deck  ( 4  points)
--  Thermal Shields  ( 5  points)
-
--  Early Warning System  ( 7  points)
-
--  H9 Turbolasers  ( 8  points)
--  Point Defense Ion Cannons  ( 6  points)
--  External Racks  ( 4  points)
--  Intensify Firepower!  ( 6  points)
-= 179 total ship cost
-
-Recusant Light Destroyer (85 points)
--  Patriot Fist  ( 6  points)
--  Tikkes  ( 2  points)
--  Sensor Team  ( 5  points)
--  Reserve Hangar Deck  ( 4  points)
--  Spinal Armament  ( 9  points)
--  External Racks  ( 4  points)
-= 115 total ship cost
-
-Gozanti-class Cruisers (cis) (24 points)
-= 24 total ship cost
-
-Gozanti-class Cruisers (cis) (24 points)
-= 24 total ship cost
-
-7 Vulture-class Droid Fighter Squadron ( 56 points)
-= 56 total squadron cost
 Joseph Morton
 Providence Carrier (102)
 • TF-1726 (26)
@@ -2535,46 +1734,7 @@ CR90 Corvette A (44 + 7: 51)
 
 GR-75 Medium Transports (18 + 7: 25)
 · Slicer Tools (7)
-Jason Hughley
-Name: The Old Guard
-Faction: Imperial
-Commander: Moff Jerjerrod
 
-Imperial II (120)
-• Moff Jerjerrod (23)
-• Expert Shield Tech (5)
-• Boarding Troopers (3)
-• Early Warning System (7)
-• Point Defense Ion Cannons (6)
-• Dual Turbolaser Turrets (4)
-• Chimaera (4)
-• Entrapment Formation! (5)
-= 177 Points
-
-Imperial II (120)
-• Expert Shield Tech (5)
-• Boarding Troopers (3)
-• Early Warning System (7)
-• Point Defense Ion Cannons (6)
-• Dual Turbolaser Turrets (4)
-= 145 Points
-
-Gozanti Cruisers (23)
-• Minister Tua (2)
-• Comms Net (2)
-• Suppressor (4)
-• Electronic Countermeasures (7)
-= 38 Points
-
-Gozanti Cruisers (23)
-• Darth Vader (4)
-• Comms Net (2)
-= 29 Points
-
-Squadrons:
-= 0 Points
-
-Total Points: 389
 Samuel Wang
 Name: The Jabbawookiee Special (Evil)
 Faction: Empire
@@ -2613,31 +1773,7 @@ Squadrons:
 = 107 Points
 
 Total Points: 387
-Samuel Simon
-Imperial II Star Destroyer (120 + 52: 172)
-· Moff Jerjerrod (23)
-· Captain Brunson (9)
-· Boarding Troopers (3)
-· Electronic Countermeasures (7)
-· Point Defense Ion Cannons (6)
-· Dual Turbolaser Turrets (4)
 
-Gladiator I (56 + 27: 83)
-· Minister Tua (2)
-· Ordnance Experts (4)
-· External Racks (4)
-· Demolisher (10)
-· Electronic Countermeasures (7)
-
-Gozanti Cruisers (23 + 2: 25)
-· Comms Net (2)
-
-Darth Vader [TIE/D] (25)
-Colonel Jendon (23)
-Maarek Stele (21)
-Mauler Mithel (15)
-Saber Squadron (12)
-3 x Tie Fighter Squadron (3 x 8)
 Andrew Preyer
 Pelta Transport Frigate (45)
 • Admiral Yularen (24)
@@ -2698,91 +1834,7 @@ Squadrons:
 = 134 Points
 
 Total Points: 394
-Kyle Campagna
-Name: Double the Fall
-Faction: separatists
-Commander: Mar Tuuk
-Version: Official Game
 
-Providence Carrier (102)
-• Mar Tuuk (28)
-• Rune Haako (4)
-• Thermal Shields (5)
-• Intensify Firepower! (6)
-• Reserve Hangar Deck (4)
-• External Racks (4)
-• Leading Shots (5)
-• H9 Turbolasers (8)
-• Invincible (5)
-• Electronic Countermeasures (7)
-= 178 Points
-
-Recusant Light Destroyer (85)
-• Shu Mai (4)
-• Ordnance Experts (4)
-• Reserve Hangar Deck (4)
-• Assault Concussion Missiles (5)
-• Swivel-Mount Batteries (8)
-• Patriot Fist (6)
-= 116 Points
-
-Hardcell Transport (47)
-• Parts Resupply (3)
-• Beast of Burden (6)
-= 56 Points
-
-
-Squadrons:
-• 4 x Droid Tri-Fighter Squadron (44)
-= 44 Points
-
-Total Points: 394
-Ryan Becker
-Name:Double ISD
->
->  
-> Faction: rebels
-> Commander: Admiral Raddus
-> Version: Official Game
->
-> MC75 Armored Cruiser (99)
-> • Admiral Raddus (26)
-> • Ahsoka Tano (2)
-> • Flag Bridge (0)
-> • Reinforced Blast Doors (5)
-> • External Racks (4)
-> • Point Defense Ion Cannons (6)
-> • Intensify Firepower! (6)
-> = 148 Points
->
-> GR-75 Medium Transports (18)
-> • Leia Organa (3)
-> • Comms Net (2)
-> = 23 Points
->
-> MC75 Armored Cruiser (99)
-> • Lando Calrissian (4)
-> • Boarding Troopers (3)
-> • Reinforced Blast Doors (5)
-> • External Racks (4)
-> • Point Defense Ion Cannons (6)
-> • Quad Battery Turrets (5)
-> • Profundity (7)
-> = 133 Points
->
-> CR90 Corvette B (39)
-> • Hondo Ohnaka (2)
-> • Overload Pulse (6)
->
-> = 47 Points
->
->
-> Squadrons:
-> • Shara Bey (17)
-> • Tycho Celchu (16)
-> = 33 Points
->
-> Total Points: 384
 Royce Podeszwa
 Name: Guy Pietti's Phasertown
 Faction: Imperial
@@ -2976,81 +2028,8 @@ Squadrons:
 = 56 Points
 
 Total Points: 390
-Andrew Graber
-Shadow Meta ‘Mada Gang— 
 
-We love Maarek Stele.
-
-This song is brought to you by: Imp 134
-
-Legalize Raddus Bombs
-
-Faction: Imperial
-Commander: Moff Jerjerrod
-
-Imperial II (120)
-• Moff Jerjerrod (23)
-• Captain Needa (2)
-• Flight Controllers (6)
-• Expanded Hangar Bay (5)
-• Electronic Countermeasures (7)
-• Ion Cannon Batteries (5)
-• Turbolaser Reroute Circuits (7)
-= 175 Points
-
-Gladiator I (56)
-• Skilled First Officer (1)
-• Ordnance Experts (4)
-• External Racks (4)
-• Demolisher (10)
-= 75 Points
-
-Gozanti Cruisers (23)
-• Hondo Ohnaka (2)
-• Comms Net (2)
-• Reserve Hangar Deck (4)
-= 31 Points
-
-Squadrons:
-• Colonel Jendon (23)
-• Darth Vader (TIE Defender) (25)
-• Maarek Stele (21)
-• Mauler Mithel (15)
-• 2 x TIE Interceptor Squadron (22)
-• Saber Squadron (12)
-= 118 Points
-
-Total Points: 399
-Daniel Allen
-SSD Assault Prototype (250)
-• Moff Jerjerrod (23)
-• Reeva Demesne (4)
-• Intel Officer (7)
-• Captain Needa (2)
-• Gunnery Team (7)
-• Rapid Launch Bays (6)
-• Heavy Ion Emplacements (9)
-• Turbolaser Reroute Circuits (7)
-• Quad Turbolaser Cannons (10)
-• Ravager (4)
-= 329 Points
-
-Gozanti Cruisers (23)
-• Darth Vader (4)
-• Comms Net (2)
-= 29 Points
-
-Gozanti Cruisers (23)
-• Repair Crews (3)
-= 26 Points
-
-Squadrons:
-• Captain Jonus (16)
-= 16 Points
-
-Total Points: 400
 Joshua Gorhau
-Joshua gorhau
 Rebels
 400 points
 
@@ -3245,69 +2224,7 @@ Squadrons:
 = 129 Points
 
 Total Points: 400
-Paul Heaver
-Providence Carrier (102)
-• Mar Tuuk (28)
-• Thermal Shields (5)
-• Flak Guns (3)
-• Point Defense Ion Cannons (6)
-• DBY-827 Heavy Turbolasers (3)
-• Invincible (5)
-• Early Warning System (7)
-= 159 Points
 
-Recusant Light Destroyer (85)
-• Ordnance Experts (4)
-• Assault Concussion Missiles (5)
-• Swivel-Mount Batteries (8)
-• Patriot Fist (6)
-= 108 Points
-
-Recusant Light Destroyer (85)
-• Tikkes (2)
-• Gunnery Team (7)
-• Assault Concussion Missiles (5)
-• Swivel-Mount Batteries (8)
-= 107 Points
-
-Gozanti Cruisers (24)
-= 24 Points
-
-Squadrons:
-= 0 Points
-
-Total Points: 398
-Matthew Moncrief
-Raddus (134/392/400)
-===================
-
-MC75 Ordnance Cruiser (95 + 26: 121)
-· Intel Officer (7)
-· Ordnance Experts (4)
-· Electronic Countermeasures (7)
-· External Racks (4)
-· Assault Proton Torpedoes (4)
-
-CR90 Corvette B (39 + 46: 85)
-· Admiral Raddus (26)
-· Major Derlin (7)
-· Electronic Countermeasures (7)
-· Point Defense Ion Cannons (6)
-
-GR-75 Medium Transports (18 + 11: 29)
-· Hondo Ohnaka (2)
-· Slicer Tools (7)
-· Bright Hope (2)
-
-GR-75 Medium Transports (18 + 5: 23)
-· Ezra Bridger (3)
-· Comms Net (2)
-
-Lando Calrissian (24)
-Malee Hurra (21)
-4 x YT-2400 (4 x 16)
-Rogue Squadron (14)
-A-wing Squadron (11)
 Adam Newton
 Ackbar 2025 Angry Ewok
 
@@ -3924,87 +2841,7 @@ Squadrons:
 = 95 Points
 
 Total Points: 399
-Justin Preyer
-Name: Going Fishing at Worlds
-Faction: Imperial
-Commander: Moff Jerjerrod
 
-Imperial II (120)
-• Moff Jerjerrod (23)
-• Expert Shield Tech (5)
-• Gunnery Team (7)
-• Early Warning System (7)
-• Point Defense Ion Cannons (6)
-• XI7 Turbolasers (6)
-• Chimaera (4)
-• Entrapment Formation! (5)
-= 183 Points
-
-Imperial II (120)
-• Expert Shield Tech (5)
-• Boarding Troopers (3)
-• Early Warning System (7)
-• Point Defense Ion Cannons (6)
-• XI7 Turbolasers (6)
-• Sovereign (4)
-= 151 Points
-
-Gozanti Cruisers (23)
-• Hondo Ohnaka (2)
-• Munitions Resupply (3)
-• Suppressor (4)
-= 32 Points
-
-Gozanti Cruisers (23)
-• Darth Vader (4)
-• Comms Net (2)
-= 29 Points
-
-Squadrons:
-= 0 Points
-
-Total Points: 395
-Nicholas Brown
-Name: giga raddus drop of hell
-Faction: Rebel
-Commander: Admiral Raddus
-
-MC80 Command Cruiser (102)
-• Admiral Raddus (26)
-• Expert Shield Tech (5)
-• Engine Techs (8)
-• Flag Bridge (0)
-• Electronic Countermeasures (7)
-• Point Defense Ion Cannons (6)
-• Home One (5)
-• Intensify Firepower! (6)
-= 165 Points
-
-MC75 Ordnance Cruiser (95)
-• Walex Blissex (5)
-• Ordnance Experts (4)
-• Electronic Countermeasures (7)
-• Expanded Launchers (8)
-• External Racks (4)
-• Profundity (7)
-= 130 Points
-
-CR90 Corvette B (39)
-• Hondo Ohnaka (2)
-• Projection Experts (6)
-• Tantive IV (3)
-= 50 Points
-
-Hammerhead Torpedo Corvette (36)
-• Veteran Captain (2)
-• Shriv Suurgav (4)
-• External Racks (4)
-= 46 Points
-
-Squadrons:
-= 0 Points
-
-Total Points: 391
 Mitchell Fallinger
 Venator I (90)
 • Intel Officer (7)
@@ -4043,46 +2880,7 @@ Squadrons:
 = 33 Points
 
 Total Points: 399
-Matthew Stoebner
-Name: Double Point and Click
-Faction: Imperial
-Commander: Moff Jerjerrod
 
-Imperial II (120)
-• Moff Jerjerrod (23)
-• Expert Shield Tech (5)
-• Gunnery Team (7)
-• Early Warning System (7)
-• Point Defense Ion Cannons (6)
-• XI7 Turbolasers (6)
-• Chimaera (4)
-• Entrapment Formation! (5)
-= 183 Points
-
-Imperial II (120)
-• Expert Shield Tech (5)
-• Boarding Troopers (3)
-• Early Warning System (7)
-• Point Defense Ion Cannons (6)
-• XI7 Turbolasers (6)
-• Sovereign (4)
-= 151 Points
-
-Gozanti Cruisers (23)
-• Darth Vader (4)
-• Comms Net (2)
-= 29 Points
-
-Gozanti Cruisers (23)
-• Hondo Ohnaka (2)
-• Munitions Resupply (3)
-• Suppressor (4)
-= 32 Points
-
-Squadrons:
-= 0 Points
-
-Total Points: 395
 Lewis Wright
 ```Name: Larkquitens and the Imp Bad Boys
 Faction: Imperial
@@ -4406,39 +3204,7 @@ Squadrons:
 = 32 Points
 
 Total Points: 399
-Eric Pearson
-Mar Tuuk
-393
 
-Munificent-class Star Frigate (73 points)
-- Tikkes ( 2 points)
-- Projection Experts ( 6 points)
-- Thermal Shields ( 5 points)
-- Linked Turbolaser Towers ( 7 points)
-- Point Defense Ion Cannons ( 6 points)
-= 99 total ship cost
-
-Munificent-class Star Frigate (73 points)
-- Projection Experts ( 6 points)
-- Thermal Shields ( 5 points)
-- Linked Turbolaser Towers ( 7 points)
-- Point Defense Ion Cannons ( 6 points)
-= 97 total ship cost
-
-[ flagship ] Providence-class Dreadnought (97 points)
-- Mar Tuuk ( 28 points)
-- Invincible ( 5 points)
-- Rune Haako ( 4 points)
-- Boarding Troopers ( 3 points)
-- External Racks ( 4 points)
-- Thermal Shields ( 5 points)
-- Linked Turbolaser Towers ( 7 points)
-- XI7 Turbolasers ( 6 points)
-- Point Defense Ion Cannons ( 6 points)
-= 165 total ship cost
-
-4 Vulture-class Droid Fighter Squadron ( 48 points)
-= 32 total squadron cost
 Nicholas Griffiths
 Imperial: 398
 
@@ -4545,55 +3311,7 @@ Squadrons:
 = 56 Points
 
 Total Points: 392
-Jacob Thompson
-Name: Raddus is the Bomb v3
-Faction: Rebel
-Commander: Admiral Raddus
 
-Assault:
-Defense:
-Navigation:
-
-CR90 Corvette A (44)
-• Admiral Raddus (26)
-• Lando Calrissian (4)
-• Engine Techs (8)
-• Electronic Countermeasures (7)
-• Turbolaser Reroute Circuits (7)
-• Jaina's Light (5)
-= 101 Points
-
-GR-75 Medium Transports (18)
-• Hondo Ohnaka (2)
-• Boosted Comms (4)
-• Bright Hope (2)
-= 26 Points
-
-GR-75 Medium Transports (18)
-• Ahsoka Tano (2)
-• Parts Resupply (3)
-• Boosted Comms (4)
-• Quantum Storm (1)
-= 28 Points
-
-MC75 Armored Cruiser (99)
-• Intel Officer (7)
-• Shriv Suurgav (4)
-• Electronic Countermeasures (7)
-• Expanded Launchers (8)
-• Leading Shots (5)
-• XI7 Turbolasers (6)
-= 136 Points
-
-Squadrons:
-• Shara Bey (17)
-• Tycho Celchu (16)
-• 2 x A-wing Squadron (22)
-• Dash Rendar (24)
-• Ketsu Onyo (22)
-= 101 Points
-
-Total Points: 392
 Aidan Broome
 Name: Jonus/Pryce Brickterdictor
 Faction: Empire
@@ -4662,42 +3380,7 @@ Providence Carrier 95
  2 × Lancer Pursuit Craft 28
  Tycho Celchu 16
  Shara Bey 17
-Christopher McWilliam
-Hardcell Transport (47)
-• Mar Tuuk (28)
-• Tikkes (2)
-• Projection Experts (6)
-• Parts Resupply (3)
-• Beast of Burden (6)
-= 92 Points
 
-Munificent Star Frigate (73)
-• Skilled First Officer (1)
-• Projection Experts (6)
-• Thermal Shields (5)
-• Point Defense Ion Cannons (6)
-• Linked Turbolaser Towers (7)
-= 98 Points
-
-Munificent Star Frigate (73)
-• Skilled First Officer (1)
-• Projection Experts (6)
-• Thermal Shields (5)
-• Point Defense Ion Cannons (6)
-• Linked Turbolaser Towers (7)
-= 98 Points
-
-Recusant Light Destroyer (85)
-• Shu Mai (4)
-• Veteran Gunners (5)
-• Quad Turbolaser Cannons (10)
-• Patriot Fist (6)
-= 110 Points
-
-Squadrons:
-= 0 Points
-
-Total Points: 398
 Michael Lyssy
 Name: Roborevenge - AcornAdmiral 2025
 Faction: Separatist
@@ -4819,69 +3502,7 @@ Squadrons:
 = 87 Points
 
 Total Points: 385
-Ian Franklin
-Name: Jerry Rogues
-Faction: Empire
-Commander: Moff Jerjerrod (23)
 
-Star Dreadnought Command Prototype (220)
-• Moff Jerjerrod (23)
-• Captain Needa (2)
-• Commander Vanto (7)
-• Emperor Palpatine (3)
-• Gunnery Team (7)
-• Leading Shots (5)
-• Quad Battery Turrets (5)
-= 272 Points
-
-Squadrons:
-• Colonel Jendon - Lambda-class Shuttle (23)
-• Darth Vader - TIE Defender Squadron (25)
-• Hondo Ohnaka - Slave I (24)
-• Tel Trevura - JumpMaster 5000 (17)
-• 2 x Firespray-31 (36)
-= 125 Points
-
-Total Points: 397
-Ryan Kubryn
-Name: Always Two There Are
-Faction: Imperial
-Commander: Admiral Motti
-
-Imperial II (120)
-• Expert Shield Tech (5)
-• Darth Vader (3)
-• Reinforced Blast Doors (5)
-• Point Defense Ion Cannons (6)
-• XI7 Turbolasers (6)
-• Chimaera (4)
-• Entrapment Formation! (5)
-= 154 Points
-
-Imperial II (120)
-• Admiral Motti (24)
-• Expert Shield Tech (5)
-• Gunnery Team (7)
-• Quad Laser Turrets (5)
-• Reinforced Blast Doors (5)
-• Point Defense Ion Cannons (6)
-• XI7 Turbolasers (6)
-• Sovereign (4)
-= 182 Points
-
-Gozanti Assault Carriers (26)
-• Munitions Resupply (3)
-= 29 Points
-
-Gozanti Cruisers (23)
-• Hondo Ohnaka (2)
-• Parts Resupply (3)
-= 28 Points
-
-Squadrons:
-= 0 Points
-
-Total Points: 393
 Hiroki Ogawa
 Faction: Separatist
 Commander: General Grievous
@@ -5055,45 +3676,7 @@ Foreman's Labor 5
 
 Squadrons 48
 6x Vulture Droid Fighter Squadrons 48
-Will Ross
-Name: They Mar Tuuk our jerbs! v6.1
-Faction: Separatist
-Commander: Mar Tuuk
 
-Providence Carrier (102)
-• Mar Tuuk (28)
-• Rune Haako (4)
-• Early Warning System (7)
-• Intensify Firepower! (6)
-• Rapid Launch Bays (6)
-• External Racks (4)
-• Point Defense Ion Cannons (6)
-• H9 Turbolasers (8)
-• Invincible (5)
-• Thermal Shields (5)
-= 181 Points
-
-Hardcell Transport (47)
-• San Hill (3)
-• Bomber Command Center (8)
-= 58 Points
-
-Gozanti Cruisers (24)
-• Tikkes (2)
-• Flight Controllers (6)
-= 32 Points
-
-Gozanti Cruisers (24)
-• TI-99 (4)
-= 28 Points
-
-Squadrons:
-• DFS-311 (16)
-• 5 x Vulture Droid Fighter Squadron (40)
-• 4 x Hyena Droid Bomber Squadron (44)
-= 100 Points
-
-Total Points: 399
 Christopher Ernest
 Name: Worlds 2025 - Chris Ernest
 Faction: Rebel
@@ -5131,46 +3714,7 @@ Squadrons:
 • Lando Calrissian (24)
 = 127 Points
 Total Points: 392
-Evan Rice
-MC80 Star Cruiser (96)
-• Intel Officer (7)
-• Caitken and Shollan (6)
-• SW-7 Ion Batteries (5)
-• Quad Battery Turrets (5)
-• XI7 Turbolasers (6)
-= 125 Points
 
-MC30c Torpedo Frigate (63)
-• Expert Shield Tech (5)
-• Ordnance Experts (4)
-• External Racks (4)
-• XI7 Turbolasers (6)
-= 82 Points
-
-CR90 Corvette B (39)
-• Admiral Raddus (26)
-• Chart Officer (2)
-• Engine Techs (8)
-• Electronic Countermeasures (7)
-= 82 Points
-
-GR-75 Medium Transports (18)
-• Ahsoka Tano (2)
-• Parts Resupply (3)
-= 23 Points
-
-GR-75 Medium Transports (18)
-• Slicer Tools (7)
-• Quantum Storm (1)
-= 26 Points
-
-Squadrons:
-• Shara Bey (17)
-• Tycho Celchu (16)
-• 2 x A-wing Squadron (22)
-= 55 Points
-
-Total Points: 393
 Ryder Curry
 Name: II 30 90 75 Worlds list 2025
 Faction: Rebel
@@ -5407,45 +3951,7 @@ Gladiator I (56)
 
 Squadrons:
 = 0 Points
-Lucas Woolard
-Name: Raddus Rogues MC75 copy
-Faction: Rebel
-Commander: Admiral Raddus
 
-GR-75 Medium Transports (18)
-• Toryn Farr (7)
-• Bright Hope (2)
-= 27 Points
-
-GR-75 Medium Transports (18)
-• Comms Net (2)
-= 20 Points
-
-CR90 Corvette A (44)
-• Admiral Raddus (26)
-• Major Derlin (7)
-• Turbolaser Reroute Circuits (7)
-• Jaina's Light (5)
-= 89 Points
-
-MC75 Ordnance Cruiser (95)
-• Intel Officer (7)
-• Caitken and Shollan (6)
-• Electronic Countermeasures (7)
-• Expanded Launchers (8)
-• Assault Proton Torpedoes (4)
-• Aspiration (3)
-= 130 Points
-
-Squadrons:
-• 4 x YT-2400 (64)
-• Dutch Vander (16)
-• Tycho Celchu (16)
-• Lando Calrissian (24)
-• Rogue Squadron (14)
-= 134 Points
-
-Total Points: 400
 Andy Jackson
 Name: Adepticon Worlds 2025
 Faction: Republic
@@ -6034,42 +4540,7 @@ Squadrons:
 = 55 Points
 
 Total Points: 398
-John Fischer
-Name: CIS 2025 Final copy swivel
-Faction: Separatist
-Commander: Mar Tuuk
 
-Providence Carrier (102)
-• Mar Tuuk (28)
-• Rune Haako (4)
-• Thermal Shields (5)
-• Intensify Firepower! (6)
-• External Racks (4)
-• Point Defense Ion Cannons (6)
-• Dual Turbolaser Turrets (4)
-• Invincible (5)
-• Early Warning System (7)
-= 171 Points
-
-Recusant Light Destroyer (85)
-• Tikkes (2)
-• Veteran Gunners (5)
-• Swivel-Mount Batteries (8)
-• Patriot Fist (6)
-= 106 Points
-
-Hardcell Battle Refit (50)
-= 50 Points
-
-Gozanti Cruisers (24)
-= 24 Points
-
-Squadrons:
-• Wat Tambor (18)
-• 3 x Vulture Droid Fighter Squadron (24)
-= 42 Points
-
-Total Points: 393
 Batlomiej Przybysz
 MC30c Torpedo Frigate (63)
 • Expert Shield Tech (5)
@@ -6147,39 +4618,7 @@ Squadrons:
 = 133 Points
 
 Total Points: 400
-Charles White
-Hardcell Battle Refit (50)
-• Tikkes (2)
-• Reserve Hangar Deck (4)
-= 56 Points
 
-Providence Carrier (102)
-• Mar Tuuk (28)
-• Rune Haako (4)
-• Early Warning System (7)
-• Intensify Firepower! (6)
-• External Racks (4)
-• Point Defense Ion Cannons (6)
-• Dual Turbolaser Turrets (4)
-• Invincible (5)
-• Thermal Shields (5)
-= 171 Points
-
-Recusant Light Destroyer (85)
-• Shu Mai (4)
-• Sensor Team (5)
-• Reserve Hangar Deck (4)
-• External Racks (4)
-• Dual Turbolaser Turrets (4)
-• Patriot Fist (6)
-= 112 Points
-
-Squadrons:
-• 3 x Droid Tri-fighter Squadron (33)
-• 3 x Vulture Droid Fighter Squadron (24)
-= 57 Points
-
-Total Points: 396
 Mariano Banchero
 Name: Piett’s Lasting Sovereignty
 Faction: Imperial
@@ -6307,44 +4746,7 @@ Squadrons:
 = 56 Points
 
 Total Points: 399
-Timothy Surburg
-Name: 2007 Star Wars Complete Cross-Sections Pg 86.
-Faction: Separatist
-Commander: Mar Tuuk (28)
 
-Munificent-class Star Frigate (73)
-• Mar Tuuk (28)
-• Passel Argente (6)
-• Thermal Shields (5)
-• Linked Turbolaser Towers (7)
-• Sa Nalaor (5)
-= 124 Points
-
-Munificent-class Comms Frigate (70)
-• TI-99 (4)
-• Medical Team (1)
-• Disposable Capacitors (3)
-• Linked Turbolaser Towers (7)
-• Tide of Progress XII (2)
-= 87 Points
-
-Recusant-class Light Destroyer (85)
-• Shu Mai (4)
-• Veteran Gunners (5)
-• Reserve Hangar Deck (4)
-• Assault Proton Torpedoes (4)
-• Swivel-Mount Batteries (8)
-• Patriot Fist (6)
-= 116 Points
-
-Gozanti-class Cruisers {CIS} (24)
-= 24 Points
-
-Squadrons:
-• 6 x Vulture-class Droid Fighter Squadron (48)
-= 48 Points
-
-Total Points: 399
 Nathanial Beaver
 Name: WORLDS 2025 - NATHANIAL BEAVER
 Faction: Separatist
@@ -6855,40 +5257,40 @@ Squadrons:
 • Phlac-Arphocc Prototypes - Droid Tri-Fighter Squadron (18)
 = 73 Points
 Eric Kingsley
-Name: Adepticon 
-Faction: Imperial 
+Name: Adepticon
+Faction: Imperial
 Commander: Grand Moff Tarkin  
-ISD Cymoon 1 Refit (112) • 
-Grand Moff Tarkin (28) • 
-Emperor Palpatine (3) • 
-Intensify Firepower! (6) • 
-Weapons Battery Techs (4) • 
-XI7 Turbolasers (6) • 
-Spinal Armament (9) • 
-Sovereign (4) 
+ISD Cymoon 1 Refit (112)• 
+Grand Moff Tarkin (28)• 
+Emperor Palpatine (3)• 
+Intensify Firepower! (6)• 
+Weapons Battery Techs (4)• 
+XI7 Turbolasers (6)• 
+Spinal Armament (9)• 
+Sovereign (4)
 = 172 Points 
 
-Arquitens Command Cruiser (55) • 
-Nav Team (4) • 
-Advanced Projectors (6) • 
-Dual Turbolaser Turrets (4) 
+Arquitens Command Cruiser (55)• 
+Nav Team (4)• 
+Advanced Projectors (6)• 
+Dual Turbolaser Turrets (4)
 = 69 Points 
 
-Arquitens Command Cruiser (55) • 
-Nav Team (4) • 
-Advanced Projectors (6) • 
-Dual Turbolaser Turrets (4) 
+Arquitens Command Cruiser (55)• 
+Nav Team (4)• 
+Advanced Projectors (6)• 
+Dual Turbolaser Turrets (4)
 = 69 Points 
 
-Gozanti Cruisers (23) • 
-Comms Net (2) 
+Gozanti Cruisers (23)• 
+Comms Net (2)
 = 25 
 
-Points Squadrons: • 
-Ciena Ree (17) • 
-Valen Rudor (13) • 
-Darth Vader (TIE Defender) (25) • 
-Gamma Squadron (10) 
+Points Squadrons:• 
+Ciena Ree (17)• 
+Valen Rudor (13)• 
+Darth Vader (TIE Defender) (25)• 
+Gamma Squadron (10)
 = 65 Points 
 
 Total Points: 400
@@ -7021,50 +5423,7 @@ Squadrons:
 = 64 Points
 
 Total Points: 400
-Steve Smaha
- Name: Untitled Fleet
-Faction: Separatist
-Commander: Mar Tuuk (28)
 
-
-Providence-class Carrier (102)
-• Mar Tuuk (28)
-• Wat Tambor (9)
-• Early Warning System (7)
-• Thermal Shields (5)
-• Shields to Maximum! (6)
-• Expanded Hangar Bay (5)
-• Expanded Launchers (8)
-• Point Defense Ion Cannons (6)
-• Heavy Turbolaser Turrets (4)
-• Invincible (5)
-= 185 Points
-
-Hardcell-class Transport (47)
-• Hondo Ohnaka (2)
-• San Hill (3)
-• Projection Experts (6)
-• Parts Resupply (3)
-• Beast of Burden (6)
-= 67 Points
-
-Gozanti-class Cruisers {CIS} (24)
-• Flight Commander (3)
-• Flight Controllers (6)
-= 33 Points
-
-Gozanti-class Cruisers {CIS} (24)
-• Flight Controllers (6)
-= 30 Points
-
-Squadrons:
-• DFS-311 - Vulture-class Droid Fighter Squadron (16)
-• DIS-T81 - Droid Tri-Fighter Squadron (17)
-• Phlac-Arphocc Prototypes - Droid Tri-Fighter Squadron (18)
-• 3 x Droid Tri-Fighter Squadron (33)
-= 84 Points
-
-Total Points: 399
 Tom Kolker
 Name: Tom K
 Faction: Republic
@@ -7142,40 +5501,7 @@ Squadrons:
 = 86 Points
 
 Total Points: 399
-Matt Palo
-FLEET NAME: Adepticon 2025 - Raddus FACTION: Rebel
-POINTS: 400
 
-MC80 Assault Cruiser 110
-• Admiral Raddus 26
-• Engine Techs 8
-• Advanced Projectors 6
-• Electronic Countermeasures 7
-• Point Defense Ion Cannons 6
-• Dual Turbolaser Turrets 4
-SHIP 167
-
-MC75 Ordnance Cruiser 95
-• Ordnance Experts 4
-• Electronic Countermeasures 7
-• External Racks 4
-• Assault Concussion Missiles 5
-• Profundity 7
-SHIP 122
-
-Hammerhead Torpedo Corvette 36
-• External Racks 4
-SHIP 40
-
-GR-75 Medium Transports 18
-• Ahsoka Tano 2
-• Comms Net 2
-SHIP 22
-
-Shara Bey 17
-Tycho Celchu 16
-YT-2400 16
-SQUADRONS 49
 Ricardo Marmolejo
 ISD Cymoon 1 Refit (112)
 • Grand Moff Tarkin (28)
@@ -7204,14 +5530,14 @@ Squadrons:
 
 Total Points: 399
 William Brand
-Name: William Brand Adepticon 2025 Faction: Imperial Commander: General Romodi
+Name: William Brand Adepticon 2025Faction: ImperialCommander: General Romodi
 
-SSD Assault Prototype (250) • General Romodi (28) • Captain Brunson (9) • Commander Vanto (7) • Emperor Palpatine (3) • Gunnery Team (7) • Quad Laser Turrets (5) • Point-Defense Reroute (5) • High-Capacity Ion Turbines (6) • Leading Shots (5) • XX-9 Turbolasers (2) • XI7 Turbolasers (6) • Executor (2) = 335 Points
+SSD Assault Prototype (250)• General Romodi (28)• Captain Brunson (9)• Commander Vanto (7)• Emperor Palpatine (3)• Gunnery Team (7)• Quad Laser Turrets (5)• Point-Defense Reroute (5)• High-Capacity Ion Turbines (6)• Leading Shots (5)• XX-9 Turbolasers (2)• XI7 Turbolasers (6)• Executor (2)= 335 Points
 
-Gozanti Cruisers (23) • Admiral Titus (2) • Repair Crews (3) = 28 Points
+Gozanti Cruisers (23)• Admiral Titus (2)• Repair Crews (3)= 28 Points
 
-Gozanti Cruisers (23) • Repair Crews (3) = 26 Points
-Squadrons: = 0 Points
+Gozanti Cruisers (23)• Repair Crews (3)= 26 Points
+Squadrons:= 0 Points
 Total Points: 389
 Justin Robbins
 Name: Shield and Supply
@@ -7355,44 +5681,7 @@ Squadrons:
 = 54 Points
 
 Total Points: 398
-Andrew Koltun
-Name: Red-y for Adepticon
-Faction: Separatist
-Commander: Mar Tuuk
 
-Assault:
-Defense:
-Navigation:
-
-Hardcell Battle Refit (50)
-• Slaved Turrets (6)
-= 56 Points
-
-Hardcell Battle Refit (50)
-• Slaved Turrets (6)
-= 56 Points
-
-Hardcell Transport (47)
-• Mar Tuuk (28)
-• Medical Team (1)
-• Parts Resupply (3)
-= 79 Points
-
-Recusant Light Destroyer (85)
-• Intel Officer (7)
-• XI7 Turbolasers (6)
-= 98 Points
-
-Recusant Light Destroyer (85)
-• Intel Officer (7)
-• XI7 Turbolasers (6)
-• Patriot Fist (6)
-= 104 Points
-
-Squadrons:
-= 0 Points
-
-Total Points: 393
 Roy Drum
  Name: playn with lawn darts
 Faction: Empire
@@ -7463,73 +5752,7 @@ Squadrons:
 • Colonel Jendon (23)
 • TIE Defender Squadron (16)
 = 85 Points
-Greg Goodwin
-Name: A Separatist Peace v3
-Faction: Separatist
-Commander: Mar Tuuk
 
-Recusant Light Destroyer (85)
-• Mar Tuuk (28)
-• Rune Haako (4)
-• Veteran Gunners (5)
-• Phylon Q7 Tractor Beams (6)
-• XI7 Turbolasers (6)
-• Patriot Fist (6)
-= 140 Points
-
-Hardcell Battle Refit (50)
-• Intel Officer (7)
-• Early Warning System (7)
-• Dual Turbolaser Turrets (4)
-= 68 Points
-
-Hardcell Battle Refit (50)
-• Intel Officer (7)
-• Early Warning System (7)
-• Dual Turbolaser Turrets (4)
-= 68 Points
-
-Gozanti Cruisers (24)
-• Tikkes (2)
-= 26 Points
-
-Squadrons:
-• DIS-T81 (17)
-• Phlac-Arphocc Prototypes (18)
-• Wat Tambor (18)
-• Jango Fett (22)
-• 2 x Vulture Droid Fighter Squadron (16)
-= 91 Points
-
-Total Points: 393
-Dennis Daniels
-ISD Cymoon 1 Refit (112)
-• Moff Jerjerrod (23)
-• Wulff Yularen (7)
-• Entrapment Formation! (5)
-• Local Fire Control (4)
-= 151 Points
-
-ISD Cymoon 1 Refit (112)
-• Commander Vanto (7)
-• Take Evasive Action! (6)
-• Local Fire Control (4)
-= 129 Points
-
-Gozanti Cruisers (23)
-• Comms Net (2)
-= 25 Points
-
-Victory I (73)
-• Local Fire Control (4)
-• Harrow (3)
-• Engine Techs (8)
-= 88 Points
-
-Squadrons:
-= 0 Points
-
-Total Points: 393
 Josiah Nelson
 Name: Spicy Pickle and Meat Ball
 Faction: Rebel
@@ -7603,50 +5826,3 @@ Squadrons:
 = 117 Points
 
 Total Points: 400
-Atticus Rampson
-Name: Untitled Fleet
-Faction: Rebel
-Commander: Admiral Raddus
-
-Assault:
-Defense:
-Navigation:
-
-CR90 Corvette A (44)
-• Hondo Ohnaka (2)
-• Electronic Countermeasures (7)
-• Heavy Turbolaser Turrets (4)
-• Jaina's Light (5)
-= 62 Points
-
-MC30c Torpedo Frigate (63)
-• Admiral Raddus (26)
-• Kyrsta Agate (5)
-• Ordnance Experts (4)
-• Reinforced Blast Doors (5)
-• Expanded Launchers (8)
-• Heavy Turbolaser Turrets (4)
-• Admonition (10)
-= 125 Points
-
-MC75 Ordnance Cruiser (95)
-• Walex Blissex (5)
-• Ordnance Experts (4)
-• Boosted Comms (4)
-• Reinforced Blast Doors (5)
-• External Racks (4)
-• Expanded Launchers (8)
-• Profundity (7)
-= 132 Points
-
-Squadrons:
-• Shara Bey (17)
-• Tycho Celchu (16)
-• Luke Skywalker (20)
-• Y-wing Squadron (10)
-• Lancer Pursuit Craft (14)
-= 77 Points
-
-Total Points: 396
-© 2022
-
