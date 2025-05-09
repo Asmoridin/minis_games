@@ -1,0 +1,35 @@
+Faction: Rebel
+Commander: Kyrsta Agate
+
+MC80 Battle Cruiser (103)
+• Kyrsta Agate (25)
+• Major Derlin (7)
+• Caitken and Shollan (6)
+• Auxiliary Shields Team (3)
+• Point Defense Ion Cannons (6)
+• Spinal Armament (9)
+• Turbolaser Reroute Circuits (7)
+• Mon Karren (6)
+= 172 Points
+
+CR90 Corvette A (44)
+• Ahsoka Tano (2)
+• Turbolaser Reroute Circuits (7)
+• Tantive IV (3)
+= 56 Points
+
+GR-75 Medium Transports (18)
+• Toryn Farr (7)
+• Munitions Resupply (3)
+= 28 Points
+
+Squadrons:
+• Lando Calrissian (24)
+• Jan Ors (19)
+• Tycho Celchu (16)
+• 3 x YT-2400 (48)
+• Rogue Squadron (14)
+• Gold Squadron (12)
+= 133 Points
+
+Total Points: 389
