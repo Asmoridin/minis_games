@@ -1,0 +1,38 @@
+Faction: Rebel Alliance
+Commander: Admiral Ackbar
+Points: 389/400
+
+[ flagship ] Assault Frigate Mark II B (72 points)
+-  Admiral Ackbar  ( 38  points)
+-  Gallant Haven  ( 8  points)
+-  Intel Officer  ( 7  points)
+-  Caitken and Shollan  ( 6  points)
+-  Electronic Countermeasures  ( 7  points)
+-  XI7 Turbolasers  ( 6  points)
+= 144 total ship cost
+
+CR90 Corvette A (44 points)
+-  Jainas Light  ( 5  points)
+-  Turbolaser Reroute Circuits  ( 7  points)
+= 56 total ship cost
+
+
+GR-75 Medium Transports (18 points)
+-  Toryn Farr  ( 7  points)
+-  Boosted Comms  ( 4  points)
+-  Comms Net  ( 2  points)
+= 31 total ship cost
+
+GR-75 Medium Transports (18 points)
+-  Boosted Comms  ( 4  points)
+-  Comms Net  ( 2  points)
+= 24 total ship cost
+
+1 Jan Ors ( 19 points)
+1 Lando Calrissian ( 24 points)
+1 Shara Bey ( 17 points)
+1 Tycho Celchu ( 16 points)
+1 A-Wing Squadron ( 11 points)
+2 YT-2400 ( 32 points)
+1 VCX-100 Freighter ( 15 points)
+= 134 total squadron cost
