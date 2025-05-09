@@ -1,0 +1,35 @@
+Faction: Republic
+Commander: Bail Organa
+
+Venator II (100)
+• Bail Organa (28)
+• Flight Commander (3)
+• Flight Controllers (6)
+• Flag Bridge (0)
+• Thermal Shields (5)
+• Linked Turbolaser Towers (7)
+• Tranquility (7)
+• Mercy Mission (5)
+= 161 Points
+
+Pelta Medical Frigate (49)
+• Flight Commander (3)
+• Projection Experts (6)
+• Bomber Command Center (8)
+• TB-73 (5)
+= 71 Points
+
+Consular Armed Cruiser (37)
+• Radiant VII (1)
+• Comms Net (2)
+= 40 Points
+
+Squadrons:
+• Ahsoka Tano (23)
+• Anakin Skywalker (Delta-7) (24)
+• Axe (17)
+• V-19 Torrent Squadron (12)
+• 5 x BTL-B Y-wing Squadron (50)
+= 126 Points
+
+Total Points: 398
