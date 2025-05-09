@@ -1,407 +1,3 @@
-Colin Looney
-ISD Kuat Refit (112 + 52: 164)
-· Admiral Sloane (24)
-· Admiral Montferrat (5)
-· Boarding Troopers (3)
-· Electronic Countermeasures (7)
-· Leading Shots (5)
-· External Racks (4)
-· Sovereign (4)
-
-Quasar I Cruiser-Carrier (54 + 27: 81)
-· Admiral Chiraneau (10)
-· Flight Controllers (6)
-· Boosted Comms (4)
-· Squall (7)
-
-Gozanti Cruisers (23 + 3: 26)
-· Parts Resupply (3)
-
-Darth Vader [TIE/D] (25)
-Colonel Jendon (23)
-Maarek Stele (21)
-Mauler Mithel (15)
-Saber Squadron (12)
-2 x Tie Advanced Squadron (2 x 12)
-Black Squadron (9)
-Adam Newton
-Ackbar 2025 Angry Ewok
-
-Faction: Rebel Alliance
-Commander: Admiral Ackbar
-Points: 389/400
-
-[ flagship ] Assault Frigate Mark II B (72 points)
--  Admiral Ackbar  ( 38  points)
--  Gallant Haven  ( 8  points)
--  Intel Officer  ( 7  points)
--  Caitken and Shollan  ( 6  points)
--  Electronic Countermeasures  ( 7  points)
--  XI7 Turbolasers  ( 6  points)
-= 144 total ship cost
-
-CR90 Corvette A (44 points)
--  Jainas Light  ( 5  points)
--  Turbolaser Reroute Circuits  ( 7  points)
-= 56 total ship cost
-
-
-GR-75 Medium Transports (18 points)
--  Toryn Farr  ( 7  points)
--  Boosted Comms  ( 4  points)
--  Comms Net  ( 2  points)
-= 31 total ship cost
-
-GR-75 Medium Transports (18 points)
--  Boosted Comms  ( 4  points)
--  Comms Net  ( 2  points)
-= 24 total ship cost
-
-1 Jan Ors ( 19 points)
-1 Lando Calrissian ( 24 points)
-1 Shara Bey ( 17 points)
-1 Tycho Celchu ( 16 points)
-1 A-Wing Squadron ( 11 points)
-2 YT-2400 ( 32 points)
-1 VCX-100 Freighter ( 15 points)
-= 134 total squadron cost
-
-Jacek Klopotowski
-Assault Frigate Mk2 B (72)
-â˘ Admiral Ackbar (38)
-â˘ Intel Officer (7)
-â˘ Caitken and Shollan (6)
-â˘ Electronic Countermeasures (7)
-â˘ Slaved Turrets (6)
-= 136 Points
-
-MC30c Scout Frigate (69)
-â˘ Expert Shield Tech (5)
-â˘ Ordnance Experts (4)
-â˘ External Racks (4)
-â˘ H9 Turbolasers (8)
-â˘ Foresight (10)
-= 100 Points
-
-GR-75 Medium Transports (18)
-â˘ Ezra Bridger (3)
-â˘ Comms Net (2)
-= 23 Points
-
-GR-75 Medium Transports (18)
-â˘ Hondo Ohnaka (2)
-â˘ Comms Net (2)
-= 22 Points
-
-Squadrons:
-â˘ Lando Calrissian (24)
-â˘ Jan Ors (19)
-â˘ Shara Bey (17)
-â˘ Tycho Celchu (16)
-â˘ 2 x YT-2400 (32)
-â˘ A-wing Squadron (11)
-= 119 Points
-
-Total Points: 400
-Rhys Aghatabay
-Name: D Caps These Cheeks & Ig On My Nition
-Faction: Imperial
-Commander: General Romodi
-
-Onager Testbed (116)
-• General Romodi (28)
-• Governor Pryce (6)
-• Gunnery Chief Varnillian (6)
-• Ordnance Experts (4)
-• Orbital Bombardment Particle Cannons (5)
-= 165 Points
-
-Victory II (80)
-• Minister Tua (2)
-• Gunnery Team (7)
-• Disposable Capacitors (3)
-• XI7 Turbolasers (6)
-• Point Defense Ion Cannons (6)
-• Harrow (3)
-• Electronic Countermeasures (7)
-= 114 Points
-
-Gozanti Cruisers (23)
-• Darth Vader (4)
-• Parts Resupply (3)
-= 30 Points
-
-Gozanti Cruisers (23)
-• Comms Net (2)
-= 25 Points
-
-Squadrons:
-• Captain Jonus (16)
-• 5 x TIE Fighter Squadron (40)
-= 56 Points
-
-Total Points: 390
-
-DAY 2:
-
-
-
-Colin Looney
-ISD Kuat Refit (112 + 52: 164)
-· Admiral Sloane (24)
-· Admiral Montferrat (5)
-· Boarding Troopers (3)
-· Electronic Countermeasures (7)
-· Leading Shots (5)
-· External Racks (4)
-· Sovereign (4)
-
-Quasar I Cruiser-Carrier (54 + 27: 81)
-· Admiral Chiraneau (10)
-· Flight Controllers (6)
-· Boosted Comms (4)
-· Squall (7)
-
-Gozanti Cruisers (23 + 3: 26)
-· Parts Resupply (3)
-
-Darth Vader [TIE/D] (25)
-Colonel Jendon (23)
-Maarek Stele (21)
-Mauler Mithel (15)
-Saber Squadron (12)
-2 x Tie Advanced Squadron (2 x 12)
-Black Squadron (9)
-Rhys Aghatabay
-Name: D Caps These Cheeks & Ig On My Nition
-Faction: Imperial
-Commander: General Romodi
-
-Onager Testbed (116)
-• General Romodi (28)
-• Governor Pryce (6)
-• Gunnery Chief Varnillian (6)
-• Ordnance Experts (4)
-• Orbital Bombardment Particle Cannons (5)
-= 165 Points
-
-Victory II (80)
-• Minister Tua (2)
-• Gunnery Team (7)
-• Disposable Capacitors (3)
-• XI7 Turbolasers (6)
-• Point Defense Ion Cannons (6)
-• Harrow (3)
-• Electronic Countermeasures (7)
-= 114 Points
-
-Gozanti Cruisers (23)
-• Darth Vader (4)
-• Parts Resupply (3)
-= 30 Points
-
-Gozanti Cruisers (23)
-• Comms Net (2)
-= 25 Points
-
-Squadrons:
-• Captain Jonus (16)
-• 5 x TIE Fighter Squadron (40)
-= 56 Points
-
-Total Points: 390
-
-Jacek Klopotowski
-Assault Frigate Mk2 B (72)
-â˘ Admiral Ackbar (38)
-â˘ Intel Officer (7)
-â˘ Caitken and Shollan (6)
-â˘ Electronic Countermeasures (7)
-â˘ Slaved Turrets (6)
-= 136 Points
-
-MC30c Scout Frigate (69)
-â˘ Expert Shield Tech (5)
-â˘ Ordnance Experts (4)
-â˘ External Racks (4)
-â˘ H9 Turbolasers (8)
-â˘ Foresight (10)
-= 100 Points
-
-GR-75 Medium Transports (18)
-â˘ Ezra Bridger (3)
-â˘ Comms Net (2)
-= 23 Points
-
-GR-75 Medium Transports (18)
-â˘ Hondo Ohnaka (2)
-â˘ Comms Net (2)
-= 22 Points
-
-Squadrons:
-â˘ Lando Calrissian (24)
-â˘ Jan Ors (19)
-â˘ Shara Bey (17)
-â˘ Tycho Celchu (16)
-â˘ 2 x YT-2400 (32)
-â˘ A-wing Squadron (11)
-= 119 Points
-
-Total Points: 400
-Adam Newton
-Ackbar 2025 Angry Ewok
-
-Faction: Rebel Alliance
-Commander: Admiral Ackbar
-Points: 389/400
-
-[ flagship ] Assault Frigate Mark II B (72 points)
--  Admiral Ackbar  ( 38  points)
--  Gallant Haven  ( 8  points)
--  Intel Officer  ( 7  points)
--  Caitken and Shollan  ( 6  points)
--  Electronic Countermeasures  ( 7  points)
--  XI7 Turbolasers  ( 6  points)
-= 144 total ship cost
-
-CR90 Corvette A (44 points)
--  Jainas Light  ( 5  points)
--  Turbolaser Reroute Circuits  ( 7  points)
-= 56 total ship cost
-
-
-GR-75 Medium Transports (18 points)
--  Toryn Farr  ( 7  points)
--  Boosted Comms  ( 4  points)
--  Comms Net  ( 2  points)
-= 31 total ship cost
-
-GR-75 Medium Transports (18 points)
--  Boosted Comms  ( 4  points)
--  Comms Net  ( 2  points)
-= 24 total ship cost
-
-1 Jan Ors ( 19 points)
-1 Lando Calrissian ( 24 points)
-1 Shara Bey ( 17 points)
-1 Tycho Celchu ( 16 points)
-1 A-Wing Squadron ( 11 points)
-2 YT-2400 ( 32 points)
-1 VCX-100 Freighter ( 15 points)
-= 134 total squadron cost
-
-James McCartney
-Name: Prep event - James McCartney
-Faction: Republic
-Commander: Bail Organa
-
-Venator II (100)
-• Bail Organa (28)
-• Flight Commander (3)
-• Flight Controllers (6)
-• Flag Bridge (0)
-• Thermal Shields (5)
-• Linked Turbolaser Towers (7)
-• Tranquility (7)
-• Mercy Mission (5)
-= 161 Points
-
-Pelta Medical Frigate (49)
-• Flight Commander (3)
-• Projection Experts (6)
-• Bomber Command Center (8)
-• TB-73 (5)
-= 71 Points
-
-Consular Armed Cruiser (37)
-• Radiant VII (1)
-• Comms Net (2)
-= 40 Points
-
-Squadrons:
-• Ahsoka Tano (23)
-• Anakin Skywalker (Delta-7) (24)
-• Axe (17)
-• V-19 Torrent Squadron (12)
-• 5 x BTL-B Y-wing Squadron (50)
-= 126 Points
-
-Total Points: 398
-
-Andrew Armbruster
-Name: MC80
-Faction: Rebel
-Commander: Kyrsta Agate
-
-MC80 Battle Cruiser (103)
-• Kyrsta Agate (25)
-• Major Derlin (7)
-• Caitken and Shollan (6)
-• Auxiliary Shields Team (3)
-• Point Defense Ion Cannons (6)
-• Spinal Armament (9)
-• Turbolaser Reroute Circuits (7)
-• Mon Karren (6)
-= 172 Points
-
-CR90 Corvette A (44)
-• Ahsoka Tano (2)
-• Turbolaser Reroute Circuits (7)
-• Tantive IV (3)
-= 56 Points
-
-GR-75 Medium Transports (18)
-• Toryn Farr (7)
-• Munitions Resupply (3)
-= 28 Points
-
-Squadrons:
-• Lando Calrissian (24)
-• Jan Ors (19)
-• Tycho Celchu (16)
-• 3 x YT-2400 (48)
-• Rogue Squadron (14)
-• Gold Squadron (12)
-= 133 Points
-
-Total Points: 389
-
-Paul Conrad
-Name: Sloane isd2
-Faction: Imperial
-Commander: Admiral Sloane
-
-Imperial II (120)
-• Admiral Sloane (24)
-• Captain Needa (2)
-• Gunnery Team (7)
-• Reserve Hangar Deck (4)
-• Electronic Countermeasures (7)
-• Point Defense Ion Cannons (6)
-= 170 Points
-
-Quasar Fire I (54)
-• Flight Controllers (6)
-• Expanded Hangar Bay (5)
-• Boosted Comms (4)
-• Squall (7)
-= 76 Points
-
-Gozanti Cruisers (23)
-• Comms Net (2)
-= 25 Points
-
-Squadrons:
-• Maarek Stele (21)
-• Mauler Mithel (15)
-• Saber Squadron (12)
-• 3 x TIE Interceptor Squadron (33)
-• Darth Vader (TIE Defender) (25)
-• Colonel Jendon (23)
-= 129 Points
-
-Total Points: 400
-
 Paul Adler
 Vic(h) Betta Have My Money (AMG, 1991)
 Faction: Imperial
@@ -446,44 +42,7 @@ Squadrons:
 • TIE Fighter Squadron (8)
 • Saber Squadron (12)
 = 115 Points
-Kevin Leintz
-Name: Untitled Fleet
-Faction: Republic
-Commander: Bail Organa
 
-Acclamator II (71)
-• Clone Navigation Officer (4)
-• Clone Gunners (4)
-• Thermal Shields (5)
-• External Racks (4)
-• Linked Turbolaser Towers (7)
-• Implacable (4)
-= 99 Points
-
-Consular Armed Cruiser (37)
-• Fighter Coordination Team (3)
-• Swift Return (3)
-= 43 Points
-
-Venator II (100)
-• Bail Organa (28)
-• Adi GAllia (3)
-• Flight Controllers (6)
-• Flag Bridge (0)
-• Thermal Shields (5)
-• DBY-827 Heavy Turbolasers (3)
-• Mercy Mission (0)
-= 145 Points
-
-Squadrons:
-• Ahsoka Tano (23)
-• Anakin Skywalker (Delta-7) (24)
-• Axe (17)
-• Kickback (16)
-• 2 x ARC-170 Starfighter Squadron (30)
-= 110 Points
-
-Total Points: 397
 Mackenzie Dalla Lana
 Imperial II (120)
 • Grand Admiral Thrawn (32)
@@ -510,50 +69,7 @@ Squadrons:
 = 134 Points
 
 Total Points: 394
-Dennis Raschke
-Worlds 2025 (Sloane)
-Author: Tokra
 
-Faction: Galactic Empire
-Commander: Admiral Sloane
-Points: 396/400
-
-Arquitens-class Command Cruiser (55 points)
-- Centicore ( 3 points)
-- Captain Needa ( 2 points)
-- Engine Techs ( 8 points)
-= 68 total ship cost
-
-[ flagship ] Raider I-Class Corvette (44 points)
-- Admiral Sloane ( 24 points)
-- Corvus ( 2 points)
-- Hondo Ohnaka ( 2 points)
-= 72 total ship cost
-
-Gozanti-class Cruisers (23 points)
-- Comms Net ( 2 points)
-= 25 total ship cost
-
-
-Gozanti-class Cruisers (23 points)
-- Comms Net ( 2 points)
-= 25 total ship cost
-
-Quasar Fire I-class Cruiser-Carrier (54 points)
-- Squall ( 7 points)
-- Skilled First Officer ( 1 points)
-- Flight Controllers ( 6 points)
-- Boosted Comms ( 4 points)
-= 72 total ship cost
-
-1 Saber Squadron ( 12 points)
-1 Colonel Jendon ( 23 points)
-1 TIE Defender Squadron ( 16 points)
-1 Darth Vader (defender) ( 25 points)
-1 Maarek Stele ( 21 points)
-1 Valen Rudor ( 13 points)
-2 TIE Advanced Squadron ( 24 points)
-= 134 total squadron cost
 Michael Cox
 Michael Cox (134/400/400)
 ====================
@@ -654,33 +170,7 @@ Recusant Support Destroyer (90 points)
 2 Vulture-class Droid Fighter Squadron ( 16 points)
 4 Hyena-class Droid Bomber Squadron ( 44 points)
 = 134 total squadron cost
-Jason Dedrick
-Fleet 7170 (0/400/400)
-=======================
 
-MC30c Scout Frigate (69 + 44: 113)
-· Admiral Ackbar (38)
-· Caitken and Shollan (6)
-
-CR90 Corvette A (44 + 14: 58)
-· Turbolaser Reroute Circuits (7)
-· Liberator (2)
-· Entrapment Formation! (5)
-
-CR90 Corvette A (44 + 7: 51)
-· Turbolaser Reroute Circuits (7)
-
-CR90 Corvette A (44 + 7: 51)
-· Turbolaser Reroute Circuits (7)
-
-CR90 Corvette A (44 + 7: 51)
-· Turbolaser Reroute Circuits (7)
-
-CR90 Corvette A (44 + 7: 51)
-· Turbolaser Reroute Circuits (7)
-
-GR-75 Medium Transports (18 + 7: 25)
-· Slicer Tools (7)
 
 Eric Burtch
 Name: Ozzel IGG Firespray
@@ -751,49 +241,7 @@ Phlac-Arphocc Prototypes (18)
 DIS-T81 (17)
 2 x Vulture Droid Squadron (2 x 8)
 
-Aron Huckaba
-Providence Carrier (95)
-• Kyrsta Agate (25)
-• Ray Antilles (7)
-• Walex Blissex (5)
-• Ordnance Experts (4)
-• Boarding Troopers (3)
-• Auxiliary Shields Team (3)
-• Engine Techs (8)
-Flak Guns (3)
-= 153 Points
 
-CR90 Corvette A (44)
-• Ezra Bridger (3)
-• Turbolaser Reroute Circuits (7)
-• Jaina's Light (5)
-= 59 Points
-
-CR90 Corvette A (44)
-• Turbolaser Reroute Circuits (7)
-= 51 Points
-
-CR90 Corvette A (44)
-• Turbolaser Reroute Circuits (7)
-= 51 Points
-
-GR-75 Medium Transports (18)
-• Ahsoka Tano (2)
-• Comms Net (2)
-= 22 Points
-
-GR-75 Medium Transports (18)
-• Lando Calrissian (4)
-• Slicer Tools (7)
-• Quantum Storm (1)
-= 30 Points
-
-Squadrons:
-• Shara Bey (17)
-• Tycho Celchu (16)
-= 33 Points
-
-Total Points: 396 
 Christopher Fritz
 Tribute (Greatest Ship in the World) (129/400/400)
 
@@ -958,153 +406,10 @@ Squadrons:
 = 134 Points
 
 Total Points: 391
-Matthew Ansley
-Imperial II (120)
-• General Romodi (28)
-• Reeva Demesne (4)
-• Flight Controllers (6)
-• Expanded Hangar Bay (5)
-• Electronic Countermeasures (7)
-• Leading Shots (5)
-• Relentless (3)
-= 178 Points
 
-Arquitens Light Cruiser (52)
-• Captain Needa (2)
-• Turbolaser Reroute Circuits (7)
-• Centicore (3)
-= 64 Points
 
-Gozanti Cruisers (23)
-• Hondo Ohnaka (2)
-• Comms Net (2)
-= 27 Points
 
-Squadrons:
-• Colonel Jendon (23)
-• Darth Vader (TIE Defender) (25)
-• Captain Jonus (16)
-• Maarek Stele (21)
-• Saber Squadron (12)
-• 2 x TIE Defender Squadron (32)
-= 129 Points
 
-Total Points: 398
-Nicholas Larson
-Venator II (100)
-• Bail Organa (28)
-• Skilled First Officer (1)
-• Flight Controllers (6)
-• Flag Bridge (0)
-• Thermal Shields (5)
-• External Racks (4)
-• Linked Turbolaser Towers (7)
-• Tranquility (7)
-• Mercy Mission (5)
-= 163 Points
-
-Consular Armed Cruiser (37)
-• Clone Navigation Officer (4)
-• Radiant VII (1)
-• Bomber Command Center (8)
-= 50 Points
-
-Consular Armed Cruiser (37)
-• Hondo Ohnaka (2)
-• Projection Experts (6)
-• Swift Return (3)
-= 48 Points
-
-Squadrons:
-• Kit Fisto (24)
-• Anakin Skywalker (Delta-7) (24)
-• Axe (17)
-• Kickback (16)
-• 5 x BTL-B Y-wing Squadron (50)
-= 131 Points
-
-Total Points: 392
-Jordan Shettell
-MC30c Scout Frigate (69)
-• Admiral Ackbar (38)
-• Lando Calrissian (4)
-• Caitken and Shollan (6)
-• Electronic Countermeasures (7)
-• External Racks (4)
-• Turbolaser Reroute Circuits (7)
-• Foresight (10)!
-= 145 Points
-
-MC30c Torpedo Frigate (63)
-• Expert Shield Tech (5)
-• Ordnance Experts (4)
-• Advanced Projectors (6)
-• External Racks (4)
-• H9 Turbolasers (8)
-• Admonition (10)!
-= 100 Points
-
-Nebulon-B Support Refit (51)
-• Ahsoka Tano (2)
-• Projection Experts (6)
-• Redemption (5)!
-= 64 Points
-
-CR90 Corvette A (44)
-• Ezra Bridger (3)
-• Projection Experts (6)
-• Turbolaser Reroute Circuits (7)
-• Jaina's Light (5)!
-= 65 Points
-
-GR-75 Medium Transports (18)
-• Hondo Ohnaka (2)
-• Parts Resupply (3)
-• Bright Hope (2)
-= 25 Points
-
-Squadrons:
-= 0 Points
-
-Total Points: 399
-Sean Newman
-Name: Crystal Timmy
-Faction: Rebel
-Commander: Kyrsta Agate
-
-Starhawk Battleship Mark I (140)
-• Kyrsta Agate (25)
-• Ray Antilles (7)
-• Support Officer (2)
-• Sensor Team (5)
-• Hardened Bulkheads (5)
-• Point Defense Ion Cannons (6)
-• XI7 Turbolasers (6)
-• Amity (6)
-= 202 Points
-
-GR-75 Medium Transports (18)
-• Toryn Farr (7)
-• Comms Net (2)
-• Bright Hope (2)
-= 29 Points
-
-Pelta Assault Ship (56)
-• Ahsoka Tano (2)
-• Projection Experts (6)
-• Intensify Firepower! (6)
-• Flechette Torpedoes (3)
-= 73 Points
-
-Squadrons:
-• YT-1300 (13)
-• Jan Ors (19)
-• Tycho Celchu (16)
-• Lando Calrissian (24)
-• Hera Syndulla (X-wing) (23)
-= 95 Points
-
-Total Points: 399
 Paul Tomashevskyi
 [ flagship ] Imperial II-Class Star Destroyer (120 points)
 Admiral Motti  ( 24  points)
@@ -1222,44 +527,7 @@ Ten numb 19
 B-wing x2 28
 E-wing x2 28
 Total 115
-Benjamin Baldwin
-Name: Downsizeit World's 2025 - Sloane
-Faction: Imperial
-Commander: Admiral Sloane
 
-Raider I (44)
-• Admiral Sloane (24)
-• Corvus (2)
-= 70 Points
-
-Gozanti Cruisers (23)
-• Comms Net (2)
-= 25 Points
-
-Quasar Fire I (54)
-• Boosted Comms (4)
-= 58 Points
-
-Gladiator I (56)
-• Ordnance Experts (4)
-• Rapid Reload (4)
-= 64 Points
-
-Gladiator I (56)
-• Ordnance Experts (4)
-• Rapid Reload (4)
-= 64 Points
-
-Squadrons:
-• Maarek Stele (21)
-• Colonel Jendon (23)
-• Mauler Mithel (15)
-• Valen Rudor (13)
-• 2 x TIE Defender Squadron (32)
-• Lambda Shuttle (15)
-= 119 Points
-
-Total Points: 400
 Royce Podeszwa
 Name: Guy Pietti's Phasertown
 Faction: Imperial
@@ -1300,40 +568,7 @@ Squadrons:
 = 107 Points
 
 Total Points: 399
-Joshua Fletcher
-Name: Amityville Remix
-Faction: Rebel
-Commander: Kyrsta Agate
 
-CR90 Corvette A (44)
-• Ahsoka Tano (2)
-• Dual Turbolaser Turrets (4)
-= 50 Points
-
-GR-75 Medium Transports (18)
-• Adar Tallon (10)
-• Boosted Comms (4)
-= 32 Points
-
-Starhawk Battleship Mark I (140)
-• Kyrsta Agate (25)
-• Ray Antilles (7)
-• Walex Blissex (5)
-• Caitken and Shollan (6)
-• Point Defense Ion Cannons (6)
-• Quad Battery Turrets (5)
-• Amity (6)
-= 200 Points
-
-Squadrons:
-• Shara Bey (17)
-• 2 x VCX-100 Freighter (30)
-• Corran Horn (22)
-• YT-2400 (16)
-• Lando Calrissian (24)
-= 109 Points
-
-Total Points: 391
 Robin Sather
 Name: Untitled Fleet
 Faction: Rebel
@@ -1373,48 +608,7 @@ Squadrons:
 = 115 Points
 
 Total Points: 399
-Scott Bellamy
-Name: Bellamy
-Faction: Rebel
-Commander: Admiral Ackbar
 
-Assault:
-Defense:
-Navigation:
-
-MC80 Command Cruiser (102)
-• Admiral Ackbar (38)
-• Ahsoka Tano (2)
-• Engine Techs (8)
-• Electronic Countermeasures (7)
-• Leading Shots (5)
-• XI7 Turbolasers (6)
-• Home One (5)
-= 173 Points
-
-MC80 Command Cruiser (102)
-• Ray Antilles (7)
-• Engine Techs (8)
-• Rapid Launch Bays (6)
-• Electronic Countermeasures (7)
-• Leading Shots (5)
-• XI7 Turbolasers (6)
-• Defiance (5)
-= 146 Points
-
-GR-75 Medium Transports (18)
-• Comms Net (2)
-= 20 Points
-
-GR-75 Medium Transports (18)
-• Parts Resupply (3)
-= 21 Points
-
-Squadrons:
-• 3 x YT-1300 (39)
-= 39 Points
-
-Total Points: 399
 Jerzy Frączek
 Name: Thrawn and Hondo with escort
 Faction: Empire
@@ -1595,84 +789,7 @@ Wat Tambor (18)
 DFS-311 (16)
 5 x Hyena-class Bomber Squadron (5 x 11)
 5 x Vulture Droid Squadron (5 x 8)
-Joshua Fletcher
-Name: Amityville Remix
-Faction: Rebel
-Commander: Kyrsta Agate
 
-CR90 Corvette A (44)
-• Ahsoka Tano (2)
-• Dual Turbolaser Turrets (4)
-= 50 Points
-
-GR-75 Medium Transports (18)
-• Adar Tallon (10)
-• Boosted Comms (4)
-= 32 Points
-
-Starhawk Battleship Mark I (140)
-• Kyrsta Agate (25)
-• Ray Antilles (7)
-• Walex Blissex (5)
-• Caitken and Shollan (6)
-• Point Defense Ion Cannons (6)
-• Quad Battery Turrets (5)
-• Amity (6)
-= 200 Points
-
-Squadrons:
-• Shara Bey (17)
-• 2 x VCX-100 Freighter (30)
-• Corran Horn (22)
-• YT-2400 (16)
-• Lando Calrissian (24)
-= 109 Points
-
-Total Points: 391
-
-Jordan Shettell
-MC30c Scout Frigate (69)
-• Admiral Ackbar (38)
-• Lando Calrissian (4)
-• Caitken and Shollan (6)
-• Electronic Countermeasures (7)
-• External Racks (4)
-• Turbolaser Reroute Circuits (7)
-• Foresight (10)!
-= 145 Points
-
-MC30c Torpedo Frigate (63)
-• Expert Shield Tech (5)
-• Ordnance Experts (4)
-• Advanced Projectors (6)
-• External Racks (4)
-• H9 Turbolasers (8)
-• Admonition (10)!
-= 100 Points
-
-Nebulon-B Support Refit (51)
-• Ahsoka Tano (2)
-• Projection Experts (6)
-• Redemption (5)!
-= 64 Points
-
-CR90 Corvette A (44)
-• Ezra Bridger (3)
-• Projection Experts (6)
-• Turbolaser Reroute Circuits (7)
-• Jaina's Light (5)!
-= 65 Points
-
-GR-75 Medium Transports (18)
-• Hondo Ohnaka (2)
-• Parts Resupply (3)
-• Bright Hope (2)
-= 25 Points
-
-Squadrons:
-= 0 Points
-
-Total Points: 399
 
 Joseph Morton
 Providence Carrier (102)
@@ -1707,33 +824,7 @@ Squadrons:
 = 0 Points
 
 Total Points: 396
-Jason Dedrick
-Fleet 7170 (0/400/400)
-=======================
 
-MC30c Scout Frigate (69 + 44: 113)
-· Admiral Ackbar (38)
-· Caitken and Shollan (6)
-
-CR90 Corvette A (44 + 14: 58)
-· Turbolaser Reroute Circuits (7)
-· Liberator (2)
-· Entrapment Formation! (5)
-
-CR90 Corvette A (44 + 7: 51)
-· Turbolaser Reroute Circuits (7)
-
-CR90 Corvette A (44 + 7: 51)
-· Turbolaser Reroute Circuits (7)
-
-CR90 Corvette A (44 + 7: 51)
-· Turbolaser Reroute Circuits (7)
-
-CR90 Corvette A (44 + 7: 51)
-· Turbolaser Reroute Circuits (7)
-
-GR-75 Medium Transports (18 + 7: 25)
-· Slicer Tools (7)
 
 Samuel Wang
 Name: The Jabbawookiee Special (Evil)
@@ -1875,87 +966,8 @@ Squadrons:
 = 107 Points
 
 Total Points: 399
-James McCartney
-Name: Prep event - James McCartney
-Faction: Republic
-Commander: Bail Organa
-
-Venator II (100)
-• Bail Organa (28)
-• Flight Commander (3)
-• Flight Controllers (6)
-• Flag Bridge (0)
-• Thermal Shields (5)
-• Linked Turbolaser Towers (7)
-• Tranquility (7)
-• Mercy Mission (5)
-= 161 Points
-
-Pelta Medical Frigate (49)
-• Flight Commander (3)
-• Projection Experts (6)
-• Bomber Command Center (8)
-• TB-73 (5)
-= 71 Points
-
-Consular Armed Cruiser (37)
-• Radiant VII (1)
-• Comms Net (2)
-= 40 Points
-
-Squadrons:
-• Ahsoka Tano (23)
-• Anakin Skywalker (Delta-7) (24)
-• Axe (17)
-• V-19 Torrent Squadron (12)
-• 5 x BTL-B Y-wing Squadron (50)
-= 126 Points
-
-Total Points: 398
-Dennis Raschke
-Worlds 2025 (Sloane)
-Author: Tokra
-
-Faction: Galactic Empire
-Commander: Admiral Sloane
-Points: 396/400
-
-Arquitens-class Command Cruiser (55 points)
-- Centicore ( 3 points)
-- Captain Needa ( 2 points)
-- Engine Techs ( 8 points)
-= 68 total ship cost
-
-[ flagship ] Raider I-Class Corvette (44 points)
-- Admiral Sloane ( 24 points)
-- Corvus ( 2 points)
-- Hondo Ohnaka ( 2 points)
-= 72 total ship cost
-
-Gozanti-class Cruisers (23 points)
-- Comms Net ( 2 points)
-= 25 total ship cost
 
 
-Gozanti-class Cruisers (23 points)
-- Comms Net ( 2 points)
-= 25 total ship cost
-
-Quasar Fire I-class Cruiser-Carrier (54 points)
-- Squall ( 7 points)
-- Skilled First Officer ( 1 points)
-- Flight Controllers ( 6 points)
-- Boosted Comms ( 4 points)
-= 72 total ship cost
-
-1 Saber Squadron ( 12 points)
-1 Colonel Jendon ( 23 points)
-1 TIE Defender Squadron ( 16 points)
-1 Darth Vader (defender) ( 25 points)
-1 Maarek Stele ( 21 points)
-1 Valen Rudor ( 13 points)
-2 TIE Advanced Squadron ( 24 points)
-= 134 total squadron cost
 Michael Cox
 Michael Cox (134/400/400)
 ====================
@@ -1990,44 +1002,7 @@ VCX-100 Freighter (15)
 Rogue Squadron (14)
 Green Squadron (12)
 Gold Squadron (12)
-Rhys Aghatabay
-Name: D Caps These Cheeks & Ig On My Nition
-Faction: Imperial
-Commander: General Romodi
 
-Onager Testbed (116)
-• General Romodi (28)
-• Governor Pryce (6)
-• Gunnery Chief Varnillian (6)
-• Ordnance Experts (4)
-• Orbital Bombardment Particle Cannons (5)
-= 165 Points
-
-Victory II (80)
-• Minister Tua (2)
-• Gunnery Team (7)
-• Disposable Capacitors (3)
-• XI7 Turbolasers (6)
-• Point Defense Ion Cannons (6)
-• Harrow (3)
-• Electronic Countermeasures (7)
-= 114 Points
-
-Gozanti Cruisers (23)
-• Darth Vader (4)
-• Parts Resupply (3)
-= 30 Points
-
-Gozanti Cruisers (23)
-• Comms Net (2)
-= 25 Points
-
-Squadrons:
-• Captain Jonus (16)
-• 5 x TIE Fighter Squadron (40)
-= 56 Points
-
-Total Points: 390
 
 Joshua Gorhau
 Rebels
@@ -2068,43 +1043,7 @@ Ten numb 19
 B-wing x2 28
 E-wing x2 28
 Total 115
-Jacek Klopotowski
-Assault Frigate Mk2 B (72)
-â˘ Admiral Ackbar (38)
-â˘ Intel Officer (7)
-â˘ Caitken and Shollan (6)
-â˘ Electronic Countermeasures (7)
-â˘ Slaved Turrets (6)
-= 136 Points
 
-MC30c Scout Frigate (69)
-â˘ Expert Shield Tech (5)
-â˘ Ordnance Experts (4)
-â˘ External Racks (4)
-â˘ H9 Turbolasers (8)
-â˘ Foresight (10)
-= 100 Points
-
-GR-75 Medium Transports (18)
-â˘ Ezra Bridger (3)
-â˘ Comms Net (2)
-= 23 Points
-
-GR-75 Medium Transports (18)
-â˘ Hondo Ohnaka (2)
-â˘ Comms Net (2)
-= 22 Points
-
-Squadrons:
-â˘ Lando Calrissian (24)
-â˘ Jan Ors (19)
-â˘ Shara Bey (17)
-â˘ Tycho Celchu (16)
-â˘ 2 x YT-2400 (32)
-â˘ A-wing Squadron (11)
-= 119 Points
-
-Total Points: 400
 Paul Adler
 Vic(h) Betta Have My Money (AMG, 1991)
 Faction: Imperial
@@ -2151,181 +1090,10 @@ Squadrons:
 = 115 Points
 
 Total
-Benjamin Baldwin
-Name: Downsizeit World's 2025 - Sloane
-Faction: Imperial
-Commander: Admiral Sloane
-
-Raider I (44)
-• Admiral Sloane (24)
-• Corvus (2)
-= 70 Points
-
-Gozanti Cruisers (23)
-• Comms Net (2)
-= 25 Points
-
-Quasar Fire I (54)
-• Boosted Comms (4)
-= 58 Points
-
-Gladiator I (56)
-• Ordnance Experts (4)
-• Rapid Reload (4)
-= 64 Points
-
-Gladiator I (56)
-• Ordnance Experts (4)
-• Rapid Reload (4)
-= 64 Points
-
-Squadrons:
-• Maarek Stele (21)
-• Colonel Jendon (23)
-• Mauler Mithel (15)
-• Valen Rudor (13)
-• 2 x TIE Defender Squadron (32)
-• Lambda Shuttle (15)
-= 119 Points
-
-Total Points: 400
-Paul Conrad
-Name: Sloane isd2
-Faction: Imperial
-Commander: Admiral Sloane
-
-Imperial II (120)
-• Admiral Sloane (24)
-• Captain Needa (2)
-• Gunnery Team (7)
-• Reserve Hangar Deck (4)
-• Electronic Countermeasures (7)
-• Point Defense Ion Cannons (6)
-= 170 Points
-
-Quasar Fire I (54)
-• Flight Controllers (6)
-• Expanded Hangar Bay (5)
-• Boosted Comms (4)
-• Squall (7)
-= 76 Points
-
-Gozanti Cruisers (23)
-• Comms Net (2)
-= 25 Points
-
-Squadrons:
-• Maarek Stele (21)
-• Mauler Mithel (15)
-• Saber Squadron (12)
-• 3 x TIE Interceptor Squadron (33)
-• Darth Vader (TIE Defender) (25)
-• Colonel Jendon (23)
-= 129 Points
-
-Total Points: 400
-
-Adam Newton
-Ackbar 2025 Angry Ewok
-
-Faction: Rebel Alliance
-Commander: Admiral Ackbar
-Points: 389/400
-
-[ flagship ] Assault Frigate Mark II B (72 points)
--  Admiral Ackbar  ( 38  points)
--  Gallant Haven  ( 8  points)
--  Intel Officer  ( 7  points)
--  Caitken and Shollan  ( 6  points)
--  Electronic Countermeasures  ( 7  points)
--  XI7 Turbolasers  ( 6  points)
-= 144 total ship cost
-
-CR90 Corvette A (44 points)
--  Jainas Light  ( 5  points)
--  Turbolaser Reroute Circuits  ( 7  points)
-= 56 total ship cost
 
 
-GR-75 Medium Transports (18 points)
--  Toryn Farr  ( 7  points)
--  Boosted Comms  ( 4  points)
--  Comms Net  ( 2  points)
-= 31 total ship cost
 
-GR-75 Medium Transports (18 points)
--  Boosted Comms  ( 4  points)
--  Comms Net  ( 2  points)
-= 24 total ship cost
 
-1 Jan Ors ( 19 points)
-1 Lando Calrissian ( 24 points)
-1 Shara Bey ( 17 points)
-1 Tycho Celchu ( 16 points)
-1 A-Wing Squadron ( 11 points)
-2 YT-2400 ( 32 points)
-1 VCX-100 Freighter ( 15 points)
-= 134 total squadron cost
-Colin Looney
-ISD Kuat Refit (112 + 52: 164)
-· Admiral Sloane (24)
-· Admiral Montferrat (5)
-· Boarding Troopers (3)
-· Electronic Countermeasures (7)
-· Leading Shots (5)
-· External Racks (4)
-· Sovereign (4)
-
-Quasar I Cruiser-Carrier (54 + 27: 81)
-· Admiral Chiraneau (10)
-· Flight Controllers (6)
-· Boosted Comms (4)
-· Squall (7)
-
-Gozanti Cruisers (23 + 3: 26)
-· Parts Resupply (3)
-
-Darth Vader [TIE/D] (25)
-Colonel Jendon (23)
-Maarek Stele (21)
-Mauler Mithel (15)
-Saber Squadron (12)
-2 x Tie Advanced Squadron (2 x 12)
-Black Squadron (9)
-Nicholas Larson
-Venator II (100)
-• Bail Organa (28)
-• Skilled First Officer (1)
-• Flight Controllers (6)
-• Flag Bridge (0)
-• Thermal Shields (5)
-• External Racks (4)
-• Linked Turbolaser Towers (7)
-• Tranquility (7)
-• Mercy Mission (5)
-= 163 Points
-
-Consular Armed Cruiser (37)
-• Clone Navigation Officer (4)
-• Radiant VII (1)
-• Bomber Command Center (8)
-= 50 Points
-
-Consular Armed Cruiser (37)
-• Hondo Ohnaka (2)
-• Projection Experts (6)
-• Swift Return (3)
-= 48 Points
-
-Squadrons:
-• Kit Fisto (24)
-• Anakin Skywalker (Delta-7) (24)
-• Axe (17)
-• Kickback (16)
-• 5 x BTL-B Y-wing Squadron (50)
-= 131 Points
-
-Total Points: 392
 Justin Schoonmaker
 Trench 2 step 5by5 2.0 
 Author: Jschoonmaker
@@ -2360,91 +1128,8 @@ Recusant Support Destroyer (90 points)
 4 Hyena-class Droid Bomber Squadron ( 44 points)
 = 134 total squadron cost
 
-Scott Bellamy
-Name: Bellamy
-Faction: Rebel
-Commander: Admiral Ackbar
 
-Assault:
-Defense:
-Navigation:
 
-MC80 Command Cruiser (102)
-• Admiral Ackbar (38)
-• Ahsoka Tano (2)
-• Engine Techs (8)
-• Electronic Countermeasures (7)
-• Leading Shots (5)
-• XI7 Turbolasers (6)
-• Home One (5)
-= 173 Points
-
-MC80 Command Cruiser (102)
-• Ray Antilles (7)
-• Engine Techs (8)
-• Rapid Launch Bays (6)
-• Electronic Countermeasures (7)
-• Leading Shots (5)
-• XI7 Turbolasers (6)
-• Defiance (5)
-= 146 Points
-
-GR-75 Medium Transports (18)
-• Comms Net (2)
-= 20 Points
-
-GR-75 Medium Transports (18)
-• Parts Resupply (3)
-= 21 Points
-
-Squadrons:
-• 3 x YT-1300 (39)
-= 39 Points
-
-Total Points: 399
-Aron Huckaba
-Providence Carrier (95)
-• Kyrsta Agate (25)
-• Ray Antilles (7)
-• Walex Blissex (5)
-• Ordnance Experts (4)
-• Boarding Troopers (3)
-• Auxiliary Shields Team (3)
-• Engine Techs (8)
-Flak Guns (3)
-= 153 Points
-
-CR90 Corvette A (44)
-• Ezra Bridger (3)
-• Turbolaser Reroute Circuits (7)
-• Jaina's Light (5)
-= 59 Points
-
-CR90 Corvette A (44)
-• Turbolaser Reroute Circuits (7)
-= 51 Points
-
-CR90 Corvette A (44)
-• Turbolaser Reroute Circuits (7)
-= 51 Points
-
-GR-75 Medium Transports (18)
-• Ahsoka Tano (2)
-• Comms Net (2)
-= 22 Points
-
-GR-75 Medium Transports (18)
-• Lando Calrissian (4)
-• Slicer Tools (7)
-• Quantum Storm (1)
-= 30 Points
-
-Squadrons:
-• Shara Bey (17)
-• Tycho Celchu (16)
-= 33 Points
-
-Total Points: 396 
 Greg Fyfe
 Greg Fyfe Worlds 2025 Trench (91/400/400)
 =========================================
@@ -2502,76 +1187,8 @@ Soontir Fel (18)
 Tel Trevura (17)
 Gamma Squadron (10)
 2 x Tie Bomber Squadron (2 x 9)
-Kevin Leintz
-Name: Untitled Fleet
-Faction: Republic
-Commander: Bail Organa
 
-Acclamator II (71)
-• Clone Navigation Officer (4)
-• Clone Gunners (4)
-• Thermal Shields (5)
-• External Racks (4)
-• Linked Turbolaser Towers (7)
-• Implacable (4)
-= 99 Points
 
-Consular Armed Cruiser (37)
-• Fighter Coordination Team (3)
-• Swift Return (3)
-= 43 Points
-
-Venator II (100)
-• Bail Organa (28)
-• Adi GAllia (3)
-• Flight Controllers (6)
-• Flag Bridge (0)
-• Thermal Shields (5)
-• DBY-827 Heavy Turbolasers (3)
-• Mercy Mission (0)
-= 145 Points
-
-Squadrons:
-• Ahsoka Tano (23)
-• Anakin Skywalker (Delta-7) (24)
-• Axe (17)
-• Kickback (16)
-• 2 x ARC-170 Starfighter Squadron (30)
-= 110 Points
-
-Total Points: 397
-Matthew Ansley
-Imperial II (120)
-• General Romodi (28)
-• Reeva Demesne (4)
-• Flight Controllers (6)
-• Expanded Hangar Bay (5)
-• Electronic Countermeasures (7)
-• Leading Shots (5)
-• Relentless (3)
-= 178 Points
-
-Arquitens Light Cruiser (52)
-• Captain Needa (2)
-• Turbolaser Reroute Circuits (7)
-• Centicore (3)
-= 64 Points
-
-Gozanti Cruisers (23)
-• Hondo Ohnaka (2)
-• Comms Net (2)
-= 27 Points
-
-Squadrons:
-• Colonel Jendon (23)
-• Darth Vader (TIE Defender) (25)
-• Captain Jonus (16)
-• Maarek Stele (21)
-• Saber Squadron (12)
-• 2 x TIE Defender Squadron (32)
-= 129 Points
-
-Total Points: 398
 Robert Coldwell
 Name: He's going to have to be...
 Faction: Separatist
@@ -2654,43 +1271,7 @@ Squadrons:
 = 78 Points
 
 Total Points: 397
-Andrew Armbruster
-Name: MC80
-Faction: Rebel
-Commander: Kyrsta Agate
 
-MC80 Battle Cruiser (103)
-• Kyrsta Agate (25)
-• Major Derlin (7)
-• Caitken and Shollan (6)
-• Auxiliary Shields Team (3)
-• Point Defense Ion Cannons (6)
-• Spinal Armament (9)
-• Turbolaser Reroute Circuits (7)
-• Mon Karren (6)
-= 172 Points
-
-CR90 Corvette A (44)
-• Ahsoka Tano (2)
-• Turbolaser Reroute Circuits (7)
-• Tantive IV (3)
-= 56 Points
-
-GR-75 Medium Transports (18)
-• Toryn Farr (7)
-• Munitions Resupply (3)
-= 28 Points
-
-Squadrons:
-• Lando Calrissian (24)
-• Jan Ors (19)
-• Tycho Celchu (16)
-• 3 x YT-2400 (48)
-• Rogue Squadron (14)
-• Gold Squadron (12)
-= 133 Points
-
-Total Points: 389
 Robin Sather
 Name: Untitled Fleet
 Faction: Rebel
@@ -2803,44 +1384,7 @@ Squadrons:
 = 121 Points
 
 Total Points: 399
-Sean Newman
-Name: Crystal Timmy
-Faction: Rebel
-Commander: Kyrsta Agate
 
-Starhawk Battleship Mark I (140)
-• Kyrsta Agate (25)
-• Ray Antilles (7)
-• Support Officer (2)
-• Sensor Team (5)
-• Hardened Bulkheads (5)
-• Point Defense Ion Cannons (6)
-• XI7 Turbolasers (6)
-• Amity (6)
-= 202 Points
-
-GR-75 Medium Transports (18)
-• Toryn Farr (7)
-• Comms Net (2)
-• Bright Hope (2)
-= 29 Points
-
-Pelta Assault Ship (56)
-• Ahsoka Tano (2)
-• Projection Experts (6)
-• Intensify Firepower! (6)
-• Flechette Torpedoes (3)
-= 73 Points
-
-Squadrons:
-• YT-1300 (13)
-• Jan Ors (19)
-• Tycho Celchu (16)
-• Lando Calrissian (24)
-• Hera Syndulla (X-wing) (23)
-= 95 Points
-
-Total Points: 399
 
 Mitchell Fallinger
 Venator I (90)
@@ -2917,50 +1461,7 @@ Squadrons:
 = 125 Points
 
 Total Points: 388
-Joseph Nelligan
-Author: skycake
 
-Faction: Rebel Alliance
-Commander: Kyrsta Agate (com)
-Points: 400/400
-
-
-[ flagship ] MC75 Ordnance Cruiser (95 points)
--  Kyrsta Agate (com)  ( 25  points)
--  Profundity  ( 7  points)
--  Skilled First Officer  ( 1  points)
--  Caitken and Shollan  ( 6  points)
--  Reinforced Blast Doors  ( 5  points)
--  External Racks  ( 4  points)
--  Expanded Launchers  ( 8  points)
-= 151 total ship cost
-
-Hammerhead Torpedo Corvette (36 points)
--  Garel's Honor  ( 4  points)
--  Ezra Bridger  ( 3  points)
--  Shriv Suurgav  ( 4  points)
--  External Racks  ( 4  points)
-= 51 total ship cost
-
-MC30c Torpedo Frigate (63 points)
--  Ordnance Experts  ( 4  points)
--  H9 Turbolasers  ( 8  points)
--  External Racks  ( 4  points)
-= 79 total ship cost
-
-GR-75 Medium Transports (18 points)
--  Hondo Ohnaka  ( 2  points)
-= 20 total ship cost
-
-GR-75 Medium Transports (18 points)
--  Comms Net  ( 2  points)
-= 20 total ship cost
-
-1 Ketsu Onyo ( 22 points)
-1 Lando Calrissian ( 24 points)
-1 Tycho Celchu ( 16 points)
-1 Shara Bey ( 17 points)
-= 79 total squadron cost
 David Holmes
 Imperial II (120)
 • Grand Moff Tarkin (28)
@@ -2992,74 +1493,7 @@ Squadrons:
 = 102 Points
 
 Total Points: 391
-Bodhi Lovely
-“One fish, Two fish, Red fish, Blue fish,
-Black fish, Blue fish, Old fish, New fish.
-This one has a little car.
-This one has a little star.
-Say! What a lot of fish there are.
-Yes. Some are red, and some are blue.
-Some are old and some are new.
-Some are sad, and some are glad,
-And some are very, very bad.
-Why are they sad and glad and bad?
-I do not know, go ask your dad.
-Some are thin, and some are fat.
-The fat one has a yellow hat.
-From there to here,
-From here to there,
-Funny things are everywhere.
-Here are some who like to run.
-They run for fun in the hot, hot sun.
-Oh me! Oh my! Oh me! oh my!
-What a lot of funny things go by.
-Some have two feet and some have four.
-Some have six feet and some have more.
-Where do they come from? I can't say.
-But I bet they have come a long, long way.
-we see them come, we see them go.
-Some are fast. Some are slow.
-Some are high. Some are low.
-Not one of them is like another.
-Don't ask us why, go ask your mother.“
 
-MC30c Scout Frigate (69)
-• Admiral Ackbar (38)
-• Intel Officer (7)
-• Veteran Gunners (5)
-• Electronic Countermeasures (7)
-• External Racks (4)
-• Turbolaser Reroute Circuits (7)
-• Foresight (10)
-= 147 Points
-
-MC30c Scout Frigate (69)
-• Intel Officer (7)
-• Caitken and Shollan (6)
-• Reinforced Blast Doors (5)
-• External Racks (4)
-• Turbolaser Reroute Circuits (7)
-• Admonition (10)
-= 108 Points
-
-CR90 Corvette A (44)
-• Ezra Bridger (3)
-• Turbolaser Reroute Circuits (7)
-• Jaina's Light (5)
-= 59 Points
-
-GR-75 Medium Transports (18)
-• Ahsoka Tano (2)
-• Munitions Resupply (3)
-= 23 Points
-
-Squadrons:
-• Shara Bey (17)
-• Tycho Celchu (16)
-• 4 x Z-95 Headhunter Squadron (28)
-= 61 Points
-
-Total Points: 398
 Landon Vomastic
 ISD Cymoon 1 Refit (112)
 • Darth Vader (34)
@@ -3093,77 +1527,7 @@ Squadrons:
 = 63 Points
 
 Total Points: 398
-Robert Podeszwa
-Name: Board and nails
-Faction: Rebel
-Commander: Kyrsta Agate
 
-Providence Carrier (95)
-• Kyrsta Agate (25)
-• Ray Antilles (7)
-• Walex Blissex (5)
-• Ordnance Experts (4)
-• Boarding Troopers (3)
-• Auxiliary Shields Team (3)
-• Engine Techs (8)
-= 150 Points
-
-CR90 Corvette A (44)
-• Turbolaser Reroute Circuits (7)
-= 51 Points
-
-CR90 Corvette A (44)
-• Turbolaser Reroute Circuits (7)
-= 51 Points
-
-GR-75 Medium Transports (18)
-• Ahsoka Tano (2)
-= 20 Points
-
-Squadrons:
-• Tycho Celchu (16)
-• Dash Rendar (24)
-• Ketsu Onyo (22)
-• Lando Calrissian (24)
-• Lancer Pursuit Craft (14)
-• YT-2400 (16)
-• Gold Squadron (12)
-= 128 Points
-
-Total Points: 400
-Eric Connors
-Name: The Hateful Farmer V3 Worlds
-Faction: Rebel
-Commander: Kyrsta Agate
-
-Starhawk Battleship Mark I (140)
-• Kyrsta Agate (25)
-• Walex Blissex (5)
-• Damage Control Officer (3)
-• Boarding Troopers (3)
-• Point Defense Ion Cannons (6)
-• DBY-827 Heavy Turbolasers (3)
-• Magnite Crystal Tractor Beam Array (10)
-• Concord (12)
-= 207 Points
-
-GR-75 Medium Transports (18)
-• Ahsoka Tano (2)
-• Parts Resupply (3)
-= 23 Points
-
-GR-75 Medium Transports (18)
-• Adar Tallon (10)
-= 28 Points
-
-Squadrons:
-• Lando Calrissian (24)
-• Gold Squadron (12)
-• 4 x YT-2400 (64)
-• 2 x VCX-100 Freighter (30)
-= 130 Points
-
-Total Points: 388
 Aaron Hudson
 Name: Aaron Hudson (ArmchairJedi)
 Faction: Separatist
@@ -3232,42 +1596,7 @@ Mauler Mithil 15
 Morna Kee 27
 
 84
-Derek MacKinnon
-Name: Derek MacKinnon Sloan Fleet Worlds 2025
-Faction: Imperial
-Commander: Admiral Sloane
 
-Imperial II (120)
-• Emperor Palpatine (3)
-• Gunnery Team (7)
-• Electronic Countermeasures (7)
-• Leading Shots (5)
-• XX-9 Turbolasers (2)
-= 144 Points
-
-Quasar Fire I (54)
-• Admiral Sloane (24)
-• Minister Tua (2)
-• Flight Controllers (6)
-• Boosted Comms (4)
-• Expanded Hangar Bay (5)
-• Electronic Countermeasures (7)
-= 102 Points
-
-Gozanti Cruisers (23)
-• Comms Net (2)
-= 25 Points
-
-Squadrons:
-• Darth Vader (TIE Defender) (25)
-• Saber Squadron (12)
-• Maarek Stele (21)
-• Mauler Mithel (15)
-• 2 x TIE Defender Squadron (32)
-• Colonel Jendon (23)
-= 128 Points
-
-Total Points: 399
 William Oder
 Name: TF 1726 Rocket Troopers
 Faction: Separatist
@@ -3349,37 +1678,6 @@ Squadrons:
 = 77 Points
 
 Total Points: 400
-Ian Halterman
-Providence Carrier 95
- • Kyrsta Agate 25
- • Ezra Bridger 3
- • Walex Blissex 5
- • Boarding Troopers 3
- • Ordnance Experts 4
- • Engine Techs 8
- • Auxiliary Shields Team 3
- 146 
-
- CR90 Corvette A 44
- • Ahsoka Tano 2
- • Turbolaser Reroute Circuits 7
- 53 
-
- CR90 Corvette A 44
- • Turbolaser Reroute Circuits 7
- 51 
-
- GR-75 Medium Transports 18
- • Toryn Farr 7
- • Parts Resupply 3
- 28 
-
- Ketsu Onyo 22
- Rogue Squadron 14
- Lando Calrissian 24
- 2 × Lancer Pursuit Craft 28
- Tycho Celchu 16
- Shara Bey 17
 
 Michael Lyssy
 Name: Roborevenge - AcornAdmiral 2025
@@ -3419,89 +1717,6 @@ Squadrons:
 = 113 Points
 
 Total Points: 400
-Nathan Ray
-Demo with QF I, Raider, and Gozanti x2 - 6 Squads
-Author: Rayster
-
-Faction: Galactic Empire
-Commander: Admiral Sloane
-Points: 393/400
-
-[ flagship ] Gladiator I-Class Star Destroyer (56 points)
-- Admiral Sloane ( 24 points)
-- Demolisher ( 10 points)
-- Minister Tua ( 2 points)
-- Ordnance Experts ( 4 points)
-- Engine Techs ( 8 points)
-- Electronic Countermeasures ( 7 points)
-- Assault Proton Torpedoes ( 4 points)
-= 115 total ship cost
-
-Quasar Fire I-class Cruiser-Carrier (54 points)
-- Pursuant ( 2 points)
-- Emperor Palpatine (off) ( 3 points)
-- Flight Controllers ( 6 points)
-- Boosted Comms ( 4 points)
-- Expanded Hangar Bay ( 5 points)
-= 74 total ship cost
-
-Raider I-Class Corvette (44 points)
-- Corvus ( 2 points)
-- Darth Vader (wpn) ( 3 points)
-= 49 total ship cost
-
-Gozanti-class Cruisers (23 points)
-- Suppressor ( 4 points)
-- Commander Woldar ( 4 points)
-- Jamming Field ( 2 points)
-= 33 total ship cost
-
-Gozanti-class Cruisers (23 points)
-- Admiral Titus ( 2 points)
-- Comms Net ( 2 points)
-= 27 total ship cost
-
-1 Maarek Stele ( 21 points)
-1 Mauler Mithel ( 15 points)
-1 Whisper ( 18 points)
-1 Black Squadron ( 9 points)
-2 TIE Defender Squadron ( 32 points)
-= 95 total squadron cost
-Andrew Clarke
-Name: Powered by the Sidekick Network
-Faction: Rebel
-Commander: Kyrsta Agate
-
-Starhawk Battleship Mark I (140)
-• Kyrsta Agate (25)
-• Ray Antilles (7)
-• Walex Blissex (5)
-• Caitken and Shollan (6)
-• Flak Guns (3)
-• Point Defense Ion Cannons (6)
-• XI7 Turbolasers (6)
-• Magnite Crystal Tractor Beam Array (10)
-• Amity (6)
-= 214 Points
-
-Pelta Assault Ship (56)
-• Projection Experts (6)
-= 62 Points
-
-GR-75 Medium Transports (18)
-• Ahsoka Tano (2)
-• Comms Net (2)
-= 22 Points
-
-Squadrons:
-• Tycho Celchu (16)
-• Shara Bey (17)
-• A-wing Squadron (11)
-• 2 x VCX-100 Freighter (30)
-• YT-1300 (13)
-= 87 Points
-
-Total Points: 385
 
 Hiroki Ogawa
 Faction: Separatist
@@ -3715,46 +1930,7 @@ Squadrons:
 = 127 Points
 Total Points: 392
 
-Ryder Curry
-Name: II 30 90 75 Worlds list 2025
-Faction: Rebel
-Commander: Admiral Ackbar (38)
 
-Assault Frigate Mark II B (72)
-• Admiral Ackbar (38)
-• Intel Officer (7)
-• Caitken and Shollan (6)
-• Electronic Countermeasures (7)
-• Slaved Turrets (6)
-= 136 Points
-
-MC30c Scout Frigate (69)
-• Intel Officer (7)
-• Veteran Gunners (5)
-• External Racks (4)
-• Turbolaser Reroute Circuits (7)
-• Foresight (10)
-= 102 Points
-
-CR90 Corvette A (44)
-• Ezra Bridger (3)
-• Turbolaser Reroute Circuits (7)
-• Jaina's Light (5)
-= 59 Points
-
-GR-75 Medium Transports (18)
-• Ahsoka Tano (2)
-• Parts Resupply (3)
-= 23 Points
-
-Squadrons:
-• Lando Calrissian - Millennium Falcon (24)
-• Shara Bey - A-Wing Squadron (17)
-• Tycho Celchu - A-Wing Squadron (16)
-• 3 x Z-95 Headhunter Squadron (21)
-= 78 Points
-
-Total Points: 398
 Nicholas Kolker
 Name: Untitled Fleet
 Faction: Imperial
@@ -4107,179 +2283,11 @@ Squadrons:
 = 47 Points
 
 Total Points: 397
-Adam Momsen
-Name: Smells Like Fish & Netlisting - Milwaukee Edition
-
-Faction: Rebel
-Commander: Admiral Ackbar (38)
-
-Assault Frigate Mark II B  (72)
-• Admiral Ackbar (38)
-• Intel Officer (7)
-• Caitken and Shollan (6)
-• Electronic Countermeasures (7)
-• Slaved Turrets (6)
-= 136 Points
 
 
-MC30c Scout Frigate (69)
-• Intel Officer (7)
-• Ordnance Experts (4)
-• External Racks (4)
-• Turbolaser Reroute Circuits (7)
-• Foresight (10)
-= 101 Points
 
 
-CR90 Corvette A (44)
-• Turbolaser Reroute Circuits (7)
-• Jaina's Light (5)
-= 56 Points
 
-GR-75 Medium Transports (18)
-• Hondo Ohnaka (2)
-• Comms Net (2)
-• Reserve Hangar Deck (4)
-= 26 Points
-
-
-Squadrons:
-• Gold Squadron - Y-Wing Squadron (12)
-• Ketsu Onyo - Shadow Caster (22)
-• Shara Bey - A-Wing Squadron (17)
-• Tycho Celchu - A-Wing Squadron (16)
-• 2 x Z-95 Headhunter Squadron (14)
-= 81 Points
-
-Total Points: 400
-Joseph Ziebelman
-Name: Ackbar msu with a pelta
-Faction: Rebel
-Commander: Admiral Ackbar
-
-MC30c Scout Frigate (69)
-• Admiral Ackbar (38)
-• Intel Officer (7)
-• Ordnance Experts (4)
-• External Racks (4)
-• Turbolaser Reroute Circuits (7)
-• Foresight (10)
-= 139 Points
-
-MC30c Scout Frigate (69)
-• Expert Shield Tech (5)
-• Ordnance Experts (4)
-• External Racks (4)
-• Turbolaser Reroute Circuits (7)
-• Admonition (10)
-= 99 Points
-
-Pelta Command Ship (60)
-• Projection Experts (6)
-• Intensify Firepower! (6)
-• Disposable Capacitors (3)
-= 75 Points
-
-GR-75 Medium Transports (18)
-• Comms Net (2)
-= 20 Points
-
-Squadrons:
-• Tycho Celchu (16)
-• Lando Calrissian (24)
-• YT-2400 (16)
-• A-wing Squadron (11)
-= 67 Points
-
-Total Points: 400
-Aaron Klingbeil
-Name: F.I.S.H.
-Faction: Rebel
-Commander: Admiral Ackbar (38) 
-
-Modified Pelta-class Assault Ship (56)
-• Admiral Ackbar (38)
-• Raymus Antilles (7)
-• Ahsoka Tano (2)
-• Projection Experts (6)
-• Intensify Firepower! (6)
-• Flechette Torpedoes (3)
-• Phoenix Home (3)
-= 121 Points
-
-Hammerhead Scout Corvette (41)
-• Ezra Bridger (3)
-• Gunnery Team (7)
-• Disposable Capacitors (3)
-• Enhanced Armament (10)
-• Task Force Antilles (3)
-= 67 Points
-
-Hammerhead Scout Corvette (41)
-• Expert Shield Tech (5)
-• Gunnery Team (7)
-• Disposable Capacitors (3)
-• Enhanced Armament (10)
-• Task Force Antilles (3)
-= 69 Points
-
-Hammerhead Scout Corvette (41)
-• Expert Shield Tech (5)
-• Gunnery Team (7)
-• Disposable Capacitors (3)
-• Enhanced Armament (10)
-• Task Force Antilles (3)
-= 69 Points
-
-Hammerhead Scout Corvette (41)
-• Expert Shield Tech (5)
-• Gunnery Team (7)
-• Disposable Capacitors (3)
-• Enhanced Armament (10)
-• Task Force Antilles (3)
-= 69 Points
-
-Squadrons:
-= 0 Points
-
-Total Points: 395
-Brooke Kortenbusch
-Name: Romadi is feeling basic
-Faction: Imperial
-Commander: General Romodi
-
-Onager Star Destroyer (120)
-• Emperor Palpatine (3)
-• Gunnery Chief Varnillian (6)
-• Veteran Gunners (5)
-• XX-9 Turbolasers (2)
-• Orbital Bombardment Particle Cannons (5)
-• Cataclysm (5)
-= 146 Points
-
-Interdictor Suppression Refit (90)
-• General Romodi (28)
-• Taskmaster Grint (5)
-• Auxiliary Shields Team (3)
-• Disposable Capacitors (3)
-• Grav Shift Reroute (2)
-• G7-X Grav Well Projector (2)
-• SW-7 Ion Batteries (5)
-= 138 Points
-
-Gozanti Cruisers (23)
-• Hondo Ohnaka (2)
-• Comms Net (2)
-= 27 Points
-
-Squadrons:
-• Boba Fett (24)
-• Bossk (23)
-• Darth Vader (TIE Defender) (25)
-• Tel Trevura (17)
-= 89 Points
-
-Total Points: 400
 Drew Hunnicutt
 Name: Kraken 5 Ship TRCs invincible
 Faction: Separatist
@@ -4500,46 +2508,7 @@ Squadrons:
 = 116 Points
 
 Total Points: 400
-Rob Harrison
-Name: SGR Ackbar Adept 2
-Faction: Rebel
-Commander: Admiral Ackbar (38)
 
-Assault Frigate Mark II B (72)
-• Admiral Ackbar (38)
-• Lando Calrissian (4)
-• Caitken and Shollan (6)
-• Electronic Countermeasures (7)
-• XI7 Turbolasers (6)
-= 133 Points
-
-MC30c Scout Frigate (69)
-• Veteran Gunners (5)
-• Rapid Reload (4)
-• XI7 Turbolasers (6)
-= 84 Points
-
-MC30c Scout Frigate (69)
-• Veteran Gunners (5)
-• Rapid Reload (4)
-• XI7 Turbolasers (6)
-= 84 Points
-
-GR-75 Medium Transports (18)
-• Munitions Resupply (3)
-= 21 Points
-
-GR-75 Medium Transports (18)
-• Parts Resupply (3)
-= 21 Points
-
-Squadrons:
-• Shara Bey - A-Wing Squadron (17)
-• Tycho Celchu - A-Wing Squadron (16)
-• 2 x A-Wing Squadron (22)
-= 55 Points
-
-Total Points: 398
 
 Batlomiej Przybysz
 MC30c Torpedo Frigate (63)
@@ -4573,51 +2542,6 @@ Squadrons:
 = 125 Points
 
 Total Points: 398
-Christopher Dyson
-Name: Resurgent VT
-Faction: Rebel
-Commander: Kyrsta Agate (25)
-
-MC75 Armored Cruiser (99)
-• Kyrsta Agate (25)
-• Lando Calrissian (4)
-• Shriv Suurgav (4)
-• Early Warning System (7)
-• Dual Turbolaser Turrets (4)
-• Leading Shots (5)
-• External Racks (4)
-• Aspiration (3)
-= 155 Points
-
-CR90 Corvette B (39)
-• Ezra Bridger (3)
-• SW-7 Ion Batteries (5)
-• Tantive IV (3)
-= 50 Points
-
-GR-75 Medium Transports (18)
-• Adar Tallon (10)
-• Boosted Comms (4)
-• Quantum Storm (1)
-= 33 Points
-
-GR-75 Medium Transports (18)
-• Toryn Farr (7)
-• Jamming Field (2)
-• Bright Hope (2)
-= 29 Points
-
-Squadrons:
-• Ketsu Onyo - Shadow Caster (22)
-• Jan Ors - Moldy Crow (19)
-• Wedge Antilles - X-Wing Squadron (19)
-• Tycho Celchu - A-Wing Squadron (16)
-• 2 x YT-2400 (32)
-• 1 x YT-1300 (13)
-• Gold Squadron - Y-Wing Squadron (12)
-= 133 Points
-
-Total Points: 400
 
 Mariano Banchero
 Name: Piett’s Lasting Sovereignty
@@ -4710,42 +2634,7 @@ Gozanti Cruisers (23 + 4: 27)
 · Comms Net (2)
 
 2 x Tie Fighter Squadron (2 x 8)
-Tim Bailey
-Name: Ackbar 4 Crab Domination
-Faction: Rebel
-Commander: Admiral Ackbar
 
-Pelta Assault Ship (56)
-• Admiral Ackbar (38)
-• Intensify Firepower! (6)
-= 100 Points
-
-Nebulon-B Support Refit (51)
-• Auxiliary Shields Team (3)
-= 54 Points
-
-Nebulon-B Support Refit (51)
-• Auxiliary Shields Team (3)
-= 54 Points
-
-Nebulon-B Support Refit (51)
-• Toryn Farr (7)
-• Auxiliary Shields Team (3)
-• Enhanced Armament (10)
-= 71 Points
-
-Nebulon-B Support Refit (51)
-• Auxiliary Shields Team (3)
-• Enhanced Armament (10)
-= 64 Points
-
-Squadrons:
-• 2 x YT-1300 (26)
-• Jan Ors (19)
-• A-wing Squadron (11)
-= 56 Points
-
-Total Points: 399
 
 Nathanial Beaver
 Name: WORLDS 2025 - NATHANIAL BEAVER
@@ -4825,131 +2714,7 @@ Squadrons:
 • Mandalorian Gauntlet Fighter (18)
 = 133 Points
 Total Points: 393
-Josh Phipps
-Name: This is the Real List, I Swear
-Faction: Rebel
-Commander: Kyrsta Agate
 
-MC75 Armored Cruiser (99)
-• Kyrsta Agate (25)
-• Walex Blissex (5)
-• Weapons Battery Techs (4)
-• Early Warning System (7)
-• External Racks (4)
-• Heavy Ion Emplacements (9)
-• Profundity (7)
-= 160 Points
-
-CR90 Corvette A (44)
-• Hondo Ohnaka (2)
-• Turbolaser Reroute Circuits (7)
-• Jaina's Light (5)
-= 58 Points
-
-CR90 Corvette A (44)
-• Veteran Captain (2)
-• Projection Experts (6)
-• Turbolaser Reroute Circuits (7)
-• Tantive IV (3)
-= 62 Points
-
-Hammerhead Torpedo Corvette (36)
-• Ezra Bridger (3)
-• Shriv Suurgav (4)
-• External Racks (4)
-• Garel's Honor (4)
-= 51 Points
-
-Squadrons:
-• Tycho Celchu (16)
-• Shara Bey (17)
-• 4 x Z-95 Headhunter Squadron (28)
-= 61 Points
-
-Total Points: 392
-David Huber
-Name: assault objectives are red, navigation ones are blue, choosing a yellow is hard, but there's never been a judge team like you. Thank you judges!
-Faction: Rebel
-Commander: Kyrsta Agate
-
-MC80 Star Cruiser (96)
-• Kyrsta Agate (25)
-• Expert Shield Tech (5)
-• Caitken and Shollan (6)
-• Engine Techs (8)
-• Point Defense Ion Cannons (6)
-• Spinal Armament (9)
-• XX-9 Turbolasers (2)
-• Mon Karren (6)
-= 163 Points
-
-GR-75 Medium Transports (18)
-• Hondo Ohnaka (2)
-• Munitions Resupply (3)
-• Reserve Hangar Deck (4)
-= 27 Points
-
-MC30c Torpedo Frigate (63)
-• Expert Shield Tech (5)
-• Ordnance Experts (4)
-• Reinforced Blast Doors (5)
-• External Racks (4)
-• H9 Turbolasers (8)
-• Admonition (10)
-= 99 Points
-
-CR90 Corvette A (44)
-• Ahsoka Tano (2)
-• Turbolaser Reroute Circuits (7)
-• Tantive IV (3)
-= 56 Points
-
-Squadrons:
-• Tycho Celchu (16)
-• A-wing Squadron (11)
-• 4 x Z-95 Headhunter Squadron (28)
-= 55 Points
-
-Total Points: 400
-Robert Schaefer
-Name: Oh it's just Sloane - RSchaefer
-Faction: Empire
-Commander: Admiral Sloane (24)
-
-Imperial II-class Star Destroyer (120)
-• Admiral Sloane (24)
-• Captain Needa (2)
-• Veteran Gunners (5)
-• Reserve Hangar Deck (4)
-• Electronic Countermeasures (7)
-• SW-7 Ion Batteries (5)
-• XI7 Turbolasers (6)
-= 173 Points
-
-Quasar Fire I-class Cruiser-Carrier (54)
-• Taskmaster Grint (5)
-• Flight Controllers (6)
-• Reserve Hangar Deck (4)
-• Boosted Comms (4)
-• Pursuant (2)
-= 75 Points
-
-Gozanti-class Cruisers (23)
-• Darth Vader (4)
-• Comms Net (2)
-• Reserve Hangar Deck (4)
-= 33 Points
-
-Squadrons:
-• Ciena Ree - TIE Interceptor Squadron (17)
-• Colonel Jendon - Lambda-class Shuttle (23)
-• Maarek Stele - TIE Defender Squadron (21)
-• Saber Squadron - TIE Interceptor Squadron (12)
-• Valen Rudor - TIE Fighter Squadron (13)
-• 3 x TIE Interceptor Squadron (33)
-= 119 Points
-
-Total Points: 400
 Kyle Bowen
 Name: Glutton for Punishment 
 Faction: Republic
@@ -5087,33 +2852,7 @@ Squadrons:
 = 0 Points
 
 Total Points: 385
-Jeffrey Post
-Faction: Galactic Empire
-Commander: Admiral Sloane
-Points: 395/400
 
-[ flagship ] Imperial I-Class Star Destroyer (110 points)
--  Admiral Sloane  ( 24  points)
--  Minister Tua  ( 2  points)
--  Boarding Troopers  ( 3  points)
--  Boosted Comms  ( 4  points)
--  Electronic Countermeasures  ( 7  points)
--  Heavy Turbolaser Turrets  ( 4  points)
--  Leading Shots  ( 5  points)
-= 159 total ship cost
-
-Gozanti-class Cruisers (23 points)
--  Hondo Ohnaka  ( 2  points)
--  Boosted Comms  ( 4  points)
--  Parts Resupply  ( 3  points)
-= 32 total ship cost
-
-Gladiator I-Class Star Destroyer (56 points)
--  Demolisher  ( 10  points)
--  Emperor Palpatine (off)  ( 3  points)
--  Ordnance Experts  ( 4  points)
--  Assault Proton Torpedoes  ( 4  points)
-= 77 total ship cost
 John Benedict
 Name: 
 Faction: empire
@@ -5184,44 +2923,7 @@ Squadrons:
 = 0 Points
 
 Total Points: 394
-Shawn Tweten
-Name: Untitled Fleet
-Faction: Republic
-Commander: Bail Organa
 
-Acclamator II (71)
-• Clone Navigation Officer (4)
-• Clone Gunners (4)
-• Thermal Shields (5)
-• External Racks (4)
-• Linked Turbolaser Towers (7)
-• Implacable (4)
-= 99 Points
-
-Consular Armed Cruiser (37)
-• Fighter Coordination Team (3)
-• Swift Return (3)
-= 43 Points
-
-Venator II (100)
-• Bail Organa (28)
-• Adi GAllia (3)
-• Flight Controllers (6)
-• Flag Bridge (0)
-• Thermal Shields (5)
-• DBY-827 Heavy Turbolasers (3)
-• Mercy Mission (0)
-= 145 Points
-
-Squadrons:
-• Ahsoka Tano (23)
-• Anakin Skywalker (Delta-7) (24)
-• Axe (17)
-• Kickback (16)
-• 2 x ARC-170 Starfighter Squadron (30)
-= 110 Points
-
-Total Points: 397
 Jacob Amos-Landgraf
 Name: Market Research
 Faction: Separatist
@@ -5529,123 +3231,7 @@ Squadrons:
 = 87 Points
 
 Total Points: 399
-William Brand
-Name: William Brand Adepticon 2025Faction: ImperialCommander: General Romodi
 
-SSD Assault Prototype (250)• General Romodi (28)• Captain Brunson (9)• Commander Vanto (7)• Emperor Palpatine (3)• Gunnery Team (7)• Quad Laser Turrets (5)• Point-Defense Reroute (5)• High-Capacity Ion Turbines (6)• Leading Shots (5)• XX-9 Turbolasers (2)• XI7 Turbolasers (6)• Executor (2)= 335 Points
-
-Gozanti Cruisers (23)• Admiral Titus (2)• Repair Crews (3)= 28 Points
-
-Gozanti Cruisers (23)• Repair Crews (3)= 26 Points
-Squadrons:= 0 Points
-Total Points: 389
-Justin Robbins
-Name: Shield and Supply
-Faction: Rebel
-Commander: Kyrsta Agate
-
-MC80 Assault Cruiser (110)
-• Kyrsta Agate (25)
-• Walex Blissex (5)
-• Early Warning System (7)
-• Electronic Countermeasures (7)
-• Point Defense Ion Cannons (6)
-• Heavy Fire Zone (2)
-• Home One (5)
-= 167 Points
-MC80 Star Cruiser (96)
-• Ray Antilles (7)
-• Gunnery Team (7)
-• Projection Experts (6)
-• SW-7 Ion Batteries (5)
-• Quad Battery Turrets (5)
-• XX-9 Turbolasers (2)
-• Mon Karren (6)
-= 134 Points
-GR-75 Combat Retrofits (24)
-• Leia Organa (3)
-• Comms Net (2)
-= 29 Points
-GR-75 Combat Retrofits (24)
-• Ahsoka Tano (2)
-• Comms Net (2)
-= 28 Points
-Squadrons:
-• 6 x Z-95 Headhunter Squadron (42)
-= 42 Points
-Total Points: 400
-Mathew Schlueter
-Name: Untitled Fleet
-Faction: Republic
-Commander: Bail Organa
-
-Acclamator II (71)
-• Clone Navigation Officer (4)
-• Clone Gunners (4)
-• Thermal Shields (5)
-• External Racks (4)
-• Linked Turbolaser Towers (7)
-• Implacable (4)
-= 99 Points
-
-Consular Armed Cruiser (37)
-• Fighter Coordination Team (3)
-• Swift Return (3)
-= 43 Points
-
-Venator II (100)
-• Bail Organa (28)
-• Adi GAllia (3)
-• Flight Controllers (6)
-• Flag Bridge (0)
-• Thermal Shields (5)
-• DBY-827 Heavy Turbolasers (3)
-• Mercy Mission (0)
-= 145 Points
-
-Squadrons:
-• Ahsoka Tano (23)
-• Anakin Skywalker (Delta-7) (24)
-• Axe (17)
-• Kickback (16)
-• 2 x ARC-170 Starfighter Squadron (30)
-= 110 Points
-
-Total Points: 397
-Mitchell Trantham
-Quasar Fire I (54)
-• Admiral Sloane (24)
-• Taskmaster Grint (5)
-• Flight Controllers (6)
-• Expanded Hangar Bay (5)
-• Boosted Comms (4)
-= 98 Points
-
-Victory II (80)
-• Disposable Capacitors (3)
-• Quad Battery Turrets (5)
-• Leading Shots (5)
-= 93 Points
-
-Victory II (80)
-• Disposable Capacitors (3)
-• Quad Battery Turrets (5)
-• Leading Shots (5)
-= 93 Points
-
-Gozanti Cruisers (23)
-• Repair Crews (3)
-• Reserve Hangar Deck (4)
-= 30 Points
-
-Squadrons:
-• Darth Vader (TIE Defender) (25)
-• Maarek Stele (21)
-• 2 x TIE Interceptor Squadron (22)
-• 2 x TIE Bomber Squadron (18)
-= 86 Points
-
-Total Points: 400
 Adam Klopfenstein
 Name: Tarkin's Terrific Triangles v4
 Faction: Empire
@@ -5752,77 +3338,3 @@ Squadrons:
 • Colonel Jendon (23)
 • TIE Defender Squadron (16)
 = 85 Points
-
-Josiah Nelson
-Name: Spicy Pickle and Meat Ball
-Faction: Rebel
-Commander: Admiral Ackbar (38)
-
-MC80 Assault Cruiser (110)
-• Admiral Ackbar (38)
-• Skilled First Officer (1)
-• Fighter Coordination Team (3)
-• Advanced Projectors (6)
-• Early Warning System (7)
-• Leading Shots (5)
-= 170 Points
-
-Assault Frigate Mark II B (72)
-• Toryn Farr (7)
-• Flight Controllers (6)
-• Expanded Hangar Bay (5)
-• Electronic Countermeasures (7)
-• Dual Turbolaser Turrets (4)
-= 101 Points
-
-GR-75 Medium Transports (18)
-• Munitions Resupply (3)
-• Bright Hope (2)
-= 23 Points
-
-Squadrons:
-• Biggs Darklighter - X-Wing Squadron (19)
-• Fenn Rau - Mandalorian Gauntlet Fighter (24)
-• Hera Syndulla - X-Wing Squadron (23)
-• 1 x X-Wing Squadron (13)
-• 2 x YT-1300 (26)
-= 105 Points
-
-Total Points: 399
-Andrew Doty
-Name: GAR Worlds Fleet 10
-Faction: Republic
-Commander: Bail Organa (28)
-
-Acclamator I-class Assault Ship (64)
-• Bail Organa (28)
-• Clone Captain Silver (4)
-• Flag Bridge (0)
-• Boosted Comms (4)
-• Nevoota Bee (5)
-• Mercy Mission (5)
-= 110 Points
-
-Venator II-class Star Destroyer (100)
-• Flight Controllers (6)
-• SPHA-T (7)
-• Thermal Shields (5)
-• XI7 Turbolasers (6)
-• Tranquility (7)
-= 131 Points
-
-Consular-class Armed Cruiser (37)
-• Hondo Ohnaka (2)
-• Radiant VII (1)
-• Comms Net (2)
-= 42 Points
-
-Squadrons:
-• Anakin Skywalker - Delta-7 Aethersprite Squadron (24)
-• Axe - V-19 Torrent Squadron (17)
-• Kit Fisto - Delta-7 Aethersprite Squadron (24)
-• 4 x BTL-B Y-wing Squadron (40)
-• 1 x V-19 Torrent Squadron (12)
-= 117 Points
-
-Total Points: 400
