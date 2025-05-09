@@ -1,0 +1,36 @@
+Faction: Imperial
+Commander: General Romodi
+
+Onager Testbed (116)
+• General Romodi (28)
+• Governor Pryce (6)
+• Gunnery Chief Varnillian (6)
+• Ordnance Experts (4)
+• Orbital Bombardment Particle Cannons (5)
+= 165 Points
+
+Victory II (80)
+• Minister Tua (2)
+• Gunnery Team (7)
+• Disposable Capacitors (3)
+• XI7 Turbolasers (6)
+• Point Defense Ion Cannons (6)
+• Harrow (3)
+• Electronic Countermeasures (7)
+= 114 Points
+
+Gozanti Cruisers (23)
+• Darth Vader (4)
+• Parts Resupply (3)
+= 30 Points
+
+Gozanti Cruisers (23)
+• Comms Net (2)
+= 25 Points
+
+Squadrons:
+• Captain Jonus (16)
+• 5 x TIE Fighter Squadron (40)
+= 56 Points
+
+Total Points: 390
