@@ -1,0 +1,35 @@
+[ flagship ] Imperial II-Class Star Destroyer (120 points)
+Admiral Motti  ( 24  points)
+Relentless  ( 3  points)
+Director Krennic  ( 8  points)
+Darth Vader (wpn)  ( 3  points)
+Early Warning System  ( 7  points)
+Spinal Armament  ( 9  points)
+Point Defense Ion Cannons  ( 6  points)
+= 180 total ship cost
+
+Raider II-Class Corvette (48 points)
+Corvus  ( 2  points)
+Governor Pryce  ( 6  points)
+Disposable Capacitors  ( 3  points)
+Heavy Ion Emplacements  ( 9  points)
+= 68 total ship cost
+
+Victory II-Class Star Destroyer (80 points)
+Harrow  ( 3  points)
+Commander Beck  ( 3  points)
+Gunnery Team  ( 7  points)
+
+
+Engine Techs  ( 8  points)
+Disposable Capacitors  ( 3  points)
+Quad Battery Turrets  ( 5  points)
+Heavy Ion Emplacements  ( 9  points)
+= 118 total ship cost
+
+Gozanti-class Cruisers (23 points)
+Hondo Ohnaka  ( 2  points)
+Comms Net  ( 2  points)
+= 27 total ship cost
+
+= 0 total squadron cost
