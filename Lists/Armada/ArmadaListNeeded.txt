@@ -1,5 +1,4 @@
 Rebel;Garm Bel Iblis
-Rebel;Mon Mothma
 Empire;Admiral Konstantine
 Empire;Emperor Palpatine
 Republic;Obi-Wan Kenobi
