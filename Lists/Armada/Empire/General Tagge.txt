@@ -1,0 +1,32 @@
+Imperial II Star Destroyer (120 + 51: 171)
+· General Tagge (25)
+· Expert Shield Tech (5)
+· Boarding Troopers (3)
+· Electronic Countermeasures (7)
+· Leading Shots (5)
+· XI7 Turbolasers (6)
+
+Gladiator I (56 + 31: 87)
+· Expert Shield Tech (5)
+· Ordnance Experts (4)
+· Engine Techs (8)
+· Assault Proton Torpedoes (4)
+· Demolisher (10)
+
+Raider I Corvette (44 + 21: 65)
+· Iden Versio (6)
+· Ordnance Experts (4)
+· Reserve Hangar Deck (4)
+· Flechette Torpedoes (3)
+· Instigator (4)
+
+Gozanti Cruisers (23 + 10: 33)
+· Comms Net (2)
+· Reserve Hangar Deck (4)
+· Suppressor (4)
+
+Gozanti Cruisers (23 + 4: 27)
+· Hondo Ohnaka (2)
+· Comms Net (2)
+
+2 x Tie Fighter Squadron (2 x 8)
