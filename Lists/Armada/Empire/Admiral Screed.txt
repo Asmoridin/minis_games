@@ -1,0 +1,41 @@
+Commander: Admiral Screed
+
+Assault:
+Defense:
+Navigation:
+
+ISD Kuat Refit (112)
+• Admiral Screed (24)
+• Governor Pryce (6)
+• Fire-Control Team (2)
+• Early Warning System (7)
+• Heavy Ion Emplacements (9)
+• Assault Concussion Missiles (5)
+= 165 Points
+
+Gladiator I (56)
+• Ordnance Experts (4)
+• Engine Techs (8)
+• Assault Proton Torpedoes (4)
+• Demolisher (10)
+= 82 Points
+
+Raider II (48)
+• Disposable Capacitors (3)
+• Heavy Ion Emplacements (9)
+= 60 Points
+
+Raider II (48)
+• Disposable Capacitors (3)
+• Heavy Ion Emplacements (9)
+= 60 Points
+
+Gozanti Cruisers (23)
+• Darth Vader (4)
+• Comms Net (2)
+= 29 Points
+
+Squadrons:
+= 0 Points
+
+Total Points: 396
