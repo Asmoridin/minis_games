@@ -1,0 +1,33 @@
+Assault frigate mk2 b. 72
+Toryn Farr 7
+Flight controllers 6
+Electronic counter measures 7
+Gallant haven 8
+Total 100
+
+Cr90 b 39
+Leia Organa admiral 28
+Major derlin 7
+Liberator 2
+All fighters, follow me! 5
+Total 81
+
+Gr-75 medium Transports 18
+Wedge antilles 4
+Bomber Command center 8
+Total 30
+
+Nebulon-b escorts frigate 57
+Hondo ohnaka 2
+Auxiliary shield teams 3
+Heavy fire zone 2
+Vanguard 4
+Caitlin and shollan 6
+Total 74
+
+Corral horn 22
+Keyan farlander 18
+Ten numb 19
+B-wing x2 28
+E-wing x2 28
+Total 115
