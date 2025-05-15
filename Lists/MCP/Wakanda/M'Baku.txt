@@ -1,37 +1,31 @@
-# Pulled 1/31/25 1st/8 small tournament
+# 3/29/25 9th Worlds
 
-
-Characters (10):
-Threat: 43
-*Black Panther (4)
-*Crimson Dynamo (4)
-Hulk (6)
-*King T'Challa (5)
-*M'Baku (4)
-*Namor, the Sub-Mariner (Time) (6)
-Okoye (2)
-*Red Skull, Master of Hydra (5)
-Shang-Chi (4)
-Shuri (3)
-
-Tactics (10):
-Brace for Impact (R)
-Chi Mastery
-Cosmic Obliteration
-Patch Up (R)
-Prince's Protection
+Characters
+King T'Challa (T'Challa)
+M'Baku
+Killmonger, Usurper (N'Jadaka)
+Killmonger (N'Jadaka)
+Shuri
+Okoye
+The Immortal Hulk (Bruce Banner)
+Namor, the Sub-Mariner (Namor McKenzie)
+Red Skull, Master of Hydra (Johann Schmidt)
+Baron Zemo (Helmut Zemo)
+Team Tactics
+Brace for Impact
+Sacrifice
+Jabari Chieftain
 Spirit of Wakanda
-Trial by Combat
 Wakanda Forever
-Warpath
+Usurp the Throne
 Wisdom of the Ancestors
-
-Secure Crisis:
-Intrusions Open Across City As Seals Collapse (C, 19)
-Mayor Fisk Vows to Find Missing Witnesses (H, 16)
-Riots Spark Over Extremis 3.0 (D, 17)
-
-Extract Crisis:
-Alien Ship Crashes in Downtown! (C, 17)
-Deadly Legacy Virus Cured? (C, 19)
-Skrulls Infiltrate World Leadership (J, 20)
+Cosmic Obliteration
+I Am A Baron, After All
+Survival
+Crises
+Intrusions Open Across City As Seals Collapse
+Mayor Fisk Vows to Find Missing Witnesses
+Wedding Party Targeted By Terrible Attack!
+Inhumans Deploy Advanced Weaponry
+Skrulls Infiltrate World Leadership
+Deadly Legacy Virus Cured?
