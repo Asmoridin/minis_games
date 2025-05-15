@@ -1,37 +1,31 @@
-# Updated 1/19/25 40th/64 LVO Invitationals
+# 4/7/25 14th/18 online tournament
 
-
-Characters (10):
-Threat: 37
-Baron Mordo (3)
-Baron Zemo (3)
-Crossbones (3)
-*Dormammu (8)
-*Invincible Iron Man (4)
-*Sin (3)
-The Black Widow (4)
-Venom (4)
-Viper (3)
-Wong (2)
-
-Tactics (10):
-Brace for Impact (R)
-Dark Empowerment
+Characters
+Dormammu
+Shang-Chi (Zheng Shang-Chi)
+Black Widow (Natasha Romanoff)
+Malekith the Accursed (Malekith)
+Magik (Illyana Rasputin)
+Agent Venom (Flash Thompson)
+Black Panther, Chosen of Bast (T'Challa)
+Red Skull, Master of Hydra (Johann Schmidt)
+Iron Man (Tony Stark)
+Loki, Prince of Lies (Loki Laufeyson)
+Team Tactics
 Dark Restoration
-Illicit Tech
-Joint Effort
-Lethal Protector
-Patch Up (R)
+Midnight Phantasmagoria
+Chi Mastery
 Recalibration Matrix
-Stark Armory
-To Ash and Cinder
-
-Secure Crisis:
-Demons Downtown! Has Our Comeuppance Come Due? (E, 19)
-Infinity Formula Goes Missing! (B, 17)
-Intrusions Open Across City As Seals Collapse (C, 19)
-
-Extract Crisis:
-Deadly Legacy Virus Cured? (C, 19)
-Skrulls Infiltrate World Leadership (J, 20)
-The Montesi Formula Found (E, 18)
+Patch Up
+Human Weapon
+Cosmic Obliteration
+Helios Laser Bombardment
+Indomitable
+Giant's Blood
+Crises
+Wedding Party Targeted By Terrible Attack!
+Super-Powered Scoundrels Form Sinister Syndicate!
+Intrusions Open Across City As Seals Collapse
+Fear Grips World as "Worthy" Terrorize Cities
+The Montesi Formula Found
+Mutant Extremists Target U.S. Senators!
