@@ -1,36 +1,31 @@
-# Updated 2/2/25 1st/20 Belgium tournament
+# 3/27/25 3/72 Adepticon
 
-Characters (10):
-Threat: 32
-Beast (3)
-Doctor Voodoo (4)
-Domino (3)
-Iceman (3)
-*Logan, The Wolverine (4)
-Nightcrawler (4)
-Pyro (3)
-Shadowcat (3)
-*Storm (3)
-Toad (2)
-
-Tactics (10):
-Brace for Impact (R)
-Children of the Atom
+Characters
+Beast (Henry McCoy)
+Domino (Neena Thurman)
+Iceman (Bobby Drake)
+Nightcrawler (Kurt Wagner)
+Shadowcat (Katherine "Kitty" Pryde)
+Storm (Ororo Munroe)
+Pyro (St. John Allerdyce)
+Toad (Mortimer Toynbee)
+Doctor Voodoo (Jericho Drumm)
+Beta Ray Bill (Bill)
+Team Tactics
 First Class
-Pyrotechnics
-Recalibration Matrix
-Sacrifice (R)
-Survival
 To Me, My X-Men!
-Warpath
 Xavier's Dream
-
-Secure Crisis:
-Mutant Madman Turns City Center Into Lethal Amusement Park (B, 18)
-Portals Overrun City with Spider-People! (D, 18)
-S.W.O.R.D. Establishes Base on Moon's Blue Area (G, 15)
-
-Extract Crisis:
-Mutant Extremists Target U.S. Senators! (L, 19)
-Paranoia Pummels Populace! (K, 16)
-Skrulls Infiltrate World Leadership (J, 20)
+Survival
+Recalibration Matrix
+Children of the Atom
+Pyrotechnics
+Brace for Impact
+Sacrifice
+Skuttlebutt, On Me!
+Crises
+Guardians Save Shi'ar Empress in Style
+Mutant Madman Turns City Center Into Lethal Amusement Park
+M'Kraan Crystal Gets Heroes Home!
+Scientific Samples Found In Discovered Universe
+Skrulls Infiltrate World Leadership
+Mutant Extremists Target U.S. Senators!
