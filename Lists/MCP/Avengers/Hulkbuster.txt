@@ -1,37 +1,35 @@
-# Updated 1/18/25 8th/75
+# 3/27/25 25/72 Adepticon
 
+Characters 10
+* Hulkbuster 6
+* Captain America Sam Wilson 3
+Shang-Chi 4
+* Black Panther 4
+Luke Cage 3
+Quicksilver 3
+Ant-Man 3
+Black Widow 2
+Shuri 3
+Wong 2
 
-Characters (10):
-Threat: 39
-Black Widow (2)
-*Captain America (Sam Wilson) (3)
-Hulk (6)
-*Hulkbuster (6)
-Lady Sif (4)
-Lizard (3)
-Luke Cage (3)
-*Red Skull, Master of Hydra (5)
-*Thor, Prince of Asgard (5)
-Toad (2)
-
-Tactics (10):
-Avengers Assemble
-Cosmic Obliteration
-Fall Back (R)
+Team Tactics 10
 Helios Laser Bombardment
+Avengers Assemble
+Patch Up R
+Sacrifice R
 Heroes for Hire
 Recalibration Matrix
-Sacrifice (R)
-Stark Armory
+Can I Borrow That?
 Survival
-Venomized
+Wisdom of the Ancestors
+Chi Mastery
 
-Secure Crisis:
-Mayor Fisk Vows to Find Missing Witnesses (H, 16)
-Mutant Madman Turns City Center Into Lethal Amusement Park (B, 18)
-S.W.O.R.D. Establishes Base on Moon's Blue Area (G, 15)
+Secure Crisis
+M‘Kraan Crystal Gets Heroes Home! G, 19
+Wedding Party Targeted in Terrible Attack! R, 20
+Deadline to Destruction P, 16
 
-Extract Crisis:
-Paranoia Pummels Populace! (K, 16)
-Skrulls Infiltrate World Leadership (J, 20)
-Spider-Infected Invade Manhattan (F, 17)
+Extract Crisis
+Fear Grips World As “Worthy“ Terrorize Cities D, 18
+Scientific Samples Found in Discovered Universe D, 17
+Inhumans Deploy Advanced Weaponry O, 18
