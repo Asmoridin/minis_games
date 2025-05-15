@@ -1,37 +1,31 @@
-# Updated 2/2/25 13/14 Canadian tournament
+# 4/12/25 5/14 Swedish tournament
 
-
-Characters (10):
-Threat: 39
-*Baron Strucker (3)
-Baron Zemo (3)
-Cassandra Nova (5)
-Hulk (6)
-Loki, God of Mischief (4)
-Mister Sinister (4)
-Omega Red (4)
-*Red Skull (4)
-Toad (2)
-*Wolverine (4)
-
-Tactics (10):
-Brace for Impact (R)
-Carbonadium Synthesizer
-Cloning Banks
-Cosmic Invigoration
+Characters
+Red Skull (Johann Schmidt)
+Dracula (Vlad Dracula)
+Baron Zemo (Helmut Zemo)
+Bullseye (Benjamin Poindexter)
+Silver Sable (Silvija Sablinova)
+Crossbones, Merciless Merc (Brock Rumlow)
+Elektra (Elektra Nachios)
+Hulk (Bruce Banner)
+Sabretooth (Victor Creed)
+Mephisto, Lord of Temptation (Mephisto)
+Team Tactics
+Brace for Impact
 Dark Reign
-Forced Extraction
-Instant Recovery
-Mental Domination
-Patch Up (R)
+Cosmic Obliteration
+I Am A Baron, After All
+Sacrifice
+Recalibration Matrix
+Warpath
 Weapon X Program
-
-Secure Crisis:
-Deadly Meteors Mutate Citizens (I, 17)
-Mayor Fisk Vows to Find Missing Witnesses (H, 16)
-Riots Spark Over Extremis 3.0 (D, 17)
-
-Extract Crisis:
-Deadly Legacy Virus Cured? (C, 19)
-Paranoia Pummels Populace! (K, 16)
-Struggle for the Cube Continues (F, 17)
+Up the Ante
+Survival
+Crises
+Wedding Party Targeted By Terrible Attack!
+Intrusions Open Across City As Seals Collapse
+Mayor Fisk Vows to Find Missing Witnesses
+Skrulls Infiltrate World Leadership
+Scientific Samples Found In Discovered Universe
+Unexpected Guests Crash Royal Wedding
