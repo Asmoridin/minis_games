@@ -1,37 +1,31 @@
-# Updated 1/19/25 10th/64 LVO Invitationals
+# 4/13/25 2nd/10 team tournament
 
-
-Characters (10):
-Threat: 40
-Angela (5)
-Beta Ray Bill (4)
-Lady Sif (4)
-*Loki, Prince of Lies (5)
-Luke Cage (3)
-Skurge, The Executioner (3)
-*The Mighty Thor (5)
-Thor, Hero of Midgard (6)
-Valkyrie (3)
-Wong (2)
-
-Tactics (10):
+Characters
+The Mighty Thor (Jane Foster)
+Thor, Hero of Midgard (Thor Odinson)
+Thor, Prince of Asgard (Thor Odinson)
+Loki, Prince of Lies (Loki Laufeyson)
+Skurge, The Executioner (Skurge)
+Beta Ray Bill (Bill)
+Baron Zemo (Helmut Zemo)
+Toad (Mortimer Toynbee)
+Valkyrie (Brunhilde)
+Lady Sif (Sif)
+Team Tactics
 Doomed Prophecy
-Freyja's Blessing
-Giant's Blood
-Heroes for Hire
+Heart of the Worthy
 Odin's Blessing
-Patch Up (R)
 Rainbow Bridge
+Trickster's Boon
+Patch Up
+Giant's Blood
+I Am A Baron, After All
 Skuttlebutt, On Me!
-Survival
-Venomized
-
-Secure Crisis:
-Deadly Meteors Mutate Citizens (I, 17)
-Gamma Wave Sweeps Across Midwest (E, 15)
-S.W.O.R.D. Establishes Base on Moon's Blue Area (G, 15)
-
-Extract Crisis:
-Fear Grips World as "Worthy" Terrorize Cities (D, 18)
-Research Station Attacked! (E, 15) (R)
-Skrulls Infiltrate World Leadership (J, 20)
+Grievous Wounds
+Crises
+Deadly Meteors Mutate Citizens
+Wedding Party Targeted By Terrible Attack!
+Deadline to Destruction
+The Montesi Formula Found
+Skrulls Infiltrate World Leadership
+Inhumans Deploy Advanced Weaponry
