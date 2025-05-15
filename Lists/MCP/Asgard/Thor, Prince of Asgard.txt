@@ -1,36 +1,31 @@
-# Updated 10/20/24 106/210
+# 4/12/25 20/32 Irish Tournament
 
-Characters (10):
-Threat: 43
-Angel (3)
-Ant-Man (3)
-Archangel (4)
-*Loki, Prince of Lies (5)
-The Immortal Hulk (7)
-*The Mighty Thor (5)
-Thor, Hero of Midgard (6)
-*Thor, Prince of Asgard (5)
-Valkyrie (3)
-Wong (2)
-
-Tactics (10):
-Fallen
-Freyja's Blessing
-Giant's Blood
-Odin's Blessing
-One Below All
-Patch Up (R)
-Pym Particles
-Rainbow Bridge
+Characters
+Angela (Aldrif Odindottir)
+Lady Sif (Sif)
+Loki, Prince of Lies (Loki Laufeyson)
+The Mighty Thor (Jane Foster)
+Thor, Prince of Asgard (Thor Odinson)
+Ronan the Accuser
+Hulk (Bruce Banner)
+Toad (Mortimer Toynbee)
+The Immortal Hulk (Bruce Banner)
+Spider-Man (Miles Morales)
+Team Tactics
 Trickster's Boon
-Ultimate Sacrifice
-
-Secure Crisis:
-Demons Downtown! Has Our Comeuppance Come Due? (E, 19)
-Gamma Wave Sweeps Across Midwest (E, 15)
-Mayor Fisk Vows to Find Missing Witnesses (H, 16)
-
-Extract Crisis:
-Fear Grips World as "Worthy" Terrorize Cities (D, 18)
-Research Station Attacked! (E, 15) (R)
-The Montesi Formula Found (E, 18)
+Heart of the Worthy
+Odin's Blessing
+Doomed Prophecy
+Giant's Blood
+Indomitable
+Rainbow Bridge
+One Below All
+Patch Up
+Recalibration Matrix
+Crises
+Deadline to Destruction
+Mayor Fisk Vows to Find Missing Witnesses
+Deadly Meteors Mutate Citizens
+Alien Ship Crashes in Downtown!
+Scientific Samples Found In Discovered Universe
+Terrigen Canisters Fuel Doomsday Device
