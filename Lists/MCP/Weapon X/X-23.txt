@@ -1,37 +1,31 @@
-# Updated 1/19/25 25th/64 LVO Invitationals
+# 4/12/25 9/32
 
-
-Characters (10):
-Threat: 30
-Bullseye (2)
-Deadpool (3)
-Domino (3)
-Honey Badger (2)
-N'Kantu, the Living Mummy (3)
-*Red Skull, Master of Hydra (5)
-Sabretooth, Apex Predator (4)
-Toad (2)
-*Weapon X (3)
-*X-23 (3)
-
-Tactics (10):
+Characters
+Sabretooth, Apex Predator (Victor Creed)
+X-23 (Laura Kinney)
+Maverick (Christoph Nord)
+Weapon X (James Logan Howlett)
+Domino (Neena Thurman)
+Deadpool (Wade Wilson)
+Honey Badger (Gabrielle Kinney)
+Magik (Illyana Rasputin)
+Pyro (St. John Allerdyce)
+Toad (Mortimer Toynbee)
+Team Tactics
 Are You Sure You Want to Remember?
-Brace for Impact (R)
-Cosmic Obliteration
 Dossier
-Happy Birthday, Runt!
+Weapons Stash
 Instant Recovery
-Recalibration Matrix
-Sacrifice (R)
-Service to Anubis
+Pyrotechnics
 Survival
-
-Secure Crisis:
-Infinity Formula Goes Missing! (B, 17)
-Mutant Madman Turns City Center Into Lethal Amusement Park (B, 18)
-Super-Powered Scoundrels Form Sinister Syndicate! (F, 20)
-
-Extract Crisis:
-Mutant Extremists Target U.S. Senators! (L, 19)
-Paranoia Pummels Populace! (K, 16)
-Skrulls Infiltrate World Leadership (J, 20)
+Journey Through Limbo
+Grievous Wounds
+Sacrifice
+Brace for Impact
+Crises
+M'Kraan Crystal Gets Heroes Home!
+Guardians Save Shi'ar Empress in Style
+Infinity Formula Goes Missing!
+Unexpected Guests Crash Royal Wedding
+Fear Grips World as "Worthy" Terrorize Cities
+Skrulls Infiltrate World Leadership
