@@ -1,38 +1,35 @@
-# Updated 2/2/5 34/45 UK tournament
+# 3/28/25 34/49 Adpeticon
 
+Characters 10
+* Doctor Strange 5
+Ulik 5
+Shang-Chi 4
+* Elsa Bloodstone 4
+* Baron Helmut Zemo 4
+Supergiant Soul 4
+Iron Fist 3
+Luke Cage 3
+Winter Soldier 3
+Wong 2
 
-
-Characters (10):
-Threat: 41
-*Daredevil (4)
-*Doctor Strange (5)
-Ghost Rider (5)
-Hawkeye (3)
-Iron Fist (3)
-Luke Cage (3)
-*Namor, the Sub-Mariner (5)
-Shang-Chi (4)
-The Immortal Hulk (7)
-Wong (2)
-
-Tactics (10):
-Chi Mastery
-Deal with the Devil
-Heavy Firepower
-Heroes for Hire
-Joint Effort
+Team Tactics 10
 Mystic Ward
-One Below All
-Patch Up (R)
+Cover Me
 Pentagram of Farallah
-Prince's Protection
+Chi Mastery
+Human Weapon
+Covering Fire
+Rock and Troll
+Heroes for Hire
+Brace for Impact R
+Sacrifice R
 
-Secure Crisis:
-Gamma Wave Sweeps Across Midwest (E, 15)
-S.W.O.R.D. Establishes Base on Moon's Blue Area (G, 15)
-Super-Powered Scoundrels Form Sinister Syndicate! (F, 20)
+Secure Crisis
+Deadline to Destruction P, 16
+Intrusions Open Across City As Seals Collapse C, 19
+Wedding Party Targeted in Terrible Attack! R, 20
 
-Extract Crisis:
-Research Station Attacked! (E, 15) (R)
-Struggle for the Cube Continues (F, 17)
-The Montesi Formula Found (E, 18)
+Extract Crisis
+Fear Grips World As “Worthy“ Terrorize Cities D, 18
+The Montesi Formula Found E, 18
+Inhumans Deploy Advanced Weaponry O, 18
