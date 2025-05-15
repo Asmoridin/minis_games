@@ -1,37 +1,31 @@
-# Updated 1/19/25 40th/64 LVO Invitationals
+# 3/28/25 36/49 Adepticon
 
-
-Characters (10):
-Threat: 40
-Hulk (6)
-Luke Cage (3)
-*Thor, Prince of Asgard (5)
-The Black Widow (4)
-*Captain America (Sam Wilson) (3)
-*Captain America, First Avenger (4)
-Shang-Chi (4)
-Hawkeye (3)
-Baron Zemo (3)
-*Namor, the Sub-Mariner (5)
-
-Tactics (10):
+Characters
+Captain America, First Avenger (Steve Rogers)
+Hulk (Bruce Banner)
+Doctor Voodoo (Jericho Drumm)
+Cyclops (Scott Summers)
+Nick Fury (Nicholas J. Fury, Jr.)
+Captain America (Sam Wilson)
+Beast (Henry McCoy)
+Luke Cage
+Deadpool (Wade Wilson)
+Black Widow (Natasha Romanoff)
+Team Tactics
+Brace for Impact
+Sacrifice
 Avengers Assemble
-Heroes for Hire
+Second Wind
 Battle Plan
-Recalibration Matrix
-Patch Up (R)
-Brace for Impact (R)
-Bird of Prey
-Survival
-I Am A Baron, After All
-Chi Mastery
-
-Secure Crisis:
-Intrusions Open Across City As Seals Collapse (C, 19)
-Mayor Fisk Vows to Find Missing Witnesses (H, 16)
-Infinity Formula Goes Missing! (B, 17)
-
-Extract Crisis:
-Skrulls Infiltrate World Leadership (J, 20)
-Fear Grips World as "Worthy" Terrorize Cities (D, 18)
-Paranoia Pummels Populace! (K, 16)
+Heroes for Hire
+Eye in the Sky
+Warpath
+Instant Recovery
+Seance
+Crises
+Infinity Formula Goes Missing!
+Wedding Party Targeted By Terrible Attack!
+Super-Powered Scoundrels Form Sinister Syndicate!
+Unexpected Guests Crash Royal Wedding
+Inhumans Deploy Advanced Weaponry
+Skrulls Infiltrate World Leadership
