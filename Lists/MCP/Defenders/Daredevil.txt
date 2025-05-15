@@ -1,37 +1,31 @@
-# Updated 1/19/25 15th/64 LVO Invitationals
+# 3/28/25 32/49 Adepticon
 
-
-Characters (10):
-Threat: 41
-*Amazing Spider-Man (5)
-*Crimson Dynamo (4)
-*Daredevil (4)
-Ghost Rider (5)
-Hulk (6)
-Luke Cage (3)
-*Namor, the Sub-Mariner (5)
-Shang-Chi (4)
-*Spider-Man (Miles Morales) (3)
-Wong (2)
-
-Tactics (10):
-Brace for Impact (R)
-Chi Mastery
-Cover Me
-Deal with the Devil
-Heroes for Hire
+Characters
+Daredevil (Matt Murdock)
+Namor, the Sub-Mariner (Namor McKenzie)
+Wong
+Shang-Chi (Zheng Shang-Chi)
+Luke Cage
+Baron Zemo (Helmut Zemo)
+Man-Thing (Theodore Sallis)
+Nova (Richard Rider)
+Wolverine (James Logan Howlett)
+Hulk (Bruce Banner)
+Team Tactics
 Mystic Ward
-Pentagram of Farallah
-Prince's Protection
-Sacrifice (R)
+Heroes for Hire
+Chi Mastery
+Survival
+I Am A Baron, After All
 Street Smarts
-
-Secure Crisis:
-Deadly Meteors Mutate Citizens (I, 17)
-Demons Downtown! Has Our Comeuppance Come Due? (E, 19)
-Riots Spark Over Extremis 3.0 (D, 17)
-
-Extract Crisis:
-Deadly Legacy Virus Cured? (C, 19)
-Skrulls Infiltrate World Leadership (J, 20)
-The Montesi Formula Found (E, 18)
+Brace for Impact
+Patch Up
+Call for Backup
+Cover Me
+Crises
+Intrusions Open Across City As Seals Collapse
+Mayor Fisk Vows to Find Missing Witnesses
+Guardians Save Shi'ar Empress in Style
+Fear Grips World as "Worthy" Terrorize Cities
+Inhumans Deploy Advanced Weaponry
+Scientific Samples Found In Discovered Universe
