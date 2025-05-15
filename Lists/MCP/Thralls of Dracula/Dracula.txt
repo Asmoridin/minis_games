@@ -1,37 +1,31 @@
-# Updated 2/2/25 26/45 UK Tournament
+# 4/12/25 10/16 Denmark tournament
 
-
-Characters (10):
-Threat: 37
-Abomination (5)
-Baron Zemo (3)
-Bullseye (2)
-*Dracula (5)
-Drax the Destroyer (3)
-Lady Sif (4)
-Lizard (3)
-*Logan, The Wolverine (4)
-N'Kantu, the Living Mummy (3)
-Ulik (5)
-
-Tactics (10):
-Brace for Impact (R)
-I Am A Baron, After All
-Instant Recovery
-Monkey Brain is Lizard Home
-Recalibration Matrix
-Rock and Troll
-Sacrifice (R)
-Survival
+Characters
+Dracula (Vlad Dracula)
+Werewolf By Night (Jack Russell)
+Namor, the Sub-Mariner (Namor McKenzie)
+Blade (Eric Brooks)
+Shang-Chi (Zheng Shang-Chi)
+Doctor Voodoo (Jericho Drumm)
+Man-Thing (Theodore Sallis)
+N'Kantu, the Living Mummy (N'Kantu)
+Baron Zemo (Helmut Zemo)
+Toad (Mortimer Toynbee)
+Team Tactics
 Thralls of Dracula
+Brace for Impact
+Patch Up
+Dimensional Quagmire
+Instant Recovery
+Recalibration Matrix
 Warpath
-
-Secure Crisis:
-Intrusions Open Across City As Seals Collapse (C, 19)
-Mutant Madman Turns City Center Into Lethal Amusement Park (B, 18)
-S.W.O.R.D. Establishes Base on Moon's Blue Area (G, 15)
-
-Extract Crisis:
-Deadly Legacy Virus Cured? (C, 19)
-Fear Grips World as "Worthy" Terrorize Cities (D, 18)
-Skrulls Infiltrate World Leadership (J, 20)
+I Am A Baron, After All
+Chi Mastery
+Survival
+Crises
+Wedding Party Targeted By Terrible Attack!
+M'Kraan Crystal Gets Heroes Home!
+Intrusions Open Across City As Seals Collapse
+Fear Grips World as "Worthy" Terrorize Cities
+Skrulls Infiltrate World Leadership
+The Montesi Formula Found
