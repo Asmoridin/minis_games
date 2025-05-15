@@ -1,36 +1,31 @@
-# Updated 2/2/25 3/13 Irish tournament
+# Updated 5/3/25 15/48
 
-Characters (10):
-Threat: 38
-*Cable (5)
-Honey Badger (2)
-Hulk (6)
-*Magik (3)
-*Namor, the Sub-Mariner (5)
-Shadowcat (3)
-Shang-Chi (4)
-Sunspot (4)
-Warlock (3)
-*X-23 (3)
-
-Tactics (10):
-Chi Mastery
-Fall Back (R)
-Instant Recovery
-Journey Through Limbo
+Characters
+Magik (Illyana Rasputin)
+X-23 (Laura Kinney)
+Hulk (Bruce Banner)
+Emma Frost
+Warlock
+Cable (Nathan Summers)
+Namor, the Sub-Mariner (Namor McKenzie)
+Okoye
+Rhino (Aleksei Sytsevich)
+N'Kantu, the Living Mummy (N'Kantu)
+Team Tactics
 New Mutants
-Practice Round
-Recalibration Matrix
-Sacrifice (R)
-Survive the Night
 Tomorrow's Soldiers
-
-Secure Crisis:
-Infinity Formula Goes Missing! (B, 17)
-Riots Spark Over Extremis 3.0 (D, 17)
-Super-Powered Scoundrels Form Sinister Syndicate! (F, 20)
-
-Extract Crisis:
-Mutant Extremists Target U.S. Senators! (L, 19)
-Paranoia Pummels Populace! (K, 16)
-Skrulls Infiltrate World Leadership (J, 20)
+Survival
+Sacrifice
+Brace for Impact
+Practice Round
+Survive the Night
+This is a Robbery
+Prince's Protection
+Service to Anubis
+Crises
+Guardians Save Shi'ar Empress in Style
+Mutant Madman Turns City Center Into Lethal Amusement Park
+M'Kraan Crystal Gets Heroes Home!
+Mutant Extremists Target U.S. Senators!
+Terrigen Canisters Fuel Doomsday Device
+Scientific Samples Found In Discovered Universe
