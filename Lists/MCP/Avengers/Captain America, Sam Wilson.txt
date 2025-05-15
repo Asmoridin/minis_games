@@ -1,36 +1,31 @@
-# Updated 2/2/25 4/20 Belgium tournament
+# 3/27/25 8/72 Adepticon
 
-Characters (10):
-Threat: 34
-Baron Zemo (3)
-Beast (3)
-Black Widow (2)
-*Captain America (Sam Wilson) (3)
-Ghost-Spider (3)
-Lizard (3)
-Luke Cage (3)
-N'Kantu, the Living Mummy (3)
-Shang-Chi (4)
-The Immortal Hulk (7)
-
-Tactics (10):
+Characters
+Captain America (Steve Rogers)
+Captain America (Sam Wilson)
+Hulk (Bruce Banner)
+The Black Widow (Natasha Romanoff)
+Quicksilver (Pietro Maximoff)
+Beta Ray Bill (Bill)
+Toad (Mortimer Toynbee)
+Black Panther (T'Challa)
+Beast (Henry McCoy)
+Thor, Prince of Asgard (Thor Odinson)
+Team Tactics
 Avengers Assemble
-Bird of Prey
-Brace for Impact (R)
-Chi Mastery
-Heroes for Hire
-I Am A Baron, After All
-One Below All
-Patch Up (R)
-Recalibration Matrix
 Second Wind
-
-Secure Crisis:
-Infinity Formula Goes Missing! (B, 17)
-Mutant Madman Turns City Center Into Lethal Amusement Park (B, 18)
-Super-Powered Scoundrels Form Sinister Syndicate! (F, 20)
-
-Extract Crisis:
-Fear Grips World as "Worthy" Terrorize Cities (D, 18)
-Mutant Extremists Target U.S. Senators! (L, 19)
-Struggle for the Cube Continues (F, 17)
+Brace for Impact
+Indomitable
+Battle Plan
+Bird of Prey
+Can I Borrow That?
+Recalibration Matrix
+Survival
+Joint Effort
+Crises
+Wedding Party Targeted By Terrible Attack!
+Deadline to Destruction
+Guardians Save Shi'ar Empress in Style
+Terrigen Canisters Fuel Doomsday Device
+Scientific Samples Found In Discovered Universe
+Deadly Legacy Virus Cured?
