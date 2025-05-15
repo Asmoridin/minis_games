@@ -1,36 +1,31 @@
-# Updated 1/19/25 56th/75 LVO GT
+# 3/28/25 29/47 Adepticon
 
-Characters (10):
-Threat: 36
-Beast (3)
-Colossus (4)
-*Cyclops (4)
-*Emma Frost (4)
-*Logan, The Wolverine (4)
-*Magik (3)
-Nightcrawler (4)
-Psylocke (4)
-*Storm (3)
-*X-23 (3)
-
-Tactics (10):
-Brace for Impact (R)
+Characters
+Beast (Henry McCoy)
+Cyclops (Scott Summers)
+Gambit (Remy LeBeau)
+Mystique (Raven Darkholme)
+Rogue (Anna Marie LeBeau)
+Storm (Ororo Munroe)
+Toad (Mortimer Toynbee)
+Wolverine (James Logan Howlett)
+X-23 (Laura Kinney)
+Jean Grey
+Team Tactics
 Children of the Atom
-Crimson Dawn
 First Class
-Headmistress
-Journey Through Limbo
-Patch Up (R)
+Indomitable
+Jean!!!
+Sacrifice
 To Me, My X-Men!
-Wolverines
 Xavier's Dream
-
-Secure Crisis:
-Mutant Madman Turns City Center Into Lethal Amusement Park (B, 18)
-Portals Overrun City with Spider-People! (D, 18)
-S.W.O.R.D. Establishes Base on Moon's Blue Area (G, 15)
-
-Extract Crisis:
-Fear Grips World as "Worthy" Terrorize Cities (D, 18)
-Mutant Extremists Target U.S. Senators! (L, 19)
-Paranoia Pummels Populace! (K, 16)
+Instant Recovery
+Joint Effort
+Wolverines
+Crises
+Infinity Formula Goes Missing!
+Mutant Madman Turns City Center Into Lethal Amusement Park
+Guardians Save Shi'ar Empress in Style
+Scientific Samples Found In Discovered Universe
+Inhumans Deploy Advanced Weaponry
+Spider-Infected Invade Manhattan
