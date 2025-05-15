@@ -1,37 +1,32 @@
-# Updated 1/19/25 20th/64 LVO Invitationals
+# 3/29/25 28th worlds
 
-
-Characters (10):
-Threat: 38
-Agent Venom (4)
-Baron Zemo (3)
-Bullseye (2)
-*Crimson Dynamo (4)
-*Namor, the Sub-Mariner (Time) (6)
-*Nick Fury (4)
-Nick Fury & the Howling Commandos (3)
-*She-Hulk (6)
-Spectacular Spider-Man (3)
-Winter Soldier (3)
-
-Tactics (10):
+Characters
+Hawkeye (Clint Barton)
+Nick Fury (Nicholas J. Fury, Jr.)
+Black Widow (Natasha Romanoff)
+Agent Venom (Flash Thompson)
+Iron Man (Tony Stark)
+Namor, the Sub-Mariner (Namor McKenzie)
+    Time gem
+Hulk (Bruce Banner)
+Spectacular Spider-Man (Peter Parker)
+Baron Zemo (Helmut Zemo)
+Shang-Chi (Zheng Shang-Chi)
+Team Tactics
 Battlefield Medicine
-Brace for Impact (R)
-Defensive Prototype
 Eye in the Sky
-Recalibration Matrix
-Sacrifice (R)
 Sitrep
-Survival
-The Invaders
 The Shieldmobile
-
-Secure Crisis:
-Demons Downtown! Has Our Comeuppance Come Due? (E, 19)
-Gamma Wave Sweeps Across Midwest (E, 15)
-Infinity Formula Goes Missing! (B, 17)
-
-Extract Crisis:
-Deadly Legacy Virus Cured? (C, 19)
-Fear Grips World as "Worthy" Terrorize Cities (D, 18)
-The Montesi Formula Found (E, 18)
+Brace for Impact
+Sacrifice
+The Invaders
+Chi Mastery
+I Am A Baron, After All
+Stark Armory
+Crises
+Deadline to Destruction
+M'Kraan Crystal Gets Heroes Home!
+Guardians Save Shi'ar Empress in Style
+Fear Grips World as "Worthy" Terrorize Cities
+The Montesi Formula Found
+Inhumans Deploy Advanced Weaponry
