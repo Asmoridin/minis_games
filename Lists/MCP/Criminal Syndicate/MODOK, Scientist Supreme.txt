@@ -1,37 +1,31 @@
-# Updated 1/19/25 18th/64 LVO Invitationals
+# 3/27/25 50/72
 
-
-Characters (10):
-Threat: 37
-Abomination (5)
-*Namor, the Sub-Mariner (5)
-*M.O.D.O.K. Scientist Supreme (4)
-Rhino (4)
-Shang-Chi (4)
-Black Cat (3)
-Bullseye (2)
-Kraven the Hunter (3)
-N'Kantu, the Living Mummy (3)
-Gwenpool (4)
-
-Tactics (10):
+Characters
+M.O.D.O.K. Scientist Supreme (George Tarleton)
+Abomination (Emil Blonsky)
+The Wrecking Crew (Brian Calusky, Dirk Garthwaite, Eliot Franklin, Henry Camp)
+Bullseye (Benjamin Poindexter)
+Black Cat (Felicia Hardy)
+Spider-Man (Miles Morales)
+Loki, Prince of Lies (Loki Laufeyson)
+Hulk (Bruce Banner)
+Scarlet Spider (Ben Reilly)
+Kingpin (Wilson Fisk)
+Team Tactics
 All According to Plan
-Brace for Impact (R)
-Sacrifice (R)
-This is a Robbery
-Shadow Organization
-Survival
+Cruelty
+No Mercy
+Gamma Burst
+Fall Back
+Brace for Impact
+Mystic Menace
+Stronger Together
 Recalibration Matrix
-Warpath
-Chi Mastery
-Service to Anubis
-
-Secure Crisis:
-Gamma Wave Sweeps Across Midwest (E, 15)
-Infinity Formula Goes Missing! (B, 17)
-Demons Downtown! Has Our Comeuppance Come Due? (E, 19)
-
-Extract Crisis:
-The Montesi Formula Found (E, 18)
-Deadly Legacy Virus Cured? (C, 19)
-Alien Ship Crashes in Downtown! (C, 17)
+Giant's Blood
+Crises
+Wedding Party Targeted By Terrible Attack!
+Super-Powered Scoundrels Form Sinister Syndicate!
+M'Kraan Crystal Gets Heroes Home!
+Alien Ship Crashes in Downtown!
+Fear Grips World as "Worthy" Terrorize Cities
+Deadly Legacy Virus Cured?
