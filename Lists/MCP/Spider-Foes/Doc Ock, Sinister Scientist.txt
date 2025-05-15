@@ -1,37 +1,32 @@
-# Updated 2/2/25 19th/45 UK tournament
+# 3/29/25 19th Worlds
 
-
-Characters (10):
-Threat: 36
-Bullseye (2)
-Carnage (4)
-*Crimson Dynamo (4)
-*Doc Ock, Sinister Scientist (4)
-Kraven the Hunter (3)
-Lizard (3)
-Mysterio (3)
-Rhino (4)
-Sandman (4)
-Ultron, Metal Tyrant (5)
-
-Tactics (10):
-Brace for Impact (R)
-Carnage Rules
-Custom Upgrades
-Patch Up (R)
-Recalibration Matrix
+Characters
+Doc Ock, Sinister Scientist (Otto Octavius)
+Rhino (Aleksei Sytsevich)
+Electro (Max Dillon)
+Kingpin (Wilson Fisk)
+Lizard (Curtis Connors)
+Kraven the Hunter (Sergei Nikolaevich Kravinoff)
+Wong
+Baron Zemo (Helmut Zemo)
+Red Skull, Master of Hydra (Johann Schmidt)
+Namor, the Sub-Mariner (Namor McKenzie)
+    Time gem
+Team Tactics
+Brace for Impact
+Fall Back
 Sinister Traps
-Strategic Retreat
 Surprise, Webhead
-The Grand Illusion
 This is a Robbery
-
-Secure Crisis:
-Infinity Formula Goes Missing! (B, 17)
-Mutant Madman Turns City Center Into Lethal Amusement Park (B, 18)
-Super-Powered Scoundrels Form Sinister Syndicate! (F, 20)
-
-Extract Crisis:
-Fear Grips World as "Worthy" Terrorize Cities (D, 18)
-Paranoia Pummels Populace! (K, 16)
-Spider-Infected Invade Manhattan (F, 17)
+Warpath
+Recalibration Matrix
+All According to Plan
+I Am A Baron, After All
+Cosmic Obliteration
+Crises
+Riots Spark Over Extremis 3.0
+M'Kraan Crystal Gets Heroes Home!
+Infinity Formula Goes Missing!
+Struggle for the Cube Continues
+Scientific Samples Found In Discovered Universe
+Mutant Extremists Target U.S. Senators!
