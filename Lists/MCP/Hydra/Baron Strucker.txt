@@ -1,37 +1,36 @@
-# Updated 1/18/25 32nd/75
+# 3/27/25 51/72 Adepticon
 
+Hydra
+Characters 10: Threat: 39
+Abomination 5
+Baron Strucker 3
+Baron Zemo 3
+Bob, Agent of Hydra 2
+Crimson Dynamo 4
+Red Skull, Master of Hydra 5
+Spider-Woman 4
+Taskmaster 3
+Winter Soldier, Operative 4
+Hulk 6
 
-Characters (10):
-Threat: 39
-Abomination (5)
-Arnim Zola (3)
-*Baron Strucker (3)
-Baron Zemo (3)
-Black Cat (3)
-*Crimson Dynamo (4)
-*Dracula (5)
-*M.O.D.O.K. Scientist Supreme (4)
-*Red Skull, Master of Hydra (5)
-Spider-Woman (4)
-
-Tactics (10):
-Brace for Impact (R)
-Cosmic Obliteration
-Gamma Burst
+Tactics 10:
+Brace for Impact R
 I Am A Baron, After All
-Indomitable (R)
-Joint Effort
+Instant Recovery
+Patch Up R
 Recalibration Matrix
+Sleeper Agent
+Soldat Activated
 Survival
-Warpath
 World Domination
+Warpath
 
-Secure Crisis:
-Mayor Fisk Vows to Find Missing Witnesses (H, 16)
-Riots Spark Over Extremis 3.0 (D, 17)
-Super-Powered Scoundrels Form Sinister Syndicate! (F, 20)
+Secure Crisis 3:
+Infinity Formula Goes Missing! B, 17
+Super-Powered Scoundrels Form Sinister Syndicate! F, 20
+M'Kraan Crystal Gets Heroes Home! , 19
 
-Extract Crisis:
-Fear Grips World as "Worthy" Terrorize Cities (D, 18)
-Mutant Extremists Target U.S. Senators! (L, 19)
-Spider-Infected Invade Manhattan (F, 17)
+Extract Crisis 3:
+Fear Grips World as "Worthy" Terrorize Cities D, 18
+Scientific Samples Found In Discovered Universe D, 17
+Terrigen Canisters Fuel Doomsday Device F, 17
