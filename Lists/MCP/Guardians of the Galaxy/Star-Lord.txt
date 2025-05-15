@@ -1,36 +1,31 @@
-# Updated 2/2/25 2/27 Mid-Atlantic tournament
+# 3/28/25 13/49 Adepticon
 
-Characters (10):
-Threat: 34
-*Star-Lord (3)
-Rocket Raccoon (2)
-Groot (3)
-Gamora (4)
-Nebula (2)
-Beta Ray Bill (4)
-Agent Venom (4)
-Yondu (4)
-Nova (5)
-Baron Zemo (3)
-
-Tactics (10):
-Sacrifice (R)
-Brace for Impact (R)
-Deadly Duo
+Characters
+Star-Lord (Peter Quill)
+Rocket Raccoon
+Nova (Richard Rider)
+Nebula
+Groot
+Cosmic Ghost Rider (Frank Castle)
+Beta Ray Bill (Bill)
+Agent Venom (Flash Thompson)
+The Immortal Hulk (Bruce Banner)
+Baron Zemo (Helmut Zemo)
+Team Tactics
 Galaxy's Greatest
-Recalibration Matrix
-Foreign Assignment
+Brace for Impact
+Patch Up
+Call for Backup
+Deadly Duo
+It's Time Travel... Don't Ask
+One Below All
+Warpath
 I Am A Baron, After All
-Lovable Misfits
-Plundered Goods
-Daughter of Thanos
-
-Secure Crisis:
-Infinity Formula Goes Missing! (B, 17)
-Demons Downtown! Has Our Comeuppance Come Due? (E, 19)
-Gamma Wave Sweeps Across Midwest (E, 15)
-
-Extract Crisis:
-Deadly Legacy Virus Cured? (C, 19)
-Mutant Extremists Target U.S. Senators! (L, 19)
-Paranoia Pummels Populace! (K, 16)
+Recalibration Matrix
+Crises
+Wedding Party Targeted By Terrible Attack!
+M'Kraan Crystal Gets Heroes Home!
+Deadly Meteors Mutate Citizens
+Inhumans Deploy Advanced Weaponry
+Skrulls Infiltrate World Leadership
+Unexpected Guests Crash Royal Wedding
