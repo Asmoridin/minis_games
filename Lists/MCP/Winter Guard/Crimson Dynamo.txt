@@ -1,36 +1,31 @@
-# Updated 1/19/25 64th/64 LVO Invitationals
+# Updated 5/3/25 4/48
 
-Characters (10):
-Threat: 39
-*Crimson Dynamo (4)
-Ursa Major (4)
-Winter Soldier, Operative (4)
-Shang-Chi (4)
-Red Guardian (3)
-Taskmaster (3)
-Black Widow (2)
-*Black Bolt (5)
-The Immortal Hulk (7)
-Iron Man (3)
-
-Tactics (10):
-Sacrifice (R)
-Patch Up (R)
+Characters
+Crimson Dynamo (Dimitri Bukharin)
+Black Widow (Natasha Romanoff)
+Omega Red (Arkady Gregorivich Rossovich)
+Red Guardian (Nikolai Krylenko)
+Hulk (Bruce Banner)
+Winter Soldier (James "Bucky" Barnes)
+Shang-Chi (Zheng Shang-Chi)
+Spider-Man (Miles Morales)
+Rhino (Aleksei Sytsevich)
+Abomination (Emil Blonsky)
+Team Tactics
 Sovereign Strike
 Comrade's Keeper
+Indomitable
 Vertical Assistance
-Gamma Drain
-Helios Laser Bombardment
-Chi Mastery
+Survival
 Joint Effort
-Recalibration Matrix
-
-Secure Crisis:
-S.W.O.R.D. Establishes Base on Moon's Blue Area (G, 15)
-Infinity Formula Goes Missing! (B, 17)
-Intrusions Open Across City As Seals Collapse (C, 19)
-
-Extract Crisis:
-Mutant Extremists Target U.S. Senators! (L, 19)
-Fear Grips World as "Worthy" Terrorize Cities (D, 18)
-Paranoia Pummels Populace! (K, 16)
+Chi Mastery
+Brace for Impact
+This is a Robbery
+Gamma Burst
+Crises
+Mayor Fisk Vows to Find Missing Witnesses
+Wedding Party Targeted By Terrible Attack!
+Deadline to Destruction
+The Montesi Formula Found
+Fear Grips World as "Worthy" Terrorize Cities
+Scientific Samples Found In Discovered Universe
