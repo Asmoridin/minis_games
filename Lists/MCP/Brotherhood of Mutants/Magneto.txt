@@ -1,36 +1,35 @@
-# Updated 10/20/24 4/42 teams WTC
+# 3/27/25 66/72
 
-Characters (10):
-Threat: 39
-*Emma Frost (4)
-Juggernaut (5)
-*Magneto (6)
-*Mystique (3)
-Pyro (3)
-Rogue (4)
-Sabretooth, Apex Predator (4)
-Shadow King (5)
-The Blob (3)
-Toad (2)
+Characters 10
+* Magneto 6
+Juggernaut 5
+Scarlet Witch 5
+Sabretooth 4
+Gamora 4
+Quicksilver 3
+* Mystique 3
+Gambit 3
+Warlock 3
+Toad 2
 
-Tactics (10):
-Asteroid M
-Astral Plane
+Team Tactics 10
 Do You Know Who I Am?
-Indomitable (R)
-Instant Recovery
-Magnetic Refraction
-Pyrotechnics
-Sacrifice (R)
-Stolen Identity
+Makin‘ A Ruckus
 The Books of Truth
+Magnetic Refraction
+Can I Borrow That?
+Brace for Impact R
+Magnetic Crush
+Patch Up R
+Asteroid M
+Grievous Wounds
 
-Secure Crisis:
-Cosmic Invasion! Black Order Descends on Earth (D, 16)
-Demons Downtown! Has Our Comeuppance Come Due? (E, 19)
-Infinity Formula Goes Missing! (B, 17)
+Secure Crisis
+Super-Powered Scoundrels Form Sinister Syndicate F, 20
+Riots Spark Over Extremis 3.0 D, 17
+Intrusions Open Across City As Seals Collapse C, 19
 
-Extract Crisis:
-Alien Ship Crashes in Downtown! (C, 17)
-Deadly Legacy Virus Cured? (C, 19)
-Struggle for the Cube Continues (F, 17)
+Extract Crisis
+Deadly Legacy Virus Cured? C, 19
+Fear Grips World As “Worthy“ Terrorize Cities D, 18
+Struggle For The Cube Continues F, 17
