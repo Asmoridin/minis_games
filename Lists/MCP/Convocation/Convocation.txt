@@ -1,36 +1,31 @@
-# Updated 2/2/25 4/14 Canadian tournament
+# 3/28/25 19/49 Adepticon
 
-Characters (10):
-Threat: 43
-Ancient One (4)
-Doctor Strange, Sorcerer Supreme (5)
-Doctor Voodoo (4)
-Ebony Maw (Space) (6)
-Hulk (6)
-*Magik (3)
-*Red Skull, Master of Hydra (5)
-Rhino (4)
-Shang-Chi (4)
-Wong (2)
-
-Tactics (10):
-Bane of Damballah
-Brace for Impact (R)
-Chi Mastery
-Cosmic Obliteration
+Characters
+Doctor Strange, Sorcerer Supreme (Stephen Vincent Strange)
+Doctor Voodoo (Jericho Drumm)
+Baron Mordo (Karl Amadeus Mordo)
+Wong
+Clea
+Shadowcat (Katherine "Kitty" Pryde)
+Namor, the Sub-Mariner (Namor McKenzie)
+Shang-Chi (Zheng Shang-Chi)
+Man-Thing (Theodore Sallis)
+Beta Ray Bill (Bill)
+Team Tactics
+The Bar with No Doors
 Iron-Bound Books of Shuma-Gorath
 Plane of Pohldahk
-Sacrifice (R)
-Shhh...
-The Bar with No Doors
-This is a Robbery
-
-Secure Crisis:
-Cosmic Invasion! Black Order Descends on Earth (D, 16)
-Infinity Formula Goes Missing! (B, 17)
-Riots Spark Over Extremis 3.0 (D, 17)
-
-Extract Crisis:
-Fear Grips World as "Worthy" Terrorize Cities (D, 18)
-Mutant Extremists Target U.S. Senators! (L, 19)
-The Montesi Formula Found (E, 18)
+Sacrifice
+Brace for Impact
+Recalibration Matrix
+Survival
+Chi Mastery
+Bane of Damballah
+Prince's Protection
+Crises
+Infinity Formula Goes Missing!
+Deadline to Destruction
+Mutant Madman Turns City Center Into Lethal Amusement Park
+The Montesi Formula Found
+Unexpected Guests Crash Royal Wedding
+Mutant Extremists Target U.S. Senators!
