@@ -1,37 +1,31 @@
-# Updated 2/2/25 11/45 UK tournament
+# Updated 3/30/25 5th Worlds
 
-
-Characters (10):
-Threat: 38
-Abomination (5)
-Black Cat (3)
-Bullseye (2)
-Killmonger (4)
-*Kingpin (4)
-*M'Baku (4)
-Omega Red (4)
-*Red Skull, Master of Hydra (5)
-Rhino (4)
-Winter Soldier (3)
-
-Tactics (10):
+Characters
+Kingpin (Wilson Fisk)
+Rhino (Aleksei Sytsevich)
+Black Cat (Felicia Hardy)
+Shocker (Herman Schultz)
+Bullseye (Benjamin Poindexter)
+Namor, the Sub-Mariner (Namor McKenzie)
+Beta Ray Bill (Bill)
+Spectacular Spider-Man (Peter Parker)
+Lizard (Curtis Connors)
+Toad (Mortimer Toynbee)
+Team Tactics
+Shadow Organization
 All According to Plan
-Brace for Impact (R)
-Cruel Tutelage
-Cruelty
-Gamma Burst
-Indomitable (R)
-Soldat Activated
+Indomitable
+Patch Up
 This is a Robbery
-Usurp the Throne
-Warpath
-
-Secure Crisis:
-Mayor Fisk Vows to Find Missing Witnesses (H, 16)
-Riots Spark Over Extremis 3.0 (D, 17)
-Super-Powered Scoundrels Form Sinister Syndicate! (F, 20)
-
-Extract Crisis:
-Alien Ship Crashes in Downtown! (C, 17)
-Deadly Legacy Virus Cured? (C, 19)
-Paranoia Pummels Populace! (K, 16)
+The Cat and the Spider
+Survival
+Prince's Protection
+Recalibration Matrix
+Instant Recovery
+Crises
+Infinity Formula Goes Missing!
+Riots Spark Over Extremis 3.0
+Super-Powered Scoundrels Form Sinister Syndicate!
+Struggle for the Cube Continues
+Scientific Samples Found In Discovered Universe
+Terrigen Canisters Fuel Doomsday Device
