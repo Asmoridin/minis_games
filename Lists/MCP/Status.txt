@@ -1,58 +1,58 @@
-1.500 - N/A - Asgard/The Mighty Thor
-0.022 - 1/45 - A-Force/She-Hulk
-1.500 - N/A - Cabal/Red Skull, Master of the World
-0.050 - 1/20 - X-Men/Storm
-1.500 - N/A - SHIELD/Namor
-1.500 - N/A - Inhumans/Black Bolt
-0.074 - 2/27 - Guardians of the Galaxy/Star-Lord
-0.078 - 5/64 - Servants of the Apocalypse/Apocalypse
-0.093 - 7/75 - Cabal/Sin
-0.095 - 4/42 - Brotherhood of Mutants/Magneto
-0.100 - 2/20 - Black Order/Thanos, the Mad Titan
-0.106 - 8/75 - Avengers/Hulkbuster
-0.045 - 1/22 - Midnight Sons/Blade
-0.125 - 1/8 - Wakanda/M'Baku
-0.125 - 8/64 - Web Warriors/Spider Man, Miles Morales
-0.155 - 7/45 - X-Force/Cable
-0.156 - 10/64 - Asgard/Loki, Prince of Lies
-0.200 - 4/20 - Avengers/Captain America, Sam Wilson
-1.500 - N/A - Legion of the Lost/Mephisto, Lord of Temptation
-0.230 - 3/13 - New Mutants/Magik
-0.234 - 15/64 - Defenders/Daredevil
-0.244 - 11/45 - Criminal Syndicate/Kingpin
-1.500 - N/A - Spider-Foes/Green Goblin
-1.500 - N/A - Avengers/Captain America, Steve Rogers
-0.281 - 18/64 - Criminal Syndicate/MODOK, Scientist Supreme
-0.285 - 4/14 - Convocation
-0.293 - 22/75 - Web Warriors/Amazing Spider-Man
-0.312 - 20/64 - SHIELD/Nick Fury Jr
-0.390 - 25/64 - Weapon X/X-23
-1.500 - N/A - Midnight Sons/Elsa Bloodstone
-0.422 - 19/45 - Spider-Foes/Doc Ock, Sinister Scientist
-0.426 - 32/75 - Hydra/Baron Strucker
-0.437 - 28/64 - X-Men/Professor X
-0.466 - 21/45 - Brotherhood of Mutants/Mystique
-0.504 - 106/210 - Asgard/Thor, Prince of Asgard
-1.500 - N/A - Hellfire Club/Emma Frost
-0.546 - 35/64 - Criminal Syndicate/Shadowland Daredevil
-0.577 - 26/45 - Thralls of Dracula/Dracula
-1.500 - N/A - Sentinels/Sentinel Prime MK4
-0.625 - 40/64 - Avengers/Captain America, First Avenger
-0.625 - 40/64 - Dark Dimension/Dormammu
-1.500 - N/A - Hydra/Red Skull, Master of Hydra
-0.666 - 18/27 - Weapon X/Logan, The Wolverine
-0.733 - 33/45 - Cabal/Malekith the Accursed
-0.746 - 56/76 - X-Men/Cyclops
-0.755 - 33/45 - Defenders/Doctor Strange
-0.760 - 57/75 - Black Order/Corvus Glaive
-0.777 - 21/27 - Criminal Syndicate/Klaw
-1.500 - N/A - Wakanda/Black Panther
-0.928 - 13/14 - Cabal/Red Skull
-1.000 - 64/64 - Winter Guard/Crimson Dynamo
-1.500 - N/A - Hydra/Baron Helmut Zemo
-1.500 - N/A - Inhumans/Medusa
-1.500 - N/A - SHIELD/Invincible Iron Man
+0.009 - 3/32 - SHIELD/Invincible Iron Man
+0.020 - 2/100 - Servants of the Apocalypse/Apocalypse
+0.030 - 3/100 - Avengers/Captain America, Steve Rogers
+0.040 - 2/49 - Web Warriors/Spider Man, Miles Morales
+0.040 - 4/100 - Inhumans/Black Bolt
+0.041 - 3/72 - X-Men/Storm
+0.050 - 5/100 - Criminal Syndicate/Kingpin
+0.070 - 7/100 - Midnight Sons/Blade
+0.083 - 4/48 - Winter Guard/Crimson Dynamo
+0.090 - 9/100 - Wakanda/M'Baku
+0.093 - 3/32 - Cabal/Malekith the Accursed
+0.102 - 5/49 - Spider-Foes/Green Goblin
+0.111 - 8/72 - Avengers/Captain America, Sam Wilson
+0.171 - 6/35 - Cabal/Red Skull, Master of the World
+0.180 - 13/72 - Asgard/The Mighty Thor
+0.187 - 6/32 - Black Order/Corvus Glaive
+0.190 - 19/100 - Spider-Foes/Doc Ock, Sinister Scientist
+0.200 - 2/10 - Asgard/Loki, Prince of Lies
+0.250 - 25/100 - Hydra/Red Skull, Master of Hydra
+0.265 - 13/49 - Guardians of the Galaxy/Star-Lord
+0.280 - 28/100 - SHIELD/Nick Fury Jr
+0.281 - 9/32 - Weapon X/X-23
+0.310 - 31/100 - Hydra/Baron Helmut Zemo
+0.312 - 5/16 - Midnight Sons/Elsa Bloodstone
+0.312 - 15/48 - New Mutants/Magik
+0.320 - 8/25 - Inhumans/Medusa
+0.347 - 25/72 - Avengers/Hulkbuster
+0.357 - 5/14 - Cabal/Red Skull
+0.368 - 7/19 - Black Order/Thanos, the Mad Titan
+0.387 - 19/49 - Convocation
+0.408 - 20/49 - Criminal Syndicate/Shadowland Daredevil
+0.486 - 35/72 - Legion of the Lost/Mephisto, Lord of Temptation
+0.521 - 12/23 - Sentinels/Sentinel Prime MK4
+0.531 - 17/32 - Hellfire Club/Emma Frost
+0.551 - 27/49 - A-Force/She-Hulk
+0.591 - 29/49 - X-Men/Cyclops
+0.625 - 20/32 - Asgard/Thor, Prince of Asgard
+0.6256 - 10/16 - Thralls of Dracula/Dracula
+0.653 - 32/49 - Defenders/Daredevil
+0.693 - 34/49 - Defenders/Doctor Strange
+0.694 - 50/72 - Criminal Syndicate/MODOK, Scientist Supreme
+0.708 - 51/72 - Hydra/Baron Strucker
+0.718 - 23/32 - Wakanda/King T'Challa
+0.722 - 52/72 - SHIELD/Namor
+0.734 - 36/49 - Avengers/Captain America, First Avenger
+0.750 - 12/16 - Inhumans/Maximus the Mad
+0.777 - 14/18 - Dark Dimension/Dormammu
+0.800 - 8/10 - Wakanda/Killmonger, Usurper
+0.861 - 62/72 - Brotherhood of Mutants/Mystique
+0.888 - 64/72 - X-Men/Professor X
+0.897 - 44/49 - X-Force/Cable
+0.916 - 66/72 - Brotherhood of Mutants/Magneto
+0.937 - 15/16 - Cabal/Sin
+1.500 - N/A - Criminal Syndicate/Klaw
 1.500 - N/A - SHIELD/Steve Rogers, Captain America
-1.500 - N/A - Wakanda/Killmonger, Usurper
-1.500 - N/A - Wakanda/King T'Challa
-1.500 - N/A - Inhumans/Maximus the Mad
+1.500 - N/A - Wakanda/Black Panther
+1.500 - N/A - Weapon X/Logan, The Wolverine
+1.500 - N/A - Web Warriors/Amazing Spider-Man
