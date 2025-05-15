@@ -1,5 +1,3 @@
 Rebel;Garm Bel Iblis
 Empire;Admiral Konstantine
 Empire;Emperor Palpatine
-Republic;Obi-Wan Kenobi
-Separatist;Count Dooku
