@@ -1,36 +1,31 @@
-# Updated 1/19/25 5th/64 LVO Invitationals
+# 3/30/25 3rd place world championships
 
-Characters (10):
-Threat: 33
-*Apocalypse (6)
-Beast (3)
-Bullseye (2)
-Colossus (4)
-Deadpool (3)
-Iceman (3)
-*Magik (3)
-The Blob (3)
-Toad (2)
-*Wolverine (4)
-
-Tactics (10):
-Brace for Impact (R)
-Fastball Special!
+Characters
+Apocalypse (En Sabah Nur)
+Archangel (Warren Worthington III)
+Cable (Nathan Summers)
+Colossus (Piotr Rasputin)
+Deadpool (Wade Wilson)
+Psylocke (Elizabeth Braddock)
+Beast (Henry McCoy)
+Toad (Mortimer Toynbee)
+Sabretooth (Victor Creed)
+Magik (Illyana Rasputin)
+Team Tactics
+Brace for Impact
+Patch Up
 Immortal Servants
-Joint Effort
-Journey Through Limbo
 Recalibration Matrix
-Sacrifice (R)
-Survival
 The First One
-Warpath
-
-Secure Crisis:
-Mutant Madman Turns City Center Into Lethal Amusement Park (B, 18)
-Portals Overrun City with Spider-People! (D, 18)
-Riots Spark Over Extremis 3.0 (D, 17)
-
-Extract Crisis:
-Fear Grips World as "Worthy" Terrorize Cities (D, 18)
-Mutant Extremists Target U.S. Senators! (L, 19)
-Skrulls Infiltrate World Leadership (J, 20)
+Survival
+Instant Recovery
+Weapon X Program
+Battle Bound
+Journey Through Limbo
+Crises
+Mutant Madman Turns City Center Into Lethal Amusement Park
+M'Kraan Crystal Gets Heroes Home!
+Wedding Party Targeted By Terrible Attack!
+Fear Grips World as "Worthy" Terrorize Cities
+The Montesi Formula Found
+Skrulls Infiltrate World Leadership
