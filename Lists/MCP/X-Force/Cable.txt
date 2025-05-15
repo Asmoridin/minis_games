@@ -1,40 +1,31 @@
-# Pulled 2/2/25 7th/45 UK tournament
+# 3/28/25 44/49 Adepticon
 
-
-
-
-Characters (10):
-Threat: 36
-Archangel (4)
-Baron Zemo (3)
-*Cable (5)
-Deadpool (3)
-Domino (3)
-Sabretooth (4)
-Sunspot (4)
-Warlock (3)
-*Wolverine (4)
-*X-23 (3)
-
-Tactics (10):
-Brace for Impact (R)
+Characters
+Cable (Nathan Summers)
+Deadpool (Wade Wilson)
+Domino (Neena Thurman)
+X-23 (Laura Kinney)
+Honey Badger (Gabrielle Kinney)
+Psylocke (Elizabeth Braddock)
+Bishop (Lucas Bishop)
+Pyro (St. John Allerdyce)
+Nightcrawler (Kurt Wagner)
+Maverick (Christoph Nord)
+Team Tactics
 Cat and Mouse
-Happy Birthday, Runt!
-I Am A Baron, After All
-Instant Recovery
-Patch Up (R)
 Pretty Sneaky, Sis
-Self-Help
-Survival
-Weapon X Program
-
-Secure Crisis:
-Gamma Wave Sweeps Across Midwest (E, 15)
-Infinity Formula Goes Missing! (B, 17)
-Intrusions Open Across City As Seals Collapse (C, 19)
-
-Extract Crisis:
-Fear Grips World as "Worthy" Terrorize Cities (D, 18)
-Skrulls Infiltrate World Leadership (J, 20)
-The Montesi Formula Found (E, 18)
-
+Chimichangas
+Recalibration Matrix
+Brace for Impact
+Crimson Dawn
+Pyrotechnics
+Jonathan the Unstoppable
+Instant Recovery
+Sacrifice
+Crises
+Infinity Formula Goes Missing!
+Riots Spark Over Extremis 3.0
+Intrusions Open Across City As Seals Collapse
+Fear Grips World as "Worthy" Terrorize Cities
+Deadly Legacy Virus Cured?
+Alien Ship Crashes in Downtown!
