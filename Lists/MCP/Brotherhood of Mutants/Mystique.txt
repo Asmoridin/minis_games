@@ -1,37 +1,35 @@
-# Updated 2/2/25 21/45 UK Tournament
+# 3/27/25 62/72
 
+Characters 10
+Juggernaut 5
+* Mystique 3
+Pyro 3
+The Blob 3
+Toad 2
+Rogue 4
+Quicksilver 3
+Hulk 6
+Shang-Chi 4
+Scarlet Witch 5
 
-Characters (10):
-Threat: 39
-Baron Zemo (3)
-Black Cat (3)
-Hulk (6)
-Juggernaut (5)
-*Magneto (6)
-*Mystique (3)
-Pyro (3)
-Rhino (4)
-Sabretooth, Apex Predator (4)
-Toad (2)
-
-Tactics (10):
+Team Tactics 10
+The Books of Truth
 Asteroid M
-Brace for Impact (R)
-Do You Know Who I Am?
-I Am A Baron, After All
-Instant Recovery
-Magnetic Refraction
-Patch Up (R)
-Pyrotechnics
+Brace for Impact R
 Recalibration Matrix
-This is a Robbery
+Pyrotechnics
+Can I Borrow That?
+Sacrifice R
+Stolen Identity
+Do You Know Who I Am?
+Survival
 
-Secure Crisis:
-Cosmic Invasion! Black Order Descends on Earth (D, 16)
-Riots Spark Over Extremis 3.0 (D, 17)
-Super-Powered Scoundrels Form Sinister Syndicate! (F, 20)
+Secure Crisis
+Guardians Save Shi‘ar Empress in Style M, 17
+M‘Kraan Crystal Gets Heroes Home! G, 19
+Mutant Madman Turns City Into Lethal Amusement Park B, 18
 
-Extract Crisis:
-Mutant Extremists Target U.S. Senators! (L, 19)
-Paranoia Pummels Populace! (K, 16)
-Skrulls Infiltrate World Leadership (J, 20)
+Extract Crisis
+Mutant Extremists Target U.S. Senators! L, 19
+Fear Grips World As “Worthy“ Terrorize Cities D, 18
+Scientific Samples Found in Discovered Universe D, 17
