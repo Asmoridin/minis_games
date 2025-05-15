@@ -1,37 +1,32 @@
-# Updated 2/17 1st/22
+# 3/30/25 7th Worlds
 
-
-Characters (10):
-Threat: 44
-*Blade (4)
-Doctor Voodoo (4)
-*Elsa Bloodstone (4)
-Ghost Rider (5)
-Iron Fist (3)
-Man-Thing (3)
-*Red Skull, Master of Hydra (5)
-Shang-Chi (4)
-The Immortal Hulk (7)
-*The Mighty Thor (5)
-
-Tactics (10):
+Characters
+Blade (Eric Brooks)
+The Immortal Hulk (Bruce Banner)
+Ghost Rider (Johnathon Blaze)
+Doctor Voodoo (Jericho Drumm)
+N'Kantu, the Living Mummy (N'Kantu)
+Iron Fist (Danny Rand)
+Red Skull, Master of Hydra (Johann Schmidt)
+Abomination (Emil Blonsky)
+Beta Ray Bill (Bill)
+Ebony Maw
+    Space gem
+Team Tactics
 Bats the Ghost Hound
-Brace for Impact (R)
-Chi Mastery
+Siege of Darkness
+Brace for Impact
+Patch Up
+Recalibration Matrix
+Heroes for Hire
 Cosmic Obliteration
 Deal with the Devil
-Heroes for Hire
 One Below All
-Patch Up (R)
-Recalibration Matrix
-Siege of Darkness
-
-Secure Crisis:
-Demons Downtown! Has Our Comeuppance Come Due? (E, 19)
-Gamma Wave Sweeps Across Midwest (E, 15)
-Intrusions Open Across City As Seals Collapse (C, 19)
-
-Extract Crisis:
-Deadly Legacy Virus Cured? (C, 19)
-Fear Grips World as "Worthy" Terrorize Cities (D, 18)
-The Montesi Formula Found (E, 18)
+Shhh...
+Crises
+Infinity Formula Goes Missing!
+Deadline to Destruction
+Cosmic Invasion! Black Order Descends on Earth
+Skrulls Infiltrate World Leadership
+Scientific Samples Found In Discovered Universe
+Inhumans Deploy Advanced Weaponry
