@@ -1,0 +1,76 @@
+# 5/10/25 5th/6
+
+MortenebraV1 100
+Cryx - Necrofactorium
+Grand Melee - 100 pts
+
+PC CARD
+
+Defenses
+DEFENSE 1 - Barrier
+DEFENSE 1 - Barrier
+DEFENSE 1 - Spike Trap
+
+Mortenebra Perfected
+SPELL - Death Ward
+SPELL - Scything Touch
+
+16 Grendel
+HEAD - Grendel
+RIGHT ARM - Salvage Ripper Right
+LEFT ARM - Salvage Ripper Left
+
+12 Malefactor 1
+1 HEAD - Soul Claiming
+7 RIGHT ARM - Fell Axe
+4 LEFT ARM - Spiked Shield
+
+12 Malefactor 2
+1 HEAD - Soul Claiming
+7 RIGHT ARM - Fell Axe
+4 LEFT ARM - Spiked Shield
+
+12 Malefactor 3
+1 HEAD - Soul Claiming
+7 RIGHT ARM - Fell Axe
+4 LEFT ARM - Spiked Shield
+
+5 Raptor 1
+3 HEAD - Deathripper
+2 BACK - Heavy Armor
+
+5 Raptor 2
+3 HEAD - Deathripper
+2 BACK - Heavy Armor
+
+5 Raptor 3
+3 HEAD - Deathripper
+2 BACK - Heavy Armor
+
+5 Raptor 4
+3 HEAD - Deathripper
+2 BACK - Arc Node
+
+3 Akulon Thaemestra
+
+4 Iron Lich Commander
+
+4 Master Necrotech Chatterbane
+
+3 Skarlock Lieutenant
+
+6 Mechanithrall Swarm
+
+4 Necrosurgeon Initiates 1
+
+4 Necrosurgeon Initiates 2
+
+
+PC COMMAND CARD
+Break Through
+Defenses
+Hit & Run
+Lucky Penny
+Old Faithful
+
+TOTAL POINTS 100/100
