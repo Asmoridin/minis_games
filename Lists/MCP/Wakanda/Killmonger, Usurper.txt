@@ -1,6 +1,6 @@
 # 4/12/25 8th/10 Team tournament
 
-Characters
+Characters (10):
 King T'Challa (T'Challa)
 M'Baku
 Okoye

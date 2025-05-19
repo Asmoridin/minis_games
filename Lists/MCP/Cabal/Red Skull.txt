@@ -1,6 +1,6 @@
 # 4/12/25 5/14 Swedish tournament
 
-Characters
+Characters (10):
 Red Skull (Johann Schmidt)
 Dracula (Vlad Dracula)
 Baron Zemo (Helmut Zemo)

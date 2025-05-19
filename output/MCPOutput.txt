@@ -3,19 +3,20 @@ Marvel Crisis Protocol Inventory Tracker and purchase suggester
 I own 99 out of 200 - 49.50 percent
 Buy a Mephisto, Lord of Temptation from the Legion of the Lost affiliation
 
-Completed lists: Dark Dimension/Dormammu
-Closest list to completion is X-Men/Cyclops - needs 2 items
-- Nightcrawler: 1
-- X-23: 1
+Completed lists: 
+Closest list to completion is A-Force/She-Hulk - needs 3 items
+- Squirrel Girl: 1
+- Gwenom: 1
+- Punisher: 1
 
 Ten most needed minis: 
-Shang-Chi: 13
-Red Skull, Master of Hydra: 8
-Namor, the Sub-Mariner: 7
-The Immortal Hulk: 7
-Luke Cage: 6
-Rhino: 6
-X-23: 6
-Abomination: 5
-Beta Ray Bill: 5
-Deadpool: 4
+Crises: 44
+Team Tactics: 44
+Brace for Impact: 38
+Recalibration Matrix: 28
+M'Kraan Crystal Gets Heroes Home!: 20
+Wedding Party Targeted By Terrible Attack!: 20
+Skrulls Infiltrate World Leadership: 19
+Scientific Samples Found In Discovered Universe: 18
+Fear Grips World as "Worthy" Terrorize Cities: 17
+Patch Up: 17

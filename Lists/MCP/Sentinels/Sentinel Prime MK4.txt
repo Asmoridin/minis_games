@@ -1,6 +1,6 @@
 # 4/12/25 12/23 Scottish tournament
 
-Characters
+Characters (10):
 Colossus (Piotr Rasputin)
 Sentinel MK4
 Sentinel Prime MK4

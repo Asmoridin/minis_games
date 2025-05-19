@@ -1,6 +1,6 @@
 # 4/12/25 15/16 Denmark tournament
 
-Characters
+Characters (10):
 Baron Zemo (Helmut Zemo)
 Bullseye (Benjamin Poindexter)
 Crossbones (Brock Rumlow)

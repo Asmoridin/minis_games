@@ -1,11 +1,11 @@
 # 4/12/25 20/32 Irish Tournament
 
-Characters
+Characters (10):
 Angela (Aldrif Odindottir)
 Lady Sif (Sif)
-Loki, Prince of Lies (Loki Laufeyson)
-The Mighty Thor (Jane Foster)
-Thor, Prince of Asgard (Thor Odinson)
+*Loki, Prince of Lies (5)
+*The Mighty Thor (5)
+*Thor, Prince of Asgard (5)
 Ronan the Accuser
 Hulk (Bruce Banner)
 Toad (Mortimer Toynbee)

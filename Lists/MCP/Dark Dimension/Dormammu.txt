@@ -1,6 +1,6 @@
 # 4/7/25 14th/18 online tournament
 
-Characters
+Characters (10):
 Dormammu
 Shang-Chi (Zheng Shang-Chi)
 Black Widow (Natasha Romanoff)
@@ -10,7 +10,7 @@ Agent Venom (Flash Thompson)
 Black Panther, Chosen of Bast (T'Challa)
 Red Skull, Master of Hydra (Johann Schmidt)
 Iron Man (Tony Stark)
-Loki, Prince of Lies (Loki Laufeyson)
+*Loki, Prince of Lies (5)
 Team Tactics
 Dark Restoration
 Midnight Phantasmagoria

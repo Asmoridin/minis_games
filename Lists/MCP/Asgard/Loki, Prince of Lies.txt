@@ -1,31 +1,36 @@
 # 4/13/25 2nd/10 team tournament
 
-Characters
-The Mighty Thor (Jane Foster)
-Thor, Hero of Midgard (Thor Odinson)
-Thor, Prince of Asgard (Thor Odinson)
-Loki, Prince of Lies (Loki Laufeyson)
-Skurge, The Executioner (Skurge)
-Beta Ray Bill (Bill)
-Baron Zemo (Helmut Zemo)
-Toad (Mortimer Toynbee)
-Valkyrie (Brunhilde)
-Lady Sif (Sif)
-Team Tactics
+Characters (10):
+Threat: 40
+*The Mighty Thor (5)
+Thor, Hero of Midgard (6)
+*Thor, Prince of Asgard (5)
+*Loki, Prince of Lies (5)
+Skurge, The Executioner (3)
+Beta Ray Bill (4)
+Baron Zemo (3)
+Toad (2)
+Valkyrie (3)
+Lady Sif (4)
+
+Tactics (10):
 Doomed Prophecy
 Heart of the Worthy
 Odin's Blessing
 Rainbow Bridge
 Trickster's Boon
-Patch Up
+Patch Up (R)
 Giant's Blood
 I Am A Baron, After All
 Skuttlebutt, On Me!
 Grievous Wounds
-Crises
-Deadly Meteors Mutate Citizens
-Wedding Party Targeted By Terrible Attack!
-Deadline to Destruction
-The Montesi Formula Found
-Skrulls Infiltrate World Leadership
-Inhumans Deploy Advanced Weaponry
+
+Secure Crisis:
+Deadline to Destruction (, 16)
+Deadly Meteors Mutate Citizens (I, 17)
+Wedding Party Targeted By Terrible Attack! (, 20)
+
+Extract Crisis:
+The Montesi Formula Found (E, 18)
+Skrulls Infiltrate World Leadership (J, 20)
+Inhumans Deploy Advanced Weaponry (, 18)

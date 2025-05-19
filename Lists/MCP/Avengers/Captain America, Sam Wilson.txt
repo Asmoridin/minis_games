@@ -1,6 +1,6 @@
 # 3/27/25 8/72 Adepticon
 
-Characters
+Characters (10):
 Captain America (Steve Rogers)
 Captain America (Sam Wilson)
 Hulk (Bruce Banner)
@@ -10,7 +10,7 @@ Beta Ray Bill (Bill)
 Toad (Mortimer Toynbee)
 Black Panther (T'Challa)
 Beast (Henry McCoy)
-Thor, Prince of Asgard (Thor Odinson)
+*Thor, Prince of Asgard (5)
 Team Tactics
 Avengers Assemble
 Second Wind

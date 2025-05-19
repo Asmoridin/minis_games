@@ -1,6 +1,6 @@
 # 4/12/25 6/35 French tournament
 
-Characters
+Characters (10):
 Red Skull, Master of the World (Johann Schmidt)
 Baron Zemo (Helmut Zemo)
 Bullseye (Benjamin Poindexter)

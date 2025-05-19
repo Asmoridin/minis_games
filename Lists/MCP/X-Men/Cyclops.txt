@@ -1,6 +1,6 @@
 # 3/28/25 29/47 Adepticon
 
-Characters
+Characters (10):
 Beast (Henry McCoy)
 Cyclops (Scott Summers)
 Gambit (Remy LeBeau)
