@@ -1,57 +1,91 @@
-#3/29/25 35th/48 IG Qualifiers
+# 5/18/25 4th/10 Kentucky tournament
 
-NEW FORCE
+you caine do it
 Cygnar - Gravediggers
 Grand Melee - 100 pts
 
 PC CARD
 
+Ammo Crate 1
+
+Medical Crate 1
+
+Mantlet 1
+
+Fuel Canister 1
+
+Ammo Crate 2
+
+Medical Crate 2
+
+Mantlet 2
+
+Fuel Canister 2
+
+Heavy Weapon Crate 1
+HEAVY WEAPON - Heavy Flamethrower
+
+Skirmisher 1
+
+Blocker 1
+
+Raider 1
+
+Heavy Weapon Crate 2
+HEAVY WEAPON - Heavy Flamethrower
+
+Blocker 2
+
+Skirmisher 2
+
+Raider 2
+
 Major Allister Caine
-SPELL - Deceleration
-SPELL - Rhythm of War
-
-14 Borealis 1
-HEAD - Repulsor Field
-RIGHT ARM - Thunder Maul
-LEFT ARM - Sky Breaker
-
-14 Borealis 2
-HEAD - Repulsor Field
-RIGHT ARM - Thunder Maul
-LEFT ARM - Sky Breaker
+SPELL - Arcane Shield
+SPELL - Chasten
 
 17 Deuce
 
-4 Captain Bastian Falk
+9 Patriot 1
+1 HEAD - Shield Guard
+6 RIGHT ARM - Dual Cannon
+2 LEFT ARM - Trench Blade
+
+9 Patriot 2
+1 HEAD - Shield Guard
+6 RIGHT ARM - Dual Cannon
+2 LEFT ARM - Trench Blade
+
+15 Valiant
+2 HEAD - Reposition
+7 RIGHT ARM - Heavy Mortar
+6 LEFT ARM - Volley Shield
 
 4 Greygore Boomhowler
 
-20 Magnus the Unstoppable
+3 Heavy Machine Gun Crew
 
-Invictus
+4 Gravedigger Gun Mages 1
 
-3 Specialist Tyson Vas
+4 Gravedigger Gun Mages 2
 
-5 Storm Callers 1
+8 Gravedigger Rangers
 
-5 Storm Callers 2
+3 Trollkin Express Sniper
 
 5 Storm Vanes
 
 9 The Black 13th
-RYAN 3 - Ryan 3
-WATTS 3 - Watts 3
-GLOVER 1 - Glover 1
 
 
 PC COMMAND CARD
-Defenses
 Break Through
-Duck and Cover!
-Hit & Run
+5 Heavy Airdrop 1
+5 Heavy Airdrop 2
+Light Airdrop 1
+Light Airdrop 2
 Lucky Penny
 Military Engineering
 Old Faithful
-Put the Fires Out
 
 TOTAL POINTS 100/100

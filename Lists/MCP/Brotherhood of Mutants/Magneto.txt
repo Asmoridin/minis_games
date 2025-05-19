@@ -1,35 +1,31 @@
-# 3/27/25 66/72
+# 5/17/25 43rd/62 London tournament
 
-Characters 10
-* Magneto 6
-Juggernaut 5
-Scarlet Witch 5
-Sabretooth 4
-Gamora 4
-Quicksilver 3
-* Mystique 3
-Gambit 3
-Warlock 3
-Toad 2
-
-Team Tactics 10
-Do You Know Who I Am?
-Makin‘ A Ruckus
-The Books of Truth
-Magnetic Refraction
-Can I Borrow That?
-Brace for Impact R
-Magnetic Crush
-Patch Up R
+Characters
+Magneto (Max Eisenhardt)
+Mystique (Raven Darkholme)
+Juggernaut (Cain Marko)
+Quicksilver (Pietro Maximoff)
+Toad (Mortimer Toynbee)
+The Immortal Hulk (Bruce Banner)
+Cable (Nathan Summers)
+Rhino (Aleksei Sytsevich)
+Elektra (Elektra Nachios)
+Wong
+Team Tactics
 Asteroid M
-Grievous Wounds
-
-Secure Crisis
-Super-Powered Scoundrels Form Sinister Syndicate F, 20
-Riots Spark Over Extremis 3.0 D, 17
-Intrusions Open Across City As Seals Collapse C, 19
-
-Extract Crisis
-Deadly Legacy Virus Cured? C, 19
-Fear Grips World As “Worthy“ Terrorize Cities D, 18
-Struggle For The Cube Continues F, 17
+Magnetic Refraction
+This is a Robbery
+Do You Know Who I Am?
+One Below All
+Can I Borrow That?
+Recalibration Matrix
+Joint Effort
+Brace for Impact
+Patch Up
+Crises
+Deadline to Destruction
+Intrusions Open Across City As Seals Collapse
+Super-Powered Scoundrels Form Sinister Syndicate!
+Fear Grips World as "Worthy" Terrorize Cities
+Inhumans Deploy Advanced Weaponry
+Mutant Extremists Target U.S. Senators!

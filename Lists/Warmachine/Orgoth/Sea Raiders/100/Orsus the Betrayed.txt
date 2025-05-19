@@ -1,35 +1,39 @@
-#3/29/25 36th/48 IG Qualifiers
+# 5/17/25 1st/18 Wisconsin Tournament
 
-AC Butcher
+Butcher
 Orgoth - Sea Raiders
 Grand Melee - 100 pts
 
 PC CARD
 
 Orsus the Betrayed
-SPELL - Inviolable Resolve
+SPELL - Carnage
 
-6 Jackal
+8 Jackal 1
 2 HEAD - Arc Node
-3 RIGHT ARM - Mace
+5 RIGHT ARM - Hunter Rifle
 1 LEFT ARM - Clawed Fist
 
-26 Gharlghast
-6 HEAD - Frother
-4 RIGHT FOREARM - Infernus Cannon Right
-6 RIGHT FIST - Rending Claws Right
-4 LEFT FOREARM - Infernus Cannon Left
-6 LEFT FIST - Rending Claws Left
+8 Jackal 2
+1 HEAD - Bloodthirst
+4 RIGHT ARM - Pole Arm
+3 LEFT ARM - Assault Shield
 
-5 Grhotten Keeper
+13 Tyrant 1
+2 HEAD - Relentless Charge
+8 RIGHT ARM - Scything Flail
+3 LEFT ARM - Claw
 
-4 Halexus the Warlord
+13 Tyrant 2
+2 HEAD - Relentless Charge
+8 RIGHT ARM - Scything Flail
+3 LEFT ARM - Claw
 
-3 Koldun Lord Damien Korovnik
+3 Reaver Commander 1
 
-3 Reaver Commander
+3 Reaver Commander 2
 
-9 Siege Tarask
+4 Therion Vhanek
 
 2 Vulcar Forge Master
 
@@ -43,12 +47,14 @@ SPELL - Inviolable Resolve
 
 8 Ulkor Barragers
 
+4 Warwitch Coven
+
 
 PC COMMAND CARD
 Blessing of the Gods
+Break Through
 Careful Reconnaissance
-Duck and Cover!
 Lucky Penny
-Put the Fires Out
+Old Faithful
 
 TOTAL POINTS 100/100

@@ -1,6 +1,6 @@
-#3/28/25 28th/40 ATC
+# 5/17/25 2nd/18 Wisconsin Tournament
 
-Evicerous 1
+Eviscerus G
 Cryx - Necrofactorium
 Grand Melee - 100 pts
 
@@ -25,17 +25,14 @@ SPELL - Calamity
 7 RIGHT ARM - Fell Axe
 4 LEFT ARM - Spiked Shield
 
-6 Raptor
-4 HEAD - Doomspitter
-2 BACK - Arc Node
+11 Malefactor 4
+1 HEAD - Soul Claiming
+6 RIGHT ARM - Harpoon
+4 LEFT ARM - Spiked Shield
 
-4 Iron Lich Commander
+3 Akulon Thaemestra
 
-4 Master Necrotech Chatterbane
-
-8 Mechanithrall Brutes 1
-
-8 Mechanithrall Brutes 2
+8 Mechanithrall Brutes
 
 4 Necrosurgeon Initiates 1
 
@@ -45,14 +42,16 @@ SPELL - Calamity
 
 8 Sludge Thralls 2
 
+8 The Criterions
+
 10 The Furies
 
 
 PC COMMAND CARD
 Blessing of the Gods
-Careful Reconnaissance
 Lucky Penny
 Old Faithful
 Put the Fires Out
+Sapper
 
 TOTAL POINTS 100/100

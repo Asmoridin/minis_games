@@ -1,25 +1,20 @@
-#3/29/25 42nd/48 IG Qualifiers
+# 5/17/25 6th/18 Wisconsin Tournament
 
-Scary Phil's Mysterious Off Brand
+Bokur 1
 Dusk - House Kallyss
 Grand Melee - 100 pts
 
 PC CARD
 
 Scyrafael, Nis-Issyr of Desolations
-SPELL - Inviolable Resolve
 SPELL - Battle Lust
+SPELL - Deceleration
 
-13 Eidolon
-1 HEAD - Arcane Stasis
-4 RIGHT ARM - Null Blade
-5 LEFT ARM - Force Shield
-3 BACK - Vortex Cannon
-
-7 Ghast
-2 HEAD - Arc Node
-3 RIGHT ARM - Heavy Blade Fist
-2 LEFT ARM - Light Blade Fist
+16 Eidolon
+2 HEAD - True Sight
+6 RIGHT ARM - Dawn Blade
+4 LEFT ARM - Dusk Blade
+4 BACK - Force Cannon
 
 17 Israfyl
 HEAD - Israfyl
@@ -27,32 +22,32 @@ LEFT ARM - Serpentine Blade
 RIGHT ARM - Serpentine Blade
 BACK - Death Whisper
 
-10 Specter
+5 Eiryss, Shadow of Retribution
 
 7 Krueger, Wrath of Blighterghast
 
-4 Mage Hunter Commander 1
-
-4 Mage Hunter Commander 2
-
-3 Mage Hunter Sniper Team
+4 Vaelyss, The Hand of Mourning
 
 9 Dreadguard Archers
 
-11 Dreadguard Cavalry
+11 Dreadguard Cavalry 1
 
-7 Mage Hunter Rangers
+11 Dreadguard Cavalry 2
 
-4 Seeker Adepts 1
+8 Dreadguard Slayers
 
-4 Seeker Adepts 2
+4 Seeker Adepts
+
+6 Soulless Guardians
+
+2 Seeker Warden
 
 
 PC COMMAND CARD
-Blessing of the Gods
+Break Through
 Careful Reconnaissance
 Lucky Penny
 Old Faithful
-Sapper
+Put the Fires Out
 
 TOTAL POINTS 100/100

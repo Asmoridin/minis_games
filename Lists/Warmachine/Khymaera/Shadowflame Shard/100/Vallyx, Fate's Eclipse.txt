@@ -1,40 +1,37 @@
-#3/29/25 31st/48 IG Qualifiers
+# 5/17/25 7th/18 Wisconsin Tournament
 
-Vallyx
+Vallossal
 Khymaera - Shadowflame Shard
 Grand Melee - 100 pts
 
 PC CARD
 
-Defenses
-DEFENSE 1 - Barrier
-DEFENSE 1 - Barrier
-DEFENSE 1 - Barrier
-
 Vallyx, Fate's Eclipse
-SPELL - Veil of Mists
-SPELL - Dragon’s Blood
 
-11 Drakyon
 
-32 Trikhymaerax
+16 Skylla, The Abyssal Fury
+9 CENTRAL HEAD - Skylla
+4 SMALLER HEAD 1 - Horned Piercer
+3 SMALLER HEAD 2 - Gnashing Fangs
+
+33 Trikhymaerax
 12 ARCANE HEADS - Eyeless Head
 RANGE HEADS - Flame Head
 6 MELEE HEADS - Bicorn
 ARCANE TAILS - Negation Tail
-8 RANGE TAILS - Frost Tail
-6 MELEE TAILS - Barbed Tail
+9 RANGE TAILS - Spined Tail
+6 MELEE TAILS - Stinger
 
-15 Vypex
-4 HEAD - Viper
+10 Vypex
+1 HEAD - Asp
 3 TAIL - Hunter's Mark
-8 ARMS - Impalers
+6 ARMS - Cleavers
+
+4 Bellighul, Master of Pain
 
 3 Pythia
 
-5 Wraithwing Paragon 1
-
-5 Wraithwing Paragon 2
+5 Wraithwing Paragon
 
 11 Incarnate Knights
 
@@ -47,9 +44,9 @@ ARCANE TAILS - Negation Tail
 
 PC COMMAND CARD
 Blessing of the Gods
-Defenses
-Hit & Run
+Duck and Cover!
 Lucky Penny
+Old Faithful
 Put the Fires Out
 
 TOTAL POINTS 100/100

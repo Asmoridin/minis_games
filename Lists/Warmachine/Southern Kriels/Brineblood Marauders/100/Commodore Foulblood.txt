@@ -1,49 +1,44 @@
-#3/28/25 33rd/40 ATC
+# 5/17/25 1st/11 Spanish tournament
 
-commodore Foulblood
+Foulblood
 Southern Kriels - Brineblood Marauders
 Grand Melee - 100 pts
 
 PC CARD
 
+Defenses
+DEFENSE 1 - Barrier
+DEFENSE 1 - Barrier
+DEFENSE 1 - Powder Keg
+
 Commodore Foulblood
-SPELL - Black Spot
 SPELL - Fury’s Strength
+SPELL - Fortune
 SPELL - Rough Seas
 
 16 Chum
 
-13 Deepborn Dire Troll
+15 Deepborn Dire Troll
 3 HEAD - Cantankerous
-1 FIN - Minnow
+3 FIN - Spearback
 5 RIGHT ARM - Hammerhead
 4 LEFT ARM - Shark Skull Gauntlet
 
-2 Booty Boss 1
+12 Vorogger
 
-2 Booty Boss 2
+2 Booty Boss
 
-1 Fire Guardian 1
+1 Fire Guardian
 
-1 Fire Guardian 2
+4 Fugue Walker
 
-1 Fire Guardian 3
-
-4 Fugue Walker 1
-
-4 Fugue Walker 2
-
-4 Fugue Walker 3
+4 Greygore Boomhowler
 
 3 Madame Moriarty
 
+3 Mr. Bogs
+
 2 Pyg Dirge
-
-2 Sully
-
-2 Surgeon 1
-
-2 Surgeon 2
 
 9 Lochabash Brothers
 
@@ -57,20 +52,16 @@ SPELL - Rough Seas
 
 6 Marauder Crew 3
 
-1 Marauder Crew Tapper 3
+3 Marauder Crew Bosun
 
-6 Marauder Crew 4
-
-1 Marauder Crew Tapper 4
-
-4 Spirit Shamans
+6 Pyg Boarding Party
 
 
 PC COMMAND CARD
 Blessing of the Gods
-Break Through
 Careful Reconnaissance
-Lucky Penny
-Old Faithful
+Defenses
+Duck and Cover!
+Hit & Run
 
 TOTAL POINTS 100/100

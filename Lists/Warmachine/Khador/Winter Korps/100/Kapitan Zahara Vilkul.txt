@@ -1,65 +1,65 @@
-#3/28/25 26th/40 ATC
+# 5/18/25 1st/10 Kentucky tournament
 
-Axe Lady
+but what if...
 Khador - Winter Korps
 Grand Melee - 100 pts
 
 PC CARD
 
+Defenses
+DEFENSE 1 - Barrier
+DEFENSE 1 - Barrier
+DEFENSE 1 - Fire Pit
+
 Kapitan Zahara Vilkul
-SPELL - Avenging Force
 SPELL - Fog of War
-SPELL - Freezing Grip
+SPELL - Superiority
+SPELL - Iron Flesh
 
-11 Dire Wolf 1
-1 HEAD - Shield Guard
-6 RIGHT ARM - Bombard
-4 LEFT ARM - Plow-Shield
-
-11 Dire Wolf 2
-1 HEAD - Shield Guard
-5 RIGHT ARM - Cannon
-5 LEFT ARM - Scrap Saw
+15 Great Bear
+2 HEAD - Aggressive
+7 RIGHT ARM - Battle Mace
+6 LEFT ARM - Heavy Cannon Shield
 
 15 Medveditsa
 HEAD - Medveditsa
 LEFT ARM - Left Bear Claw
 RIGHT ARM - Right Bear Claw
 
-4 Kontroller
+10 AC-2 Bison
 
-15 Avalanche
-HEAD - Hyper-Aggressive
-RIGHT ARM - Pneumatic Lance
-LEFT ARM - Wedge Shield
+20 Carver Ultimus
+
+War Boar MMD47
+
+7 Krueger, Wrath of Blighterghast
 
 4 Sergeant Goran Lazarenko, the Jackal
 
 3 Winter Korps Officer
 
-4 Arkanists 1
-
-4 Arkanists 2
-
-7 Shock Trooper Gunners 1
-
-7 Shock Trooper Gunners 2
+4 Arkanists
 
 8 The Hounds
-TETERYA 1 - Teterya 1
-FEDYNIAK 1 - Fedyniak 1
-SKROBALA 1 - Skrobala 1
 
-4 Winter Korps Snipers
+6 Winter Korps Infantry 1
+WEAPON SUPPORT TROOPERS - Rocketeer
+WEAPON SUPPORT TROOPERS - Auto Cannon
 
-1 Winter Korps Hunting Dog
+1 Winter Korps Standard 1
+
+6 Winter Korps Infantry 2
+WEAPON SUPPORT TROOPERS - Auto Cannon
+WEAPON SUPPORT TROOPERS - Auto Cannon
+
+1 Winter Korps Standard 2
 
 
 PC COMMAND CARD
 Blessing of the Gods
-Careful Reconnaissance
-Hit & Run
+Defenses
 Lucky Penny
 Old Faithful
+Sapper
 
-TOTAL POINTS 98/100
+TOTAL POINTS 100/100

@@ -1,35 +1,31 @@
-# 3/27/25 62/72
+# 5/17/25 3rd/62 London tournament
 
-Characters 10
-Juggernaut 5
-* Mystique 3
-Pyro 3
-The Blob 3
-Toad 2
-Rogue 4
-Quicksilver 3
-Hulk 6
-Shang-Chi 4
-Scarlet Witch 5
-
-Team Tactics 10
-The Books of Truth
-Asteroid M
-Brace for Impact R
-Recalibration Matrix
-Pyrotechnics
-Can I Borrow That?
-Sacrifice R
-Stolen Identity
+Characters
+Mystique (Raven Darkholme)
+Juggernaut (Cain Marko)
+Rogue (Anna Marie LeBeau)
+Quicksilver (Pietro Maximoff)
+Toad (Mortimer Toynbee)
+Hulk (Bruce Banner)
+Namor, the Sub-Mariner (Namor McKenzie)
+Beta Ray Bill (Bill)
+Spider-Man (Miles Morales)
+Shang-Chi (Zheng Shang-Chi)
+Team Tactics
+Brace for Impact
 Do You Know Who I Am?
+Recalibration Matrix
+Fall Back
+Warpath
 Survival
-
-Secure Crisis
-Guardians Save Shi‘ar Empress in Style M, 17
-M‘Kraan Crystal Gets Heroes Home! G, 19
-Mutant Madman Turns City Into Lethal Amusement Park B, 18
-
-Extract Crisis
-Mutant Extremists Target U.S. Senators! L, 19
-Fear Grips World As “Worthy“ Terrorize Cities D, 18
-Scientific Samples Found in Discovered Universe D, 17
+Prince's Protection
+Asteroid M
+Chi Mastery
+Can I Borrow That?
+Crises
+Cosmic Invasion! Black Order Descends on Earth
+Infinity Formula Goes Missing!
+Riots Spark Over Extremis 3.0
+Mutant Extremists Target U.S. Senators!
+Scientific Samples Found In Discovered Universe
+Unexpected Guests Crash Royal Wedding

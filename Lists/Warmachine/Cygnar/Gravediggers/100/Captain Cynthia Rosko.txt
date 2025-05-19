@@ -1,24 +1,10 @@
-#4/3/25 21st/23
+# 5/18/25 7th/10 Kentucky tournament
 
-Cyn
+Cyn cryx
 Cygnar - Gravediggers
 Grand Melee - 100 pts
 
 PC CARD
-
-Heavy Weapon Crate 1
-HEAVY WEAPON - Heavy Flamethrower
-
-Blocker 1
-
-Skirmisher 1
-
-Heavy Weapon Crate 2
-HEAVY WEAPON - Heavy Flamethrower
-
-Skirmisher 2
-
-Blocker 2
 
 Ammo Crate 1
 
@@ -26,38 +12,66 @@ Medical Crate 1
 
 Mantlet 1
 
+Fuel Canister 1
+
 Ammo Crate 2
 
 Medical Crate 2
 
 Mantlet 2
 
+Fuel Canister 2
+
+Defenses
+DEFENSE 1 - Barrier
+DEFENSE 1 - Barrier
+DEFENSE 1 - Barrier
+
+Heavy Weapon Crate
+HEAVY WEAPON - Heavy Flamethrower
+
+Skirmisher
+
+Blocker
+
+Raider
+
 Captain Cynthia Rosko
 SPELL - Arcane Shield
 SPELL - Chasten
 
-17 Deuce
-
-10 Patriot
+9 Patriot 1
 2 HEAD - Arc Node
-3 RIGHT ARM - Pole Cleaver
-5 LEFT ARM - Tracer Cannon
+5 RIGHT ARM - Sniper Cannon
+2 LEFT ARM - Trench Blade
 
-15 Valiant 1
-2 HEAD - Reposition
+8 Patriot 2
+1 HEAD - Shield Guard
+5 RIGHT ARM - Sniper Cannon
+2 LEFT ARM - Trench Blade
+
+12 Valiant 1
+1 HEAD - Evasive
 7 RIGHT ARM - Heavy Barrel
-6 LEFT ARM - Volley Shield
+4 LEFT ARM - Slug Fist
 
-14 Valiant 2
-2 HEAD - Reposition
+12 Valiant 2
+1 HEAD - Evasive
 7 RIGHT ARM - Heavy Barrel
-5 LEFT ARM - Harpoon Fist
+4 LEFT ARM - Slug Fist
 
-3 Lt. Stella Barron
+12 Valiant 3
+1 HEAD - Evasive
+7 RIGHT ARM - Heavy Barrel
+4 LEFT ARM - Slug Fist
+
+3 Heavy Machine Gun Crew
 
 4 Gravedigger Gun Mages 1
 
 4 Gravedigger Gun Mages 2
+
+8 Gravedigger Rangers
 
 5 Storm Vanes
 
@@ -68,8 +82,8 @@ SPELL - Chasten
 
 PC COMMAND CARD
 Blessing of the Gods
+Defenses
 5 Heavy Airdrop 1
-5 Heavy Airdrop 2
 Light Airdrop 1
 Light Airdrop 2
 Lucky Penny

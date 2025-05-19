@@ -1,6 +1,6 @@
-#3/30/25 5th/6
+# 5/17/25 14th/18 Wisconsin Tournament
 
-Madrak 3
+Madrak
 Trollbloods - United Kriels
 Grand Melee - 100 pts
 
@@ -8,29 +8,25 @@ PC CARD
 
 Madrak, Great Chieftain
 
-17 Dire Troll Bomber
+12 Dire Troll Blitzer
 
-7 Troll Axer
+13 Dire Troll Mauler
 
-8 Troll Bouncer
+7 Troll Axer 1
+
+7 Troll Axer 2
+
+8 Troll Impaler
+
+4 Braylen Wanderheart, Trollkin Outlaw
 
 4 Fennblade Kithkar
 
-1 Troll Whelps 1
-
-1 Troll Whelps 2
-
-3 Trollkin Gunnery Sergeant
-
 3 Trollkin Runebearer
 
-5 Krielstone Bearer & Stone Scribes
+6 Pyg Bushwhackers
 
-1 Stone Scribe Elder
-
-8 Trollkin Barrage Team 1
-
-8 Trollkin Barrage Team 2
+8 Trollkin Barrage Team
 
 7 Trollkin Fennblades 1
 
@@ -40,16 +36,16 @@ Madrak, Great Chieftain
 
 3 Trollkin Fennblade Officer & Drummer 2
 
-7 Trollkin Highwaymen 1
+4 Trollkin Scouts 1
 
-7 Trollkin Highwaymen 2
+4 Trollkin Scouts 2
 
 
 PC COMMAND CARD
-Break Through
 Careful Reconnaissance
 Duck and Cover!
 Hit & Run
 Old Faithful
+Put the Fires Out
 
 TOTAL POINTS 100/100

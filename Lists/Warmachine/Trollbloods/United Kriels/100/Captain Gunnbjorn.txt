@@ -1,6 +1,6 @@
-#3/30/25 5th/6
+# 5/17/25 14th/18 Wisconsin Tournament
 
-Gunnbjorn 2 Bombers
+Gunny
 Trollbloods - United Kriels
 Grand Melee - 100 pts
 
@@ -8,36 +8,36 @@ PC CARD
 
 Captain Gunnbjorn
 
-17 Dire Troll Bomber 1
-
-17 Dire Troll Bomber 2
-
-13 Dire Troll Mauler
+12 Dire Troll Blitzer
 
 14 Dozer & Smigg
 
-3 Trollkin Gunnery Sergeant 1
+28 Mountain King
 
-3 Trollkin Gunnery Sergeant 2
+7 Troll Axer
+
+3 Trollkin Gunnery Sergeant
 
 3 Trollkin Runebearer
 
-5 Pummeler Crew
+5 Krielstone Bearer & Stone Scribes
 
-6 Pyg Bushwhackers
+8 Trollkin Barrage Team
 
-3 Pyg Bushwhacker Officer & Mortar
+7 Trollkin Fennblades 1
 
-8 Trollkin Barrage Team 1
+3 Trollkin Fennblade Officer & Drummer 1
 
-8 Trollkin Barrage Team 2
+7 Trollkin Fennblades 2
+
+3 Trollkin Fennblade Officer & Drummer 2
 
 
 PC COMMAND CARD
 Blessing of the Gods
-Break Through
 Careful Reconnaissance
-Duck and Cover!
 Hit & Run
+Old Faithful
+Put the Fires Out
 
 TOTAL POINTS 100/100

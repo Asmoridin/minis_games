@@ -1,6 +1,6 @@
-#4/7/25 34th/70 Wartable Team Championship
+# 5/17/25 4th/18 Wisconsin Tournament
 
-krueger#100
+2ueger
 Circle Orboros - Secret Dominion
 Grand Melee - 100 pts
 
@@ -10,49 +10,40 @@ Krueger the Stormlord
 
 15 Megalith
 
-3 Woldwight 1
+13 Woldwarden
 
-3 Woldwight 2
+27 Woldwrath
 
-13 Celestial Fulcrum
+7 Woldwyrd 1
 
-2 Blackclad Stoneshaper
+7 Woldwyrd 2
 
-3 Blackclad Wayfarer
+2 Blackclad Stoneshaper 1
 
-20 Carver Ultimus
+2 Blackclad Stoneshaper 2
 
-War Boar MMD47
+2 Blackclad Stoneshaper 3
 
-2 War Wolf
+3 Blackclad Wayfarer 1
 
-7 Wolf Lord Morraig
+3 Blackclad Wayfarer 2
 
-4 Reeve Hunter
+4 Chuck Dogwood
 
-9 Druid Mist Riders 1
+2 Stone Keeper
 
-9 Druid Mist Riders 2
-
-4 Druids of Orboros
-
-2 Druid of Orboros Overseer
+9 Druid Mist Riders
 
 2 Shifting Stones 1
 
 2 Shifting Stones 2
 
-Defenses
-DEFENSE 1 - Barrier
-DEFENSE 1 - Barrier
-DEFENSE 1 - Barrier
-
 
 PC COMMAND CARD
 Blessing of the Gods
-Defenses
+Break Through
 Hit & Run
 Lucky Penny
-Sapper
+Put the Fires Out
 
 TOTAL POINTS 100/100

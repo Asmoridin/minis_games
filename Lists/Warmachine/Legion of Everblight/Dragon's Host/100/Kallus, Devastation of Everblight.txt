@@ -1,6 +1,6 @@
-#4/7/25 59th/70 Wartable Team Championship
+# 5/17/25 12th/18 Wisconsin Tournament
 
-Kallus AA
+Kallrosh
 Legion of Everblight - Dragon's Host
 Grand Melee - 100 pts
 
@@ -8,38 +8,35 @@ PC CARD
 
 Kallus, Devastation of Everblight
 
-28 Archangel
-
 15 Golab
 
-3 Harrier
+14 Ravagore 1
 
-8 Naga Nightlurker
+14 Ravagore 2
 
-4 Ammok the Truthbearer
-
-1 Blighted Nyss Shepherd
-
-3 Forsaken
-
-5 Thagrosh Hellborne
+14 Ravagore 3
 
 11 Seraph
 
-11 Chosen of Everblight 1
+1 Blighted Nyss Shepherd
 
-11 Chosen of Everblight 2
+3 Forsaken 1
 
-Defenses
-DEFENSE 1 - Barrier
-DEFENSE 1 - Barrier
-DEFENSE 1 - Barrier
+3 Forsaken 2
+
+5 Thagrosh Hellborne
+
+8 Naga Nightlurker
+
+6 Blighted Rotwings 1
+
+6 Blighted Rotwings 2
 
 
 PC COMMAND CARD
-Defenses
+Blessing of the Gods
+Break Through
 Duck and Cover!
-Hit & Run
 Lucky Penny
 Put the Fires Out
 
