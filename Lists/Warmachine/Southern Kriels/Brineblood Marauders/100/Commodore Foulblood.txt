@@ -1,23 +1,19 @@
-#3/28/25 33rd/40 ATC
+# 5/17/25 8th/18 Wisconsin Tournament
 
-commodore Foulblood
+Bloody Fowl Stench In These Waters
 Southern Kriels - Brineblood Marauders
 Grand Melee - 100 pts
 
 PC CARD
 
 Commodore Foulblood
+SPELL - Fortify
+SPELL - Fortune
 SPELL - Black Spot
-SPELL - Fury’s Strength
-SPELL - Rough Seas
 
 16 Chum
 
-13 Deepborn Dire Troll
-3 HEAD - Cantankerous
-1 FIN - Minnow
-5 RIGHT ARM - Hammerhead
-4 LEFT ARM - Shark Skull Gauntlet
+16 Great Old One
 
 2 Booty Boss 1
 
@@ -27,8 +23,6 @@ SPELL - Rough Seas
 
 1 Fire Guardian 2
 
-1 Fire Guardian 3
-
 4 Fugue Walker 1
 
 4 Fugue Walker 2
@@ -37,7 +31,9 @@ SPELL - Rough Seas
 
 3 Madame Moriarty
 
-2 Pyg Dirge
+4 Mawga'Bawza
+
+3 Pyg Cannon Crew
 
 2 Sully
 
@@ -59,10 +55,6 @@ SPELL - Rough Seas
 
 1 Marauder Crew Tapper 3
 
-6 Marauder Crew 4
-
-1 Marauder Crew Tapper 4
-
 4 Spirit Shamans
 
 
@@ -72,5 +64,6 @@ Break Through
 Careful Reconnaissance
 Lucky Penny
 Old Faithful
+Put the Fires Out
 
 TOTAL POINTS 100/100
