@@ -1,6 +1,6 @@
-# 5/18/25 3rd/10 Kentucky tournament
+# 5/17/25 2nd/18 Wisconsin Tournament
 
-Travis Eviscerus
+Eviscerus G
 Cryx - Necrofactorium
 Grand Melee - 100 pts
 
@@ -32,8 +32,6 @@ SPELL - Calamity
 
 3 Akulon Thaemestra
 
-8 Criterions
-
 8 Mechanithrall Brutes
 
 4 Necrosurgeon Initiates 1
@@ -44,14 +42,16 @@ SPELL - Calamity
 
 8 Sludge Thralls 2
 
+8 The Criterions
+
 10 The Furies
 
 
 PC COMMAND CARD
 Blessing of the Gods
-Hit & Run
 Lucky Penny
 Old Faithful
 Put the Fires Out
+Sapper
 
 TOTAL POINTS 100/100
