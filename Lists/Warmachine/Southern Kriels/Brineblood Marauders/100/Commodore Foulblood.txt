@@ -1,45 +1,44 @@
-# 5/17/25 8th/18 Wisconsin Tournament
+# 5/17/25 1st/11 Spanish tournament
 
-Bloody Fowl Stench In These Waters
+Foulblood
 Southern Kriels - Brineblood Marauders
 Grand Melee - 100 pts
 
 PC CARD
 
+Defenses
+DEFENSE 1 - Barrier
+DEFENSE 1 - Barrier
+DEFENSE 1 - Powder Keg
+
 Commodore Foulblood
-SPELL - Fortify
+SPELL - Fury’s Strength
 SPELL - Fortune
-SPELL - Black Spot
+SPELL - Rough Seas
 
 16 Chum
 
-16 Great Old One
+15 Deepborn Dire Troll
+3 HEAD - Cantankerous
+3 FIN - Spearback
+5 RIGHT ARM - Hammerhead
+4 LEFT ARM - Shark Skull Gauntlet
 
-2 Booty Boss 1
+12 Vorogger
 
-2 Booty Boss 2
+2 Booty Boss
 
-1 Fire Guardian 1
+1 Fire Guardian
 
-1 Fire Guardian 2
+4 Fugue Walker
 
-4 Fugue Walker 1
-
-4 Fugue Walker 2
-
-4 Fugue Walker 3
+4 Greygore Boomhowler
 
 3 Madame Moriarty
 
-4 Mawga'Bawza
+3 Mr. Bogs
 
-3 Pyg Cannon Crew
-
-2 Sully
-
-2 Surgeon 1
-
-2 Surgeon 2
+2 Pyg Dirge
 
 9 Lochabash Brothers
 
@@ -53,17 +52,16 @@ SPELL - Black Spot
 
 6 Marauder Crew 3
 
-1 Marauder Crew Tapper 3
+3 Marauder Crew Bosun
 
-4 Spirit Shamans
+6 Pyg Boarding Party
 
 
 PC COMMAND CARD
 Blessing of the Gods
-Break Through
 Careful Reconnaissance
-Lucky Penny
-Old Faithful
-Put the Fires Out
+Defenses
+Duck and Cover!
+Hit & Run
 
 TOTAL POINTS 100/100
