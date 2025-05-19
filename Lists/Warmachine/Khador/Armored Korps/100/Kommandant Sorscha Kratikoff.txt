@@ -1,5 +1,6 @@
-#4/6/25 3rd/7
+# 5/17/25 3rd/18 Wisconsin Tournament
 
+thicc
 Khador - Armored Korps
 Grand Melee - 100 pts
 
@@ -7,40 +8,40 @@ PC CARD
 
 Kommandant Sorscha Kratikoff
 
-15 Beast 09
+13 Devastator
 
 10 Juggernaut 1
 
 10 Juggernaut 2
 
-11 Man-O-War Siege Chariot
+10 Kodiak 1
 
-4 Man-O-War Kovnik 1
+10 Kodiak 2
 
-4 Man-O-War Kovnik 2
+4 Man-O-War Kovnik
 
-2 Battle Mechaniks 1
+4 Greylord Ternion 1
 
-2 Battle Mechanik Officer
-
-2 Battle Mechaniks 2
-
-4 Greylord Ternion
+4 Greylord Ternion 2
 
 9 Man-O-War Bombardiers
 
-7 Man-O-War Demolition Korps
-
-4 Sergeant Dragos Dragadovich
+3 Man-O-War Bombardier Officer
 
 8 Man-O-War Shocktroopers 1
 
+3 Man-O-War Shocktrooper Officer 1
+
 8 Man-O-War Shocktroopers 2
+
+3 Man-O-War Shocktrooper Officer 2
 
 
 PC COMMAND CARD
 Blessing of the Gods
+Break Through
 Careful Reconnaissance
 Lucky Penny
 Old Faithful
-Put the Fires Out
+
+TOTAL POINTS 99/100
