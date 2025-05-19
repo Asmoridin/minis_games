@@ -1,16 +1,10 @@
-# 5/18/25 3rd/10 Kentucky tournament
+# 5/17/25 2nd/18 Wisconsin Tournament
 
-
-Travis Khythos
+Khythos C
 Cryx - Necrofactorium
 Grand Melee - 100 pts
 
 PC CARD
-
-Defenses
-DEFENSE 1 - Barrier
-DEFENSE 1 - Barrier
-DEFENSE 1 - Barrier
 
 Exulon Khythos
 SPELL - Blood Rain
@@ -34,8 +28,6 @@ SPELL - Carnage
 
 3 Skarlock Lieutenant
 
-8 Criterions
-
 6 Mechanithrall Swarm
 
 4 Necrosurgeon Initiates 1
@@ -48,14 +40,21 @@ SPELL - Carnage
 
 8 Sludge Thralls 2
 
+8 The Criterions
+
 10 The Furies
+
+Defenses
+DEFENSE 1 - Barrier
+DEFENSE 1 - Barrier
+DEFENSE 1 - Barrier
 
 
 PC COMMAND CARD
 Blessing of the Gods
 Defenses
-Duck and Cover!
 Lucky Penny
+Old Faithful
 Put the Fires Out
 
 TOTAL POINTS 100/100
