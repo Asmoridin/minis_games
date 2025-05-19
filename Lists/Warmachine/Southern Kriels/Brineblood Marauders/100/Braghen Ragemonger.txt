@@ -1,66 +1,73 @@
-#3/29/25 8th/48 IG Qualifiers
+# 5/17/25 1st/11 Spanish tournament
 
-Shark attack
+Ragemonger ak
 Southern Kriels - Brineblood Marauders
 Grand Melee - 100 pts
 
 PC CARD
 
-Braghen Ragemonger
-SPELL - Fortune
-SPELL - Fortify
-SPELL - Black Spot
+Defenses
+DEFENSE 1 - Barrier
+DEFENSE 1 - Barrier
+DEFENSE 1 - Fire Pit
 
-28 Abyssal King
+Braghen Ragemonger
+SPELL - Black Spot
+SPELL - Fortify
+SPELL - Fortune
+
+29 Abyssal King
 10 HEAD - Bulbous Chomper Head
-6 FIGUREHEAD - Triton
+7 FIGUREHEAD - Seahorse
 6 TENTACLE WEAPON 1 - Main Gun
 6 TENTACLE WEAPON 1 - Main Gun
+
+15 Deepborn Dire Troll
+3 HEAD - Cantankerous
+3 FIN - Spearback
+5 RIGHT ARM - Hammerhead
+4 LEFT ARM - Shark Skull Gauntlet
 
 7 Reef Troll
 HEAD - Matey
-1 BOOZE - Ale Tankard
-4 RIGHT ARM - Harpoon
-2 LEFT ARM - Boarding Axe
-
-2 Booty Boss
+1 BOOZE - Rum Jug
+3 RIGHT ARM - Cutlass
+3 LEFT ARM - Ship’s Wheel
 
 1 Fire Guardian
 
-4 First Mate Hargor Stormjaw
-
 3 Madame Moriarty
 
-2 Pyg Dirge
+4 Mawga'Bawza
+
+2 Pyg Dirge 1
+
+2 Pyg Dirge 2
 
 6 Marauder Crew 1
 
-4 Marauder Crew Quartermaster 4
+4 Marauder Crew Quartermaster 1
 
 6 Marauder Crew 2
 
-4 Marauder Crew Quartermaster 3
+4 Marauder Crew Quartermaster 2
 
 6 Marauder Crew 3
 
-4 Marauder Crew Quartermaster 2
-
-6 Marauder Crew 4
-
-4 Marauder Crew Quartermaster 1
+1 Marauder Crew Tapper
 
 6 Pyg Boarding Party
 
 3 Pyg Galley Crew
 
-4 Spirit Shamans
+1 Pyg Coxswain
 
 
 PC COMMAND CARD
 Blessing of the Gods
 Careful Reconnaissance
+Defenses
 Duck and Cover!
-Lucky Penny
-Sapper
+Old Faithful
 
 TOTAL POINTS 100/100
