@@ -1,6 +1,7 @@
-#3/31/25 6th/12
+# 5/18/25 3rd/10 Kentucky tournament
 
-Exulon
+
+Travis Khythos
 Cryx - Necrofactorium
 Grand Melee - 100 pts
 
@@ -8,44 +9,40 @@ PC CARD
 
 Defenses
 DEFENSE 1 - Barrier
-DEFENSE 2 - Fire Pit
-DEFENSE 1 - Fire Pit
+DEFENSE 1 - Barrier
+DEFENSE 1 - Barrier
 
 Exulon Khythos
-SPELL - Scything Touch
+SPELL - Blood Rain
 SPELL - Calamity
-SPELL - Death Ward
+SPELL - Carnage
 
-16 Grendel
-HEAD - Grendel
-RIGHT ARM - Salvage Ripper Right
-LEFT ARM - Salvage Ripper Left
-
-15 Malefactor 1
-4 HEAD - Dark Shroud
+12 Malefactor
+1 HEAD - Soul Claiming
 7 RIGHT ARM - Fell Axe
 4 LEFT ARM - Spiked Shield
 
-15 Malefactor 2
-4 HEAD - Dark Shroud
-7 RIGHT ARM - Fell Axe
-4 LEFT ARM - Spiked Shield
-
-6 Raptor 1
-4 HEAD - Doomspitter
+5 Raptor
+3 HEAD - Beaked Maw
 2 BACK - Arc Node
 
-6 Raptor 2
-4 HEAD - Venom Blaster
-2 BACK - Necrovent
+15 Malfessor
 
 3 Akulon Thaemestra
 
-4 Silexus Xiphus
+4 Iron Lich Commander
+
+3 Skarlock Lieutenant
+
+8 Criterions
+
+6 Mechanithrall Swarm
 
 4 Necrosurgeon Initiates 1
 
 4 Necrosurgeon Initiates 2
+
+10 Night Terrors
 
 8 Sludge Thralls 1
 
@@ -56,9 +53,9 @@ LEFT ARM - Salvage Ripper Left
 
 PC COMMAND CARD
 Blessing of the Gods
-Careful Reconnaissance
 Defenses
+Duck and Cover!
 Lucky Penny
-Sapper
+Put the Fires Out
 
-TOTAL POINTS 99/100
+TOTAL POINTS 100/100
