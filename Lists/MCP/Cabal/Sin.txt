@@ -1,7 +1,7 @@
 # 4/12/25 15/16 Denmark tournament
 
 Characters (10):
-Baron Zemo (Helmut Zemo)
+Baron Zemo (3)
 Bullseye (Benjamin Poindexter)
 Crossbones (Brock Rumlow)
 Hood (Parker Robbins)
@@ -11,7 +11,7 @@ Viper (Ophelia Sarkissian)
 Quicksilver (Pietro Maximoff)
 Yondu (Yondu Udonta)
 Spider-Woman (Jessica Drew)
-Team Tactics
+Tactics (10):
 Dark Reign
 Dig In
 Can I Borrow That?

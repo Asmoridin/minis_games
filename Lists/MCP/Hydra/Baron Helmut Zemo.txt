@@ -11,7 +11,7 @@ Ultron, Metal Tyrant (Ultron)
 Crossbones, Merciless Merc (Brock Rumlow)
 Abomination (Emil Blonsky)
 Bob, Agent of Hydra (Robert Dobalina)
-Team Tactics
+Tactics (10):
 Inevitable Betrayal
 World Domination
 Sleeper Agent

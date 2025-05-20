@@ -3,7 +3,7 @@
 Characters (10):
 Red Skull (Johann Schmidt)
 Dracula (Vlad Dracula)
-Baron Zemo (Helmut Zemo)
+Baron Zemo (3)
 Bullseye (Benjamin Poindexter)
 Silver Sable (Silvija Sablinova)
 Crossbones, Merciless Merc (Brock Rumlow)
@@ -11,7 +11,7 @@ Elektra (Elektra Nachios)
 Hulk (Bruce Banner)
 Sabretooth (Victor Creed)
 Mephisto, Lord of Temptation (Mephisto)
-Team Tactics
+Tactics (10):
 Brace for Impact
 Dark Reign
 Cosmic Obliteration

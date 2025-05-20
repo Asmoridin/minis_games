@@ -1,6 +1,6 @@
 # 5/17/25 6/14 french tournament
 
-Characters
+Characters (10):
 Karnak (Karnak Mander-Azur)
 Gorgon (Gorgon Petragon)
 Maximus the Mad (Maximus Boltagon)
@@ -11,7 +11,7 @@ Lockjaw
 Red Skull, Master of Hydra (Johann Schmidt)
 Hulk (Bruce Banner)
 Quicksilver (Pietro Maximoff)
-Team Tactics
+Tactics (10):
 Brace for Impact
 Terrigenesis
 Can I Borrow That?

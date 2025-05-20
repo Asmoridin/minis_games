@@ -1,8 +1,8 @@
 # 5/18/25 1/8 cut of big London event
 
-Characters
+Characters (10):
 Shadowland Daredevil (Matt Murdock)
-Baron Zemo (Helmut Zemo)
+Baron Zemo (3)
 Bullseye (Benjamin Poindexter)
 Iron Man (Tony Stark)
 Killmonger (N'Jadaka)
@@ -11,7 +11,7 @@ Nick Fury & the Howling Commandos (Nicholas Fury, Sr., Timothy "Dum Dum" Dugan, 
 Loki, Prince of Lies (Loki Laufeyson)
 Pyro (St. John Allerdyce)
 The Wrecking Crew (Brian Calusky, Dirk Garthwaite, Eliot Franklin, Henry Camp)
-Team Tactics
+Tactics (10):
 All According to Plan
 Cruelty
 Shadow Organization

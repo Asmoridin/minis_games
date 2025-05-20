@@ -1,17 +1,17 @@
 # 5/17/25 2/14
 
-Characters
+Characters (10):
 Daredevil (Matt Murdock)
 Namor, the Sub-Mariner (Namor McKenzie)
 Wong
 Shang-Chi (Zheng Shang-Chi)
 Luke Cage
-Baron Zemo (Helmut Zemo)
+Baron Zemo (3)
 Man-Thing (Theodore Sallis)
 Nova (Richard Rider)
 Wolverine (James Logan Howlett)
 Hulk (Bruce Banner)
-Team Tactics
+Tactics (10):
 Mystic Ward
 Heroes for Hire
 Chi Mastery

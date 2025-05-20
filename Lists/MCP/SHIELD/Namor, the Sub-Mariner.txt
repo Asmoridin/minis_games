@@ -1,6 +1,6 @@
 # 5/18/25 1st/25
 
-Characters
+Characters (10):
 Namor, the Sub-Mariner (Namor McKenzie)
 Spider-Woman (Jessica Drew)
 Nick Fury (Nicholas J. Fury, Jr.)
@@ -8,10 +8,10 @@ Spectacular Spider-Man (Peter Parker)
 Winter Soldier (James "Bucky" Barnes)
 Black Widow (Natasha Romanoff)
 Shang-Chi (Zheng Shang-Chi)
-Baron Zemo (Helmut Zemo)
+Baron Zemo (3)
 Wong
 Bullseye (Benjamin Poindexter)
-Team Tactics
+Tactics (10):
 Brace for Impact
 Fall Back
 Recalibration Matrix

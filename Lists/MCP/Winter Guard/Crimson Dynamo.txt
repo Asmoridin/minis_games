@@ -11,7 +11,7 @@ Shang-Chi (Zheng Shang-Chi)
 Spider-Man (Miles Morales)
 Rhino (Aleksei Sytsevich)
 Abomination (Emil Blonsky)
-Team Tactics
+Tactics (10):
 Sovereign Strike
 Comrade's Keeper
 Indomitable

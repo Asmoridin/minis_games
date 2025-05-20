@@ -1,31 +1,37 @@
 # 4/12/25 20/32 Irish Tournament
 
 Characters (10):
-Angela (Aldrif Odindottir)
-Lady Sif (Sif)
+Threat: 46
+Angela (5)
+Lady Sif (4)
 *Loki, Prince of Lies (5)
 *The Mighty Thor (5)
 *Thor, Prince of Asgard (5)
-Ronan the Accuser
-Hulk (Bruce Banner)
-Toad (Mortimer Toynbee)
-The Immortal Hulk (Bruce Banner)
-Spider-Man (Miles Morales)
-Team Tactics
+Ronan the Accuser (4)
+Hulk (6)
+Toad (2)
+The Immortal Hulk (7)
+*Spider-Man (Miles Morales) (3)
+
+Tactics (10):
 Trickster's Boon
 Heart of the Worthy
 Odin's Blessing
-Doomed Prophecy
 Giant's Blood
-Indomitable
+Doomed Prophecy
+Indomitable (R)
 Rainbow Bridge
 One Below All
-Patch Up
+Patch Up (R)
 Recalibration Matrix
-Crises
-Deadline to Destruction
-Mayor Fisk Vows to Find Missing Witnesses
-Deadly Meteors Mutate Citizens
-Alien Ship Crashes in Downtown!
-Scientific Samples Found In Discovered Universe
-Terrigen Canisters Fuel Doomsday Device
+
+Secure Crisis:
+Deadline to Destruction (, 16)
+Mayor Fisk Vows to Find Missing Witnesses (H, 16)
+Deadly Meteors Mutate Citizens (I, 17)
+
+Extract Crisis:
+Terrigen Canisters Fuel Doomsday Device (F, 17)
+Scientific Samples Found In Discovered Universe (D, 17)
+Alien Ship Crashes in Downtown! (C, 17)
+

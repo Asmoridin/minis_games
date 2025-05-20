@@ -1,31 +1,37 @@
 # 5/17/25 2nd/14
 
-Characters
-Thor, Prince of Asgard (Thor Odinson)
-Gamora
-Nebula
-Shang-Chi (Zheng Shang-Chi)
-Captain America, First Avenger (Steve Rogers)
-King T'Challa (T'Challa)
-Doctor Voodoo (Jericho Drumm)
-Luke Cage
-Gambit (Remy LeBeau)
-Hulk (Bruce Banner)
-Team Tactics
-Brace for Impact
+Characters (10):
+Threat: 40
+*Thor, Prince of Asgard (5)
+Gamora (4)
+Nebula (2)
+Shang-Chi (4)
+*Captain America, First Avenger (4)
+*King T'Challa (5)
+Doctor Voodoo (4)
+Luke Cage (3)
+Gambit (3)
+Hulk (6)
+
+Tactics (10):
+Brace for Impact (R)
 Avengers Assemble
 Wisdom of the Ancestors
-Battle Plan
 Reserve Members
+Battle Plan
 Chi Mastery
 Heroes for Hire
-Survival
 Second Wind
-Patch Up
-Crises
-Mayor Fisk Vows to Find Missing Witnesses
-Wedding Party Targeted By Terrible Attack!
-Intrusions Open Across City As Seals Collapse
-Skrulls Infiltrate World Leadership
-Fear Grips World as "Worthy" Terrorize Cities
-Deadly Legacy Virus Cured?
+Survival
+Patch Up (R)
+
+Secure Crisis:
+Mayor Fisk Vows to Find Missing Witnesses (H, 16)
+Wedding Party Targeted By Terrible Attack! (, 20)
+Intrusions Open Across City As Seals Collapse (C, 19)
+
+Extract Crisis:
+Deadly Legacy Virus Cured? (C, 19)
+Fear Grips World as "Worthy" Terrorize Cities (D, 18)
+Skrulls Infiltrate World Leadership (J, 20)
+

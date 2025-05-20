@@ -12,7 +12,7 @@ Sandman 4
 Lizard 3
 Doctor Octopus 3
 
-Team Tactics 10
+Tactics (10): 10
 Chi Mastery
 Do You Know Who I Am?
 Surprise, Webhead

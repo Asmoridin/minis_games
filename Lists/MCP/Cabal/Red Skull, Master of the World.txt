@@ -1,8 +1,8 @@
 # 5/17/25 1st/62 London tournament
 
-Characters
+Characters (10):
 Malekith the Accursed (Malekith)
-Baron Zemo (Helmut Zemo)
+Baron Zemo (3)
 Mephisto, Lord of Temptation (Mephisto)
 Bullseye (Benjamin Poindexter)
 Kingpin (Wilson Fisk)
@@ -11,7 +11,7 @@ The Wrecking Crew (Brian Calusky, Dirk Garthwaite, Eliot Franklin, Henry Camp)
 Black Cat (Felicia Hardy)
 Red Skull, Master of the World (Johann Schmidt)
 N'Kantu, the Living Mummy (N'Kantu)
-Team Tactics
+Tactics (10):
 Sacrifice
 Recalibration Matrix
 Brace for Impact

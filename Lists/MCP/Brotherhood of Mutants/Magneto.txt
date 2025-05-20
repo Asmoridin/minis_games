@@ -1,6 +1,6 @@
 # 5/17/25 43rd/62 London tournament
 
-Characters
+Characters (10):
 Magneto (Max Eisenhardt)
 Mystique (Raven Darkholme)
 Juggernaut (Cain Marko)
@@ -11,7 +11,7 @@ Cable (Nathan Summers)
 Rhino (Aleksei Sytsevich)
 Elektra (Elektra Nachios)
 Wong
-Team Tactics
+Tactics (10):
 Asteroid M
 Magnetic Refraction
 This is a Robbery

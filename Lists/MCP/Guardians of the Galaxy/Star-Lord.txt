@@ -1,6 +1,6 @@
 # 5/18/25 1st/8 Big London event
 
-Characters
+Characters (10):
 Star-Lord (Peter Quill)
 Rocket Raccoon
 Groot
@@ -9,9 +9,9 @@ Beta Ray Bill (Bill)
 Yondu (Yondu Udonta)
 Nova (Richard Rider)
 Nebula
-Baron Zemo (Helmut Zemo)
+Baron Zemo (3)
 Namor, the Sub-Mariner (Namor McKenzie)
-Team Tactics
+Tactics (10):
 Brace for Impact
 Foreign Assignment
 Galaxy's Greatest

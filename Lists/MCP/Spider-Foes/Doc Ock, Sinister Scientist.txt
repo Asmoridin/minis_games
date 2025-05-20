@@ -1,6 +1,6 @@
 # 5/17/25 4th/62 London tournament
 
-Characters
+Characters (10):
 Doc Ock, Sinister Scientist (Otto Octavius)
 Rhino (Aleksei Sytsevich)
 Sandman (Flint Marko)
@@ -11,7 +11,7 @@ Lizard (Curtis Connors)
 Abomination (Emil Blonsky)
 Scarlet Spider (Ben Reilly)
 Toad (Mortimer Toynbee)
-Team Tactics
+Tactics (10):
 Sinister Traps
 Surprise, Webhead
 Strategic Retreat

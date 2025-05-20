@@ -1,6 +1,6 @@
 # 5/17/25 3/14
 
-Characters
+Characters (10):
 Professor X (Charles Xavier)
 Jean Grey
 Psylocke (Elizabeth Braddock)
@@ -11,7 +11,7 @@ Cable (Nathan Summers)
 Magik (Illyana Rasputin)
 Rogue (Anna Marie LeBeau)
 Cyclops (Scott Summers)
-Team Tactics
+Tactics (10):
 Cerebro
 Children of the Atom
 First Class

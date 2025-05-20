@@ -1,6 +1,6 @@
 # 5/18/25 3rd/25
 
-Characters
+Characters (10):
 Cable (Nathan Summers)
 Psylocke (Elizabeth Braddock)
 Sabretooth (Victor Creed)
@@ -11,7 +11,7 @@ Warlock
 Domino (Neena Thurman)
 X-23 (Laura Kinney)
 Honey Badger (Gabrielle Kinney)
-Team Tactics
+Tactics (10):
 Cat and Mouse
 Brace for Impact
 Pretty Sneaky, Sis

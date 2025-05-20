@@ -3,7 +3,7 @@
 Characters (10):
 The Wrecking Crew (Brian Calusky, Dirk Garthwaite, Eliot Franklin, Henry Camp)
 Mystique (Raven Darkholme)
-Baron Zemo (Helmut Zemo)
+Baron Zemo (3)
 Domino (Neena Thurman)
 Malekith the Accursed (Malekith)
 Red Skull, Master of Hydra (Johann Schmidt)
@@ -11,7 +11,7 @@ Winter Soldier (James "Bucky" Barnes)
 Bullseye (Benjamin Poindexter)
 Killmonger (N'Jadaka)
 Wong
-Team Tactics
+Tactics (10):
 Dark Reign
 Soldat Activated
 Midnight Phantasmagoria

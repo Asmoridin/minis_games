@@ -1,31 +1,36 @@
 # 3/27/25 8/72 Adepticon
 
 Characters (10):
-Captain America (Steve Rogers)
-Captain America (Sam Wilson)
-Hulk (Bruce Banner)
-The Black Widow (Natasha Romanoff)
-Quicksilver (Pietro Maximoff)
-Beta Ray Bill (Bill)
-Toad (Mortimer Toynbee)
-Black Panther (T'Challa)
-Beast (Henry McCoy)
+Threat: 38
+*Captain America (Steve Rogers) (4)
+*Captain America (Sam Wilson) (3)
+Hulk (6)
+The Black Widow (4)
+Quicksilver (3)
+Beta Ray Bill (4)
+Toad (2)
+*Black Panther (4)
+Beast (3)
 *Thor, Prince of Asgard (5)
-Team Tactics
+
+Tactics (10):
 Avengers Assemble
 Second Wind
-Brace for Impact
-Indomitable
-Battle Plan
+Indomitable (R)
+Brace for Impact (R)
 Bird of Prey
+Battle Plan
 Can I Borrow That?
 Recalibration Matrix
 Survival
 Joint Effort
-Crises
-Wedding Party Targeted By Terrible Attack!
-Deadline to Destruction
-Guardians Save Shi'ar Empress in Style
-Terrigen Canisters Fuel Doomsday Device
-Scientific Samples Found In Discovered Universe
-Deadly Legacy Virus Cured?
+
+Secure Crisis:
+Wedding Party Targeted By Terrible Attack! (, 20)
+Deadline to Destruction (, 16)
+Guardians Save Shi'ar Empress in Style (, 17)
+
+Extract Crisis:
+Deadly Legacy Virus Cured? (C, 19)
+Scientific Samples Found In Discovered Universe (D, 17)
+Terrigen Canisters Fuel Doomsday Device (F, 17)

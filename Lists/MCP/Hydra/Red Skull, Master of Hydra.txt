@@ -2,7 +2,7 @@
 
 Characters (10):
 Abomination (Emil Blonsky)
-Baron Zemo (Helmut Zemo)
+Baron Zemo (3)
 Bob, Agent of Hydra (Robert Dobalina)
 Red Skull, Master of Hydra (Johann Schmidt)
 Spider-Woman (Jessica Drew)
@@ -11,7 +11,7 @@ Hulk (Bruce Banner)
 Pyro (St. John Allerdyce)
 Shang-Chi (Zheng Shang-Chi)
 Ant-Man (Scott Lang)
-Team Tactics
+Tactics (10):
 World Domination
 Cosmic Obliteration
 Sleeper Agent

@@ -1,6 +1,6 @@
 # 5/18/25 5/25
 
-Characters
+Characters (10):
 Doctor Strange, Sorcerer Supreme (Stephen Vincent Strange)
 Wong
 Doctor Voodoo (Jericho Drumm)
@@ -11,8 +11,8 @@ Nick Fury (Nicholas J. Fury, Jr.)
 Ebony Maw
     Space gem
 Namor, the Sub-Mariner (Namor McKenzie)
-Baron Zemo (Helmut Zemo)
-Team Tactics
+Baron Zemo (3)
+Tactics (10):
 Iron-Bound Books of Shuma-Gorath
 The Bar with No Doors
 Brace for Impact

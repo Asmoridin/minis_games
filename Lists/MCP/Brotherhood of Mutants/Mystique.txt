@@ -1,6 +1,6 @@
 # 5/17/25 3rd/62 London tournament
 
-Characters
+Characters (10):
 Mystique (Raven Darkholme)
 Juggernaut (Cain Marko)
 Rogue (Anna Marie LeBeau)
@@ -11,7 +11,7 @@ Namor, the Sub-Mariner (Namor McKenzie)
 Beta Ray Bill (Bill)
 Spider-Man (Miles Morales)
 Shang-Chi (Zheng Shang-Chi)
-Team Tactics
+Tactics (10):
 Brace for Impact
 Do You Know Who I Am?
 Recalibration Matrix

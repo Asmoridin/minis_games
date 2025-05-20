@@ -1,6 +1,6 @@
 # 5/17/25 7th/14
 
-Characters
+Characters (10):
 Black Cat (Felicia Hardy)
 Ghost-Spider (Gwen Stacy)
 Spectacular Spider-Man (Peter Parker)
@@ -11,7 +11,7 @@ Black Widow (Natasha Romanoff)
 Spider-Woman (Jessica Drew)
 Moon Knight (Marc Spector)
 Agent Venom (Flash Thompson)
-Team Tactics
+Tactics (10):
 All Webbed Up
 Aunt May's Wheat Cakes
 Masked Menace

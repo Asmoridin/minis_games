@@ -15,7 +15,7 @@ Namor, the Sub-Mariner (Namor McKenzie)
     Time gem
 Hulk (Bruce Banner)
 Heimdall, The All-Seeing (Heimdall)
-Team Tactics
+Tactics (10):
 Sacrifice
 Brace for Impact
 Blood to Spare
