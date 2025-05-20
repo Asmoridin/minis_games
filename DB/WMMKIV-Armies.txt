@@ -1,0 +1,8 @@
+# army_name;faction_name;is_prime;is_mkiv;is_cadre
+Devourer's Host;Circle Orboros;True;False;False
+MKIV Mercenary;Mercenaries;True;True;True
+Secret Dominion;Circle Orboros;True;False;False
+Necrofactorium;Cryx;True;True;False
+Gravediggers;Cygnar;True;True;False
+Storm Legion;Cygnar;True;True;False
+Blackfleet;Cryx;True;False;False
