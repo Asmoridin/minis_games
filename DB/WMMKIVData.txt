@@ -1,83 +1,155 @@
 #name;armies;unit_type;paint_points;cost;points;max_fa;own_amount;built_amount;painted_amount
-Iona the Unseen;Devourer's Host;Warlock;1;15.99;0;1;1;0;0
-Kromac, Champion of the Wurm;Devourer's Host;Warlock;4;34.99;0;1;1;1;0
-Tanith the Feral Song;Devourer's Host;Warlock;1;10;0;1;1;0;0
-Wurmwood, Tree of Fate;Devourer's Host;Warlock;5;30.99;0;1;1;0;0
-Argus Moonhound;Devourer's Host;Light Warbeast;2;14.99;6;4;1;0;0
-Gnarlhorn Satyr;Devourer's Host/Secret Dominion;Heavy Warbeast;4;34.99;10;4;1;0;0
-Pureblood Warpwolf;Devourer's Host/Secret Dominion;Heavy Warbeast;4;34.99;15;4;2;0;0
-Rip Horn Satyr;Devourer's Host/Secret Dominion;Heavy Warbeast;4;34.99;12;4;0;0;0
-Shadowhorn Satyr;Devourer's Host/Secret Dominion;Heavy Warbeast;4;34.99;9;4;1;0;0
-Gorax Rager;Devourer's Host/Secret Dominion;Light Warbeast;2;18.99;7;4;4;1;0
-Feral Warpwolf;Devourer's Host;Heavy Warbeast;4;34.99;13;4;3;1;1
-Ghetorix;Devourer's Host;Heavy Warbeast;4;54.99;16;1;1;1;0
-Loki;Devourer's Host;Heavy Warbeast;4;49.99;15;1;0;0;0
-Razorwing Griffon;Devourer's Host;Light Warbeast;2;18.99;7;4;0;0;0
-Rotterhorn Griffon;Devourer's Host;Light Warbeast;2;18.99;8;4;1;0;0
-Scarsfell Griffon;Devourer's Host;Light Warbeast;2;18.99;8;4;1;0;0
-Storm Raptor;Devourer's Host;Gargantuan Warbeast;10;109.99;25;2;1;0;0
-Warpwolf Stalker;Devourer's Host;Heavy Warbeast;4;34.99;15;4;1;0;0
-Wild Argus;Devourer's Host;Light Warbeast;2;14.99;6;4;4;2;0
-Winter Argus;Devourer's Host;Light Warbeast;2;14.99;7;4;2;0;0
-Well of Orboros;Devourer's Host/Secret Dominion;Structure;10;59.99;9;2;0;0;0
-Bloodweaver Night Witch;Devourer's Host;Solo;1;12.99;4;2;0;0;0
-Gallows Grove;Devourer's Host;Solo;2;24.99/2;1;4;2;1;1
-Tharn Blood Shaman;Devourer's Host;Solo;1;14.99;3;1;1
-Kogan the Exile;Devourer's Host;Solo;2;14.99;5;1;1
-Lord of the Feast;Devourer's Host;Solo;1;12.99;5;1;1
-Tharn Ravager Shaman;Devourer's Host;Solo;2;15.99;4;2;1
-Tharn Ravager White Mane;Devourer's Host;Solo;2;14.99;4;2;1
-Tharn Wolf Rider Champion;Devourer's Host;Solo;4;21.99;4;2;2
-Carver Ultimus & War Boar MMD47;Devourer's Host/MKIV Mercenary/Secret Dominion;Solo;9;69.99;20;1;0
-Magnus the Unstoppable & Invictus;Devourer's Host/MKIV Mercenary/Secret Dominion;Solo;8;69.99;20;1;0
-Brighid & Caul;Devourer's Host;Unit;3;29.99;6;1;1
-Tharn Blood Pack;Devourer's Host;Unit;6;54.99/2;10;2;2
-Tharn Bloodtrackers;Devourer's Host;Unit;5;54.99/2;8;2;2;0;0
-Tharn Ravagers;Devourer's Host;Unit;6;54.99/2;9;2;2;2;0
-Tharn Wolf Riders;Devourer's Host;Unit;12;72.29;8;2;1
-Nuala the Huntress;Devourer's Host;Command Attachment;1;11.99;3;1;1
-Tharn Bloodweaver Haruspex;Devourer's Host;Command Attachment;1;12.99;2;3;1
-Tharn Ravager Chieftain;Devourer's Host;Command Attachment;2;17.99;3;2;2
-Tharn Bloodweavers;Devourer's Host;Unit;5;25.99;7;3;2;0;0
-Baldur the Stonecleaver;Secret Dominion;Warlock;1;14.99;0;1;1;0;0
-Bradigus Thorle the Runecarver;Secret Dominion;Warlock;4;34.99;0;1;1;0;0
-Grayle the Farstrider;Secret Dominion;Warlock;1;13.99;0;1;1;0;0
-Krueger the Stormlord;Secret Dominion;Warlock;1;14.99;0;1;1;0;0
-Wold Guardian;Secret Dominion;Heavy Warbeast;4;27.99;14;4;1;0;0
-Woldwarden;Secret Dominion;Heavy Warbeast;4;27.99;13;4;1;0;0
-Woldwatcher;Secret Dominion;Light Warbeast;2;14.99;8;4;1;0;0
-Woldwight;Secret Dominion;Light Warbeast;2;11.99;3;4;1;0;0
-Woldwyrd;Secret Dominion;Light Warbeast;2;9.99;7;4;0;0;0
-Woldwrath;Secret Dominion;Gargantuan Warbeast;10;129.99;27;2;0;0;0
-Megalith;Secret Dominion;Heavy Warbeast;4;59.99;15;1;0;0;0
-Celestial Fulcrum;Secret Dominion;Battle Engine;10;84.99;13;2;0;0;0
-Wolf With No Name;Secret Dominion;Solo;2;19.99;4;1;1;0;0
-Blackclad Stoneshaper;Secret Dominion;Solo;1;12.99;2;4;1;0;0
-Blackclad Wayfarer;Secret Dominion;Solo;1;12.99;3;2;2;0;0
-Chuck Dogwood;Secret Dominion;Solo;1;17.99;4;1;1;0;0
-Druid Wilder;Secret Dominion;Solo;1;7.99;3;1;1;0;0
-Krueger the Stormseer;Secret Dominion;Solo;1;14.99;4;1;1;0;0
-Reeve Hunter;Secret Dominion;Solo;1;12.99;4;2;0;0;0
-Sentry Stone & Mannikins;Secret Dominion;Solo;4;16.99;5;2;2;0;0
-Stone Keeper;Secret Dominion;Solo;1;9.99;2;2;0;0;0
-War Wolf;Secret Dominion;Solo;2;12.99;2;3;1;0;0
-Wolf Lord Morraig;Secret Dominion;Solo;5;29.99;7;1;1;0;0
-Death Wolves;Secret Dominion;Unit;3;39.99;7;1;0;0;0
-Shifting Stones;Secret Dominion;Unit;3;11.99;2;2;2;0;0 
-Druid Mist Riders;Secret Dominion;Unit;12;59.99;9;2;1;0;0
-Druids of Orboros;Secret Dominion;Unit;3;34.99/2;4;4;2;0;0
-Reeves of Orboros;Secret Dominion;Unit;5;54.99/2;7;2;0;0;0
-Stoneward & Woldstalkers;Secret Dominion;Unit;6;24.99;8;2;0;0;0
-Warpborn Skinwalkers;Secret Dominion;Unit;6;44.99;7;2;2;0;0
-Wolves of Orboros;Secret Dominion;Unit;5;54.99/2;5;3;2;0;0
-Druid of Orboros Overseer;Secret Dominion;Command Attachment;1;10.99;2;4;1;0;0
-Reeve of Orboros Chieftain & Standard;Secret Dominion;Command Attachment;2;17.99;3;2;0;0;0
-Warpborn Skinwalker Alpha;Secret Dominion;Command Attachment;2;21.99;3;2;0;0;0
-Wolves of Orboros Chieftain & Standard;Secret Dominion;Command Attachment;2;17.99;3;3;1;0;0
+Argus Moonhound;Devourer's Host/Legacy Circle Orboros;Light Warbeast;2;14.99;6;4;1;0;0
+Baldur the Stonecleaver;Secret Dominion/Legacy Circle Orboros;Warlock;1;14.99;0;1;1;0;0
+Baldur the Stonesoul;Legacy Circle Orboros;Warlock;1;14.99;0;1;0;0;0
+Blackclad Stoneshaper;Secret Dominion/Legacy Circle Orboros;Solo;1;12.99;2;4;1;0;0
+Blackclad Wayfarer;Secret Dominion/Legacy Circle Orboros;Solo;1;12.99;3;2;2;0;0
+Bloodweaver Night Witch;Devourer's Host/Legacy Circle Orboros;Solo;1;12.99;4;2;0;0;0
+Bradigus Thorle the Runecarver;Secret Dominion/Legacy Circle Orboros;Warlock;4;34.99;0;1;1;0;0
+Brighid & Caul;Devourer's Host/Legacy Circle Orboros;Unit;3;29.99;6;1;1
+Carver Ultimus & War Boar MMD47;Devourer's Host/MKIV Mercenary/Secret Dominion/Legacy Circle Orboros;Solo;9;69.99;20;1;0
+Celestial Fulcrum;Secret Dominion/Legacy Circle Orboros;Battle Engine;10;84.99;13;2;0;0;0
+Chuck Dogwood;Secret Dominion/Legacy Circle Orboros;Solo;1;17.99;4;1;1;0;0
+Death Wolves;Secret Dominion/Legacy Circle Orboros;Unit;3;39.99;7;1;0;0;0
+Death Archon;Legacy Circle Orboros;Solo;4;39.99;8;2;0;0;0
 Discerptor Eviscerus;Necrofactorium;Warcaster;2;CRYX_NECROFACTORIUM_BATTLEGROUP;0;1;0;0;0
-Raptor;Necrofactorium;Light Warjack;2;CRYX_NECROFACTORIUM_BATTLEGROUP;8;6;0;0;0
+Druid Mist Riders;Secret Dominion/Legacy Circle Orboros;Unit;12;59.99;9;2;1;0;0
+Druid of Orboros Overseer;Secret Dominion/Legacy Circle Orboros;Command Attachment;1;10.99;2;4;1;0;0
+Druid Wilder;Secret Dominion/Legacy Circle Orboros;Solo;1;7.99;3;1;1;0;0
+Druids of Orboros;Secret Dominion/Legacy Circle Orboros;Unit;3;34.99/2;4;4;2;0;0
+Feral Warpwolf;Devourer's Host/Legacy Circle Orboros;Heavy Warbeast;4;34.99;13;4;3;1;1
+Dhunian Archon;Legacy Circle Orboros;Solo;2;31.99;6;2;2;0;0
+Gallows Grove;Devourer's Host/Legacy Circle Orboros;Solo;2;24.99/2;1;4;2;1;1
+Ghetorix;Devourer's Host/Legacy Circle Orboros;Heavy Warbeast;4;54.99;16;1;1;1;0
+Gnarlhorn Satyr;Devourer's Host/Secret Dominion/Legacy Circle Orboros;Heavy Warbeast;4;34.99;10;4;1;0;0
+Gorax Rager;Devourer's Host/Secret Dominion/Legacy Circle Orboros;Light Warbeast;2;18.99;7;4;4;1;0
+Grayle the Farstrider;Secret Dominion/Legacy Circle Orboros;Warlock;1;13.99;0;1;1;0;0
+Iona the Unseen;Devourer's Host/Legacy Circle Orboros;Warlock;1;15.99;0;1;1;0;0
+Kaya the Moonhunter;Legacy Circle Orboros;Warlock;3;24.99;0;1;1;0;0
+Meat Thresher;Legacy Circle Orboros;Battle Engine;10;69.99;13;2;0;0;0
+Kaya the Wildborne;Legacy Circle Orboros;Warlock;1;12.99;0;1;1;0;0
+Kaya the Wildheart;Legacy Circle Orboros;Warlock;4;29.99;0;1;1;0;0
+Kogan the Exile;Devourer's Host/Legacy Circle Orboros;Solo;2;14.99;5;1;1
+Kromac, Champion of the Wurm;Devourer's Host/Legacy Circle Orboros;Warlock;4;34.99;0;1;1;1;0
+Kromac the Ravenous;Legacy Circle Orboros;Warlock;3;29.99;0;1;0;0;0
+Krueger the Stormlord;Secret Dominion/Legacy Circle Orboros;Warlock;1;14.99;0;1;1;0;0
+Krueger the Stormwrath;Legacy Circle Orboros;Warlock;1;13.99;0;1;0;0;0
+Mohsar the Desertwalker;Legacy Circle Orboros;Warlock;1;9.99;0;1;1;0;0
+Brennos the Elderhorn;Legacy Circle Orboros;Heavy Warbeast;4;54.99;11;1;0;0;0
+Morvahna the Autumnblade;Legacy Circle Orboros;Warlock;1;9.99;0;1;0;0;0
+Morvahna the Dawnshadow;Legacy Circle Orboros;Warlock;4;29.99;0;1;1;0;0
+Krueger the Stormseer;Secret Dominion/Legacy Circle Orboros;Solo;1;14.99;4;1;1;0;0
+Loki;Devourer's Host/Legacy Circle Orboros;Heavy Warbeast;4;49.99;15;1;0;0;0
+Lord of the Feast;Devourer's Host/Legacy Circle Orboros;Solo;1;12.99;5;1;1
+Magnus the Unstoppable & Invictus;Devourer's Host/MKIV Mercenary/Secret Dominion/Legacy Circle Orboros;Solo;8;69.99;20;1;0
 Malefactor;Necrofactorium;Heavy Warjack;4;CRYX_NECROFACTORIUM_BATTLEGROUP;16;4;0;0;0
-
+Megalith;Secret Dominion/Legacy Circle Orboros;Heavy Warbeast;4;59.99;15;1;0;0;0
+Nuala the Huntress;Devourer's Host/Legacy Circle Orboros;Command Attachment;1;11.99;3;1;1
+Pureblood Warpwolf;Devourer's Host/Secret Dominion/Legacy Circle Orboros;Heavy Warbeast;4;34.99;15;4;2;0;0
+Raptor;Necrofactorium;Light Warjack;2;CRYX_NECROFACTORIUM_BATTLEGROUP;8;6;0;0;0
+Razorwing Griffon;Devourer's Host/Legacy Circle Orboros;Light Warbeast;2;18.99;7;4;0;0;0
+Reeve Hunter;Secret Dominion/Legacy Circle Orboros;Solo;1;12.99;4;2;0;0;0
+Reeve of Orboros Chieftain & Standard/Legacy Circle Orboros;Secret Dominion;Command Attachment;2;17.99;3;2;0;0;0
+Reeves of Orboros;Secret Dominion/Legacy Circle Orboros;Unit;5;54.99/2;7;2;0;0;0
+Rip Horn Satyr;Devourer's Host/Secret Dominion/Legacy Circle Orboros;Heavy Warbeast;4;34.99;12;4;0;0;0
+Rotterhorn Griffon;Devourer's Host/Legacy Circle Orboros;Light Warbeast;2;18.99;8;4;1;0;0
+Scarsfell Griffon;Devourer's Host/Legacy Circle Orboros;Light Warbeast;2;18.99;8;4;1;0;0
+Sentry Stone & Mannikins;Secret Dominion/Legacy Circle Orboros;Solo;4;16.99;5;2;2;0;0
+Shivers;Legacy Circle Orboros;Solo;1;10;3;1;1;1;0
+Shadowhorn Satyr;Devourer's Host/Secret Dominion/Legacy Circle Orboros;Heavy Warbeast;4;34.99;9;4;1;0;0
+Shifting Stones;Secret Dominion/Legacy Circle Orboros;Unit;3;11.99;2;2;2;0;0 
+Stone Keeper;Secret Dominion/Legacy Circle Orboros;Solo;1;9.99;2;2;0;0;0
+Stoneward & Woldstalkers;Secret Dominion/Legacy Circle Orboros;Unit;6;24.99;8;2;0;0;0
+Storm Raptor;Devourer's Host/Legacy Circle Orboros;Gargantuan Warbeast;10;109.99;25;2;1;0;0
+Tanith the Feral Song;Devourer's Host/Legacy Circle Orboros;Warlock;1;10;0;1;1;0;0
+Tharn Blood Pack;Devourer's Host/Legacy Circle Orboros;Unit;6;54.99/2;10;2;2
+Targ;Legacy Circle Orboros;1;13.99;3;1;1;0;0
+Tharn Blood Shaman;Devourer's Host/Legacy Circle Orboros;Solo;1;14.99;3;1;1
+Tharn Bloodtrackers;Devourer's Host/Legacy Circle Orboros;Unit;5;54.99/2;8;2;2;0;0
+Tharn Bloodweaver Haruspex;Devourer's Host/Legacy Circle Orboros;Command Attachment;1;12.99;2;3;1
+Tharn Bloodweavers;Devourer's Host/Legacy Circle Orboros;Unit;5;25.99;7;3;2;0;0
+Hutchuk, Ogrun Bounty Hunter;Legacy Circle Orboros;Solo;2;24.99;5;1;0;0;0
+Eilish Garrity, the Occultist;Legacy Circle Orboros;Solo;1;14.99;4;1;1;1;0
+Hermit of Henge Hold;Legacy Circle Orboros;Solo;1;14.99;4;1;1;1;0
+Saxon Orrik;Legacy Circle Orboros;Solo;1;9.99;3;1;0;0;0
+Agata, Queen of Carnage;Legacy Circle Orboros;Solo;1;12.99;3;1;1;0;0
+Alten Ashley;Legacy Circle Orboros;Solo;1;9.99;4;1;1;0;0
+Barnabas the Conqueror;Legacy Circle Orboros;Solo;2;21.99;4;1;1;0;0
+Bog Trog Mist Speaker;Legacy Circle Orboros;Solo;1;14.99;3;2;2;1;0
+Bog Trog Trawler;Legacy Circle Orboros;2;19.99;3;3;0;0;0
+Gatorman Soul Slave;Legacy Circle Orboros;Solo;2;17.99;4;1;1;1;0
+Tharn Ravager Chieftain;Devourer's Host/Legacy Circle Orboros;Command Attachment;2;17.99;3;2;2
+Tharn Ravager Shaman;Devourer's Host/Legacy Circle Orboros;Solo;2;15.99;4;2;1
+Tharn Ravager White Mane;Devourer's Host/Legacy Circle Orboros;Solo;2;14.99;4;2;1
+Tharn Ravagers;Devourer's Host/Legacy Circle Orboros;Unit;6;54.99/2;9;2;2;2;0
+Tharn Wolf Rider Champion;Devourer's Host/Legacy Circle Orboros;Solo;4;21.99;4;2;2
+Tharn Wolf Riders;Devourer's Host/Legacy Circle Orboros;Unit;12;72.29;8;2;1
+Una the Skyhunter;Legacy Circle Orboros;Warlock;1;16.99;0;1;1;0;0
+Una the Falconer;Legacy Circle Orboros;Solo;1;17.99;4;1;0;0;0
+War Wolf;Secret Dominion/Legacy Circle Orboros;Solo;2;12.99;2;3;1;0;0
+Warpborn Skinwalker Alpha;Secret Dominion/Legacy Circle Orboros;Command Attachment;2;21.99;3;2;0;0;0
+Warpborn Skinwalkers;Secret Dominion/Legacy Circle Orboros;Unit;6;44.99;7;2;2;0;0
+Warpwolf Stalker;Devourer's Host/Legacy Circle Orboros;Heavy Warbeast;4;34.99;15;4;1;0;0
+Well of Orboros;Devourer's Host/Secret Dominion/Legacy Circle Orboros;Structure;10;59.99;9;2;0;0;0
+Wild Argus;Devourer's Host/Legacy Circle Orboros;Light Warbeast;2;14.99;6;4;4;2;0
+Winter Argus;Devourer's Host/Legacy Circle Orboros;Light Warbeast;2;14.99;7;4;2;0;0
+Wold Guardian;Secret Dominion/Legacy Circle Orboros;Heavy Warbeast;4;27.99;14;4;1;0;0
+Woldwarden;Secret Dominion/Legacy Circle Orboros;Heavy Warbeast;4;27.99;13;4;1;0;0
+Woldwatcher;Secret Dominion/Legacy Circle Orboros;Light Warbeast;2;14.99;8;4;1;0;0
+Woldwight;Secret Dominion/Legacy Circle Orboros;Light Warbeast;2;11.99;3;4;1;0;0
+Woldwrath;Secret Dominion/Legacy Circle Orboros;Gargantuan Warbeast;10;129.99;27;2;0;0;0
+Woldwyrd;Secret Dominion/Legacy Circle Orboros;Light Warbeast;2;9.99;7;4;0;0;0
+Wolf Lord Morraig;Secret Dominion/Legacy Circle Orboros;Solo;5;29.99;7;1;1;0;0
+Wolf With No Name;Secret Dominion/Legacy Circle Orboros;Solo;2;19.99;4;1;1;0;0
+Wolves of Orboros Chieftain & Standard;Secret Dominion/Legacy Circle Orboros;Command Attachment;2;17.99;3;3;1;0;0
+Wolves of Orboros;Secret Dominion/Legacy Circle Orboros;Unit;5;54.99/2;5;3;2;0;0
+Wurmwood, Tree of Fate;Devourer's Host/Legacy Circle Orboros;Warlock;5;30.99;0;1;1;0;0
+Primal Archon;Legacy Circle Orboros;Solo;4;39.99;7;2;2;1;0
+Bone Shrine;Legacy Circle Orboros;Solo;2;24.99/2;2;2;2;1;0
+Brun Cragback & Lug;Legacy Circle Orboros;Solo;5;36.99;13;1;1;0;0
+Captain Crawtooth;Legacy Circle Orboros;Solo;2;19.99;4;1;1;1;0;0
+Croak Hunter;Legacy Circle Orboros;Solo;1;11.99;3;3;1;1;0
+Dahlia Hallyr & Skarath;Legacy Circle Orboros;Solo;5;32.99;13;1;1;1;0
+Efaarit Scouts;Legacy Circle Orboros;Solo;4;32.99;4;2;0;0;0
+Farrow Sapper;Legacy Circle Orboros;Solo;4;21.99;2;2;1;0;0
+Feralgeist;Legacy Circle Orboros;Solo;1;9.99;2;3;3;0;0
+Flugwug the Filcer;Legacy Circle Orboros;Solo;1;34.99;3;1;1;0;0
+Gatorman Husk;Legacy Circle Orboros;Solo;2;17.99;2;3;1;1;0
+Gatorman Witch Doctor;Legacy Circle Orboros;Solo;2;17.99;3;2;2;2;0
+Gobber Tinker;Legacy Circle Orboros;2Solo;;21.99;1;2;1;1;0
+Gremlin Swarm;Legacy Circle Orboros;2Solo;;15.99;3;2;2;0
+Gudrun the Wanderer;Legacy Circle Orboros;Solo;2;17.99;5;1;1;0;0
+Gudrun the Wasted;Legacy Circle Orboros;Solo;2;19.99;4;1;1;0;0
+Kwaak Slickspine & Gub, Croak Sorcerers;Legacy Circle Orboros;Solo;1;13.99;4;1;1;0;0
+Lanyssa Ryssyl, Nyss Sorceress;Legacy Circle Orboros;Solo;1;9.99;3;1;1;0;0
+Longchops;Legacy Circle Orboros;Solo;2;18.99;4;1;0;0;0
+Maximus;Legacy Circle Orboros;Solo;1;17.99;4;1;0;0;0
+Ogrun Bokur;Legacy Circle Orboros;Solo;2;22.99;3;2;2;0;0
+Rorsh & Brine;Legacy Circle Orboros;Solo;5;44.99;14;1;1;1;0
+Swamp Gobber Chef;Legacy Circle Orboros;Solo;1;12.99;1;2;1;0;0
+Swamp Gobber River Raider;Legacy Circle Orboros;Solo;1;15.99;1;9;1;0;0
+The Wastelander;Legacy Circle Orboros;Solo;1;12.99;4;1;1;0;0
+Thrullg;Legacy Circle Orboros;Solo;2;15.99;4;2;2;2;0
+Totem Hunter;Legacy Circle Orboros;Solo;2;14.99;5;1;1;0;0
+Underchief Mire;Legacy Circle Orboros;Solo;1;12.99;4;1;1;0;0
+Viktor Pendrake;Legacy Circle Orboros;Solo;1;9.99;3;1;1;0;0
+Void Leech;Legacy Circle Orboros;Solo;1;21.99/3;1;4;3;0;0
+Wrong Eye & Snapjaw;Legacy Circle Orboros;Solo;6;44.99;15;1;1;1;0
+Cylena Raefyll & Nyss Hunters;Legacy Circle Orboros;Unit;6;59.99;8;1;1;0;0
+Bog Trog Ambushers;Legacy Circle Orboros;Unit;5;49.99/2;6;2;0;0;0
+Croak Raiders;Legacy Circle Orboros;Unit;5;64.99/2;7;2;0;0;0
+Croak Trappers;Legacy Circle Orboros;Unit;2;14.99;3;2;1;0;0
+Farrow Bone Grinders;Legacy Circle Orboros;Unit;3;39.99/2;4;4;2;0;0
+Farrow Brigands;Legacy Circle Orboros;Unit;5;49.99/2;7;3;2;0;0
+Farrow Commandos;Legacy Circle Orboros;Unit;5;49.99/2;5;3;0;0;0
+Farrow Razorback Crew;Legacy Circle Orboros;Unit;5;24.99;4;2;0;0;0
+Farrow Slaughterhousers;Legacy Circle Orboros;Unit;5;44.99;7;3;0;0;0
+Farrow Valkyries;Legacy Circle Orboros;Unit;3;27.99;6;3;1;1;0
+Gatorman Boil Master & Spirit Cauldron;Legacy Circle Orboros;Unit;6;27.99;4;2;1;1;0
+Gatorman Bokor & Bog Trog Swamp Shamblers;Legacy Circle Orboros;Unit;7;74.99;5;2;1;1;0
+Gatorman Posse;Legacy Circle Orboros;Unit;6;44.99/3-2;8;3;3;3;0
+Lynus Wesselbaum & Edrea Lloryrr;Legacy Circle Orboros;Unit;2;19.99;4;1;0;0;0
+Swamp Gobber Bellows Crew;Legacy Circle Orboros;Unit;2;7.99;1;1;1;1;0
 Captain Buck Hasker;Gravediggers;Warcaster;1;?;0;1;0
 Captain Athena di Baro;Storm Legion;Warcaster;1;?;0;1;0
 Captain Aiakos;Blackfleet;Warcaster;1;18.99;0;1;1;0;0
