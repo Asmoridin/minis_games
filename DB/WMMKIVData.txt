@@ -17,7 +17,7 @@ Brennos the Elderhorn;Legacy Circle Orboros;Heavy Warbeast;4;54.99;11;1;0;0;0
 Brighid & Caul;Devourer's Host/Legacy Circle Orboros;Unit;3;29.99;6;1;1;0;0
 Brun Cragback & Lug;Legacy Circle Orboros;Solo;5;36.99;13;1;1;0;0
 Captain Crawtooth;Legacy Circle Orboros;Solo;2;19.99;4;1;1;1;0
-Carver Ultimus & War Boar MMD47;Devourer's Host/MKIV Mercenary/Secret Dominion/Legacy Circle Orboros;Solo;9;69.99;20;1;0;0;0
+Carver Ultimus & War Boar MMD47;Devourer's Host/MKIV Mercenary/Secret Dominion/Legacy Circle Orboros/Convergence of Cyriss;Solo;9;69.99;20;1;0;0;0
 Celestial Fulcrum;Secret Dominion/Legacy Circle Orboros;Battle Engine;10;84.99;13;2;0;0;0
 Chuck Dogwood;Secret Dominion/Legacy Circle Orboros;Solo;1;17.99;4;1;1;0;0
 Croak Hunter;Legacy Circle Orboros;Solo;1;11.99;3;3;1;1;0
@@ -78,7 +78,7 @@ Loki;Devourer's Host/Legacy Circle Orboros;Heavy Warbeast;4;49.99;15;1;0;0;0
 Longchops;Legacy Circle Orboros;Solo;2;18.99;4;1;0;0;0
 Lord of the Feast;Devourer's Host/Legacy Circle Orboros;Solo;1;12.99;5;1;1;0;0
 Lynus Wesselbaum & Edrea Lloryrr;Legacy Circle Orboros;Unit;2;19.99;4;1;0;0;0
-Magnus the Unstoppable & Invictus;Devourer's Host/MKIV Mercenary/Secret Dominion/Legacy Circle Orboros;Solo;8;69.99;20;1;0;0;0
+Magnus the Unstoppable & Invictus;Devourer's Host/MKIV Mercenary/Secret Dominion/Legacy Circle Orboros/Convergence of Cyriss;Solo;8;69.99;20;1;0;0;0
 Malefactor;Necrofactorium;Heavy Warjack;4;CRYX_NECROFACTORIUM_BATTLEGROUP;16;4;0;0;0
 Maximus;Legacy Circle Orboros;Solo;1;17.99;4;1;0;0;0
 Meat Thresher;Legacy Circle Orboros;Battle Engine;10;69.99;13;2;0;0;0
@@ -150,6 +150,51 @@ Wolves of Orboros Chieftain & Standard;Secret Dominion/Legacy Circle Orboros;Com
 Wolves of Orboros;Secret Dominion/Legacy Circle Orboros;Unit;5;54.99/2;5;3;2;0;0
 Wrong Eye & Snapjaw;Legacy Circle Orboros;Solo;6;44.99;15;1;1;1;0
 Wurmwood, Tree of Fate;Devourer's Host/Legacy Circle Orboros;Warlock;5;30.99;0;1;1;0;0
+Archnumen Aurora;Convergence of Cyriss;Warcaster;4;ARCHNUMEN_AURORA;0;1;0;0;0
+Aurora, The Numen of Aerogenesis;Convergence of Cyriss;Warcaster;1;16.99;0;1;1;0;0
+Aurum Lucanum Athanor Locke;Convergence of Cyriss;Warcaster;2;24.99;0;1;1;0;0
+Axis, The Harmonic Enforcer;Convergence of Cyriss;Warcaster;2;27.99;0;1;1;0;0
+Eminent Configurator Orion;Convergence of Cyriss;Warcaster;2;19.99;0;1;1;0;0
+Father Lucant, The Divinity Architect;Convergence of Cyriss;Warcaster;4;24.99;0;1;1;0;0
+Forge Master Syntherion;Convergence of Cyriss;Warcaster;2;27.99;0;1;1;0;0
+Iron Mother Directrix;Convergence of Cyriss;Warcaster;4;34.99;0;1;1;0;0
+Assimilator;Convergence of Cyriss;Heavy Warjack;4;34.99;13;4;1;0;0
+Cipher;Convergence of Cyriss;Heavy Warjack;4;34.99;14;4;1;0;0
+Conservator;Convergence of Cyriss;Heavy Warjack;4;34.99;10;4;1;0;0
+Diffuser;Convergence of Cyriss;Light Warjack;2;18.99;5;4;2;0;0
+Galvanizer;Convergence of Cyriss;Light Warjack;2;18.99;4;4;4;0;0
+Inverter;Convergence of Cyriss;Heavy Warjack;4;34.99;14;4;1;0;0
+Mitigator;Convergence of Cyriss;Light Warjack;2;18.99;6;4;3;0;0
+Modulator;Convergence of Cyriss;Heavy Warjack;4;34.99;10;4;1;0;0
+Monitor;Convergence of Cyriss;Heavy Warjack;4;34.99;14;4;0;0;0
+Negator;Convergence of Cyriss;Light Warjack;2;24.99;6;4;0;0;0
+Tesselator;Convergence of Cyriss;Light Warjack;2;24.99;8;4;0;0;0
+Prime Axiom;Convergence of Cyriss;Colossal Warjack;10;109.99;29;2;0;0;0
+Prime Conflux;Convergence of Cyriss;Colossal Warjack;13;109.99;26;2;0;0;0
+Corollary;Convergence of Cyriss;Light Warjack;2;16.99;6;1;1;0;0
+Artificer Prime Nemo;Convergence of Cyriss;Battle Engine;13;109.99;16;1;0;0;0
+Transfinite Emergence Projector;Convergence of Cyriss;Battle Engine;13;69.99;13;2;0;0;0
+Accretion Servitors;Convergence of Cyriss;Solo;3;10.99;2;3;3;0;0
+Algorithmic Dispersion Optifex;Convergence of Cyriss;Solo;1;12.99;2;4;1;0;0
+Attunement Servitors;Convergence of Cyriss;Solo;3;11.99;4;3;1;0;0
+Elimination Servitors;Convergence of Cyriss;Solo;3;11.99;3;3;2;0;0
+Reflex Servitors;Convergence of Cyriss;Solo;3;10.99;2;3;2;0;0
+Asphyxious the Sanctified;Convergence of Cyriss;Solo;7;49.99;12;1;1;0;0
+Destructotron 3000;Convergence of Cyriss;Solo;1;19.99;4;1;1;0;0
+Enigma Foundry;Convergence of Cyriss;Solo;4;34.99;3;4;2;0;0
+Frustum Locus;Convergence of Cyriss;Solo;4;22.99;4;2;1;0;0
+J.A.I.M.s;Convergence of Cyriss;Solo;2;14.99;5;1;1;0;0
+Prefect Hypatia;Convergence of Cyriss;Solo;1;ARCHNUMEN_AURORA;4;1;0;0;0
+Steelsoul Protector;Convergence of Cyriss;Solo;2;13.99;3;3;1;0;0
+Clockwork Angels;Convergence of Cyriss;Unit;3;24.99;5;3;3;0;0
+Eradicators;Convergence of Cyriss;Unit;6;44.99;7;2;0;0;0
+Negation Angels;Convergence of Cyriss;Unit;3;ARCHNUMEN_AURORA+27.99;6;3;0;0;0
+Obstructors;Convergence of Cyriss;Unit;5;49.99/2;6;3;2;0;0
+Optifex Directive;Convergence of Cyriss;Unit;3;16.99;3;4;0;0;0
+Perforators;Convergence of Cyriss;Unit;6;44.99;9;2;2;0;0
+Reciprocators;Convergence of Cyriss;Unit;6;44.99;8;2;0;0;0
+Reductors;Convergence of Cyriss;Unit;5;49.99/2;6;3;0;0;0
+Transverse Enumerator;;Convergence of Cyriss;Command Attachment;1;11.99;2;3;0;0;0
 Captain Buck Hasker;Gravediggers;Warcaster;1;?;0;1;0;0;0
 Captain Athena di Baro;Storm Legion;Warcaster;1;?;0;1;0;0;0
 Captain Aiakos;Blackfleet;Warcaster;1;18.99;0;1;1;0;0
