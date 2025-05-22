@@ -40,7 +40,8 @@ def validate_model_types(in_model_type):
         return in_model_type
     elif in_model_type in ['Warlock', 'Warcaster']:
         return "Leader"
-    elif in_model_type in ['Heavy Warbeast', 'Light Warbeast', 'Gargantuan Warbeast']:
+    elif in_model_type in ['Heavy Warbeast', 'Light Warbeast', 'Gargantuan Warbeast',
+        'Heavy Warjack', 'Light Warjack']:
         return "Battlegroup"
     elif in_model_type in ['Command Attachment']:
         return "Unit"
@@ -61,8 +62,12 @@ model_names = set()
 for line in lines:
     if line == '' or line.startswith('#'):
         continue
-    model_name, model_armies, model_type, paint_points, dollar_cost, points, max_fa, \
-        own_amount = line.split(';')
+    try:
+        model_name, model_armies, model_type, paint_points, dollar_cost, points, max_fa, \
+            own_amount, built_amount, painted_amount = line.split(';')
+    except ValueError:
+        print(f"Issue with line for {line.split(';')[0]}")
+        continue
     if model_name in model_names:
         print("Duplicate: " + model_name)
     model_names.add(model_name)
@@ -75,3 +80,7 @@ for line in lines:
     points = int(points)
     max_fa = int(max_fa)
     own_amount = int(own_amount)
+    built_amount = int(built_amount)
+    painted_amount = int(painted_amount)
+    if painted_amount > built_amount or built_amount > own_amount:
+        print(f"May have an inventory issue with {model_name}")

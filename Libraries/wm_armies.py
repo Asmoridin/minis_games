@@ -46,15 +46,36 @@ def get_era(in_armies):
             return "MKIV"
     return "Legacy"
 
-armies = [
-    Army("Devourer's Host", "Circle Orboros", True, False, False),
-    Army("MKIV Mercenary", "Mercenaries", True, True, True),
-    Army("Secret Dominion", "Circle Orboros", True, False, False),
-    Army("Necrofactorium", "Cryx", True, True, False),
-    Army("Gravediggers", "Cygnar", True, True, False),
-    Army("Storm Legion", "Cygnar", True, True, False),
-    Army("Blackfleet", "Cryx", True, False, False)
-]
+armies = []
+
+with open("minis_games/DB/WMMKIV-Armies.txt", 'r', encoding="UTF-8") as army_fh:
+    for army_line in army_fh:
+        if army_line.startswith('#'):
+            continue
+        in_army_name, faction_name, IN_PRIME, IN_MKIV, IS_CADRE = army_line.strip().split(';')
+        if IN_PRIME == "True":
+            IN_PRIME = True
+        elif IN_PRIME == "False":
+            IN_PRIME = False
+        else:
+            print(f"Invalid value for is_prime {IN_PRIME}")
+            continue
+        if IN_MKIV == "True":
+            IN_MKIV = True
+        elif IN_MKIV == "False":
+            IN_MKIV = False
+        else:
+            print(f"Invalid value for in_mkiv {IN_MKIV}")
+            continue
+        if IS_CADRE == "True":
+            IS_CADRE = True
+        elif IS_CADRE == "False":
+            IS_CADRE = False
+        else:
+            print(f"Invalid value for in_mkiv {IS_CADRE}")
+            continue
+        armies.append(Army(in_army_name, faction_name, IN_PRIME, IN_MKIV, IS_CADRE))
+
 army_dict = {}
 for army in armies:
     army_dict[army.army_name] = army

@@ -1,31 +1,36 @@
 # 3/30/25 3rd place World Championship
 
 Characters (10):
-Black Widow (Natasha Romanoff)
-Captain America (Steve Rogers)
-Captain America (Sam Wilson)
-Doctor Voodoo (Jericho Drumm)
-Crimson Dynamo (Dimitri Bukharin)
+Threat: 36
+Black Widow (2)
+*Captain America (Steve Rogers) (4)
+*Captain America (Sam Wilson) (3)
+Doctor Voodoo (4)
+*Crimson Dynamo (4)
 Baron Zemo (3)
-Heimdall, The All-Seeing (Heimdall)
-Shang-Chi (Zheng Shang-Chi)
-Hulk (Bruce Banner)
-Pyro (St. John Allerdyce)
+Heimdall, The All-Seeing (3)
+Shang-Chi (4)
+Hulk (6)
+Pyro (3)
+
 Tactics (10):
 Avengers Assemble
 Second Wind
 Battle Plan
-Indomitable
-Brace for Impact
+Indomitable (R)
+Brace for Impact (R)
 Survival
 Recalibration Matrix
 Reserve Members
 Chi Mastery
 Pyrotechnics
-Crises
-Super-Powered Scoundrels Form Sinister Syndicate!
-Infinity Formula Goes Missing!
-Wedding Party Targeted By Terrible Attack!
-Deadly Legacy Virus Cured?
-Skrulls Infiltrate World Leadership
-Fear Grips World as "Worthy" Terrorize Cities
+
+Secure Crisis:
+Wedding Party Targeted By Terrible Attack! (, 20)
+Super-Powered Scoundrels Form Sinister Syndicate! (F, 20)
+Infinity Formula Goes Missing! (B, 17)
+
+Extract Crisis:
+Deadly Legacy Virus Cured? (C, 19)
+Fear Grips World as "Worthy" Terrorize Cities (D, 18)
+Skrulls Infiltrate World Leadership (J, 20)

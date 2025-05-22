@@ -6,3 +6,4 @@ Necrofactorium;Cryx;True;True;False
 Gravediggers;Cygnar;True;True;False
 Storm Legion;Cygnar;True;True;False
 Blackfleet;Cryx;True;False;False
+Legacy Circle Orboros;Circle Orboros;False;False;False
