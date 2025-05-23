@@ -7,3 +7,4 @@ Gravediggers;Cygnar;True;True;False
 Storm Legion;Cygnar;True;True;False
 Blackfleet;Cryx;True;False;False
 Legacy Circle Orboros;Circle Orboros;False;False;False
+Convergence of Cyriss;Convergence of Cyriss;True;False;False

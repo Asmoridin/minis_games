@@ -1,22 +1,23 @@
 # 3/27/25 25/72 Adepticon
 
-Characters 10
-* Hulkbuster 6
-* Captain America Sam Wilson 3
-Shang-Chi 4
-* Black Panther 4
-Luke Cage 3
-Quicksilver 3
-Ant-Man 3
-Black Widow 2
-Shuri 3
-Wong 2
+Characters (10):
+Threat: 33
+*Hulkbuster (6)
+*Captain America (Sam Wilson) (3)
+Shang-Chi (4)
+*Black Panther (4)
+Luke Cage (3)
+Quicksilver (3)
+Ant-Man (3)
+Black Widow (2)
+Shuri (3)
+Wong (2)
 
-Tactics (10): 10
+Tactics (10):
 Helios Laser Bombardment
 Avengers Assemble
-Patch Up R
-Sacrifice R
+Patch Up (R)
+Sacrifice (R)
 Heroes for Hire
 Recalibration Matrix
 Can I Borrow That?
@@ -24,12 +25,12 @@ Survival
 Wisdom of the Ancestors
 Chi Mastery
 
-Secure Crisis
-M‘Kraan Crystal Gets Heroes Home! G, 19
-Wedding Party Targeted in Terrible Attack! R, 20
-Deadline to Destruction P, 16
+Secure Crisis:
+M'Kraan Crystal Gets Heroes Home! (, 19)
+Wedding Party Targeted By Terrible Attack! (, 20)
+Deadline to Destruction (, 16)
 
-Extract Crisis
-Fear Grips World As “Worthy“ Terrorize Cities D, 18
-Scientific Samples Found in Discovered Universe D, 17
-Inhumans Deploy Advanced Weaponry O, 18
+Extract Crisis:
+Fear Grips World as "Worthy" Terrorize Cities (D, 18)
+Scientific Samples Found In Discovered Universe (D, 17)
+Inhumans Deploy Advanced Weaponry (, 18)
