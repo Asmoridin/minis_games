@@ -1,19 +1,14 @@
-#3/29/25 7th/48 IG Qualifiers
+# 5/24/25 1st/12 Arizona Steamroller
 
-Caine LVO
+Caine newbuild
 Cygnar - Storm Legion
 Grand Melee - 100 pts
 
 PC CARD
 
-Defenses
-DEFENSE 1 - Barrier
-DEFENSE 1 - Barrier
-DEFENSE 1 - Barrier
-
 Major Allister Caine
-SPELL - Snipe
 SPELL - Arcane Shield
+SPELL - Deflection
 
 7 Courser 1
 1 HEAD - Shield Guard
@@ -54,16 +49,13 @@ SPELL - Arcane Shield
 2 Legionnaire Standard Bearer
 
 9 The Black 13th
-RYAN 3 - Ryan 3
-WATTS 3 - Watts 3
-GLOVER 1 - Glover 1
 
 
 PC COMMAND CARD
 Careful Reconnaissance
-Defenses
 Duck and Cover!
+Hit & Run
 Lucky Penny
-Sapper
+Old Faithful
 
 TOTAL POINTS 100/100
