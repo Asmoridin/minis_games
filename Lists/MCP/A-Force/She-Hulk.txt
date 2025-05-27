@@ -1,36 +1,31 @@
-# 3/28/25 27/49 Adepticon
+# 5/25/25 3/10 Indiana tournament
 
-Characters (10):
-Threat: 37
-Black Widow (2)
-Captain Marvel, Cosmic Avenger (5)
-Crystal (3)
-Okoye (2)
-*She-Hulk (6)
-Squirrel Girl (4)
-Domino (3)
-Gwenom (4)
-Punisher (3)
-*Cable (5)
-
-Tactics (10):
+Characters
+She-Hulk (Jennifer Walters)
+Black Cat (Felicia Hardy)
+Captain Marvel, Cosmic Avenger (Carol Danvers)
+Domino (Neena Thurman)
+Gamora
+Okoye
+Scarlet Witch (Wanda Maximoff)
+Shuri
+The Mighty Thor (Jane Foster)
+Wasp (Janet Van Dyne)
+Team Tactics
+A-Force Assemble
+Brace for Impact
+No More Mutants
+Patch Up
+Pym Particles
+Recalibration Matrix
 Special Delivery
 Stalwart Determination
-Elemental Infusion
-They Say Keep Your Enemies Close...
-Joint Effort
-Patch Up (R)
-Sacrifice (R)
-Recalibration Matrix
-Blood Red and Personal
 Venomized
-
-Secure Crisis:
-Intrusions Open Across City As Seals Collapse (C, 19)
-Mutant Madman Turns City Center Into Lethal Amusement Park (B, 18)
-Deadly Meteors Mutate Citizens (I, 17)
-
-Extract Crisis:
-Spider-Infected Invade Manhattan (F, 17)
-Alien Ship Crashes in Downtown! (C, 17)
-Terrigen Canisters Fuel Doomsday Device (F, 17)
+Warpath
+Crises
+Infinity Formula Goes Missing!
+Intrusions Open Across City As Seals Collapse
+M'Kraan Crystal Gets Heroes Home!
+Scientific Samples Found In Discovered Universe
+Fear Grips World as "Worthy" Terrorize Cities
+Skrulls Infiltrate World Leadership
