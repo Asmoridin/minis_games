@@ -1,56 +1,46 @@
-#4/12/25 10th/14 Australian invitational
+# 5/24/25 4th/12 Arizona Steamroller
 
-GrimFrost
+Grim
 Trollbloods - Storm of the North
 Grand Melee - 100 pts
 
 PC CARD
 
-Defenses
-DEFENSE 1 - Barrier
-DEFENSE 2 - Fire Pit
-DEFENSE 1 - Fire Pit
-
 Grim Angus
 
-28 Glacier King
+17 Dire Troll Bomber
 
-8 Troll Bouncer
+13 Dire Troll Mauler
+
+28 Glacier King
 
 20 Carver Ultimus
 
 War Boar MMD47
 
-1 Troll Whelps 1
+3 Northkin Shaman
 
-1 Troll Whelps 2
-
-1 Troll Whelps 3
-
-4 Trollkin Champion Hero
+1 Troll Whelps
 
 3 Trollkin Runebearer
-
-3 Trollkin Skinner
 
 5 Krielstone Bearer & Stone Scribes
 
 2 Northkin Elder
 
-6 Northkin Fire Eaters 1
+8 Trollkin Warders
 
-6 Northkin Fire Eaters 2
-
-8 Trollkin Champions
-
-4 Skaldi Bonehammer
+Defenses
+DEFENSE 1 - Barrier
+DEFENSE 1 - Barrier
+DEFENSE 1 - Spike Trap
 
 
 PC COMMAND CARD
 Blessing of the Gods
-Careful Reconnaissance
 Defenses
-Hit & Run
+Duck and Cover!
+Lucky Penny
 Sapper
 
 TOTAL POINTS 100/100
