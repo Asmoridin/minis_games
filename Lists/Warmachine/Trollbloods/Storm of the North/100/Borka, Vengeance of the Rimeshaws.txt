@@ -1,34 +1,56 @@
-#3/29/25 4th/7 
+# 5/24/25 4th/12 Arizona Steamroller
 
+Borka
 Trollbloods - Storm of the North
 Grand Melee - 100 pts
 
 PC CARD
+
 Borka, Vengeance of the Rimeshaws
-14 Dire Troll Brawler 1
-14 Dire Troll Brawler 2
+
+13 Dire Troll Mauler
+
 12 Earthborn Dire Troll
-15 Rök
-7 Troll Basher 1
-7 Troll Basher 2
+
+7 Troll Basher
+
+4 Fell Caller Hero
+
+1 Troll Whelps
 
 4 Trollkin Champion Hero
+
 3 Trollkin Runebearer
 
-5 Kriel Warriors
+9 Bear Handler & Battle Bears
+
 5 Krielstone Bearer & Stone Scribes
+
 2 Northkin Elder
+
 6 Northkin Fire Eaters 1
+
 6 Northkin Fire Eaters 2
+
+8 Trollkin Champions
+
+4 Skaldi Bonehammer
+
+8 Trollkin Warders 1
+
+8 Trollkin Warders 2
+
+Defenses
+DEFENSE 1 - Barrier
+DEFENSE 2 - Fire Pit
+DEFENSE 1 - Fire Pit
+
 
 PC COMMAND CARD
 Blessing of the Gods
-Hit & Run
-Lucky Penny
-Old Faithful
+Break Through
 Defenses
-DEFENSE 1 - Barrier
-DEFENSE 2 - Barrier
-DEFENSE 3 - Fire Pit
+Duck and Cover!
+Lucky Penny
 
 TOTAL POINTS 100/100
