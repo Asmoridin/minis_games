@@ -1,23 +1,21 @@
 # 4/27/25 6/32 Spain
 
 Characters (10):
-Thanos, the Mad Titan (Thanos)
-     Mind and Space gems
-Corvus Glaive
-    Reality gem
-Proxima Midnight
-Black Swan
-    Power gem
-Cosmic Ghost Rider (Frank Castle)
-Nebula
-Gamora
-Namor, the Sub-Mariner (Namor McKenzie)
-    Time gem
-Hulk (Bruce Banner)
-Heimdall, The All-Seeing (Heimdall)
+Threat: 48
+*Thanos, the Mad Titan (Mind, Space) (8)
+*Corvus Glaive (Reality) (5)
+Proxima Midnight (3)
+Black Swan (Power) (5)
+Cosmic Ghost Rider (6)
+Nebula (2)
+Gamora (4)
+*Namor, the Sub-Mariner (Time) (6)
+Hulk (6)
+Heimdall, The All-Seeing (3)
+
 Tactics (10):
-Sacrifice
-Brace for Impact
+Brace for Impact (R)
+Sacrifice (R)
 Blood to Spare
 Mothership
 Execute
@@ -25,11 +23,15 @@ Recalibration Matrix
 Grievous Wounds
 Daughter of Thanos
 Venomized
-Gamma Launch
-Crises
-Intrusions Open Across City As Seals Collapse
-M'Kraan Crystal Gets Heroes Home!
-Super-Powered Scoundrels Form Sinister Syndicate!
-Mutant Extremists Target U.S. Senators!
-Deadly Legacy Virus Cured?
-Skrulls Infiltrate World Leadership
+Fall Back (R)
+
+Secure Crisis:
+Intrusions Open Across City As Seals Collapse (C, 19)
+M'Kraan Crystal Gets Heroes Home! (, 19)
+Super-Powered Scoundrels Form Sinister Syndicate! (F, 20)
+
+Extract Crisis:
+Mutant Extremists Target U.S. Senators! (L, 19)
+Deadly Legacy Virus Cured? (C, 19)
+Skrulls Infiltrate World Leadership (J, 20)
+

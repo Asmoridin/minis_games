@@ -1,31 +1,36 @@
 # 3/28/25 29/47 Adepticon
 
 Characters (10):
-Beast (Henry McCoy)
-Cyclops (Scott Summers)
-Gambit (Remy LeBeau)
-Mystique (Raven Darkholme)
-Rogue (Anna Marie LeBeau)
-Storm (Ororo Munroe)
-Toad (Mortimer Toynbee)
-Wolverine (James Logan Howlett)
-X-23 (Laura Kinney)
-Jean Grey
+Threat: 34
+Beast (3)
+*Cyclops (4)
+Gambit (3)
+*Mystique (3)
+Rogue (4)
+*Storm (3)
+Toad (2)
+*Wolverine (4)
+*X-23 (3)
+Jean Grey (5)
+
 Tactics (10):
 Children of the Atom
 First Class
-Indomitable
+Indomitable (R)
 Jean!!!
-Sacrifice
+Sacrifice (R)
 To Me, My X-Men!
 Xavier's Dream
 Instant Recovery
 Joint Effort
 Wolverines
-Crises
-Infinity Formula Goes Missing!
-Mutant Madman Turns City Center Into Lethal Amusement Park
-Guardians Save Shi'ar Empress in Style
-Scientific Samples Found In Discovered Universe
-Inhumans Deploy Advanced Weaponry
-Spider-Infected Invade Manhattan
+
+Secure Crisis:
+Guardians Save Shi'ar Empress in Style (, 17)
+Infinity Formula Goes Missing! (B, 17)
+Mutant Madman Turns City Center Into Lethal Amusement Park (B, 18)
+
+Extract Crisis:
+Scientific Samples Found In Discovered Universe (D, 17)
+Inhumans Deploy Advanced Weaponry (, 18)
+Spider-Infected Invade Manhattan (F, 17)

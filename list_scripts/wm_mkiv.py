@@ -84,3 +84,16 @@ for line in lines:
     painted_amount = int(painted_amount)
     if painted_amount > built_amount or built_amount > own_amount:
         print(f"May have an inventory issue with {model_name}")
+    TOTAL_OWN += own_amount
+    TOTAL_MAX += max_fa
+
+if __name__ == "__main__":
+    if os.getcwd().endswith('minis_games'):
+        out_file_h = open("output/WM MKIV Output.txt", 'w', encoding="UTF-8")
+    else:
+        out_file_h = open("minis_games/output/WM MKIV Output.txt", 'w', encoding="UTF-8")
+
+    double_print("Warmachine MK IV Inventory Tracker and purchase suggester\n", out_file_h)
+
+    summary_str = f"I own {TOTAL_OWN} out of {TOTAL_MAX} - {100 * TOTAL_OWN/TOTAL_MAX:.2f} percent"
+    double_print(summary_str, out_file_h)

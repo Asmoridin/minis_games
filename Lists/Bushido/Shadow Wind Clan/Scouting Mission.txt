@@ -1,14 +1,27 @@
-5/10/25 7/11
+# 5/10/25 7/11
 
-Scouting mission
-Katsumi 25
-Neko 14
-Ghost 23
-Hiretsuna 10
-Bikou 18
-Hidden kusari 1
-New contract 2
-Smoke bomb x3 3
-Second chance 1
-Second chance 1
-Preordain 3
+Kage Kaze Zoku - Scouting Mission - [100 Rice]
+
+# ++ Risen Sun ++ [100 Rice]
+## Faction Profile Cards [62 Rice]
+Ghost [23 Rice]
+Katsumi [25 Rice]
+Neko [14 Rice]
+
+## Faction Event Cards [6 Rice]
+Hidden Kusari [1 Rice]
+New Contract [2 Rice]
+Smoke Bomb [1 Rice]
+Smoke Bomb [1 Rice]
+Smoke Bomb [1 Rice]
+
+## Faction Theme Cards
+Scouting Mission
+
+## Ronin Profile Cards [28 Rice]
+Bikou [18 Rice]
+Hiretsuna [10 Rice]
+
+## Ronin Event Cards [4 Rice]
+Preordain [3 Rice]
+Second Chance [1 Rice]

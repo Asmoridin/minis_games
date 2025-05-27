@@ -1,18 +1,24 @@
-Warband List: Temple of Ro-Kan
-Theme: Minkan Densho
-Points: 100/100 - Models: 7
---------------------
-1 Kota - Human Form 18 Kota - Fox Form 0
-- Prayer Beads 1
-2 Kyuubi 18
-3 Senshi 17
-4 Takeru - Human Form 15 Takeru - Fox Form 0
-5 Silverback 12
-6 Kami of the Strong West Wind 1 8
-7 Kami of the Strong West Wind 2 8
---------------------
-Terrain Cards
-- Gorinto 1
---------------------
-Event Cards
-- Moment of Enlightenment 2
+Temple of Ro-Kan - Minkan Densho - [100 Rice]
+
+# ++ Risen Sun ++ [100 Rice]
+## Faction Profile Cards [69 Rice]
+Kota - Human Form [19 Rice]: Prayer Beads
+Kyuubi [18 Rice]
+Senshi [17 Rice]
+Takeru - Human Form [15 Rice]
+
+## Faction Event Cards [2 Rice]
+Moment of Enlightenment [2 Rice]
+
+## Faction Terrain Cards [1 Rice]
+Gorintō [1 Rice]
+
+## Faction Theme Cards
+Minkan Denshō
+
+## Ronin Profile Cards [28 Rice]
+Kami of the Strong West Wind [16 Rice]:
+• 1x Kami of the Strong West Wind A [8 Rice]
+• 1x Kami of the Strong West Wind B [8 Rice]
+Silverback [12 Rice]:
+• 1x Silverback A [12 Rice]

@@ -195,7 +195,7 @@ for sub_dir in os.listdir(LIST_DIR):
         for line in list_lines:
             if line.startswith('#') or line == '':
                 continue
-            if '[100Rice]' in line:
+            if '[100Rice]' in line or '[100 Rice]' in line:
                 continue
             if line in theme_lines:
                 continue

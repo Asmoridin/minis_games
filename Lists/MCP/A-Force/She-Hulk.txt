@@ -1,31 +1,36 @@
 # 5/25/25 3/10 Indiana tournament
 
-Characters
-She-Hulk (Jennifer Walters)
-Black Cat (Felicia Hardy)
-Captain Marvel, Cosmic Avenger (Carol Danvers)
-Domino (Neena Thurman)
-Gamora
-Okoye
-Scarlet Witch (Wanda Maximoff)
-Shuri
-The Mighty Thor (Jane Foster)
-Wasp (Janet Van Dyne)
-Team Tactics
+Characters (10):
+Threat: 39
+*She-Hulk (6)
+Black Cat (3)
+Captain Marvel, Cosmic Avenger (5)
+Domino (3)
+Gamora (4)
+Okoye (2)
+Scarlet Witch (5)
+Shuri (3)
+*The Mighty Thor (5)
+Wasp (3)
+
+Tactics (10):
 A-Force Assemble
-Brace for Impact
+Brace for Impact (R)
 No More Mutants
-Patch Up
+Patch Up (R)
 Pym Particles
 Recalibration Matrix
 Special Delivery
 Stalwart Determination
 Venomized
 Warpath
-Crises
-Infinity Formula Goes Missing!
-Intrusions Open Across City As Seals Collapse
-M'Kraan Crystal Gets Heroes Home!
-Scientific Samples Found In Discovered Universe
-Fear Grips World as "Worthy" Terrorize Cities
-Skrulls Infiltrate World Leadership
+
+Secure Crisis:
+Infinity Formula Goes Missing! (B, 17)
+Intrusions Open Across City As Seals Collapse (C, 19)
+M'Kraan Crystal Gets Heroes Home! (, 19)
+
+Extract Crisis:
+Scientific Samples Found In Discovered Universe (D, 17)
+Fear Grips World as "Worthy" Terrorize Cities (D, 18)
+Skrulls Infiltrate World Leadership (J, 20)
