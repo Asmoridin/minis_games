@@ -1,6 +1,6 @@
-#3/29/25 3rd/7 
+# 5/24/25 2nd/16 Canada event
 
-Thexus Copy
+Thexus
 Mercenaries - Dark Operations
 Grand Melee - 100 pts
 
@@ -12,15 +12,15 @@ Exulon Thexus
 
 10 Subduer 2
 
-12 Wrecker 1
+9 Warden
 
-12 Wrecker 2
+20 Carver Ultimus
+
+War Boar MMD47
 
 2 Cephalyx Agitator 1
 
 2 Cephalyx Agitator 2
-
-2 Cephalyx Agitator 3
 
 3 Doctor Stygius
 
@@ -28,24 +28,24 @@ Exulon Thexus
 
 2 Machine Wraith 2
 
-20 Magnus the Unstoppable
+6 Cephalyx Mind Bender & Drudges 1
 
-Invictus
-
-6 Cephalyx Mind Bender & Drudges
+6 Cephalyx Mind Bender & Drudges 2
 
 6 Cephalyx Mind Slaver & Drudges 1
 
 6 Cephalyx Mind Slaver & Drudges 2
 
-5 Cephalyx Overlords
+8 Dominated Horgenhold Forge Guard 1
+
+8 Dominated Horgenhold Forge Guard 2
 
 
 PC COMMAND CARD
-Blessing of the Gods
 Careful Reconnaissance
 Hit & Run
 Lucky Penny
 Old Faithful
+Sapper
 
 TOTAL POINTS 100/100
