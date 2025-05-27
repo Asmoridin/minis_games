@@ -1,28 +1,43 @@
-#3/29/25 9th/9 Finnish event
+# 5/24/25 13th/16 Canada event
 
-Axis
+Axis gonna drop
 Convergence of Cyriss - Convergence of Cyriss
 Grand Melee - 100 pts
 
 PC CARD
 
+Defenses
+DEFENSE 1 - Barrier
+DEFENSE 1 - Barrier
+DEFENSE 1 - Barrier
+
 Axis, The Harmonic Enforcer
+
+10 Conservator
 
 6 Corollary
 
 14 Inverter
 
-29 Prime Axiom
-
-13 Transfinite Emergence Projector
-
-Permutation Servitors
-
 12 Asphyxious the Sanctified
 
 Annihilation Servitors
 
-10 Conservator
+6 Negator 1
+
+6 Negator 2
+
+2 Reflex Servitors 1
+
+2 Reflex Servitors 2
+
+7 Eradicators 1
+
+7 Eradicators 2
+
+6 Obstructors 1
+
+6 Obstructors 2
 
 8 Reciprocators 1
 
@@ -31,9 +46,9 @@ Annihilation Servitors
 
 PC COMMAND CARD
 Blessing of the Gods
-Careful Reconnaissance
+Defenses
 Hit & Run
 Lucky Penny
-Put the Fires Out
+Old Faithful
 
 TOTAL POINTS 100/100
