@@ -1,0 +1,35 @@
+# 5/24/25 3rd/10
+
+=== The Last Argument of Kings ===
+
+Karl [2000/2000]
+The Spires
+
+
+== Warlord Biomancer [150]: Sensory Augmentation, Master of Flesh
+
+* Siegebreaker Behemoth 1 [210]:
+
+* Desolation Drones 3 [150]:
+
+
+== High Clone Executor [140]: Marksman Variant, Burrowing Parasites, Overtax Nervous System, Disperse, Additional Neural Receptors
+
+* Marksman Clones 4 [200]:
+
+* Force-Grown Drones 3 [110]: Catabolic Node
+
+* Marksman Clones 5 [250]:
+
+* Force-Grown Drones 3 [110]: Catabolic Node
+
+
+== Pheromancer [120]: Avatar Projection, Attracting Pheromones
+
+* Abomination 1 [150]:
+
+* Brute Drones 3 [170]:
+
+* Stryx 3 [120]:
+
+* Stryx 3 [120]:
