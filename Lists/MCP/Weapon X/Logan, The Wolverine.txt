@@ -1,36 +1,35 @@
-# Updated 2/2/25 18/27 Mid-Atlantic tournament
+# Updated 5/24/25 4/16 Illinois tournament
 
-Characters (10):
-Threat: 33
-Baron Zemo (3)
-Bullseye (2)
-Deadpool (3)
-Domino (3)
-*Logan, The Wolverine (4)
-Maverick (3)
-Shang-Chi (4)
-Ultron, Metal Tyrant (5)
-*Weapon X (3)
-*X-23 (3)
+Characters 10
+* X-23 3
+Domino 3
+Honey Badger 2
+* Logan, the Wolverine 4
+Maverick 3
+Sabretooth, Apex Predator 4
+* Weapon X 3
+Deadpool 3
+Mister Sinister 4
+* Cable 5
 
-Tactics (10):
-Are You Sure You Want to Remember?
-Brace for Impact (R)
-Chi Mastery
+Team Tactics 10
+Are You Sure You Want To Remember?
 Dossier
-Glory of Ultron
-I Am A Baron, After All
-Sacrifice (R)
-Survival
-Warpath
-Wolverines
+Weapons Stash
+Cat and Mouse
+Preserve the Dream
+Cloning Banks
+Forced Extraction
+Instant Recovery
+Patch Up R
+Brace for Impact R
 
-Secure Crisis:
-Infinity Formula Goes Missing! (B, 17)
-Riots Spark Over Extremis 3.0 (D, 17)
-S.W.O.R.D. Establishes Base on Moon's Blue Area (G, 15)
+Secure Crisis
+Super-Powered Scoundrels Form Sinister Syndicate F, 20
+Mayor Fisk Vows To Find Missing Witnesses H, 16
+Cosmic Invasion! Black Order Descends on Earth D, 16
 
-Extract Crisis:
-Alien Ship Crashes in Downtown! (C, 17)
-Deadly Legacy Virus Cured? (C, 19)
-Fear Grips World as "Worthy" Terrorize Cities (D, 18)
+Extract Crisis
+Spider-Infected Invade Manhattan F, 17
+Fear Grips World As “Worthy“ Terrorize Cities D, 18
+Struggle For The Cube Continues F, 17
