@@ -1,31 +1,31 @@
-# 5/17/25 43rd/62 London tournament
+# 5/25/25 3rd/8 Spanish tournament
 
-Characters (10):
-Magneto (Max Eisenhardt)
+Characters
+Colossus (Piotr Rasputin)
 Mystique (Raven Darkholme)
+Magneto (Max Eisenhardt)
+Rogue (Anna Marie LeBeau)
+Pyro (St. John Allerdyce)
+The Blob (Fred Dukes)
+Toad (Mortimer Toynbee)
 Juggernaut (Cain Marko)
 Quicksilver (Pietro Maximoff)
-Toad (Mortimer Toynbee)
-The Immortal Hulk (Bruce Banner)
-Cable (Nathan Summers)
-Rhino (Aleksei Sytsevich)
-Elektra (Elektra Nachios)
-Wong
-Tactics (10):
+Sabretooth (Victor Creed)
+Team Tactics
 Asteroid M
+The Books of Truth
+Pyrotechnics
+Mind If I Cut In?
 Magnetic Refraction
-This is a Robbery
+Magnetic Crush
 Do You Know Who I Am?
-One Below All
+Makin' a Ruckus
+Versatile Strategy
 Can I Borrow That?
-Recalibration Matrix
-Joint Effort
-Brace for Impact
-Patch Up
 Crises
-Deadline to Destruction
-Intrusions Open Across City As Seals Collapse
-Super-Powered Scoundrels Form Sinister Syndicate!
-Fear Grips World as "Worthy" Terrorize Cities
-Inhumans Deploy Advanced Weaponry
-Mutant Extremists Target U.S. Senators!
+Gamma Wave Sweeps Across Midwest
+S.W.O.R.D. Establishes Base on Moon's Blue Area
+Mayor Fisk Vows to Find Missing Witnesses
+Skrulls Infiltrate World Leadership
+Research Station Attacked!
+The Montesi Formula Found

@@ -1,35 +1,35 @@
-# 3/28/25 34/49 Adpeticon
+# 5/25/25 2/14 Iowa tournament
 
 Characters 10
 * Doctor Strange 5
-Ulik 5
-Shang-Chi 4
-* Elsa Bloodstone 4
-* Baron Helmut Zemo 4
-Supergiant Soul 4
-Iron Fist 3
+Clea 3
 Luke Cage 3
-Winter Soldier 3
+Shang-Chi 4
 Wong 2
+Hawkeye 3
+The Wrecking Crew 4
+* Daredevil 4
+Hulk 6
+Killmonger 4
 
-Tactics (10): 10
-Mystic Ward
+Team Tactics 10
 Cover Me
-Pentagram of Farallah
-Chi Mastery
-Human Weapon
-Covering Fire
-Rock and Troll
 Heroes for Hire
 Brace for Impact R
 Sacrifice R
+Street Smarts
+Pentagram of Farallah
+Stronger Together
+Mystic Ward
+Usurp the Throne
+Chi Mastery
 
 Secure Crisis
-Deadline to Destruction P, 16
+Riots Spark Over Extremis 3.0 D, 17
 Intrusions Open Across City As Seals Collapse C, 19
 Wedding Party Targeted in Terrible Attack! R, 20
 
 Extract Crisis
+Skrulls Infiltrate World Leadership J, 20
 Fear Grips World As “Worthy“ Terrorize Cities D, 18
-The Montesi Formula Found E, 18
-Inhumans Deploy Advanced Weaponry O, 18
+Scientific Samples Found in Discovered Universe D, 17

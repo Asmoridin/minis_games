@@ -1,4 +1,5 @@
-#3/29/25 3rd/7 
+# 5/24/25 2nd/16 Canada event
+
 
 Cyphon
 Mercenaries - Dark Operations
@@ -12,15 +13,17 @@ Cognifex Cyphon
 
 10 Subduer 2
 
+10 Subduer 3
+
+10 Subduer 4
+
 9 Warden 1
 
 9 Warden 2
 
-12 Wrecker 1
+9 Warden 3
 
-12 Wrecker 2
-
-12 Wrecker 3
+12 Wrecker
 
 2 Cephalyx Agitator 1
 
@@ -30,10 +33,6 @@ Cognifex Cyphon
 
 3 Doctor Stygius
 
-2 Machine Wraith 1
-
-2 Machine Wraith 2
-
 6 Cephalyx Mind Slaver & Drudges 1
 
 6 Cephalyx Mind Slaver & Drudges 2
@@ -42,8 +41,8 @@ Cognifex Cyphon
 PC COMMAND CARD
 Blessing of the Gods
 Careful Reconnaissance
+Hit & Run
 Lucky Penny
 Old Faithful
-Put the Fires Out
 
-TOTAL POINTS 99/100
+TOTAL POINTS 100/100

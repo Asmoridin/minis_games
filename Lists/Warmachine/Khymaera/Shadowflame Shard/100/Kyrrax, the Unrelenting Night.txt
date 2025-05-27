@@ -1,6 +1,6 @@
-#3/29/25 41st/48 IG Qualifiers
+# 5/24/25 8th/16 Canada event
 
-Damn boi he Thick
+Kyrrax
 Khymaera - Shadowflame Shard
 Grand Melee - 100 pts
 
@@ -8,49 +8,55 @@ PC CARD
 
 Defenses
 DEFENSE 1 - Barrier
-DEFENSE 2 - Barrier
-DEFENSE 3 - Barrier
+DEFENSE 2 - Fire Pit
+DEFENSE 1 - Fire Pit
 
 Kyrrax, the Unrelenting Night
 SPELL - Carnivore
 SPELL - Curse of Shadows
 
-11 Drakyon
+16 Skylla, The Abyssal Fury
+9 CENTRAL HEAD - Skylla
+4 SMALLER HEAD 1 - Horned Piercer
+3 SMALLER HEAD 2 - Gnashing Fangs
 
-30 Trikhymaerax
-9 ARCANE HEADS - Many-Eyed Head
-RANGE HEADS - Frost Head
-6 MELEE HEADS - Bicorn
-ARCANE TAILS - Void Tail
-9 RANGE TAILS - Spined Tail
-6 MELEE TAILS - Stinger
+13 Vypex 1
+4 HEAD - Viper
+1 TAIL - Bladed Gale
+8 ARMS - Impalers
+
+13 Vypex 2
+4 HEAD - Viper
+1 TAIL - Chasten
+8 ARMS - Impalers
+
+10 Vypex 3
+1 HEAD - Asp
+3 TAIL - Hunter's Mark
+6 ARMS - Cleavers
 
 4 Bellighul, Master of Pain
 
-6 Ryvyn, the Onyx Rampant
+3 Pythia
 
-2 Spinner 1
-
-2 Spinner 2
-
-5 Wraithwing Paragon
-
-11 Incarnate Knights 1
-
-11 Incarnate Knights 2
-
-7 Quick Fang Stalkers
-
-2 Quick Fang Master
+4 Regulus
 
 9 Shades
+
+7 Talon Death Dealers 1
+
+7 Talon Death Dealers 2
+
+7 Talon Lashers 1
+
+7 Talon Lashers 2
 
 
 PC COMMAND CARD
 Blessing of the Gods
+Break Through
 Defenses
-Duck and Cover!
 Lucky Penny
-Put the Fires Out
+Sapper
 
 TOTAL POINTS 100/100

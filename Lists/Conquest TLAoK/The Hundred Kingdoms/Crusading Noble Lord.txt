@@ -1,0 +1,39 @@
+# 5/24/25 8th/8 Czech Tournament
+
+=== The Last Argument of Kings ===
+
+And?lé [2000/2000]
+The Hundred Kingdoms
+[object Object]
+
+
+== Warlord Crusading Noble Lord [125]: To Banish the Darkness, Art of War
+
+* Men at Arms 3 [135]: [Veteran], Seasoned Veteran
+
+* Sicarii 3 [160]:
+
+* Household Knights 3 [170]:
+
+
+== Theist Priest [90]:
+
+* Militia 3 [105]: [Veteran]
+
+* Archangel 1 [260]: Aspect of the Avenger Sword
+
+* Militia Bowmen 3 [80]:
+
+
+== Theist Priest [90]:
+
+* Crusaders 3 [140]: [Veteran]
+
+* Archangel 1 [260]: Aspect of the Redeemer Shield & Spear
+
+
+== Noble Lord [100]: Dynastic Ally, Graceful Combatant, Front of the Line
+
+* Household Guard 3 [160]: [Veteran]
+
+* Mercenary Crossbowmen 3 [125]: [Veteran]

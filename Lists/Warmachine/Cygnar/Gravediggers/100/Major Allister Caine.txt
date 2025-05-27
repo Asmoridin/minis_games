@@ -1,10 +1,24 @@
-# 5/18/25 4th/10 Kentucky tournament
+# 5/24/25 3rd/16 Canada event
 
-you caine do it
+Caine MA 2
 Cygnar - Gravediggers
 Grand Melee - 100 pts
 
 PC CARD
+
+Heavy Weapon Crate
+HEAVY WEAPON - Heavy Flamethrower
+
+Blocker
+
+Skirmisher
+
+Raider
+
+Defenses
+DEFENSE 1 - Barrier
+DEFENSE 2 - Fire Pit
+DEFENSE 1 - Fire Pit
 
 Ammo Crate 1
 
@@ -22,24 +36,6 @@ Mantlet 2
 
 Fuel Canister 2
 
-Heavy Weapon Crate 1
-HEAVY WEAPON - Heavy Flamethrower
-
-Skirmisher 1
-
-Blocker 1
-
-Raider 1
-
-Heavy Weapon Crate 2
-HEAVY WEAPON - Heavy Flamethrower
-
-Blocker 2
-
-Skirmisher 2
-
-Raider 2
-
 Major Allister Caine
 SPELL - Arcane Shield
 SPELL - Chasten
@@ -56,32 +52,36 @@ SPELL - Chasten
 6 RIGHT ARM - Dual Cannon
 2 LEFT ARM - Trench Blade
 
-15 Valiant
-2 HEAD - Reposition
+17 Plugger
+HEAD - Plugger
+RIGHT ARM - Trench Ripper
+LEFT ARM - Trench Ripper
+
+12 Valiant
+1 HEAD - Evasive
 7 RIGHT ARM - Heavy Mortar
-6 LEFT ARM - Volley Shield
+4 LEFT ARM - Slug Fist
 
-4 Greygore Boomhowler
+3 Heavy Machine Gun Crew 1
 
-3 Heavy Machine Gun Crew
+3 Heavy Machine Gun Crew 2
+
+8 Gravedigger Commandos
 
 4 Gravedigger Gun Mages 1
 
 4 Gravedigger Gun Mages 2
 
-8 Gravedigger Rangers
-
-3 Trollkin Express Sniper
-
-5 Storm Vanes
-
 9 The Black 13th
 
 
 PC COMMAND CARD
-Break Through
+Blessing of the Gods
+Defenses
+Barrier
+Barrier
+Fire Pit!!!
 5 Heavy Airdrop 1
-5 Heavy Airdrop 2
 Light Airdrop 1
 Light Airdrop 2
 Lucky Penny
