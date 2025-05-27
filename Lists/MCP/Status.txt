@@ -9,6 +9,7 @@
 0.050 - 5/100 - Criminal Syndicate/Kingpin
 0.064 - 4/62 - Spider-Foes/Doc Ock, Sinister Scientist
 0.070 - 7/100 - Midnight Sons/Blade
+0.076 - 2/26 - Wakanda/King T'Challa
 0.083 - 4/48 - Winter Guard/Crimson Dynamo
 0.090 - 9/100 - Wakanda/M'Baku
 0.093 - 3/32 - Cabal/Malekith the Accursed
@@ -18,15 +19,18 @@
 0.120 - 3/25 - X-Force/Cable
 0.125 - 1/8 - Criminal Syndicate/Shadowland Daredevil
 0.125 - 1/8 - Guardians of the Galaxy/Star-Lord
+0.142 - 2/14 - Defenders/Doctor Strange
 0.143 - 2/14 - Avengers/Captain America, First Avenger
 0.143 - 2/14 - Defenders/Daredevil
 0.180 - 13/72 - Asgard/The Mighty Thor
 0.187 - 6/32 - Black Order/Corvus Glaive
 0.200 - 2/10 - Asgard/Loki, Prince of Lies
 0.200 - 5/25 - Convocation
+0.250 - 4/16 - Weapon X/Logan, The Wolverine
 0.250 - 25/100 - Hydra/Red Skull, Master of Hydra
 0.280 - 28/100 - SHIELD/Nick Fury Jr
 0.281 - 9/32 - Weapon X/X-23
+0.300 - 3/10 - A-Force/She-Hulk
 0.310 - 31/100 - Hydra/Baron Helmut Zemo
 0.312 - 5/16 - Midnight Sons/Elsa Bloodstone
 0.312 - 15/48 - New Mutants/Magik
@@ -34,25 +38,21 @@
 0.320 - 8/25 - Inhumans/Medusa
 0.347 - 25/72 - Avengers/Hulkbuster
 0.357 - 5/14 - Cabal/Red Skull
+0.357 - 5/14 - Sentinels/Sentinel Prime MK4
 0.368 - 7/19 - Black Order/Thanos, the Mad Titan
+0.375 - 3/8 - Brotherhood of Mutants/Magneto
 0.428 - 6/14 - Inhumans/Maximus the Mad
 0.486 - 35/72 - Legion of the Lost/Mephisto, Lord of Temptation
 0.500 - 7/14 - Web Warriors/Amazing Spider-Man
 0.516 - 32/62 - Dark Dimension/Dormammu
-0.521 - 12/23 - Sentinels/Sentinel Prime MK4
 0.531 - 17/32 - Hellfire Club/Emma Frost
-0.551 - 27/49 - A-Force/She-Hulk
 0.591 - 29/49 - X-Men/Cyclops
 0.625 - 10/16 - Thralls of Dracula/Dracula
 0.625 - 20/32 - Asgard/Thor, Prince of Asgard
-0.693 - 34/49 - Defenders/Doctor Strange
-0.693 - 43/62 - Brotherhood of Mutants/Magneto
 0.694 - 50/72 - Criminal Syndicate/MODOK, Scientist Supreme
 0.708 - 51/72 - Hydra/Baron Strucker
-0.718 - 23/32 - Wakanda/King T'Challa
 0.800 - 8/10 - Wakanda/Killmonger, Usurper
 0.937 - 15/16 - Cabal/Sin
 1.500 - N/A - Criminal Syndicate/Klaw
 1.500 - N/A - SHIELD/Steve Rogers, Captain America
 1.500 - N/A - Wakanda/Black Panther
-1.500 - N/A - Weapon X/Logan, The Wolverine
