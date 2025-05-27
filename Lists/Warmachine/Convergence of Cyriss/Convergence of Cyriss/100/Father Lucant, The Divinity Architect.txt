@@ -1,32 +1,35 @@
-#3/29/25 9th/9 Finnish event
+# 5/24/25 13th/16 Canada event
 
-lucant
+lucant touch this
 Convergence of Cyriss - Convergence of Cyriss
 Grand Melee - 100 pts
 
 PC CARD
 
+Defenses
+DEFENSE 1 - Barrier
+DEFENSE 1 - Barrier
+DEFENSE 1 - Barrier
+
 Father Lucant, The Divinity Architect
 
-10 Conservator
+10 Conservator 1
 
-14 Inverter
+10 Conservator 2
 
-13 Transfinite Emergence Projector 1
+13 Transfinite Emergence Projector
 
-Permutation Servitors 1
-
-13 Transfinite Emergence Projector 2
-
-Permutation Servitors 2
+Permutation Servitors
 
 12 Asphyxious the Sanctified
 
 Annihilation Servitors
 
-4 Galvanizer
+5 Diffuser
 
-4 Frustum Locus
+20 Carver Ultimus
+
+War Boar MMD47
 
 7 Eradicators 1
 
@@ -40,8 +43,8 @@ Annihilation Servitors
 PC COMMAND CARD
 Blessing of the Gods
 Careful Reconnaissance
+Defenses
 Lucky Penny
 Old Faithful
-Put the Fires Out
 
 TOTAL POINTS 100/100
