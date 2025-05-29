@@ -149,7 +149,7 @@ Steelhead Heavy Cavalry;Legacy Crucible Guard;Unit;12;89.99;8;2;1;0;0
 Steelhead Mortar Crew;Legacy Crucible Guard;Unit;6;34.99;5;2;1;0;0
 Steelhead Riflemen;Legacy Crucible Guard;Unit;5;54.99/2;5;4;0;0;0
 Steelhead Volley Gun Crew;Legacy Crucible Guard;Unit;6;34.99;5;2;0;0;0
-Order of Illumination Vigilants;Legacy Crucible Guard;Unit;?;39.99;7;2;1;0;0
+Order of Illumination Vigilants;Legacy Crucible Guard;Unit;5;39.99;7;2;1;0;0
 Press Gangers;Legacy Crucible Guard;Unit;5;44.99/2;5;4;4;0;0
 Sea Dog Deck Gun;Legacy Crucible Guard;Unit;4;17.99;3;2;0;0;0
 Optifex Directive;Convergence of Cyriss/Legacy Convergence of Cyriss;Unit;3;16.99;3;4;0;0;0
