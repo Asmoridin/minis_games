@@ -1,0 +1,25 @@
+Commander: Emperor Palpatine (com)
+Points: 392/400
+
+Assault Objective: Station Assault
+Defense Objective: Contested Outpost
+Navigation Objective: Doomed Station
+
+[ flagship ] Star Dreadnought Assault Prototype (250 points)
+- Emperor Palpatine (com) ( 35 points)
+- Eclipse ( 3 points)
+- Reeva Demesne ( 4 points)
+- Support Officer ( 2 points)
+- Veteran Captain ( 2 points)
+- Gunnery Team ( 7 points)
+- Point-Defense Reroute ( 5 points)
+- Quad Laser Turrets ( 5 points)
+- Quad Battery Turrets ( 5 points)
+- XX-9 Turbolasers ( 2 points)
+- Leading Shots ( 5 points)
+- NK-7 Ion Cannons ( 6 points)
+= 331 total ship cost
+
+4 TIE Bomber Squadron ( 36 points)
+1 Darth Vader (defender) ( 25 points)
+= 61 total squadron cost
