@@ -1,0 +1,42 @@
+Faction: Rebel
+Commander: Garm Bel Iblis
+
+Assault: Most Wanted
+Defense: Asteroid Tactics
+Navigation: Infested Fields
+
+Providence Carrier (95)
+• Garm Bel Iblis (25)
+• Major Derlin (7)
+• Walex Blissex (5)
+• Boarding Troopers (3)
+• Ordnance Experts (4)
+• Engine Techs (8)
+• Nav Team (4)
+= 151 Points
+
+Nebulon-B Support Refit (51)
+• Auxiliary Shields Team (3)
+• Slaved Turrets (6)
+• Salvation (7)
+= 67 Points
+
+GR-75 Medium Transports (18)
+• Comms Net (2)
+= 20 Points
+
+Pelta Assault Ship (56)
+• Hondo Ohnaka (2)
+• Projection Experts (6)
+• Intensify Firepower! (6)
+• External Racks (4)
+= 74 Points
+
+Squadrons:
+• Ketsu Onyo (22)
+• Shara Bey (17)
+• Tycho Celchu (16)
+• Lando Calrissian (24)
+= 79 Points
+
+Total Points: 391
