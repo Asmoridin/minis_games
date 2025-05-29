@@ -10,7 +10,7 @@ Asphyxious the Sanctified;Convergence of Cyriss/Legacy Convergence of Cyriss;Sol
 Assimilator;Convergence of Cyriss/Legacy Convergence of Cyriss;Heavy Warjack;4;34.99;13;4;1;0;0
 Attunement Servitors;Convergence of Cyriss/Legacy Convergence of Cyriss;Solo;3;11.99;4;3;1;0;0
 Aurora, The Numen of Aerogenesis;Convergence of Cyriss/Legacy Convergence of Cyriss;Warcaster;1;16.99;0;1;1;0;0
-Aurum Lucanum Athanor Locke;Convergence of Cyriss/Legacy Convergence of Cyriss;Warcaster;2;24.99;0;1;1;0;0
+Aurum Lucanum Athanor Locke;Convergence of Cyriss/Legacy Convergence of Cyriss/Crucible Guard;Warcaster;2;24.99;0;1;1;0;0
 Axis, The Harmonic Enforcer;Convergence of Cyriss/Legacy Convergence of Cyriss;Warcaster;2;27.99;0;1;1;0;0
 Baldur the Stonecleaver;Secret Dominion/Legacy Circle Orboros;Warlock;1;14.99;0;1;1;0;0
 Baldur the Stonesoul;Legacy Circle Orboros;Warlock;1;14.99;0;1;0;0;0
@@ -27,7 +27,7 @@ Brennos the Elderhorn;Legacy Circle Orboros;Heavy Warbeast;4;54.99;11;1;0;0;0
 Brighid & Caul;Devourer's Host/Legacy Circle Orboros;Unit;3;29.99;6;1;1;0;0
 Brun Cragback & Lug;Legacy Circle Orboros;Solo;5;36.99;13;1;1;0;0
 Captain Crawtooth;Legacy Circle Orboros;Solo;2;19.99;4;1;1;1;0
-Carver Ultimus & War Boar MMD47;Devourer's Host/MKIV Mercenary/Secret Dominion/Legacy Circle Orboros/Convergence of Cyriss/Legacy Convergence of Cyriss;Solo;9;69.99;20;1;0;0;0
+Carver Ultimus & War Boar MMD47;Devourer's Host/MKIV Mercenary/Secret Dominion/Legacy Circle Orboros/Convergence of Cyriss/Legacy Convergence of Cyriss/Crucible Guard;Solo;9;69.99;20;1;0;0;0
 Celestial Fulcrum;Secret Dominion/Legacy Circle Orboros;Battle Engine;10;84.99;13;2;0;0;0
 Chuck Dogwood;Secret Dominion/Legacy Circle Orboros;Solo;1;17.99;4;1;1;0;0
 Cipher;Convergence of Cyriss/Legacy Convergence of Cyriss;Heavy Warjack;4;34.99;14;4;1;0;0
@@ -85,7 +85,7 @@ Gremlin Swarm;Legacy Circle Orboros;Solo;2;15.99;3;2;2;0;0
 Gudrun the Wanderer;Legacy Circle Orboros;Solo;2;17.99;5;1;1;0;0
 Gudrun the Wasted;Legacy Circle Orboros;Solo;2;19.99;4;1;1;0;0
 Hermit of Henge Hold;Legacy Circle Orboros/Legacy Convergence of Cyriss;Solo;1;14.99;4;1;1;1;0
-Hutchuk, Ogrun Bounty Hunter;Legacy Circle Orboros;Solo;2;24.99;5;1;0;0;0
+Hutchuk, Ogrun Bounty Hunter;Legacy Circle Orboros/Crucible Guard;Solo;2;24.99;5;1;0;0;0
 Inverter;Convergence of Cyriss/Legacy Convergence of Cyriss;Heavy Warjack;4;34.99;14;4;1;0;0
 Iona the Unseen;Devourer's Host/Legacy Circle Orboros;Warlock;1;15.99;0;1;1;0;0
 Iron Mother Directrix;Convergence of Cyriss/Legacy Convergence of Cyriss;Warcaster;4;34.99;0;1;1;0;0
@@ -105,7 +105,7 @@ Loki;Devourer's Host/Legacy Circle Orboros;Heavy Warbeast;4;49.99;15;1;0;0;0
 Longchops;Legacy Circle Orboros;Solo;2;18.99;4;1;0;0;0
 Lord of the Feast;Devourer's Host/Legacy Circle Orboros;Solo;1;12.99;5;1;1;0;0
 Lynus Wesselbaum & Edrea Lloryrr;Legacy Circle Orboros;Unit;2;19.99;4;1;0;0;0
-Magnus the Unstoppable & Invictus;Devourer's Host/MKIV Mercenary/Secret Dominion/Legacy Circle Orboros/Convergence of Cyriss/Legacy Convergence of Cyriss;Solo;8;69.99;20;1;0;0;0
+Magnus the Unstoppable & Invictus;Devourer's Host/MKIV Mercenary/Secret Dominion/Legacy Circle Orboros/Convergence of Cyriss/Legacy Convergence of Cyriss/Crucible Guard;Solo;8;69.99;20;1;0;0;0
 Malefactor;Necrofactorium;Heavy Warjack;4;CRYX_NECROFACTORIUM_BATTLEGROUP;16;4;0;0;0
 Maximus;Legacy Circle Orboros;Solo;1;17.99;4;1;0;0;0
 Meat Thresher;Legacy Circle Orboros;Battle Engine;10;69.99;13;2;0;0;0
@@ -198,6 +198,39 @@ Wurmwood, Tree of Fate;Devourer's Host/Legacy Circle Orboros;Warlock;5;30.99;0;1
 Void Archon;Legacy Convergence of Cyriss;Solo;4;37.99;8;2;1;1;0
 Widget, Mathlete Archeologist;Legacy Convergence of Cyriss;Solo;1;14.99;3;1;1;0;0
 Widget, Tinker Extraordinaire;Legacy Convergence of Cyriss;Solo;1;11.99;2;1;1;0;0
+Aurum Adeptus Syvestro;Crucible Guard;Warcaster;1;14.99;0;1;1;1;0
+Aurum Legate Lukas di Morray;Crucible Guard;Warcaster;1;16.99;0;1;1;0;0
+Captain Eira Mackay;Crucible Guard;Warcaster;10;124.99;0;1;0;0;0
+Major Aline Bennet;Crucible Guard;Warcaster;2;19.99;0;1;1;1;0
+Marshal General Baldwin Gearhart;Crucible Guard;Warcaster;2;25.99;0;1;1;0;0
+Vanguard;Crucible Guard;Light Warjack;2;28.99;9;4;0;0;0
+Toro;Crucible Guard;Heavy Warjack;4;39.99;10;4;0;0;0
+Liberator;Crucible Guard;Light Warjack;2;28.99;9;4;1;0;0
+Retaliator;Crucible Guard;Light Warjack;2;28.99;8;4;0;0;0
+Suppressor;Crucible Guard;Heavy Warjack;4;39.99;11;4;0;0;0
+Vindicator;Crucible Guard;Heavy Warjack;4;39.99;13;4;0;0;0
+Vulcan;Crucible Guard;Colossal Warjack;10;144.99;13;2;1;1;0
+Gorman di Wulfe, Rogue Alchemist;Crucible Guard;Solo;1;7.99;4;1;1;0;0
+Gorman the Mad;Crucible Guard;Solo;1;13.99;3;1;1;0;0
+Ascendant Mentalist;Crucible Guard;Solo;2;19.99;4;2;2;0;0
+Aurum Ominus Alyce Marc;Crucible Guard;Solo;3;21.29;5;1;1;0;0
+Crucible Guard Mechanik;Crucible Guard;Solo;1;9.99;1;4;2;1;0
+Doctor Alejandro Mosby;Crucible Guard;Solo;1;14.99;4;1;0;0;0
+Rocketman Ace;Crucible Guard;Solo;1;13.99;3;2;1;0;0
+Prospero;Crucible Guard;Solo;2;16.99;4;1;1;1;0
+Rocketman Stinger;Crucible Guard;Solo;1;14.99;3;2;1;0;0
+Trancer;Crucible Guard;Solo;1;11.99/2;2;4;4;0;0
+Combat Alchemists;Crucible Guard;Unit;3;24.99;4;3;0;0;0
+Containment Operatives;Crucible Guard;Unit;3;24.99;6;2;0;0;0
+Crucible Guard Assault Troopers;Crucible Guard;Unit;6;49.99/3-2;7;3;1;0;0
+Crucible Guard Infantry;Crucible Guard;Unit;5;CRUCIBLE_GUARD_INFANTRY;7;3;0;0;0
+Crucible Guard Rocketmen;Crucible Guard;Unit;5;CRUCIBLE_GUARD_ROCKETMEN;6;3;2;0;0
+Crucible Guard Storm Troopers;Crucible Guard;Unit;6;49.99;9;2;0;0;0
+Dragon's Breath Rocket;Crucible Guard;Unit;6;34.99;4;2;1;0;0
+Failed Experiments;Crucible Guard;Unit;6;49.99;8;2;1;0;0
+Rocketmen Gunners;Crucible Guard;Unit;3;CRUCIBLE_GUARD_ROCKETMEN;5;3;1;0;0
+Crucible Guard Infantry Officer & Standard;Crucible Guard;Command Attachment;2;CRUCIBLE_GUARD_INFANTRY;4;3;0;0;0
+Crucible Guard Rocketman Captain;Crucible Guard;Command Attachment;1;CRUCIBLE_GUARD_ROCKETMEN;3;3;1;0;0
 
 Captain Buck Hasker;Gravediggers;Warcaster;1;?;0;1;0;0;0
 Captain Athena di Baro;Storm Legion;Warcaster;1;?;0;1;0;0;0
