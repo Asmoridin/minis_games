@@ -231,6 +231,7 @@ Failed Experiments;Crucible Guard;Unit;6;49.99;8;2;1;0;0
 Rocketmen Gunners;Crucible Guard;Unit;3;CRUCIBLE_GUARD_ROCKETMEN;5;3;1;0;0
 Crucible Guard Infantry Officer & Standard;Crucible Guard;Command Attachment;2;CRUCIBLE_GUARD_INFANTRY;4;3;0;0;0
 Crucible Guard Rocketman Captain;Crucible Guard;Command Attachment;1;CRUCIBLE_GUARD_ROCKETMEN;3;3;1;0;0
+Railless Interceptor;Crucible Guard;Battle Engine;10;119.99;13;2;1;1;0
 
 Captain Buck Hasker;Gravediggers;Warcaster;1;?;0;1;0;0;0
 Captain Athena di Baro;Storm Legion;Warcaster;1;?;0;1;0;0;0
