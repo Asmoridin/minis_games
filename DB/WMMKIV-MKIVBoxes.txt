@@ -1,3 +1,4 @@
 CRYX_NECROFACTORIUM_BATTLEGROUP;Discerptor Eviscerus-1/Raptor-2/Malefactor-1;69.99
 ARCHNUMEN_AURORA;Archnumen Aurora-1/Negation Angels-1/Prefect Hypatia-1;84.99
 CRUCIBLE_GUARD_INFANTRY;Crucible Guard Infantry-2/Crucible Guard Infantry Officer & Standard-1;54.99
+CRUCIBLE_GUARD_ROCKETMEN;Crucible Guard Rocketman Captain-1/Crucible Guard Rocketmen-2/Rocketmen Gunners-1;69.99
