@@ -3,3 +3,4 @@ ARCHNUMEN_AURORA;Archnumen Aurora-1/Negation Angels-1/Prefect Hypatia-1;84.99
 CRUCIBLE_GUARD_INFANTRY;Crucible Guard Infantry-2/Crucible Guard Infantry Officer & Standard-1;54.99
 CRUCIBLE_GUARD_ROCKETMEN;Crucible Guard Rocketman Captain-1/Crucible Guard Rocketmen-2/Rocketmen Gunners-1;69.99
 DEVIL_DOGS;Captain Sam MacHorne-1/Devil Dogs-1;59.99
+RIOT_QUEST;Dez-1/Eiryss, Fortune Hunter of Ios-1/Sir Dreyfuss-1/Gubbin-1/Balthazar Bamfist-1;49.99
