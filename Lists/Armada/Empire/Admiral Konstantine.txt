@@ -1,0 +1,41 @@
+Faction: Imperial
+Commander: Admiral Konstantine
+
+Assault: Station Assault
+Defense: Asteroid Tactics
+Navigation: Salvage Run
+
+Arquitens Command Cruiser (55)
+• Director Krennic (8)
+• Auxiliary Shields Team (3)
+• Slaved Turrets (6)
+= 72 Points
+
+Arquitens Light Cruiser (52)
+• Dual Turbolaser Turrets (4)
+= 56 Points
+
+Gladiator I (56)
+• Ordnance Experts (4)
+• Auxiliary Shields Team (3)
+• Expanded Launchers (8)
+• Demolisher (10)
+= 81 Points
+
+Interdictor Suppression Refit (90)
+• Admiral Konstantine (23)
+• Minister Tua (2)
+• Engineering Team (3)
+• Disposable Capacitors (3)
+• Grav Shift Reroute (2)
+• G-8 Experimental Projector (8)
+• SW-7 Ion Batteries (5)
+• Interdictor (3)
+• Reactive Gunnery (4)
+= 143 Points
+
+Squadrons:
+• 4 x TIE Interceptor Squadron (44)
+= 44 Points
+
+Total Points: 396
