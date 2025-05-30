@@ -1,1 +1,32 @@
+Aradus Sentinel/Aradus Soldier;1;0;0
+Avenger/Centurion/Hammersmith;1;0;0
+Blighted Nyss Archers/Blighted Nyss Swordsmen;2;0;0
+Castigator/Reckoner/Sanctifier;2;0;0
+# Cephalyx Dominator & Steelhead Halberdiers/Cephalyx Dominator & Steelhead Riflemen;4;0;0
 Gnarlhorn Satyr/Rip Horn Satyr/Shadowhorn Satyr;1
+Cipher/Inverter/Monitor;2;0;0
+Assimilator/Conservator/Modulator;2;0;0
+Corruptor/Reaper/Slayer;1;0;0
+Cyclone/Defender/Ironclad;1;0;0
+Demolisher/Devastator/Spriggan;2;0;0
+Desecrator/Harrower/Leviathan;1;0;0
+Grotesque Banshees/Grotesque Raiders;2;0;0
+Guardian/Indictor;2;0;0
+Hurricane/Stormwall;1;0;0
+Helios/Hyperion;1;0;0
+Judicator/Revelator;1;0;0
+Kraken/Sepulcher;1;0;0
+Decimator/Destroyer/Juggernaut/Marauder;1;0;0
+Mule/Nomad;1;0;0
+Neraph/Seraph;1;0;0
+Hydra/Manticore/Phoenix;1;0;0
+Praetorian Keltarii/Praetorian Swordsmen;2;0;0
+Prime Axiom/Prime Conflux;2;0;0
+Reliant/Stormclad;1;0;0
+Mule/Nomad/Rover;1;0;0
+Carnivean/Ravagore/Scythean;3;0;0
+Steelhead Halberdiers/Steelhead Riflemen;4;0;0
+Strider Blightblades/Strider Scouts;1;0;0
+Subduer/Warden/Wrecker;8;0;0
+Suppressor/Toro/Vindicator;3;0;0
+Conquest/Victor;1;0;0
