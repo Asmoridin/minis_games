@@ -1,19 +1,24 @@
-# Pulled 12/23/24 16th/18 tournament (Needs update)
+# 5/31/25 15th/32 UKGE
 
-Shiho Clan - Black Eagle's Coalition - [100Rice]
-
-# ++ Risen Sun ++ [96Rice]
-## Faction Profile Cards [94Rice]
-Tanaka Gorak [20 Rice]: Tengu Feather Charm
-Tanaka Kazuo & Heir [27 Rice]: Teachings of Yasushi
-Tanaka Muna [14 Rice]
-Tanaka Nobuko [16 Rice]
-Wolf Spears [17 Rice]:
-• 1x Wolf Spear A
-• 1x Wolf Spear B
-
-## Faction Terrain Cards [2Rice]
-Hidden Tunnel Entrance [2 Rice]
-
-## Faction Theme Cards
-The Black Eagle's Coalition
+Black Eagle’s Coalition
+Toshiro = 17
+Zama = 16
+Grey Pilgrim = 18
+Shiho Shirak 11 + Michiharu’s Jitte 2 = 13
+Shiho Keita 14 + Improper Conduct 2 = 16
+Shiho Sayaka = 10
+Eagle of Rokan = 2
+Fuwa Eagle = 2
+Dharmic Path = 2
+Honourable Demise = 1
+Unforeseen Outcomes = 1
+The Unfurled Wing = 1
+Unorthodox Strategy = 1
+15-rice sideboard…
+Weeping Sky = 1
+Disputed Ancestry = 3
+Rice Bale Barricade = 1
+2x Opportune Uprising = 2
+Heimin = 4
+Preordained = 3
+Lay of the Land = 1
