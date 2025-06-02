@@ -1,6 +1,6 @@
-# 5/31/25 3rd/18 Oregon
+# 5/31/25 1st/17 Utah
 
-Helena R
+NEW FORCE
 Dusk - House Kallyss
 Grand Melee - 100 pts
 
@@ -10,16 +10,13 @@ Hellyth, Scyir of Nightfall
 SPELL - Abyssal Gate
 SPELL - Backlash
 
-8 Ghast
-2 HEAD - Arc Node
-4 RIGHT ARM - Blaster Fist
-2 LEFT ARM - Light Blade Fist
-
-11 Sky Raider
+17 Eidolon
+2 HEAD - Flight
+6 RIGHT ARM - Dawn Blade
+5 LEFT ARM - Force Shield
+4 BACK - Force Cannon
 
 4 Dyssiss, the Eye of Darkness
-
-7 Krueger, Wrath of Blighterghast
 
 4 Mage Hunter Commander 1
 
@@ -29,24 +26,34 @@ SPELL - Backlash
 
 3 Mage Hunter Sniper Team 2
 
+4 Vaelyss, The Hand of Mourning
+
+2 Void Shaper
+
 9 Dreadguard Archers 1
 
 9 Dreadguard Archers 2
 
-11 Dreadguard Cavalry 1
+11 Dreadguard Cavalry
 
-11 Dreadguard Cavalry 2
+6 Mage Hunter Assassins 1
 
-8 Dreadguard Slayers 1
+6 Mage Hunter Assassins 2
 
-8 Dreadguard Slayers 2
+4 Seeker Adepts
+
+6 Soulless Blademasters
+
+2 Seeker Warden
+
+6 Soulless Guardians
 
 
 PC COMMAND CARD
-Break Through
-Careful Reconnaissance
+Blessing of the Gods
+Duck and Cover!
+Hit & Run
 Lucky Penny
-Put the Fires Out
-Sapper
+Old Faithful
 
 TOTAL POINTS 100/100
