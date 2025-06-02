@@ -1,33 +1,40 @@
-# 5/31/25 3rd/12 NY 
+# 6/1/25 1st/8 England
 
-Rassyk
+Snakes on a plain.
 Khymaera - Shadowflame Shard
 Grand Melee - 100 pts
 
 PC CARD
 
+Defenses
+DEFENSE 1 - Barrier
+DEFENSE 1 - Barrier
+DEFENSE 1 - Barrier
+
 Rassyk, Spawn of Shadows
-SPELL - Dragon’s Blood
-SPELL - Silence of Death
+SPELL - Carnivore
+SPELL - Curse of Shadows
 
-14 Hydrix
-5 CENTRAL HEAD - Toothy Maw
-3 SMALLER HEAD - Blockhead
-3 SMALLER HEAD - Blockhead
-3 DORSAL FEATURE - Wings
+14 Aklyss
 
-16 Skylla, The Abyssal Fury
-9 CENTRAL HEAD - Skylla
-4 SMALLER HEAD 1 - Horned Piercer
-3 SMALLER HEAD 2 - Gnashing Fangs
+11 Drakyon
 
-19 Wyvern
+12 Vypex
+1 HEAD - Asp
+3 TAIL - Hunter's Mark
+8 ARMS - Impalers
 
-4 Bellighul, Master of Pain
+3 Pythia
 
-11 Incarnate Knights 1
+6 Ryvyn, the Onyx Rampant
 
-11 Incarnate Knights 2
+2 Spinner 1
+
+2 Spinner 2
+
+5 Wraithwing Paragon
+
+11 Incarnate Knights
 
 7 Talon Death Dealers
 
@@ -35,13 +42,15 @@ SPELL - Silence of Death
 
 7 Talon Lashers 2
 
+9 Wyrmspine Cinderbacks
+
 4 Wyrmspine Shadowmancers
 
 
 PC COMMAND CARD
 Blessing of the Gods
-Duck and Cover!
-Hit & Run
+Break Through
+Defenses
 Lucky Penny
 Sapper
 
