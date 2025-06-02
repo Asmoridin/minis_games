@@ -1,6 +1,8 @@
-# 5/31/25 6th/21 Colorado tournament
+# 5/31/25 1st/18 Oregon
 
-Big Dekathus Energy
+
+
+ROAD ROLLAAAH
 Cryx - Necrofactorium
 Grand Melee - 100 pts
 
@@ -8,51 +10,54 @@ PC CARD
 
 Lich Lord Dekathus
 SPELL - Blood Rain
-SPELL - Venom
+SPELL - Calamity
 
-16 Grendel
-HEAD - Grendel
-RIGHT ARM - Salvage Ripper Right
-LEFT ARM - Salvage Ripper Left
-
-13 Malefactor 1
+12 Malefactor 1
 1 HEAD - Soul Claiming
-7 RIGHT ARM - Spiker
-5 LEFT ARM - Helldriver
+7 RIGHT ARM - Fell Axe
+4 LEFT ARM - Spiked Shield
 
-13 Malefactor 2
+12 Malefactor 2
 1 HEAD - Soul Claiming
-7 RIGHT ARM - Spiker
-5 LEFT ARM - Helldriver
+7 RIGHT ARM - Fell Axe
+4 LEFT ARM - Spiked Shield
 
-6 Raptor 1
-4 HEAD - Doomspitter
-2 BACK - Arc Node
+10 Malefactor 3
+1 HEAD - Soul Claiming
+6 RIGHT ARM - Harpoon
+3 LEFT ARM - Ripping Claw
 
-7 Raptor 2
-3 HEAD - Deathripper
-4 BACK - Light Spiker
+10 Malefactor 4
+1 HEAD - Soul Claiming
+6 RIGHT ARM - Harpoon
+3 LEFT ARM - Ripping Claw
 
-4 Iron Lich Commander
+3 Akulon Thaemestra
 
 4 Master Necrotech Chatterbane
 
-4 Necrosurgeon Initiates 1
+4 Silexus Xiphus
 
-4 Necrosurgeon Initiates 2
+3 Skarlock Lieutenant
+
+6 Mechanithrall Swarm 1
+
+6 Mechanithrall Swarm 2
+
+6 Mechanithrall Swarm 3
+
+4 Necrosurgeon Initiates
 
 10 Night Terrors
-
-8 Sludge Thralls
 
 10 The Furies
 
 
 PC COMMAND CARD
+Blessing of the Gods
 Careful Reconnaissance
-Duck and Cover!
-Hit & Run
 Lucky Penny
 Old Faithful
+Sapper
 
-TOTAL POINTS 99/100
+TOTAL POINTS 100/100
