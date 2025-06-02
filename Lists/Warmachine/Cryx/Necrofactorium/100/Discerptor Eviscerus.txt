@@ -1,14 +1,24 @@
-# 5/17/25 2nd/18 Wisconsin Tournament
+# 5/31/25 1st/24 BC, Canada
 
-Eviscerus G
+Eviscerus
 Cryx - Necrofactorium
 Grand Melee - 100 pts
 
 PC CARD
 
+Defenses
+DEFENSE 1 - Barrier
+DEFENSE 1 - Barrier
+DEFENSE 1 - Barrier
+
 Discerptor Eviscerus
-SPELL - Blood Rain
-SPELL - Calamity
+SPELL - Carnage
+SPELL - Ghost Walk
+
+16 Grendel
+HEAD - Grendel
+RIGHT ARM - Salvage Ripper Right
+LEFT ARM - Salvage Ripper Left
 
 12 Malefactor 1
 1 HEAD - Soul Claiming
@@ -18,40 +28,35 @@ SPELL - Calamity
 12 Malefactor 2
 1 HEAD - Soul Claiming
 7 RIGHT ARM - Fell Axe
-4 LEFT ARM - Spiked Shield
-
-12 Malefactor 3
-1 HEAD - Soul Claiming
-7 RIGHT ARM - Fell Axe
-4 LEFT ARM - Spiked Shield
-
-11 Malefactor 4
-1 HEAD - Soul Claiming
-6 RIGHT ARM - Harpoon
-4 LEFT ARM - Spiked Shield
+4 LEFT ARM - Vexing Cannon
 
 3 Akulon Thaemestra
 
-8 Mechanithrall Brutes
+4 Machine Wraith Dominator
 
-4 Necrosurgeon Initiates 1
+3 Skarlock Lieutenant
 
-4 Necrosurgeon Initiates 2
+8 Mechanithrall Brutes 1
 
-8 Sludge Thralls 1
+8 Mechanithrall Brutes 2
 
-8 Sludge Thralls 2
+6 Mechanithrall Swarm 1
 
-8 The Criterions
+6 Mechanithrall Swarm 2
+
+4 Necrosurgeon Initiates
+
+8 Sludge Thralls
 
 10 The Furies
 
 
 PC COMMAND CARD
 Blessing of the Gods
+Careful Reconnaissance
+Defenses
 Lucky Penny
 Old Faithful
-Put the Fires Out
-Sapper
+3 barriers
 
 TOTAL POINTS 100/100
