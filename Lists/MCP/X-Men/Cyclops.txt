@@ -1,31 +1,40 @@
-# 5/31/25 7/14 Denmark tournament
+# 5/31/25 3/8 UKGE Pod
 
-Characters
-Cyclops (Scott Summers)
-Beast (Henry McCoy)
-Colossus (Piotr Rasputin)
-Wolverine (James Logan Howlett)
-Honey Badger (Gabrielle Kinney)
-Angel (Warren Worthington III)
-Hulk (Bruce Banner)
-Rogue (Anna Marie LeBeau)
-X-23 (Laura Kinney)
-Shadowcat (Katherine "Kitty" Pryde)
-Team Tactics
-Xavier's Dream
-To Me, My X-Men!
+
+
+To me My.. X-men?
+
+Characters 10:
+Threat: 38
+Beast 3
+Iron Man 3
+*Cyclops 4
+Shuri 3
+King Black Bolt 6
+Bishop 4
+*Magik 3
+Psylocke 4
+Rogue 4
+*Crimson Dynamo 4
+
+Tactics 10:
 First Class
+Brace for Impact R
+Xavier's Dream
 Children of the Atom
-Fallen
-Fastball Special!
-Ultimate Sacrifice
-Brace for Impact
-Weapon X Program
-Patch Up
-Crises
-Mutant Madman Turns City Center Into Lethal Amusement Park
-Guardians Save Shi'ar Empress in Style
-Deadly Meteors Mutate Citizens
-Spider-Infected Invade Manhattan
-Scientific Samples Found In Discovered Universe
-Mutant Extremists Target U.S. Senators!
+Recalibration Matrix
+To Me, My X-Men!
+Helios Laser Bombardment
+Warpath
+Indomitable R
+Journey Through Limbo
+
+Secure Crisis:
+Super-Powered Scoundrels Form Sinister Syndicate! F, 20
+Wedding Party Targeted By Terrible Attack! , 20
+Mayor Fisk Vows to Find Missing Witnesses H, 16
+
+Extract Crisis:
+Deadly Legacy Virus Cured? C, 19
+Unexpected Guests Crash Royal Wedding F, 17
+Skrulls Infiltrate World Leadership J, 20
