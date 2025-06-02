@@ -1,58 +1,59 @@
-#3/29/25 12th/48 IG Qualifiers
+# 5/31/25 4th/21 Colorado tournament
 
-Beefy Peaches
+50mm
 Khador - Winter Korps
 Grand Melee - 100 pts
 
 PC CARD
 
 Kommander Tatiana Sikora
-SPELL - Superiority
-SPELL - Iron Flesh
+SPELL - Avenging Force
+SPELL - Fog of War
 
 15 Avalanche
 HEAD - Hyper-Aggressive
 RIGHT ARM - Pneumatic Lance
 LEFT ARM - Wedge Shield
 
-15 Medveditsa
-HEAD - Medveditsa
-LEFT ARM - Left Bear Claw
-RIGHT ARM - Right Bear Claw
+10 Dire Wolf 1
+1 HEAD - Evasive
+5 RIGHT ARM - Ice Hammer
+4 LEFT ARM - Plow-Shield
+
+10 Dire Wolf 2
+1 HEAD - Evasive
+5 RIGHT ARM - Ice Hammer
+4 LEFT ARM - Plow-Shield
 
 3 Koldun Lord Damien Korovnik
 
-3 Winter Korps Officer
+4 Kontroller
 
-4 Arkanists
+10 Dire Wolf 3
+1 HEAD - Evasive
+5 RIGHT ARM - Ice Hammer
+4 LEFT ARM - Plow-Shield
 
-11 Man-O-War Suppressors 1
+5 Sergeant Sergei Krol
 
-11 Man-O-War Suppressors 2
+4 Arkanists 1
 
-10 Man-O-War Wrecking Crew 1
+4 Arkanists 2
 
-10 Man-O-War Wrecking Crew 2
+11 Man-O-War Suppressors
 
-8 The Hounds
-TETERYA 1 - Teterya 1
-FEDYNIAK 1 - Fedyniak 1
-SKROBALA 1 - Skrobala 1
+10 Man-O-War Wrecking Crew
 
-4 Winter Korps Snipers 1
+7 Shock Trooper Gunners
 
-1 Winter Korps Hunting Dog 1
-
-4 Winter Korps Snipers 2
-
-1 Winter Korps Hunting Dog 2
+7 Shock Trooper Pikemen
 
 
 PC COMMAND CARD
 Blessing of the Gods
 Careful Reconnaissance
-Hit & Run
+Duck and Cover!
 Lucky Penny
-Put the Fires Out
+Old Faithful
 
 TOTAL POINTS 100/100
