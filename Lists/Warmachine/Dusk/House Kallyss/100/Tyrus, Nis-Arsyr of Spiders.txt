@@ -1,6 +1,6 @@
-#3/29/25 22nd/48 IG Qualifiers
+# 5/31/25 3rd/18 Oregon
 
-Tyrus 100
+Tyrus Dudes?
 Dusk - House Kallyss
 Grand Melee - 100 pts
 
@@ -11,10 +11,10 @@ SPELL - Abyssal Gate
 SPELL - Backlash
 SPELL - Battle Lust
 
-9 Ghast 1
+8 Ghast 1
 2 HEAD - Arc Node
 4 RIGHT ARM - Blaster Fist
-3 LEFT ARM - Force Lash
+2 LEFT ARM - Light Blade Fist
 
 8 Ghast 2
 2 HEAD - Arc Node
@@ -25,9 +25,15 @@ SPELL - Battle Lust
 
 4 Dyssiss, the Eye of Darkness
 
-5 Eiryss, Shadow of Retribution
-
 7 Krueger, Wrath of Blighterghast
+
+4 Mage Hunter Commander
+
+3 Mage Hunter Sniper Team 1
+
+3 Mage Hunter Sniper Team 2
+
+4 Vaelyss, The Hand of Mourning
 
 8 Void Engine 1
 
@@ -38,8 +44,6 @@ Wight 1
 Wight 2
 
 11 Dreadguard Cavalry
-
-8 Dreadguard Slayers
 
 6 Soulless Blademasters 1
 
@@ -55,10 +59,10 @@ Wight 2
 
 
 PC COMMAND CARD
-Blessing of the Gods
 Careful Reconnaissance
 Duck and Cover!
 Lucky Penny
+Put the Fires Out
 Sapper
 
 TOTAL POINTS 100/100
