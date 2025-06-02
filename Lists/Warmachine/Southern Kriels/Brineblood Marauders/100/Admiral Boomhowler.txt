@@ -1,43 +1,51 @@
-#3/29/25 26th/48 IG Qualifiers
+# 5/31/25 6th/20 Texas
 
-I Said Hey What’s Going On
+Mayhem 3
 Southern Kriels - Brineblood Marauders
 Grand Melee - 100 pts
 
 PC CARD
 
 Admiral Boomhowler
-SPELL - Black Spot
 SPELL - Fortify
-SPELL - Fortune
+SPELL - Fury’s Strength
+SPELL - Rough Seas
 
-28 Abyssal King
-10 HEAD - Electro Lure Head
-6 FIGUREHEAD - Triton
-6 TENTACLE WEAPON 1 - Main Gun
-6 TENTACLE WEAPON 1 - Main Gun
+16 Chum
 
-14 Deepborn Dire Troll
+16 Deepborn Dire Troll
 3 HEAD - Cantankerous
 2 FIN - Lunker
-5 RIGHT ARM - Hammerhead
-4 LEFT ARM - Shark Skull Gauntlet
+6 RIGHT ARM - Anchor
+5 LEFT ARM - Crab Net
 
-12 Vorogger
+8 Reef Troll 1
+HEAD - Matey
+2 BOOZE - grog cask
+3 RIGHT ARM - Cutlass
+3 LEFT ARM - Ship’s Wheel
+
+10 Reef Troll 2
+1 HEAD - Gunner
+1 BOOZE - Ale Tankard
+5 RIGHT ARM - Ship's Gun
+3 LEFT ARM - Ship’s Wheel
 
 2 Booty Boss
 
-1 Fire Guardian 1
-
-1 Fire Guardian 2
-
-4 First Mate Hargor Stormjaw
-
-4 Fugue Walker 1
-
-4 Fugue Walker 2
-
 3 Madame Moriarty
+
+4. Fugue Walker
+
+4 Nissak, Totem Huntress Champion
+
+2 Sully
+
+2 Surgeon 1
+
+2 Surgeon 2
+
+9 Lochabash Brothers
 
 6 Marauder Crew 1
 
@@ -45,13 +53,10 @@ SPELL - Fortune
 
 6 Marauder Crew 2
 
-1 Marauder Crew Tapper 1
+4 Marauder Crew Quartermaster
 
-6 Marauder Crew 3
+3 Pyg Galley Crew
 
-1 Marauder Crew Tapper 2
-
-4 Spirit Shamans
 
 
 PC COMMAND CARD
