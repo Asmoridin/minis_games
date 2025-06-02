@@ -1,29 +1,23 @@
-#3/29/25 10th/48 IG Qualifiers
+# 5/31/25 3rd/18 Oregon
 
-Hell Slayers
+Helena R
 Dusk - House Kallyss
 Grand Melee - 100 pts
 
 PC CARD
 
-Defenses
-DEFENSE 1 - Barrier
-DEFENSE 1 - Spike Trap
-DEFENSE 1 - Spike Trap
-
 Hellyth, Scyir of Nightfall
+SPELL - Abyssal Gate
+SPELL - Backlash
 
-11 Eidolon 1
-1 HEAD - Arcane Stasis
-4 RIGHT ARM - Null Blade
-3 LEFT ARM - Light Null Blade
-3 BACK - Vortex Cannon
+8 Ghast
+2 HEAD - Arc Node
+4 RIGHT ARM - Blaster Fist
+2 LEFT ARM - Light Blade Fist
 
-11 Eidolon 2
-1 HEAD - Arcane Stasis
-4 RIGHT ARM - Null Blade
-3 LEFT ARM - Light Null Blade
-3 BACK - Vortex Cannon
+11 Sky Raider
+
+4 Dyssiss, the Eye of Darkness
 
 7 Krueger, Wrath of Blighterghast
 
@@ -31,9 +25,9 @@ Hellyth, Scyir of Nightfall
 
 4 Mage Hunter Commander 2
 
-3 Mage Hunter Sniper Team
+3 Mage Hunter Sniper Team 1
 
-4 Maulgreth, The Charnel Plague
+3 Mage Hunter Sniper Team 2
 
 9 Dreadguard Archers 1
 
@@ -49,10 +43,10 @@ Hellyth, Scyir of Nightfall
 
 
 PC COMMAND CARD
+Break Through
 Careful Reconnaissance
-Defenses
-Duck and Cover!
 Lucky Penny
 Put the Fires Out
+Sapper
 
 TOTAL POINTS 100/100
