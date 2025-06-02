@@ -1,16 +1,13 @@
-Kyrrax
+# 5/31/25 3rd/17 Utah
+
+kyraax vipex swarm
 Khymaera - Shadowflame Shard
 Grand Melee - 100 pts
 
 PC CARD
 
-Defenses
-DEFENSE 1 - Barrier
-DEFENSE 1 - Barrier
-DEFENSE 1 - Barrier
-
 Kyrrax, the Unrelenting Night
-SPELL - Carnivore
+SPELL - Host of Shadows
 SPELL - Silence of Death
 
 16 Skylla, The Abyssal Fury
@@ -30,16 +27,14 @@ SPELL - Silence of Death
 
 13 Vypex 3
 4 HEAD - Viper
-1 TAIL - Chasten
+1 TAIL - Bladed Gale
 8 ARMS - Impalers
 
 4 Bellighul, Master of Pain
 
 3 Pythia
 
-2 Spinner
-
-11 Incarnate Knights
+9 Shades
 
 7 Talon Death Dealers 1
 
@@ -49,12 +44,14 @@ SPELL - Silence of Death
 
 7 Talon Lashers 2
 
+4 Wyrmspine Shadowmancers
+
 
 PC COMMAND CARD
 Blessing of the Gods
 Break Through
-Defenses
+Duck and Cover!
 Lucky Penny
-Sapper
+Put the Fires Out
 
 TOTAL POINTS 100/100
