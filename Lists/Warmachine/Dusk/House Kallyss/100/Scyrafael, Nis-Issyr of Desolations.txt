@@ -1,26 +1,33 @@
-# 5/17/25 6th/18 Wisconsin Tournament
+# 5/31/25 5th/18 Oregon
 
-Bokur 1
+Scyrafael
 Dusk - House Kallyss
 Grand Melee - 100 pts
 
 PC CARD
 
 Scyrafael, Nis-Issyr of Desolations
-SPELL - Battle Lust
-SPELL - Deceleration
+SPELL - Inviolable Resolve
+SPELL - Ghost Walk
 
-16 Eidolon
-2 HEAD - True Sight
+16 Eidolon 1
+1 HEAD - Arcane Stasis
 6 RIGHT ARM - Dawn Blade
-4 LEFT ARM - Dusk Blade
+5 LEFT ARM - Force Shield
 4 BACK - Force Cannon
 
-17 Israfyl
-HEAD - Israfyl
-LEFT ARM - Serpentine Blade
-RIGHT ARM - Serpentine Blade
-BACK - Death Whisper
+16 Eidolon 2
+1 HEAD - Arcane Stasis
+6 RIGHT ARM - Dawn Blade
+5 LEFT ARM - Force Shield
+4 BACK - Force Cannon
+
+10 Ghast
+3 HEAD - Fleet
+4 RIGHT ARM - Halberd
+3 LEFT ARM - Battle Shield
+
+4 Dyssiss, the Eye of Darkness
 
 5 Eiryss, Shadow of Retribution
 
@@ -28,26 +35,24 @@ BACK - Death Whisper
 
 4 Vaelyss, The Hand of Mourning
 
+2 Void Shaper
+
 9 Dreadguard Archers
 
-11 Dreadguard Cavalry 1
-
-11 Dreadguard Cavalry 2
+11 Dreadguard Cavalry
 
 8 Dreadguard Slayers
 
-4 Seeker Adepts
+4 Seeker Adepts 1
 
-6 Soulless Guardians
-
-2 Seeker Warden
+4 Seeker Adepts 2
 
 
 PC COMMAND CARD
+Blessing of the Gods
 Break Through
 Careful Reconnaissance
 Lucky Penny
-Old Faithful
-Put the Fires Out
+Sapper
 
 TOTAL POINTS 100/100
