@@ -1,40 +1,40 @@
-# 5/31/25 3rd/17 Utah
+# 5/31/25 1st/17 Australia
 
-kyraax vipex swarm
+V.Champs Kyrrax
 Khymaera - Shadowflame Shard
 Grand Melee - 100 pts
 
 PC CARD
 
+Defenses
+DEFENSE 1 - Barrier
+DEFENSE 1 - Barrier
+DEFENSE 1 - Barrier
+
 Kyrrax, the Unrelenting Night
-SPELL - Host of Shadows
-SPELL - Silence of Death
+SPELL - Carnivore
+SPELL - Curse of Shadows
 
-16 Skylla, The Abyssal Fury
-9 CENTRAL HEAD - Skylla
-4 SMALLER HEAD 1 - Horned Piercer
-3 SMALLER HEAD 2 - Gnashing Fangs
+34 Trikhymaerax
+12 ARCANE HEADS - Eyeless Head
+RANGE HEADS - Flame Head
+8 MELEE HEADS - Gulper Head
+ARCANE TAILS - Negation Tail
+8 RANGE TAILS - Frost Tail
+6 MELEE TAILS - Stinger
 
-10 Vypex 1
+10 Vypex
 1 HEAD - Asp
 3 TAIL - Hunter's Mark
 6 ARMS - Cleavers
 
-13 Vypex 2
-4 HEAD - Viper
-1 TAIL - Chasten
-8 ARMS - Impalers
-
-13 Vypex 3
-4 HEAD - Viper
-1 TAIL - Bladed Gale
-8 ARMS - Impalers
-
-4 Bellighul, Master of Pain
-
 3 Pythia
 
-9 Shades
+5 Wraithwing Paragon 1
+
+5 Wraithwing Paragon 2
+
+11 Incarnate Knights
 
 7 Talon Death Dealers 1
 
@@ -49,8 +49,8 @@ SPELL - Silence of Death
 
 PC COMMAND CARD
 Blessing of the Gods
-Break Through
-Duck and Cover!
+Defenses
+Hit & Run
 Lucky Penny
 Put the Fires Out
 
