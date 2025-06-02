@@ -1,6 +1,8 @@
-#3/29/25 24th/48 IG Qualifiers
+# 5/31/25 1st/18 Oregon
 
-Dekathus ATC 1.0
+
+
+ROAD ROLLAAAH
 Cryx - Necrofactorium
 Grand Melee - 100 pts
 
@@ -30,11 +32,11 @@ SPELL - Calamity
 6 RIGHT ARM - Harpoon
 3 LEFT ARM - Ripping Claw
 
-5 Raptor
-3 HEAD - Beaked Maw
-2 BACK - Arc Node
+3 Akulon Thaemestra
 
 4 Master Necrotech Chatterbane
+
+4 Silexus Xiphus
 
 3 Skarlock Lieutenant
 
@@ -44,11 +46,9 @@ SPELL - Calamity
 
 6 Mechanithrall Swarm 3
 
-4 Necrosurgeon Initiates 1
+4 Necrosurgeon Initiates
 
-4 Necrosurgeon Initiates 2
-
-8 Sludge Thralls
+10 Night Terrors
 
 10 The Furies
 
@@ -56,8 +56,8 @@ SPELL - Calamity
 PC COMMAND CARD
 Blessing of the Gods
 Careful Reconnaissance
-Hit & Run
 Lucky Penny
-Put the Fires Out
+Old Faithful
+Sapper
 
 TOTAL POINTS 100/100

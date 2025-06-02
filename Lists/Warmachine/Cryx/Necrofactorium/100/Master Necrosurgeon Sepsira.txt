@@ -1,45 +1,52 @@
-#3/29/25 24th/48 IG Qualifiers
+# 5/30/25 5th/16 Swedish Masters
 
-Sep ATC 1.0
+Sepsira
 Cryx - Necrofactorium
 Grand Melee - 100 pts
 
 PC CARD
 
+Defenses
+DEFENSE 1 - Barrier
+DEFENSE 1 - Barrier
+DEFENSE 1 - Spike Trap
+
 Master Necrosurgeon Sepsira
-SPELL - Blood Rain
-SPELL - Calamity
-SPELL - Carnage
+SPELL - Ghost Walk
+SPELL - Scything Touch
+SPELL - Death's Dominion
 
-16 Grendel
-HEAD - Grendel
-RIGHT ARM - Salvage Ripper Right
-LEFT ARM - Salvage Ripper Left
-
-12 Malefactor
+12 Malefactor 1
 1 HEAD - Soul Claiming
-6 RIGHT ARM - Harpoon
-5 LEFT ARM - Helldriver
+7 RIGHT ARM - Fell Axe
+4 LEFT ARM - Spiked Shield
 
-5 Raptor
-3 HEAD - Beaked Maw
+12 Malefactor 2
+1 HEAD - Soul Claiming
+7 RIGHT ARM - Fell Axe
+4 LEFT ARM - Spiked Shield
+
+6 Raptor
+4 HEAD - Doomspitter
 2 BACK - Arc Node
 
-4 Iron Lich Commander
+3 Akulon Thaemestra
 
-4 Maulgreth, The Charnel Plague
+8 Necroharvester
+
+Corpse Crawler
 
 3 Skarlock Lieutenant
+
+8 Mechanithrall Brutes
 
 6 Mechanithrall Swarm 1
 
 6 Mechanithrall Swarm 2
 
-4 Necrosurgeon Initiates 1
+6 Mechanithrall Swarm 3
 
-4 Necrosurgeon Initiates 2
-
-10 Night Terrors
+4 Necrosurgeon Initiates
 
 8 Sludge Thralls 1
 
@@ -49,10 +56,10 @@ LEFT ARM - Salvage Ripper Left
 
 
 PC COMMAND CARD
-Blessing of the Gods
-Duck and Cover!
+Defenses
 Hit & Run
 Lucky Penny
 Old Faithful
+Put the Fires Out
 
 TOTAL POINTS 100/100

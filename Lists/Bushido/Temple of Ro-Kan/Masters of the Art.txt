@@ -1,19 +1,11 @@
-# Pulled 12/23/24 4th/15
+# 5/31/25 1st/10 Sweden tournament
 
-Temple of Ro-Kan - Masters of the Art - [100Rice]
-
-# ++ Risen Sun ++ [100Rice]
-## Faction Profile Cards [97Rice]
-Master Akari [20 Rice]
-Master Charlyn [26 Rice]: Finesse, Prayer Beads
-Master Koju [24 Rice]: One With Creation, Arashi's Fan
-Master Po [27 Rice]: Earthen Communion
-
-## Faction Event Cards [2Rice]
-Moment of Enlightenment [2 Rice]
-
-## Faction Terrain Cards [1Rice]
-Gorintō [1 Rice]
-
-## Faction Theme Cards
 Masters of the Art
+Master Akari [21]: Prayer Beads
+Master Charlyn [24]
+Master Koju [23]: Arashi's Fan
+Master Po [25]
+Moment of Enlightenment [2]
+Spiritual Harmony [1]
+Gorint? [1]
+War Weary [3]

@@ -1,65 +1,56 @@
-# 5/10/25 5th/6
+# 5/31/25 1st/16 NJ 
 
-MortenebraV1 100
+Morty League Test
 Cryx - Necrofactorium
 Grand Melee - 100 pts
 
 PC CARD
 
-Defenses
-DEFENSE 1 - Barrier
-DEFENSE 1 - Barrier
-DEFENSE 1 - Spike Trap
-
 Mortenebra Perfected
-SPELL - Death Ward
+SPELL - Carnage
 SPELL - Scything Touch
 
-16 Grendel
-HEAD - Grendel
-RIGHT ARM - Salvage Ripper Right
-LEFT ARM - Salvage Ripper Left
-
-12 Malefactor 1
-1 HEAD - Soul Claiming
+14 Malefactor 1
+3 HEAD - Overtake
 7 RIGHT ARM - Fell Axe
 4 LEFT ARM - Spiked Shield
 
-12 Malefactor 2
-1 HEAD - Soul Claiming
+14 Malefactor 2
+3 HEAD - Overtake
 7 RIGHT ARM - Fell Axe
 4 LEFT ARM - Spiked Shield
 
-12 Malefactor 3
+10 Malefactor 3
 1 HEAD - Soul Claiming
-7 RIGHT ARM - Fell Axe
-4 LEFT ARM - Spiked Shield
+6 RIGHT ARM - Harpoon
+3 LEFT ARM - Ripping Claw
 
-5 Raptor 1
-3 HEAD - Deathripper
-2 BACK - Heavy Armor
+10 Malefactor 4
+1 HEAD - Soul Claiming
+6 RIGHT ARM - Harpoon
+3 LEFT ARM - Ripping Claw
 
-5 Raptor 2
-3 HEAD - Deathripper
-2 BACK - Heavy Armor
+7 Raptor 1
+3 HEAD - Beaked Maw
+4 BACK - Light Spiker
 
-5 Raptor 3
-3 HEAD - Deathripper
-2 BACK - Heavy Armor
+7 Raptor 2
+3 HEAD - Beaked Maw
+4 BACK - Light Spiker
 
-5 Raptor 4
-3 HEAD - Deathripper
-2 BACK - Arc Node
-
-3 Akulon Thaemestra
-
-4 Iron Lich Commander
+7 Raptor 3
+3 HEAD - Beaked Maw
+4 BACK - Light Spiker
 
 4 Master Necrotech Chatterbane
 
+4 Silexus Xiphus
+
 3 Skarlock Lieutenant
 
-6 Mechanithrall Swarm
+6 Mechanithrall Swarm 1
+
+6 Mechanithrall Swarm 2
 
 4 Necrosurgeon Initiates 1
 
@@ -67,10 +58,10 @@ LEFT ARM - Salvage Ripper Left
 
 
 PC COMMAND CARD
-Break Through
-Defenses
+Blessing of the Gods
+Duck and Cover!
 Hit & Run
-Lucky Penny
 Old Faithful
+Put the Fires Out
 
 TOTAL POINTS 100/100

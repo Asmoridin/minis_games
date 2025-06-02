@@ -1,6 +1,6 @@
-# 5/17/25 6th/18 Wisconsin Tournament
+# 5/31/25 2nd/17 Australia
 
-Bokur 1
+Sky Are Fall
 Dusk - House Kallyss
 Grand Melee - 100 pts
 
@@ -8,13 +8,13 @@ PC CARD
 
 Scyrafael, Nis-Issyr of Desolations
 SPELL - Battle Lust
-SPELL - Deceleration
+SPELL - Inviolable Resolve
 
-16 Eidolon
-2 HEAD - True Sight
+15 Eidolon
+1 HEAD - Arcane Stasis
 6 RIGHT ARM - Dawn Blade
-4 LEFT ARM - Dusk Blade
-4 BACK - Force Cannon
+5 LEFT ARM - Force Shield
+3 BACK - Vortex Cannon
 
 17 Israfyl
 HEAD - Israfyl
@@ -22,32 +22,32 @@ LEFT ARM - Serpentine Blade
 RIGHT ARM - Serpentine Blade
 BACK - Death Whisper
 
-5 Eiryss, Shadow of Retribution
+10 Specter
 
 7 Krueger, Wrath of Blighterghast
 
-4 Vaelyss, The Hand of Mourning
+4 Mage Hunter Commander
 
-9 Dreadguard Archers
+3 Mage Hunter Sniper Team
 
 11 Dreadguard Cavalry 1
 
 11 Dreadguard Cavalry 2
 
-8 Dreadguard Slayers
+6 Mage Hunter Assassins 1
+
+6 Mage Hunter Assassins 2
 
 4 Seeker Adepts
 
 6 Soulless Guardians
 
-2 Seeker Warden
-
 
 PC COMMAND CARD
-Break Through
+Blessing of the Gods
 Careful Reconnaissance
+Hit & Run
 Lucky Penny
 Old Faithful
-Put the Fires Out
 
 TOTAL POINTS 100/100

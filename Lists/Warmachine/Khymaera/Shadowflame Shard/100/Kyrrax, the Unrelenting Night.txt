@@ -1,6 +1,6 @@
-# 5/24/25 8th/16 Canada event
+# 5/31/25 1st/17 Australia
 
-Kyrrax
+V.Champs Kyrrax
 Khymaera - Shadowflame Shard
 Grand Melee - 100 pts
 
@@ -8,40 +8,33 @@ PC CARD
 
 Defenses
 DEFENSE 1 - Barrier
-DEFENSE 2 - Fire Pit
-DEFENSE 1 - Fire Pit
+DEFENSE 1 - Barrier
+DEFENSE 1 - Barrier
 
 Kyrrax, the Unrelenting Night
 SPELL - Carnivore
 SPELL - Curse of Shadows
 
-16 Skylla, The Abyssal Fury
-9 CENTRAL HEAD - Skylla
-4 SMALLER HEAD 1 - Horned Piercer
-3 SMALLER HEAD 2 - Gnashing Fangs
+34 Trikhymaerax
+12 ARCANE HEADS - Eyeless Head
+RANGE HEADS - Flame Head
+8 MELEE HEADS - Gulper Head
+ARCANE TAILS - Negation Tail
+8 RANGE TAILS - Frost Tail
+6 MELEE TAILS - Stinger
 
-13 Vypex 1
-4 HEAD - Viper
-1 TAIL - Bladed Gale
-8 ARMS - Impalers
-
-13 Vypex 2
-4 HEAD - Viper
-1 TAIL - Chasten
-8 ARMS - Impalers
-
-10 Vypex 3
+10 Vypex
 1 HEAD - Asp
 3 TAIL - Hunter's Mark
 6 ARMS - Cleavers
 
-4 Bellighul, Master of Pain
-
 3 Pythia
 
-4 Regulus
+5 Wraithwing Paragon 1
 
-9 Shades
+5 Wraithwing Paragon 2
+
+11 Incarnate Knights
 
 7 Talon Death Dealers 1
 
@@ -51,12 +44,14 @@ SPELL - Curse of Shadows
 
 7 Talon Lashers 2
 
+4 Wyrmspine Shadowmancers
+
 
 PC COMMAND CARD
 Blessing of the Gods
-Break Through
 Defenses
+Hit & Run
 Lucky Penny
-Sapper
+Put the Fires Out
 
 TOTAL POINTS 100/100

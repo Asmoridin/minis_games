@@ -1,27 +1,26 @@
-# 5/3/25 9th/10
+# 5/31/25 9th/12 NY 
 
-Seige2 Copy
+Down and Gritty
 Cygnar - First Army
 Grand Melee - 100 pts
 
 PC CARD
 
-Defenses
-DEFENSE 1 - Barrier
-DEFENSE 2 - Spike trap
-DEFENSE 1 - Spike trap
-
 Colonel Markus "Siege" Brisbane
 
 Rocket Turret
 
-15 Triumph
+8 Ace
 
-9 Trencher Blockhouse
+15 Triumph
 
 2 Captain Jonas Murdoch
 
 5 Captain Maxwell Finn
+
+20 Carver Ultimus
+
+War Boar MMD47
 
 4 Commander Anson Hitch
 
@@ -29,23 +28,15 @@ Rocket Turret
 
 4 Squire
 
-4 Trench Buster
+3 Trencher Master Gunner
 
-3 Trencher Master Gunner 1
-
-3 Trencher Master Gunner 2
-
-3 Trencher Warcaster Lieutenant
-
-8 Hunter 1
-
-8 Hunter 2
-
-4 Trencher Express Team 1
+5 Trencher Cannon Crew
 
 3 Captain Karli
 
-4 Trencher Express Team 2
+7 Trencher Commandos
+
+3 Trencher Commando Officer
 
 8 Trencher Infantry 1
 
@@ -58,9 +49,9 @@ Rocket Turret
 
 PC COMMAND CARD
 Blessing of the Gods
-Defenses
+Hits and Run
+Lucky Penny
 Old Faithful
 Put the Fires Out
-Sapper
 
 TOTAL POINTS 100/100

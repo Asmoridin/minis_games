@@ -1,34 +1,37 @@
-#4/5/25 10th/10
+# 5/31/25 8th/12 NY 
 
-Maelok Dracodile Featuring Bones
+You're Time is Up
 Mercenaries - Blindwater Congregation
 Grand Melee - 100 pts
 
 PC CARD
 
+Defenses
+DEFENSE 1 - Barrier
+DEFENSE 1 - Barrier
+DEFENSE 1 - Fire Pit
+
 Maelok the Dreadbound
 
-13 Blackhide Wrastler
-
-6 Boneswarm 1
-
-6 Boneswarm 2
-
-4 Barnabas the Conqueror
+10 Blind Walker
 
 28 Dracodile
 
-2 Bone Shrine
+3 Bog Trog Mist Speaker
 
 4 Captain Crawtooth
 
-3 Gatorman Witch Doctor
+4 Gatorman Soul Slave
+
+3 Gatorman Witch Doctor 1
+
+3 Gatorman Witch Doctor 2
 
 4 Kwaak Slickspine & Gub, Croak Sorcerers
 
-1 Swamp Gobber Chef
+4 Underchief Mire
 
-4 Gatorman Boil Master & Spirit Cauldron
+13 Blackhide Wrastler
 
 8 Gatorman Posse 1
 
@@ -36,14 +39,12 @@ Maelok the Dreadbound
 
 8 Gatorman Posse 3
 
-1 Swamp Gobber Bellows Crew
-
 
 PC COMMAND CARD
 Blessing of the Gods
 Break Through
-Hit & Run
+Defenses
+Duck and Cover!
 Lucky Penny
-Put the Fires Out
 
 TOTAL POINTS 100/100

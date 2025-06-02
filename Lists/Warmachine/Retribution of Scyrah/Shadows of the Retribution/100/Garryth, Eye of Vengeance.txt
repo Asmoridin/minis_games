@@ -1,6 +1,6 @@
-#3/29/25 8th/9 Finnish event
+# 5/31/25 12th/21 Colorado tournament
 
-Garryth - nist
+Scary Gary
 Retribution of Scyrah - Shadows of the Retribution
 Grand Melee - 100 pts
 
@@ -8,11 +8,7 @@ PC CARD
 
 Garryth, Eye of Vengeance
 
-14 Aeternae 1
-
-14 Aeternae 2
-
-8 Harpy
+13 Banshee
 
 9 Moros
 
@@ -28,23 +24,26 @@ Garryth, Eye of Vengeance
 
 1 Arcanist Mechanik 4
 
-3 Sylys Wyshnalyrr, The Seeker
+4 Eiryss, Mage Hunter of Ios
 
-7 House Ellowuyr Swordsmen
+3 Elara, Tyro of the Third Chamber
+
+8 Harpy 1
+
+8 Harpy 2
+
+3 Sylys Wyshnalyrr, The Seeker
 
 8 House Ellowuyr Wardens
 
-7 Spears of Scyrah
+7 Mage Hunter Infiltrators
 
-Defenses
-DEFENSE 1 - Barrier
-DEFENSE 1 - Powder Keg
-DEFENSE 1 - Barrier
+7 Spears of Scyrah
 
 
 PC COMMAND CARD
 Blessing of the Gods
-Defenses
+Duck and Cover!
 Hit & Run
 Lucky Penny
 Sapper

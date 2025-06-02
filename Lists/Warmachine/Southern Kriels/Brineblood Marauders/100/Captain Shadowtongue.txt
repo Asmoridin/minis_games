@@ -1,71 +1,48 @@
-#3/29/25 8th/48 IG Qualifiers
-
-Shadowspray
-Southern Kriels - Brineblood Marauders
-Total 100 pts
-
-PC CARD
-
-Defenses
-DEFENSE 1 - Barrier
-DEFENSE 1 - Barrier
-DEFENSE 1 - Fire Pit
+# 5/31/25 3rd/24 BC, Canada
 
 Captain Shadowtongue
-SPELL - Black Spot
-SPELL - Fortify
+SPELL -
+SPELL -
 
-13 Deepborn Dire Troll 1
-2 HEAD - Bellower
-1 FIN - Minnow
-5 RIGHT ARM - Hammerhead
-5 LEFT ARM - Squid Blaster
+28 Abyssal King
+10 HEAD - Bulbous Chomper Head
+6 FIGUREHEAD - Triton
+6 TENTACLE WEAPON 1 - Main Gun
+6 TENTACLE WEAPON 1 - Main Gun
 
-14 Deepborn Dire Troll 2
+14 Deepborn Dire Troll 1
 3 HEAD - Cantankerous
 1 FIN - Minnow
 5 RIGHT ARM - Hammerhead
 5 LEFT ARM - Squid Blaster
 
-13 Deepborn Dire Troll 3
+13 Deepborn Dire Troll 2
 2 HEAD - Bellower
 1 FIN - Minnow
 5 RIGHT ARM - Hammerhead
-5 LEFT ARM - Squid Blaster
+5 LEFT ARM - Crab Net
 
 12 Vorogger
 
-2 Booty Boss
-
-1 Fire Guardian
-
 3 Madame Moriarty
+4 Mawga'Bawza
+3 Mr. Bogs
+3 Pyg Cannon Crew 1
+3 Pyg Cannon Crew 2
+2 Pyg Dirge
+2 Sully
+2 Surgeon
 
-6 Marauder Crew 1
-
-3 Marauder Crew Bosun
-
-6 Marauder Crew 2
-
-1 Marauder Crew Tapper 1
-
-6 Marauder Crew 3
-
-1 Marauder Crew Tapper 2
-
-6 Marauder Crew 4
-
-1 Marauder Crew Tapper 3
-
-6 Pyg Boarding Party 1
-
-6 Pyg Boarding Party 2
+6 Marauder Crew
+1 Marauder Crew Tapper
+3 Pyg Galley Crew
+1 Pyg Coxswain
 
 
 PC COMMAND CARD
 Blessing of the Gods
-Defenses
-Duck and Cover!
+Break Through
+Hit & Run
 Lucky Penny
 Sapper
 

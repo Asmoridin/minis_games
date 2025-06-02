@@ -1,16 +1,24 @@
-#3/29/25 3rd/48 IG Qualifiers
+# 5/31/25 1st/21 Colorado tournament
 
-Baranova
+Baloonova
 Khador - Winter Korps
 Grand Melee - 100 pts
 
 PC CARD
 
 Kapitan Ekaterina Baranova
+SPELL - Tempest
+SPELL - Superiority
+SPELL - Puissance
 
-10 Dire Wolf
+10 Dire Wolf 1
 1 HEAD - Shield Guard
-5 RIGHT ARM - Ice Hammer
+5 RIGHT ARM - Long Axe
+4 LEFT ARM - Plow-Shield
+
+10 Dire Wolf 2
+1 HEAD - Shield Guard
+5 RIGHT ARM - Long Axe
 4 LEFT ARM - Plow-Shield
 
 18 Razor
@@ -19,29 +27,34 @@ Kapitan Ekaterina Baranova
 
 11 Sky Raider 2
 
-10 AC-2 Bison
+2 Battle Mechanik
 
 7 Krueger, Wrath of Blighterghast
+
+4 Magziev Zariyah Volkova
 
 3 Winter Korps Officer
 
 4 Arkanists
 
-11 Man-O-War Suppressors
-
-7 Shock Trooper Pikemen
-
 8 The Hounds
-TETERYA 1 - Teterya 1
-FEDYNIAK 1 - Fedyniak 1
-SKROBALA 1 - Skrobala 1
+
+6 Winter Korps Infantry
+WEAPON SUPPORT TROOPERS - Auto Cannon
+WEAPON SUPPORT TROOPERS - Auto Cannon
+
+1 Winter Korps Standard
+
+4 Winter Korps Snipers
+
+1 Winter Korps Hunting Dog
 
 
 PC COMMAND CARD
 Blessing of the Gods
-Hit & Run
+Careful Reconnaissance
 Lucky Penny
+Hit & Run
 Put the Fires Out
-Sapper
 
 TOTAL POINTS 100/100

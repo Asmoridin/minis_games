@@ -1,58 +1,59 @@
-#3/29/25 10th/48 IG Qualifiers
+# 5/31/25 1st/17 Utah
 
-Hell Slayers
+NEW FORCE
 Dusk - House Kallyss
 Grand Melee - 100 pts
 
 PC CARD
 
-Defenses
-DEFENSE 1 - Barrier
-DEFENSE 1 - Spike Trap
-DEFENSE 1 - Spike Trap
-
 Hellyth, Scyir of Nightfall
+SPELL - Abyssal Gate
+SPELL - Backlash
 
-11 Eidolon 1
-1 HEAD - Arcane Stasis
-4 RIGHT ARM - Null Blade
-3 LEFT ARM - Light Null Blade
-3 BACK - Vortex Cannon
+17 Eidolon
+2 HEAD - Flight
+6 RIGHT ARM - Dawn Blade
+5 LEFT ARM - Force Shield
+4 BACK - Force Cannon
 
-11 Eidolon 2
-1 HEAD - Arcane Stasis
-4 RIGHT ARM - Null Blade
-3 LEFT ARM - Light Null Blade
-3 BACK - Vortex Cannon
-
-7 Krueger, Wrath of Blighterghast
+4 Dyssiss, the Eye of Darkness
 
 4 Mage Hunter Commander 1
 
 4 Mage Hunter Commander 2
 
-3 Mage Hunter Sniper Team
+3 Mage Hunter Sniper Team 1
 
-4 Maulgreth, The Charnel Plague
+3 Mage Hunter Sniper Team 2
+
+4 Vaelyss, The Hand of Mourning
+
+2 Void Shaper
 
 9 Dreadguard Archers 1
 
 9 Dreadguard Archers 2
 
-11 Dreadguard Cavalry 1
+11 Dreadguard Cavalry
 
-11 Dreadguard Cavalry 2
+6 Mage Hunter Assassins 1
 
-8 Dreadguard Slayers 1
+6 Mage Hunter Assassins 2
 
-8 Dreadguard Slayers 2
+4 Seeker Adepts
+
+6 Soulless Blademasters
+
+2 Seeker Warden
+
+6 Soulless Guardians
 
 
 PC COMMAND CARD
-Careful Reconnaissance
-Defenses
+Blessing of the Gods
 Duck and Cover!
+Hit & Run
 Lucky Penny
-Put the Fires Out
+Old Faithful
 
 TOTAL POINTS 100/100

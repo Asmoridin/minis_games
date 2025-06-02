@@ -1,6 +1,6 @@
-# 4/12/25 13th/14
+# 5/31/25 7th/18 Oregon
 
-Karchev
+Karchev - Tournament
 Khador - Armored Korps
 Grand Melee - 100 pts
 
@@ -8,39 +8,37 @@ PC CARD
 
 Karchev the Terrible
 
-13 Devastator
+15 Grolar
 
-10 Juggernaut
+10 Juggernaut 1
 
-15 Spriggan
+10 Juggernaut 2
+
+10 Juggernaut 3
+
+10 Kodiak
+
+11 Man-O-War Siege Chariot
+
+3 Greylord Forge Seer 1
+
+3 Greylord Forge Seer 2
 
 7 Man-O-War Drakhun
 
 4 Man-O-War Kovnik
 
-5 Man-O-War Strike Tanker
-
-5 Man-O-War Suppression Tanker
-
-2 Battle Mechaniks 1
-
-2 Battle Mechaniks 2
+2 Battle Mechaniks
 
 4 Greylord Ternion
-
-6 Kommandant Atanas Arconovich & Standard
 
 7 Man-O-War Demolition Korps
 
 4 Sergeant Dragos Dragadovich
 
-8 Man-O-War Shocktroopers 1
-
-8 Man-O-War Shocktroopers 2
-
 
 PC COMMAND CARD
-Blessing of the Gods
+Break Through
 Careful Reconnaissance
 Hit & Run
 Lucky Penny

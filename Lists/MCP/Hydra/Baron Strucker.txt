@@ -1,36 +1,32 @@
-# 3/27/25 51/72 Adepticon
+# 6/1/25 1/10 English tournament
 
-Hydra
-Characters 10: Threat: 39
-Abomination 5
-Baron Strucker 3
-Baron Zemo 3
-Bob, Agent of Hydra 2
-Crimson Dynamo 4
-Red Skull, Master of Hydra 5
-Spider-Woman 4
-Taskmaster 3
-Winter Soldier, Operative 4
-Hulk 6
 
-Tactics 10:
-Brace for Impact R
-I Am A Baron, After All
-Instant Recovery
-Patch Up R
-Recalibration Matrix
-Sleeper Agent
-Soldat Activated
-Survival
+Characters
+Baron Strucker (Wolfgang Von Strucker)
+Red Skull, Master of Hydra (Johann Schmidt)
+Abomination (Emil Blonsky)
+Spider-Woman (Jessica Drew)
+Winter Soldier, Operative (James "Bucky" Barnes)
+Arnim Zola
+Baron Zemo (Helmut Zemo)
+Nick Fury (Nicholas J. Fury, Jr.)
+Man-Thing (Theodore Sallis)
+Wong
+Team Tactics
+Brace for Impact
+Fall Back
 World Domination
-Warpath
-
-Secure Crisis 3:
-Infinity Formula Goes Missing! B, 17
-Super-Powered Scoundrels Form Sinister Syndicate! F, 20
-M'Kraan Crystal Gets Heroes Home! , 19
-
-Extract Crisis 3:
-Fear Grips World as "Worthy" Terrorize Cities D, 18
-Scientific Samples Found In Discovered Universe D, 17
-Terrigen Canisters Fuel Doomsday Device F, 17
+Scientific Method
+Soldat Activated
+Gamma Burst
+Double Agent
+I Am A Baron, After All
+Eye in the Sky
+Instant Recovery
+Crises
+Super-Powered Scoundrels Form Sinister Syndicate!
+M'Kraan Crystal Gets Heroes Home!
+Mayor Fisk Vows to Find Missing Witnesses
+Skrulls Infiltrate World Leadership
+Inhumans Deploy Advanced Weaponry
+The Montesi Formula Found

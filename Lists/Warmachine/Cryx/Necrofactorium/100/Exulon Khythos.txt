@@ -1,60 +1,67 @@
-# 5/17/25 2nd/18 Wisconsin Tournament
+# 5/31/25 1st/24 BC, Canada
 
-Khythos C
+Helena Bonham Carter
 Cryx - Necrofactorium
 Grand Melee - 100 pts
 
 PC CARD
 
-Exulon Khythos
-SPELL - Blood Rain
-SPELL - Calamity
-SPELL - Carnage
+Defenses
+DEFENSE 1 - Barrier
+DEFENSE 1 - Barrier
+DEFENSE 1 - Barrier
 
-12 Malefactor
-1 HEAD - Soul Claiming
+Exulon Khythos
+SPELL - Carnage
+SPELL - Ghost Walk
+SPELL - Scything Touch
+
+14 Malefactor 1
+3 HEAD - Overtake
 7 RIGHT ARM - Fell Axe
 4 LEFT ARM - Spiked Shield
 
-5 Raptor
-3 HEAD - Beaked Maw
-2 BACK - Arc Node
+12 Malefactor 2
+1 HEAD - Soul Claiming
+6 RIGHT ARM - Harpoon
+5 LEFT ARM - Helldriver
 
-15 Malfessor
+5 Raptor 1
+3 HEAD - Deathripper
+2 BACK - Necrovent
+
+5 Raptor 2
+3 HEAD - Deathripper
+2 BACK - Arc Node
 
 3 Akulon Thaemestra
 
 4 Iron Lich Commander
 
+4 Machine Wraith Dominator
+
 3 Skarlock Lieutenant
 
-6 Mechanithrall Swarm
+8 Criterions 1
 
-4 Necrosurgeon Initiates 1
+8 Criterions 2
 
-4 Necrosurgeon Initiates 2
+6 Mechanithrall Swarm 1
+
+6 Mechanithrall Swarm 2
+
+4 Necrosurgeon Initiates
 
 10 Night Terrors
 
-8 Sludge Thralls 1
-
-8 Sludge Thralls 2
-
-8 The Criterions
-
-10 The Furies
-
-Defenses
-DEFENSE 1 - Barrier
-DEFENSE 1 - Barrier
-DEFENSE 1 - Barrier
+8 Sludge Thralls
 
 
 PC COMMAND CARD
 Blessing of the Gods
 Defenses
+Hit & Run
 Lucky Penny
 Old Faithful
-Put the Fires Out
 
 TOTAL POINTS 100/100

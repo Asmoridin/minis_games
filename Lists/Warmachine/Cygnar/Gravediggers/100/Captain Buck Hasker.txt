@@ -1,69 +1,90 @@
-#3/29/25 34th/48 IG Qualifiers
+# 5/31/25 5th/21 Colorado tournament
 
-Hasker100
+Hasker
 Cygnar - Gravediggers
 Grand Melee - 100 pts
 
 PC CARD
 
-Heavy Weapon Crate
+Heavy Weapon Crate 1
 HEAVY WEAPON - Heavy Flamethrower
 
-Ammo Crate
+Blocker 1
 
-Medical Crate
+Skirmisher 1
 
-Defenses
-DEFENSE 1 - Barrier
-DEFENSE 1 - Barrier
-DEFENSE 1 - Barrier
+Raider 1
+
+Ammo Crate 1
+
+Medical Crate 1
+
+Mantlet 1
+
+Fuel Canister 1
+
+Ammo Crate 2
+
+Medical Crate 2
+
+Mantlet 2
+
+Fuel Canister 2
+
+Heavy Weapon Crate 2
+HEAVY WEAPON - Heavy Flamethrower
+
+Skirmisher 2
+
+Blocker 2
+
+Raider 2
 
 Captain Buck Hasker
-SPELL - Arcane Shield
+SPELL - Chasten
 SPELL - Silence of Death
 
-17 Deuce
+17 Plugger
+HEAD - Plugger
+RIGHT ARM - Trench Ripper
+LEFT ARM - Trench Ripper
 
-13 Valiant 1
+12 Valiant 1
+2 HEAD - Reposition
+5 RIGHT ARM - Piston Hammer
+5 LEFT ARM - Harpoon Fist
+
+13 Valiant 2
 2 HEAD - Aggressive
 5 RIGHT ARM - Piston Hammer
 6 LEFT ARM - Volley Shield
 
-10 Valiant 2
-1 HEAD - Evasive
-5 RIGHT ARM - Piston Hammer
-4 LEFT ARM - Slug Fist
-
-4 Captain Bastian Falk
-
-5 Eiryss, Shadow of Retribution
-
 4 Greygore Boomhowler
-
-20 Magnus the Unstoppable
-
-Invictus
 
 4 Sergeant Brunaugh "Bruno" Ramjaw
 
-9 The Black 13th
-RYAN 3 - Ryan 3
-WATTS 3 - Watts 3
-GLOVER 1 - Glover 1
+8 Gravedigger Commandos
 
-9 The Rowdies
-DALTON - Dalton
-FRANKS - Franks
-JENKINS - Jenkins
+2 Commando Officer
+
+4 Gravedigger Gun Mages 1
+
+4 Gravedigger Gun Mages 2
+
+8 Gravedigger Rangers
+
+5 Storm Vanes
+
+9 The Black 13th
 
 
 PC COMMAND CARD
 Blessing of the Gods
-Break Through
-Defenses
+Duck and Cover!
 5 Heavy Airdrop 1
+5 Heavy Airdrop 2
 Light Airdrop 1
-Lucky Penny
+Light Airdrop 2
 Military Engineering
 Old Faithful
 
