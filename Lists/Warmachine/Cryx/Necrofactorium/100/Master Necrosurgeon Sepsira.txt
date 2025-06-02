@@ -1,15 +1,20 @@
-# 5/31/25 8th/21 Colorado tournament
+# 5/30/25 5th/16 Swedish Masters
 
-Coffee Cup Sepsis
+Sepsira
 Cryx - Necrofactorium
 Grand Melee - 100 pts
 
 PC CARD
 
+Defenses
+DEFENSE 1 - Barrier
+DEFENSE 1 - Barrier
+DEFENSE 1 - Spike Trap
+
 Master Necrosurgeon Sepsira
-SPELL - Blood Rain
-SPELL - Calamity
-SPELL - Carnage
+SPELL - Ghost Walk
+SPELL - Scything Touch
+SPELL - Death's Dominion
 
 12 Malefactor 1
 1 HEAD - Soul Claiming
@@ -21,18 +26,19 @@ SPELL - Carnage
 7 RIGHT ARM - Fell Axe
 4 LEFT ARM - Spiked Shield
 
-11 Malefactor 3
-1 HEAD - Soul Claiming
-6 RIGHT ARM - Harpoon
-4 LEFT ARM - Spiked Shield
+6 Raptor
+4 HEAD - Doomspitter
+2 BACK - Arc Node
 
 3 Akulon Thaemestra
 
-4 Iron Lich Commander
+8 Necroharvester
 
-3 Skarlock Lieutenant 1
+Corpse Crawler
 
-3 Skarlock Lieutenant 2
+3 Skarlock Lieutenant
+
+8 Mechanithrall Brutes
 
 6 Mechanithrall Swarm 1
 
@@ -40,9 +46,7 @@ SPELL - Carnage
 
 6 Mechanithrall Swarm 3
 
-4 Necrosurgeon Initiates 1
-
-4 Necrosurgeon Initiates 2
+4 Necrosurgeon Initiates
 
 8 Sludge Thralls 1
 
@@ -52,8 +56,8 @@ SPELL - Carnage
 
 
 PC COMMAND CARD
-Careful Reconnaissance
-Duck and Cover!
+Defenses
+Hit & Run
 Lucky Penny
 Old Faithful
 Put the Fires Out
