@@ -1,10 +1,28 @@
-# 5/18/25 7th/10 Kentucky tournament
+# 5/31/25 5th/21 Colorado tournament
 
-Cyn cryx
+Rosko
 Cygnar - Gravediggers
 Grand Melee - 100 pts
 
 PC CARD
+
+Heavy Weapon Crate 1
+HEAVY WEAPON - Heavy Flamethrower
+
+Blocker 1
+
+Skirmisher 1
+
+Raider 1
+
+Heavy Weapon Crate 2
+HEAVY WEAPON - Heavy Flamethrower
+
+Skirmisher 2
+
+Blocker 2
+
+Raider 2
 
 Ammo Crate 1
 
@@ -22,71 +40,51 @@ Mantlet 2
 
 Fuel Canister 2
 
-Defenses
-DEFENSE 1 - Barrier
-DEFENSE 1 - Barrier
-DEFENSE 1 - Barrier
-
-Heavy Weapon Crate
-HEAVY WEAPON - Heavy Flamethrower
-
-Skirmisher
-
-Blocker
-
-Raider
-
 Captain Cynthia Rosko
 SPELL - Arcane Shield
 SPELL - Chasten
 
-9 Patriot 1
-2 HEAD - Arc Node
-5 RIGHT ARM - Sniper Cannon
-2 LEFT ARM - Trench Blade
+17 Deuce
 
-8 Patriot 2
+8 Patriot
 1 HEAD - Shield Guard
 5 RIGHT ARM - Sniper Cannon
 2 LEFT ARM - Trench Blade
 
-12 Valiant 1
-1 HEAD - Evasive
-7 RIGHT ARM - Heavy Barrel
-4 LEFT ARM - Slug Fist
+13 Valiant 1
+2 HEAD - Aggressive
+5 RIGHT ARM - Piston Hammer
+6 LEFT ARM - Volley Shield
 
 12 Valiant 2
-1 HEAD - Evasive
-7 RIGHT ARM - Heavy Barrel
-4 LEFT ARM - Slug Fist
+2 HEAD - Reposition
+5 RIGHT ARM - Piston Hammer
+5 LEFT ARM - Harpoon Fist
 
-12 Valiant 3
-1 HEAD - Evasive
-7 RIGHT ARM - Heavy Barrel
-4 LEFT ARM - Slug Fist
+4 Greygore Boomhowler
 
-3 Heavy Machine Gun Crew
+4 Sergeant Brunaugh "Bruno" Ramjaw
+
+8 Gravedigger Commandos
+
+2 Commando Officer
 
 4 Gravedigger Gun Mages 1
 
 4 Gravedigger Gun Mages 2
 
-8 Gravedigger Rangers
-
 5 Storm Vanes
 
 9 The Black 13th
 
-9 The Rowdies
-
 
 PC COMMAND CARD
 Blessing of the Gods
-Defenses
+Duck and Cover!
 5 Heavy Airdrop 1
+5 Heavy Airdrop 2
 Light Airdrop 1
 Light Airdrop 2
-Lucky Penny
 Military Engineering
 Old Faithful
 
