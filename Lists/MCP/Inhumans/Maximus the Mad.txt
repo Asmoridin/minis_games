@@ -1,31 +1,34 @@
-# 5/17/25 6/14 french tournament
+Characters 10:
+Threat: 38
+Gorgon 3
+King Black Bolt 6
+*Maximus the Mad 4
+Beast 3
+Lockjaw 3
+Ronan the Accuser 4
+*Medusa 4
+*Black Bolt 5
+Beta Ray Bill 4
+Okoye 2
 
-Characters (10):
-Karnak (Karnak Mander-Azur)
-Gorgon (Gorgon Petragon)
-Maximus the Mad (Maximus Boltagon)
-Toad (Mortimer Toynbee)
-Medusa (Medusalith Amaquelin-Boltagon)
-Black Bolt (Blackagar Boltagon)
-Lockjaw
-Red Skull, Master of Hydra (Johann Schmidt)
-Hulk (Bruce Banner)
-Quicksilver (Pietro Maximoff)
-Tactics (10):
-Brace for Impact
-Terrigenesis
-Can I Borrow That?
+Tactics 10:
 The Great Refuge
+Terrigenesis
 Inhuman Royal Family
-Plots Within Plots
 Attilan Rising
+Plots Within Plots
+Brace for Impact R
+Fall Back R
 Recalibration Matrix
-Indomitable
 Inhomo Supremis
-Crises
-M'Kraan Crystal Gets Heroes Home!
-Infinity Formula Goes Missing!
-Deadline to Destruction
-Skrulls Infiltrate World Leadership
-Spider-Infected Invade Manhattan
-Terrigen Canisters Fuel Doomsday Device
+Genetic Prophesy
+
+Secure Crisis:
+Infinity Formula Goes Missing! B, 17
+Intrusions Open Across City As Seals Collapse C, 19
+M'Kraan Crystal Gets Heroes Home! , 19
+
+Extract Crisis:
+Mutant Extremists Target U.S. Senators! L, 19
+Skrulls Infiltrate World Leadership J, 20
+Spider-Infected Invade Manhattan F, 17
