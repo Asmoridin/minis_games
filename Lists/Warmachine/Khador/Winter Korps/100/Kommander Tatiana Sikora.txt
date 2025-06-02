@@ -1,6 +1,4 @@
-# 5/31/25 4th/21 Colorado tournament
-
-50mm
+armour? Copy
 Khador - Winter Korps
 Grand Melee - 100 pts
 
@@ -15,32 +13,20 @@ HEAD - Hyper-Aggressive
 RIGHT ARM - Pneumatic Lance
 LEFT ARM - Wedge Shield
 
-10 Dire Wolf 1
-1 HEAD - Evasive
-5 RIGHT ARM - Ice Hammer
-4 LEFT ARM - Plow-Shield
+15 Medveditsa
+HEAD - Medveditsa
+LEFT ARM - Left Bear Claw
+RIGHT ARM - Right Bear Claw
 
-10 Dire Wolf 2
-1 HEAD - Evasive
-5 RIGHT ARM - Ice Hammer
-4 LEFT ARM - Plow-Shield
+18 Razor
 
-3 Koldun Lord Damien Korovnik
+10 AC-2 Bison
 
-4 Kontroller
+4 Magziev Zariyah Volkova
 
-10 Dire Wolf 3
-1 HEAD - Evasive
-5 RIGHT ARM - Ice Hammer
-4 LEFT ARM - Plow-Shield
+2 Mortar Team
 
-5 Sergeant Sergei Krol
-
-4 Arkanists 1
-
-4 Arkanists 2
-
-11 Man-O-War Suppressors
+4 Arkanists
 
 10 Man-O-War Wrecking Crew
 
@@ -48,11 +34,13 @@ LEFT ARM - Wedge Shield
 
 7 Shock Trooper Pikemen
 
+8 The Hounds
+
 
 PC COMMAND CARD
 Blessing of the Gods
 Careful Reconnaissance
-Duck and Cover!
+Hit & Run
 Lucky Penny
 Old Faithful
 
