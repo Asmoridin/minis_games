@@ -1,32 +1,19 @@
-# Pulled 12/23/24 2nd/12
+# 5/31/25 2nd/32 UKGE
 
-Temple of Ro-Kan - Followers Of Inari - [100Rice]
-
-# ++ Risen Sun ++ [100Rice]
-## Reference Cards
-Kota - Fox Form
-Kuoto - Human Form
-Takeru - Fox Form
-
-## Faction Profile Cards [100Rice]
-Hofuku [19 Rice]
-Kota - Human Form [18 Rice]
-Kuoto - Fox Form [19 Rice]: Inari's Veil, Prayer Beads
-Takeru - Human Form [15 Rice]
-Tengoko [20 Rice]
-The Nine-Tailed Fox [9 Rice]
-
-## Faction Event Cards [-3Rice]
-Inari-Age [-3 Rice]
-Test of Inari
-Test of The Man
-Test of The Path
-
-## Faction Terrain Cards [1Rice]
-Gorintō [1 Rice]
-
-## Faction Theme Cards
 Followers of Inari
 
-## Ronin Event Cards [2Rice]
-Dharmic Path [2 Rice]
+Kota - 18
+Kuoto - 17
+Kyuubi - 20
++ prayer beads
++ Inari's Veil
+Nine tailed fox - 9
+Takeru - 15
+White faced fox - 19
+
+Preordain - 3
+Gorinto - 1
+Rice Bail - 1
+
+Tests x 4
+Inari-age - -3
