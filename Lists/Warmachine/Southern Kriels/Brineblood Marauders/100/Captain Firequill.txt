@@ -1,65 +1,62 @@
-# 5/17/25 6th/11 Spanish tournament
+# 5/31/25 5th/17 Utah
 
-NEW FORCE
+Firequill Steamroller v2.5
 Southern Kriels - Brineblood Marauders
 Grand Melee - 100 pts
 
 PC CARD
 
+Defenses
+DEFENSE 1 - Fire Pit
+DEFENSE 2 - Fire Pit
+DEFENSE 1 - Fire Pit
+
 Captain Firequill
-SPELL - Black Spot
+SPELL - Fortune
 SPELL - Open Fire
 
-15 Deepborn Dire Troll
-2 HEAD - Bellower
-3 FIN - Spearback
+29 Abyssal King 1
+10 HEAD - Electro Lure Head
+7 FIGUREHEAD - Seahorse
+6 TENTACLE WEAPON 1 - Main Gun
+6 TENTACLE WEAPON 1 - Main Gun
+
+29 Abyssal King 2
+10 HEAD - Electro Lure Head
+7 FIGUREHEAD - Seahorse
+6 TENTACLE WEAPON 1 - Main Gun
+6 TENTACLE WEAPON 1 - Main Gun
+
+13 Deepborn Dire Troll
+3 HEAD - Cantankerous
+1 FIN - Minnow
 5 RIGHT ARM - Narwal Spear Gauntlet
-5 LEFT ARM - Squid Blaster
-
-11 Reef Troll
-1 HEAD - Gunner
-1 BOOZE - Ale Tankard
-5 RIGHT ARM - Ship's Gun
-4 LEFT ARM - Chain Shot Explosive
-
-12 Vorogger
+4 LEFT ARM - Shark Skull Gauntlet
 
 1 Fire Guardian 1
 
 1 Fire Guardian 2
 
-4 First Mate Hargor Stormjaw
+1 Fire Guardian 3
 
-3 Mr. Bogs
+3 Madame Moriarty
 
-3 Pyg Cannon Crew
-
-2 Pyg Dirge
-
-2 Sully
-
-8 Fire Spitters
+4 Mawga'Bawza
 
 9 Lochabash Brothers
 
-6 Marauder Crew 1
-
-4 Marauder Crew Quartermaster
-
-6 Marauder Crew 2
-
 6 Pyg Boarding Party
 
-1 Pyg Coxswain
+3 Pyg Galley Crew
 
-6 Pyg Shockers
+1 Pyg Coxswain
 
 
 PC COMMAND CARD
 Blessing of the Gods
-Break Through
-Careful Reconnaissance
+Defenses
+Lucky Penny
+Old Faithful
 Put the Fires Out
-Sapper
 
 TOTAL POINTS 100/100
