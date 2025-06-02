@@ -1,6 +1,6 @@
-#3/29/25 24th/48 IG Qualifiers
+# 5/31/25 8th/21 Colorado tournament
 
-Sep ATC 1.0
+Coffee Cup Sepsis
 Cryx - Necrofactorium
 Grand Melee - 100 pts
 
@@ -11,35 +11,38 @@ SPELL - Blood Rain
 SPELL - Calamity
 SPELL - Carnage
 
-16 Grendel
-HEAD - Grendel
-RIGHT ARM - Salvage Ripper Right
-LEFT ARM - Salvage Ripper Left
+12 Malefactor 1
+1 HEAD - Soul Claiming
+7 RIGHT ARM - Fell Axe
+4 LEFT ARM - Spiked Shield
 
-12 Malefactor
+12 Malefactor 2
+1 HEAD - Soul Claiming
+7 RIGHT ARM - Fell Axe
+4 LEFT ARM - Spiked Shield
+
+11 Malefactor 3
 1 HEAD - Soul Claiming
 6 RIGHT ARM - Harpoon
-5 LEFT ARM - Helldriver
+4 LEFT ARM - Spiked Shield
 
-5 Raptor
-3 HEAD - Beaked Maw
-2 BACK - Arc Node
+3 Akulon Thaemestra
 
 4 Iron Lich Commander
 
-4 Maulgreth, The Charnel Plague
+3 Skarlock Lieutenant 1
 
-3 Skarlock Lieutenant
+3 Skarlock Lieutenant 2
 
 6 Mechanithrall Swarm 1
 
 6 Mechanithrall Swarm 2
 
+6 Mechanithrall Swarm 3
+
 4 Necrosurgeon Initiates 1
 
 4 Necrosurgeon Initiates 2
-
-10 Night Terrors
 
 8 Sludge Thralls 1
 
@@ -49,10 +52,10 @@ LEFT ARM - Salvage Ripper Left
 
 
 PC COMMAND CARD
-Blessing of the Gods
+Careful Reconnaissance
 Duck and Cover!
-Hit & Run
 Lucky Penny
 Old Faithful
+Put the Fires Out
 
 TOTAL POINTS 100/100
