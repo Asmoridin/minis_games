@@ -1,36 +1,31 @@
-# 3/28/25 29/47 Adepticon
+# 5/31/25 7/14 Denmark tournament
 
-Characters (10):
-Threat: 34
-Beast (3)
-*Cyclops (4)
-Gambit (3)
-*Mystique (3)
-Rogue (4)
-*Storm (3)
-Toad (2)
-*Wolverine (4)
-*X-23 (3)
-Jean Grey (5)
-
-Tactics (10):
-Children of the Atom
-First Class
-Indomitable (R)
-Jean!!!
-Sacrifice (R)
-To Me, My X-Men!
+Characters
+Cyclops (Scott Summers)
+Beast (Henry McCoy)
+Colossus (Piotr Rasputin)
+Wolverine (James Logan Howlett)
+Honey Badger (Gabrielle Kinney)
+Angel (Warren Worthington III)
+Hulk (Bruce Banner)
+Rogue (Anna Marie LeBeau)
+X-23 (Laura Kinney)
+Shadowcat (Katherine "Kitty" Pryde)
+Team Tactics
 Xavier's Dream
-Instant Recovery
-Joint Effort
-Wolverines
-
-Secure Crisis:
-Guardians Save Shi'ar Empress in Style (, 17)
-Infinity Formula Goes Missing! (B, 17)
-Mutant Madman Turns City Center Into Lethal Amusement Park (B, 18)
-
-Extract Crisis:
-Scientific Samples Found In Discovered Universe (D, 17)
-Inhumans Deploy Advanced Weaponry (, 18)
-Spider-Infected Invade Manhattan (F, 17)
+To Me, My X-Men!
+First Class
+Children of the Atom
+Fallen
+Fastball Special!
+Ultimate Sacrifice
+Brace for Impact
+Weapon X Program
+Patch Up
+Crises
+Mutant Madman Turns City Center Into Lethal Amusement Park
+Guardians Save Shi'ar Empress in Style
+Deadly Meteors Mutate Citizens
+Spider-Infected Invade Manhattan
+Scientific Samples Found In Discovered Universe
+Mutant Extremists Target U.S. Senators!
