@@ -1,24 +1,19 @@
-#3/29/25 18th/48 IG Qualifiers
+# 5/31/25 3rd/12 NY 
 
-Rassyk 2025 Adepticon
+Rassyk
 Khymaera - Shadowflame Shard
 Grand Melee - 100 pts
 
 PC CARD
 
-Defenses
-DEFENSE 1 - Barrier
-DEFENSE 1 - Barrier
-DEFENSE 1 - Barrier
-
 Rassyk, Spawn of Shadows
-SPELL - Execration of Blackest Night
+SPELL - Dragon’s Blood
 SPELL - Silence of Death
 
 14 Hydrix
-3 CENTRAL HEAD - Diviner
-4 SMALLER HEAD - Venom Spitter
-4 SMALLER HEAD - Venom Spitter
+5 CENTRAL HEAD - Toothy Maw
+3 SMALLER HEAD - Blockhead
+3 SMALLER HEAD - Blockhead
 3 DORSAL FEATURE - Wings
 
 16 Skylla, The Abyssal Fury
@@ -30,15 +25,11 @@ SPELL - Silence of Death
 
 4 Bellighul, Master of Pain
 
-5 Wraithwing Paragon
+11 Incarnate Knights 1
 
-7 Quick Fang Stalkers
+11 Incarnate Knights 2
 
-2 Quick Fang Master
-
-7 Talon Death Dealers 1
-
-7 Talon Death Dealers 2
+7 Talon Death Dealers
 
 7 Talon Lashers 1
 
@@ -49,9 +40,9 @@ SPELL - Silence of Death
 
 PC COMMAND CARD
 Blessing of the Gods
-Defenses
 Duck and Cover!
+Hit & Run
 Lucky Penny
-Old Faithful
+Sapper
 
-TOTAL POINTS 99/100
+TOTAL POINTS 100/100
