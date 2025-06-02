@@ -1,65 +1,57 @@
-# 5/18/25 1st/10 Kentucky tournament
+# 5/31/25 1st/21 Colorado tournament
 
-but what if...
+Axe Zaddy
 Khador - Winter Korps
 Grand Melee - 100 pts
 
 PC CARD
 
-Defenses
-DEFENSE 1 - Barrier
-DEFENSE 1 - Barrier
-DEFENSE 1 - Fire Pit
-
 Kapitan Zahara Vilkul
+SPELL - Avenging Force
 SPELL - Fog of War
-SPELL - Superiority
-SPELL - Iron Flesh
+SPELL - Freezing Grip
 
-15 Great Bear
-2 HEAD - Aggressive
-7 RIGHT ARM - Battle Mace
-6 LEFT ARM - Heavy Cannon Shield
+10 Dire Wolf 1
+1 HEAD - Shield Guard
+5 RIGHT ARM - Long Axe
+4 LEFT ARM - Plow-Shield
+
+10 Dire Wolf 2
+1 HEAD - Shield Guard
+5 RIGHT ARM - Long Axe
+4 LEFT ARM - Plow-Shield
 
 15 Medveditsa
 HEAD - Medveditsa
 LEFT ARM - Left Bear Claw
 RIGHT ARM - Right Bear Claw
 
-10 AC-2 Bison
+10 AC-2 Bison 1
 
-20 Carver Ultimus
-
-War Boar MMD47
+10 AC-2 Bison 2
 
 7 Krueger, Wrath of Blighterghast
-
-4 Sergeant Goran Lazarenko, the Jackal
 
 3 Winter Korps Officer
 
 4 Arkanists
 
+11 Man-O-War Suppressors
+
+7 Shock Trooper Pikemen
+
 8 The Hounds
 
-6 Winter Korps Infantry 1
-WEAPON SUPPORT TROOPERS - Rocketeer
-WEAPON SUPPORT TROOPERS - Auto Cannon
+4 Winter Korps Snipers
 
-1 Winter Korps Standard 1
-
-6 Winter Korps Infantry 2
-WEAPON SUPPORT TROOPERS - Auto Cannon
-WEAPON SUPPORT TROOPERS - Auto Cannon
-
-1 Winter Korps Standard 2
+1 Winter Korps Hunting Dog
 
 
 PC COMMAND CARD
 Blessing of the Gods
-Defenses
+Careful Reconnaissance
+Hit & Run
 Lucky Penny
-Old Faithful
-Sapper
+Put the Fires Out
 
 TOTAL POINTS 100/100
