@@ -1,19 +1,20 @@
-#3/29/25 10th/48 IG Qualifiers
+# 5/31/25 2nd/18 Oregon
 
-Morayne Dumbo Drop
+morayne
 Dusk - House Kallyss
 Grand Melee - 100 pts
 
 PC CARD
 
 Morayne, The Blade of Twilight
+SPELL - Mirage
+SPELL - Battle Lust
+SPELL - Curse of Shadows
 
-7 Ghast
+8 Ghast
 2 HEAD - Arc Node
 3 RIGHT ARM - Heavy Blade Fist
-2 LEFT ARM - Light Blade Fist
-
-13 Sky Bomber
+3 LEFT ARM - Battle Shield
 
 20 Carver Ultimus
 
@@ -37,14 +38,18 @@ War Boar MMD47
 
 11 Dreadguard Cavalry
 
+6 Mage Hunter Assassins 1
+
+6 Mage Hunter Assassins 2
+
 6 Soulless Guardians
 
 
 PC COMMAND CARD
 Blessing of the Gods
 Careful Reconnaissance
+Duck and Cover!
+Hit & Run
 Lucky Penny
-Put the Fires Out
-Sapper
 
 TOTAL POINTS 100/100
