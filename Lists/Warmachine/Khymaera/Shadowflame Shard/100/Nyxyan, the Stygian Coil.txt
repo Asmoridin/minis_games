@@ -1,10 +1,15 @@
-#3/29/25 20th/48 IG Qualifiers
+# 5/31/25 1st/17 Australia
 
-nyx
+V.Champs Nyxyan
 Khymaera - Shadowflame Shard
 Grand Melee - 100 pts
 
 PC CARD
+
+Defenses
+DEFENSE 1 - Barrier
+DEFENSE 1 - Barrier
+DEFENSE 1 - Barrier
 
 Nyxyan, the Stygian Coil
 SPELL - Carnivore
@@ -12,41 +17,41 @@ SPELL - Curse of Shadows
 
 14 Aklyss
 
-14 Hydrix
-5 CENTRAL HEAD - Toothy Maw
-3 SMALLER HEAD - Blockhead
-3 SMALLER HEAD - Blockhead
-3 DORSAL FEATURE - Wings
-
 10 Vypex
 1 HEAD - Asp
 3 TAIL - Hunter's Mark
 6 ARMS - Cleavers
 
+19 Wyvern
+
+4 Bellighul, Master of Pain
+
 3 Pythia
+
+2 Spinner 1
+
+2 Spinner 2
 
 5 Wraithwing Paragon
 
-11 Incarnate Knights
-
 9 Shades
 
-7 Talon Death Dealers
+7 Talon Death Dealers 1
+
+7 Talon Death Dealers 2
 
 7 Talon Lashers 1
 
 7 Talon Lashers 2
-
-9 Wyrmspine Cinderbacks
 
 4 Wyrmspine Shadowmancers
 
 
 PC COMMAND CARD
 Blessing of the Gods
-Duck and Cover!
+Defenses
+Duck & Cover!
 Hit & Run
 Lucky Penny
-Put the Fires Out
 
 TOTAL POINTS 100/100
