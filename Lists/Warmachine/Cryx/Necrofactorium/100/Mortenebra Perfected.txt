@@ -1,45 +1,50 @@
-# 5/30/25 2nd/16 Swedish Masters
+# 5/31/25 1st/16 NJ 
 
-Heavy Industries
+Morty League Test
 Cryx - Necrofactorium
 Grand Melee - 100 pts
 
 PC CARD
 
 Mortenebra Perfected
+SPELL - Carnage
 SPELL - Scything Touch
-SPELL - Death Ward
-
-16 Hades
-HEAD - Hades
-RIGHT ARM - Soul Cannon
-LEFT ARM - Death Claw
 
 14 Malefactor 1
-3 HEAD - Berserk
+3 HEAD - Overtake
 7 RIGHT ARM - Fell Axe
 4 LEFT ARM - Spiked Shield
 
 14 Malefactor 2
-3 HEAD - Berserk
+3 HEAD - Overtake
 7 RIGHT ARM - Fell Axe
 4 LEFT ARM - Spiked Shield
 
-12 Malefactor 3
+10 Malefactor 3
 1 HEAD - Soul Claiming
-7 RIGHT ARM - Spiker
-4 LEFT ARM - Spiked Shield
+6 RIGHT ARM - Harpoon
+3 LEFT ARM - Ripping Claw
 
-12 Malefactor 4
+10 Malefactor 4
 1 HEAD - Soul Claiming
-7 RIGHT ARM - Spiker
-4 LEFT ARM - Spiked Shield
+6 RIGHT ARM - Harpoon
+3 LEFT ARM - Ripping Claw
 
-5 Raptor
-3 HEAD - Deathripper
-2 BACK - Arc Node
+7 Raptor 1
+3 HEAD - Beaked Maw
+4 BACK - Light Spiker
+
+7 Raptor 2
+3 HEAD - Beaked Maw
+4 BACK - Light Spiker
+
+7 Raptor 3
+3 HEAD - Beaked Maw
+4 BACK - Light Spiker
 
 4 Master Necrotech Chatterbane
+
+4 Silexus Xiphus
 
 3 Skarlock Lieutenant
 
@@ -51,17 +56,12 @@ LEFT ARM - Death Claw
 
 4 Necrosurgeon Initiates 2
 
-Defenses
-DEFENSE 1 - Barrier
-DEFENSE 1 - Barrier
-DEFENSE 1 - Barrier
-
 
 PC COMMAND CARD
-Defenses
+Blessing of the Gods
+Duck and Cover!
 Hit & Run
-Lucky Penny
 Old Faithful
-Sapper
+Put the Fires Out
 
 TOTAL POINTS 100/100
