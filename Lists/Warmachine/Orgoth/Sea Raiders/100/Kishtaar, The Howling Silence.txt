@@ -1,65 +1,62 @@
-#3/29/25 15th/48 IG Qualifiers
+# 5/31/25 2nd/17 Utah
 
-My Tyrant My Tyrant and Me
 Orgoth - Sea Raiders
 Grand Melee - 100 pts
 
 PC CARD
 
 Kishtaar, The Howling Silence
-SPELL - Carnage
-SPELL - Death March
+SPELL - Redline
+SPELL - Windstorm
 
-16 Molok
-HEAD - Molok
-LEFT ARM - Hand of Ruin
-ABYSSAL MACE - Abyssal Mace
+7 Jackal 1
+1 HEAD - Advance Deployment
+5 RIGHT ARM - Hunter Rifle
+1 LEFT ARM - Clawed Fist
+
+7 Jackal 2
+1 HEAD - Advance Deployment
+5 RIGHT ARM - Hunter Rifle
+1 LEFT ARM - Clawed Fist
 
 17 Tyrant 1
-3 HEAD - Hunter
-7 RIGHT ARM - Belcher
+2 HEAD - Relentless Charge
+8 RIGHT ARM - Scything Flail
 7 LEFT ARM - Quad Bolt Thrower
 
-18 Tyrant 2
-3 HEAD - Hunter
-8 RIGHT ARM - Shredder
+17 Tyrant 2
+2 HEAD - Relentless Charge
+8 RIGHT ARM - Scything Flail
 7 LEFT ARM - Quad Bolt Thrower
 
-5 Grhotten Keeper
+3 Koldun Lord Damien Korovnik
 
-4 Maulgreth, The Charnel Plague
+3 Reaver Commander
 
-3 Reaver Commander 1
+2 Vulcar Forge Master
 
-3 Reaver Commander 2
+8 Strike Reavers 1
 
-4 Therion Vhanek
+2 Reaver Standard 1
 
-2 Vulcar Forge Master 1
+8 Strike Reavers 2
 
-2 Vulcar Forge Master 2
+2 Reaver Standard 2
 
-2 Vulcar Forge Master 3
+8 Ulkor Barragers 1
 
-8 Ulkor Axers
-
-8 Ulkor Barragers
+8 Ulkor Barragers 2
 
 4 Warwitch Coven 1
 
 4 Warwitch Coven 2
 
-Defenses
-DEFENSE 1 - Barrier
-DEFENSE 1 - Barrier
-DEFENSE 1 - Spike Trap
-
 
 PC COMMAND CARD
 Blessing of the Gods
 Careful Reconnaissance
-Defenses
-Duck and Cover!
+Hit & Run
 Lucky Penny
+Old Faithful
 
 TOTAL POINTS 100/100
