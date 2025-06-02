@@ -1,3 +1,5 @@
+# 5/31/25 1st/12 NY 
+
 Agathon
 Infernals - Infernals
 Grand Melee - 100 pts
@@ -8,7 +10,9 @@ Agathon, The Voice in the Darkness
 
 3 Foreboder 2
 
-13 Soul Stalker
+26 Harvester of Souls
+
+4 Alain Runewood, Lord of Ash
 
 4 Eilish Garrity, the Dark Seeker
 
@@ -20,15 +24,13 @@ Agathon, The Voice in the Darkness
 
 4 Lord Roget D’Vyaros
 
-20 Magnus the Unstoppable
-
-Invictus
-
-4 Nicia, Hound of the Abyss
+3 Lynda the Forgotten
 
 3 The Wretch 1
 
 3 The Wretch 2
+
+5 Umbral Guardian
 
 5 Valin Hauke, the Fallen Knight
 
@@ -38,9 +40,9 @@ Invictus
 
 3 Master Preceptor Orin Midwinter
 
-6 Griever Swarm 1
+5 Dark Sentinels
 
-6 Griever Swarm 2
+6 Griever Swarm
 
 7 Howlers
 
@@ -48,8 +50,8 @@ Invictus
 PC COMMAND CARD
 Blessing of the Gods
 Careful Reconnaissance
-Duck and Cover!
 Hit & Run
 Lucky Penny
+Sapper
 
 TOTAL POINTS 100/100
