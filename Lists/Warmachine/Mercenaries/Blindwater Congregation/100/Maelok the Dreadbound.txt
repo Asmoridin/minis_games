@@ -1,6 +1,6 @@
-# 5/31/25 15th/18 Oregon
+# 5/31/25 8th/12 NY 
 
-Maelok
+You're Time is Up
 Mercenaries - Blindwater Congregation
 Grand Melee - 100 pts
 
@@ -9,37 +9,29 @@ PC CARD
 Defenses
 DEFENSE 1 - Barrier
 DEFENSE 1 - Barrier
-DEFENSE 1 - Spike Trap
+DEFENSE 1 - Fire Pit
 
 Maelok the Dreadbound
 
-13 Blackhide Wrastler
-
 10 Blind Walker
+
+28 Dracodile
 
 3 Bog Trog Mist Speaker
 
-2 Bone Shrine
-
-20 Carver Ultimus
-
-War Boar MMD47
+4 Captain Crawtooth
 
 4 Gatorman Soul Slave
 
+3 Gatorman Witch Doctor 1
+
+3 Gatorman Witch Doctor 2
+
 4 Kwaak Slickspine & Gub, Croak Sorcerers
 
-4 Thrullg 1
+4 Underchief Mire
 
-4 Thrullg 2
-
-1 Void Leech 1
-
-1 Void Leech 2
-
-5 Gatorman Bokor & Bog Trog Swamp Shamblers 1
-
-5 Gatorman Bokor & Bog Trog Swamp Shamblers 2
+13 Blackhide Wrastler
 
 8 Gatorman Posse 1
 
@@ -50,7 +42,7 @@ War Boar MMD47
 
 PC COMMAND CARD
 Blessing of the Gods
-Careful Reconnaissance
+Break Through
 Defenses
 Duck and Cover!
 Lucky Penny
