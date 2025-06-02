@@ -1,10 +1,15 @@
-#3/29/25 8th/9 Finnish event
+# 5/30/25 12th/16 Swedish Masters
 
 Thyron tykeil
 Retribution of Scyrah - Shadows of the Retribution
 Grand Melee - 100 pts
 
 PC CARD
+
+Defenses
+DEFENSE 1 - Barrier
+DEFENSE 1 - Barrier
+DEFENSE 1 - Spike Trap
 
 Thyron, Sword of Truth
 
@@ -39,11 +44,6 @@ Thyron, Sword of Truth
 7 Mage Hunter Infiltrators 2
 
 7 Spears of Scyrah
-
-Defenses
-DEFENSE 1 - Barrier
-DEFENSE 1 - Barrier
-DEFENSE 1 - Spike Trap
 
 
 PC COMMAND CARD
