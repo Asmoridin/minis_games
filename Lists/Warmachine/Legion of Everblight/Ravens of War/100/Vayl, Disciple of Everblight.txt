@@ -1,37 +1,49 @@
-#4/7/25 33rd/70 Wartable Team Championship
+# 5/31/25 4th/20 Texas
 
-Vaylaid
+vayl
 Legion of Everblight - Ravens of War
 Grand Melee - 100 pts
 
 PC CARD
+
 Vayl, Disciple of Everblight
-14 Angelius 1
-14 Angelius 2
+
 16 Azrael
+
 8 Nephilim Bloodseer
+
+8 Nephilim Soldier
+
 11 Seraph
-1 Blighted Nyss Shepherd
+
+6 Annyssa Ryvaal
+
 5 Blighted Nyss Sorceress & Hellion
-5 Craelix, Fang of Everblight
-1 Spell Martyr
+
+4 Blighted Nyss Warlord 1
+
+4 Blighted Nyss Warlord 2
+
 2 Succubus
-3 Yssylla
+
 6 Blackfrost Shard
-7 Blighted Nyss Hex Hunters
-3 Bayal, Hound of Everblight
-4 Ice Witches
+
+10 Blighted Nyss Raptors
+
+6 Blighted Nyss Swordsmen 1
+
+4 Blighted Nyss Swordsman Abbot & Champion 1
+
+6 Blighted Nyss Swordsmen 2
+
+4 Blighted Nyss Swordsman Abbot & Champion 2
+
 
 PC COMMAND CARD
 Blessing of the Gods
-Break Through
-Defenses
+Careful Reconnaissance
+Duck and Cover!
 Hit & Run
 Lucky Penny
-
-Defenses
-DEFENSE 1 - Barrier
-DEFENSE 1 - Barrier
-DEFENSE 1 - Barrier
 
 TOTAL POINTS 100/100
