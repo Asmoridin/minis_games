@@ -9,3 +9,4 @@ SATYXIS_RAIDER;Satyxis Raiders-2/Satyxis Raider Sea Witch-1;49.99
 SCHARDE_PIRATE;Scharde Pirates-2/Scharde Pirate Officer-1;59.99
 TRENCHER_ATTACH;Trencher Infantry Officer-1/Trencher Sniper-1;17.99
 TRENCHER_INFANTRY;Trencher Infantry-2/Trencher Rifle Grenadiers-1;49.99
+TRENCHER_LONG_GUNNERS;Trencher Long Gunner Officer-1/Trencher Long Gunners-2;69.99
