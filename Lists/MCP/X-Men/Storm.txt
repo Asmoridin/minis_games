@@ -1,16 +1,18 @@
 # 3/27/25 3/72 Adepticon
 
 Characters (10):
-Beast (Henry McCoy)
-Domino (Neena Thurman)
-Iceman (Bobby Drake)
-Nightcrawler (Kurt Wagner)
-Shadowcat (Katherine "Kitty" Pryde)
-Storm (Ororo Munroe)
-Pyro (St. John Allerdyce)
-Toad (Mortimer Toynbee)
-Doctor Voodoo (Jericho Drumm)
-Beta Ray Bill (Bill)
+Threat: 32
+*Storm (3)
+Beast (3)
+Domino (3)
+Iceman (3)
+Nightcrawler (4)
+Shadowcat (3)
+Pyro (3)
+Toad (2)
+Doctor Voodoo (4)
+Beta Ray Bill (4)
+
 Tactics (10):
 First Class
 To Me, My X-Men!
@@ -19,13 +21,16 @@ Survival
 Recalibration Matrix
 Children of the Atom
 Pyrotechnics
-Brace for Impact
-Sacrifice
+Brace for Impact (R)
+Sacrifice (R)
 Skuttlebutt, On Me!
-Crises
-Guardians Save Shi'ar Empress in Style
-Mutant Madman Turns City Center Into Lethal Amusement Park
-M'Kraan Crystal Gets Heroes Home!
-Scientific Samples Found In Discovered Universe
-Skrulls Infiltrate World Leadership
-Mutant Extremists Target U.S. Senators!
+
+Secure Crisis:
+Guardians Save Shi'ar Empress in Style (, 17)
+Mutant Madman Turns City Center Into Lethal Amusement Park (B, 18)
+M'Kraan Crystal Gets Heroes Home! (, 19)
+
+Extract Crisis:
+Scientific Samples Found In Discovered Universe (D, 17)
+Skrulls Infiltrate World Leadership (J, 20)
+Mutant Extremists Target U.S. Senators! (L, 19)

@@ -4,7 +4,8 @@
 Handler to identify the various WM armies
 """
 
-VALID_FACTIONS = ['Cryx', 'Cygnar', 'Circle Orboros', 'Mercenaries', 'Convergence of Cyriss', ]
+VALID_FACTIONS = ['Cryx', 'Cygnar', 'Circle Orboros', 'Mercenaries', 'Convergence of Cyriss', 
+    'Crucible Guard']
 
 class Army:
     """

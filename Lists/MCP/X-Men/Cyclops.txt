@@ -1,36 +1,36 @@
 # 5/31/25 4/30 AMG Grand Tournament
 
-Characters 10:
+Characters (10):
 Threat: 38
-Beast 3
-Iron Man 3
-*Cyclops 4
-Shuri 3
-King Black Bolt 6
-Bishop 4
-*Magik 3
-Colossus 4
-Rogue 4
-*Crimson Dynamo 4
+*Cyclops (4)
+Beast (3)
+Iron Man (3)
+Shuri (3)
+King Black Bolt (6)
+Bishop (4)
+*Magik (3)
+Colossus (4)
+Rogue (4)
+*Crimson Dynamo (4)
 
-Tactics 10:
+Tactics (10):
 First Class
-Brace for Impact R
+Brace for Impact (R)
 Xavier's Dream
 Children of the Atom
 Recalibration Matrix
 To Me, My X-Men!
 Helios Laser Bombardment
 Warpath
-Indomitable R
+Indomitable (R)
 Journey Through Limbo
 
 Secure Crisis:
-Super-Powered Scoundrels Form Sinister Syndicate! F, 20
-Wedding Party Targeted By Terrible Attack! , 20
-Mayor Fisk Vows to Find Missing Witnesses H, 16
+Super-Powered Scoundrels Form Sinister Syndicate! (F, 20)
+Wedding Party Targeted By Terrible Attack! (, 20)
+Mayor Fisk Vows to Find Missing Witnesses (H, 16)
 
 Extract Crisis:
-Deadly Legacy Virus Cured? C, 19
-Unexpected Guests Crash Royal Wedding F, 17
-Skrulls Infiltrate World Leadership J, 20
+Deadly Legacy Virus Cured? (C, 19)
+Unexpected Guests Crash Royal Wedding (F, 17)
+Skrulls Infiltrate World Leadership (J, 20)

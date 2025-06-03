@@ -1,11 +1,15 @@
 # army_name;faction_name;is_prime;is_mkiv;is_cadre
-Devourer's Host;Circle Orboros;True;False;False
-MKIV Mercenary;Mercenaries;True;True;True
-Secret Dominion;Circle Orboros;True;False;False
-Necrofactorium;Cryx;True;True;False
-Gravediggers;Cygnar;True;True;False
-Storm Legion;Cygnar;True;True;False
 Blackfleet;Cryx;True;False;False
-Legacy Circle Orboros;Circle Orboros;False;False;False
 Convergence of Cyriss;Convergence of Cyriss;True;False;False
+Crucible Guard;Crucible Guard;True;False;False
+Dark Host;Cryx;True;False;False
+Devourer's Host;Circle Orboros;True;False;False
+Gravediggers;Cygnar;True;True;False
+Legacy Circle Orboros;Circle Orboros;False;False;False
 Legacy Convergence of Cyriss;Convergence of Cyriss;False;False;False
+Legacy Crucible Guard;Crucible Guard;False;False;False
+Legacy Cryx;Cryx;False;False;False
+MKIV Mercenary;Mercenaries;True;True;True
+Necrofactorium;Cryx;True;True;False
+Secret Dominion;Circle Orboros;True;False;False
+Storm Legion;Cygnar;True;True;False

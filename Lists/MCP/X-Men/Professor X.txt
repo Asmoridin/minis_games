@@ -1,16 +1,18 @@
 # 5/17/25 3/14
 
 Characters (10):
-Professor X (Charles Xavier)
-Jean Grey
-Psylocke (Elizabeth Braddock)
-Shadowcat (Katherine "Kitty" Pryde)
-Nightcrawler (Kurt Wagner)
-Gambit (Remy LeBeau)
-Cable (Nathan Summers)
-Magik (Illyana Rasputin)
-Rogue (Anna Marie LeBeau)
-Cyclops (Scott Summers)
+Threat: 39
+*Professor X (4)
+Jean Grey (5)
+Psylocke (4)
+Shadowcat (3)
+Nightcrawler (4)
+Gambit (3)
+*Cable (5)
+*Magik (3)
+Rogue (4)
+*Cyclops (4)
+
 Tactics (10):
 Cerebro
 Children of the Atom
@@ -18,14 +20,17 @@ First Class
 Mind Wipe
 To Me, My X-Men!
 Xavier's Dream
-Brace for Impact
+Brace for Impact (R)
 Recalibration Matrix
 Charming Thief
 Journey Through Limbo
-Crises
-Mutant Madman Turns City Center Into Lethal Amusement Park
-M'Kraan Crystal Gets Heroes Home!
-Wedding Party Targeted By Terrible Attack!
-Deadly Legacy Virus Cured?
-Mutant Extremists Target U.S. Senators!
-Scientific Samples Found In Discovered Universe
+
+Secure Crisis:
+M'Kraan Crystal Gets Heroes Home! (, 19)
+Mutant Madman Turns City Center Into Lethal Amusement Park (B, 18)
+Wedding Party Targeted By Terrible Attack! (, 20)
+
+Extract Crisis:
+Deadly Legacy Virus Cured? (C, 19)
+Mutant Extremists Target U.S. Senators! (L, 19)
+Scientific Samples Found In Discovered Universe (D, 17)

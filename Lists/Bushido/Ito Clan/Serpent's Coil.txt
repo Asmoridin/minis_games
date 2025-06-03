@@ -1,8 +1,11 @@
 # 5/30/25 1st/12 UKGE Side Event
 
-+ Faction Profile Cards +
+Ito Clan - Serpent's Coil - [100 Rice]
 
-Child of Orochi [7 Rice]
+# ++ Risen Sun ++ [100 Rice]
+## Faction Profile Cards [100 Rice]
+Child of Orochi [7 Rice]:
+• 1x Child of Orochi A [7 Rice]
 Hitoshi [8 Rice]
 Ito Mamushi [22 Rice]
 Ito Mizuki [19 Rice]
@@ -10,8 +13,5 @@ Sakaguchi [16 Rice]
 Satoshi [18 Rice]
 Yanki [10 Rice]
 
-+ Faction Theme Cards +
-
+## Faction Theme Cards
 Serpent's Coil
-
-++ Total: [100 Rice] ++
