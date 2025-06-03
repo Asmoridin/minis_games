@@ -7,3 +7,4 @@ RIOT_QUEST;Dez-1/Eiryss, Fortune Hunter of Ios-1/Sir Dreyfuss-1/Gubbin-1/Balthaz
 RIOT_QUEST_WINTERTIME;Boomhowler the Destroyer-1/Stonecold Black Bella-1/Yssylla-1/Yuri the Hunter-1/Shivers-1;49.99
 SATYXIS_RAIDER;Satyxis Raiders-2/Satyxis Raider Sea Witch-1;49.99
 SCHARDE_PIRATE;Scharde Pirates-2/Scharde Pirate Officer-1;59.99
+TRENCHER_ATTACH;Trencher Infantry Officer-1/Trencher Sniper-1;17.99
