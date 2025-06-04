@@ -157,7 +157,8 @@ if __name__ == "__main__":
             LOW_INDEX += 1
         else:
             break
-    double_print(f"\nCompleted lists: {', '.join(sorted(completed_lists))}", out_file_h)
+    if len(completed_lists) > 0:
+        double_print(f"\nCompleted lists: {', '.join(sorted(completed_lists))}", out_file_h)
     double_print(f"Closest list to completion is {lists_minus_inventory[LOW_INDEX][0]} - " + \
         f"needs {lists_minus_inventory[LOW_INDEX][1]} items", out_file_h)
     for item_name, item_qty in lists_minus_inventory[LOW_INDEX][2].items():

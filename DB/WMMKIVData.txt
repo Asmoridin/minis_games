@@ -1,5 +1,6 @@
 #name;armies;unit_type;paint_points;cost;points;max_fa;own_amount;built_amount;painted_amount
 Accretion Servitors;Convergence of Cyriss/Legacy Convergence of Cyriss;Solo;3;10.99;2;3;3;0;0
+Ace;First Army/Legacy Cygnar;Light Warjack;2;24.99;8;1;0;0;0
 Agata, Queen of Carnage;Legacy Circle Orboros;Solo;1;12.99;3;1;1;0;0
 Aiakos, Scourge of the Meredius;Blackfleet/Legacy Cryx;Solo;1;15.99;4;1;1;0;0
 Algorithmic Dispersion Optifex;Convergence of Cyriss/Legacy Convergence of Cyriss;Solo;1;12.99;2;4;1;0;0
@@ -51,16 +52,25 @@ Brighid & Caul;Devourer's Host/Legacy Circle Orboros;Unit;3;29.99;6;1;1;0;0
 Brun Cragback & Lug;Legacy Circle Orboros;Solo;5;36.99;13;1;1;0;0
 Captain Aiakos;Blackfleet/Legacy Cryx;Warcaster;1;18.99;0;1;1;0;0
 Captain Crawtooth;Legacy Circle Orboros;Solo;2;19.99;4;1;1;1;0
+Captain E. Dominic Darius;First Army/Legacy Cygnar;Warcaster;5;44.99;0;1;0;0;0
 Captain Eira Mackay;Crucible Guard/Legacy Crucible Guard;Warcaster;10;124.99;0;1;0;0;0
+Captain Jeremiah Kraye;First Army/Legacy Cygnar;Warcaster;4;25.99;0;1;1;0;0
+Captain Jonas Murdoch;First Army/Legacy Cygnar;Solo;1;12.99;2;1;0;0;0
+Captain Karli;First Army/Legacy Cygnar;Command Attachment;2;14.99;3;1;1;1;0
+Captain Maxwell Finn;First Army/Legacy Cygnar;Solo;1;12.99;5;1;1;0;0
 Captain Rahera, Terror of the Wailing Sea;Blackfleet/Legacy Cryx;Warcaster;1;14.99;0;1;1;0;0
 Captain Sam MacHorne;Legacy Crucible Guard;Solo;1;DEVIL_DOGS;3;1;1;0;0
 Carver Ultimus & War Boar MMD47;First Army/Legacy Cygnar/Devourer's Host/Dark Host/MKIV Mercenary/Secret Dominion/Legacy Circle Orboros/Convergence of Cyriss/Legacy Convergence of Cyriss/Crucible Guard/Legacy Crucible Guard/Blackfleet/Legacy Cryx;Solo;9;69.99;20;1;0;0;0
 Celestial Fulcrum;Secret Dominion/Legacy Circle Orboros;Battle Engine;10;84.99;13;2;0;0;0
+Centurion;First Army/Legacy Cygnar;Heavy Warjack;4;34.99;11;4;0;0;0
+Charger;First Army/Legacy Cygnar;Light Warjack;2;18.99;8;4;1;0;0
 Chuck Dogwood;Secret Dominion/Legacy Circle Orboros;Solo;1;17.99;4;1;1;0;0
 Cipher;Convergence of Cyriss/Legacy Convergence of Cyriss;Heavy Warjack;4;34.99;14;4;1;0;0
 Clockwork Angels;Convergence of Cyriss/Legacy Convergence of Cyriss;Unit;3;24.99;5;3;3;0;0
 Colbie Sterling, Captain of the BRI;Legacy Crucible Guard;Solo;1;11.99;2;1;1;0;0
+Colonel Markus "Siege" Brisbane;First Army/Legacy Cygnar;Warcaster;4;27.99;0;1;0;0;0
 Combat Alchemists;Crucible Guard/Legacy Crucible Guard;Unit;3;24.99;4;3;0;0;0
+Commander Anson Hitch;First Army/Legacy Cygnar;Solo;1;12.99;4;1;1;0;0
 Conservator;Convergence of Cyriss/Legacy Convergence of Cyriss;Heavy Warjack;4;34.99;10;4;1;0;0
 Containment Operatives;Crucible Guard/Legacy Crucible Guard;Unit;3;24.99;6;2;0;0;0
 Corollary;Convergence of Cyriss/Legacy Convergence of Cyriss;Light Warjack;2;16.99;6;1;1;0;0
@@ -75,6 +85,7 @@ Crucible Guard Mechanik;Crucible Guard/Legacy Crucible Guard;Solo;1;9.99;1;4;2;1
 Crucible Guard Rocketman Captain;Crucible Guard/Legacy Crucible Guard;Command Attachment;1;CRUCIBLE_GUARD_ROCKETMEN;3;3;1;0;0
 Crucible Guard Rocketmen;Crucible Guard/Legacy Crucible Guard;Unit;5;CRUCIBLE_GUARD_ROCKETMEN;6;3;2;0;0
 Crucible Guard Storm Troopers;Crucible Guard/Legacy Crucible Guard;Unit;6;49.99;9;2;0;0;0
+Cyclone;First Army/Legacy Cygnar;Heavy Warjack;4;34.99;12;4;0;0;0
 Cylena Raefyll & Nyss Hunters;Legacy Circle Orboros;Unit;6;59.99;8;1;1;0;0
 Dahlia Hallyr & Skarath;Legacy Circle Orboros;Solo;5;32.99;13;1;1;1;0
 Dannon Blythe & Bull;Legacy Crucible Guard;Unit;3;17.99;4;1;0;0;0
@@ -82,6 +93,7 @@ Darragh Wrathe;Dark Host/Legacy Cryx;Solo;5;29.99;7;1;1;1;1
 Death Archon;Legacy Circle Orboros/Legacy Convergence of Cyriss/Legacy Crucible Guard;Solo;4;39.99;8;2;0;0;0
 Death Wolves;Secret Dominion/Legacy Circle Orboros;Unit;3;39.99;7;1;0;0;0
 Deathripper;Blackfleet/Dark Host/Legacy Cryx;Light Warjack;2;19.99/2;4;4;4;2;1
+Defender;First Army/Legacy Cygnar;Heavy Warjack;4;34.99;12;4;0;0;0
 Defiler;Blackfleet/Dark Host/Legacy Cryx;Light Warjack;2;19.99/2;6;4;4;0;0
 Deneghra, the Soul Weaver;Dark Host/Legacy Cryx;Warcaster;10;69.99;0;1;0;0;0
 Desecrator;Dark Host/Legacy Cryx;Heavy Warjack;4;34.99;12;4;1;0;0
@@ -143,10 +155,12 @@ Gorman the Mad;Crucible Guard/Legacy Crucible Guard;Solo;1;13.99;3;1;1;0;0
 Grand Master Gabriel Throne;Legacy Crucible Guard;Solo;4;29.99;5;1;1;0;0
 Grayle the Farstrider;Secret Dominion/Legacy Circle Orboros;Warlock;1;13.99;0;1;1;0;0
 Gremlin Swarm;Legacy Circle Orboros;Solo;2;15.99;3;2;2;0;0
+Grenadier;First Army/Legacy Cygnar;Light Warjack;2;16.99;9;4;0;0;0
 Greygore Boomhowler & Co.;Legacy Crucible Guard;Unit;10;69.99;8;1;1;0;0
 Gudrun the Wanderer;Legacy Circle Orboros;Solo;2;17.99;5;1;1;0;0
 Gudrun the Wasted;Legacy Circle Orboros;Solo;2;19.99;4;1;1;0;0
 Hammerfall High Shield Gun Corps;Legacy Crucible Guard;Unit;5;61.99/2;5;3;2;0;0
+Hammersmith;First Army/Legacy Cygnar;Heavy Warjack;4;34.99;11;4;0;0;0
 Harlowe Holdemhigh;Legacy Crucible Guard;Solo;1;11.99;4;1;1;0;0
 Harrower;Blackfleet/Legacy Cryx;Heavy Warjack;4;34.99;13;4;0;0;0
 Hellslinger Phantom;Dark Host/Legacy Cryx;Solo;1;14.99;6;1;1;0;0
@@ -154,11 +168,14 @@ Hermit of Henge Hold;Legacy Circle Orboros/Legacy Convergence of Cyriss/Legacy C
 Herne & Jonne;Legacy Crucible Guard;Unit;3;22.99;5;1;1;0;0
 Horgenhold Artillery Corps;Legacy Crucible Guard;Unit;6;24.99;4;2;2;0;0
 Horgenhold Forge Guard;Legacy Crucible Guard;Unit;5;64.99/2;7;3;3;0;0
+Hunter;First Army/Legacy Cygnar;Light Warjack;2;16.99;8;4;2;0;0
+Hurricane;First Army/Legacy Cygnar;Colossal Warjack;10;109.99;28;2;0;0;0
 Hutchuk, Ogrun Bounty Hunter;Legacy Circle Orboros/Crucible Guard;Solo;2;24.99;5;1;0;0;0
 Inflictor;Blackfleet/Dark Host/Legacy Cryx;Heavy Warjack;4;34.99;10;4;0;0;0
 Inverter;Convergence of Cyriss/Legacy Convergence of Cyriss;Heavy Warjack;4;34.99;14;4;1;0;0
 Iona the Unseen;Devourer's Host/Legacy Circle Orboros;Warlock;1;15.99;0;1;1;0;0
 Iron Mother Directrix;Convergence of Cyriss/Legacy Convergence of Cyriss;Warcaster;4;34.99;0;1;1;0;0
+Ironclad;First Army/Legacy Cygnar;Heavy Warjack;4;34.99;9;4;2;1;0
 J.A.I.M.s;Convergence of Cyriss/Legacy Convergence of Cyriss/Legacy Crucible Guard;Solo;2;14.99;5;1;1;0;0
 Jussika Bloodtongue;Blackfleet/Legacy Cryx;Command Attachment;2;17.99;4;1;0;0;0
 Kaya the Moonhunter;Legacy Circle Orboros;Warlock;3;24.99;0;1;1;0;0
@@ -173,10 +190,12 @@ Krueger the Stormlord;Secret Dominion/Legacy Circle Orboros;Warlock;1;14.99;0;1;
 Krueger the Stormseer;Secret Dominion/Legacy Circle Orboros;Solo;1;14.99;4;1;1;0;0
 Krueger the Stormwrath;Legacy Circle Orboros;Warlock;1;13.99;0;1;0;0;0
 Kwaak Slickspine & Gub, Croak Sorcerers;Legacy Circle Orboros;Solo;1;13.99;4;1;1;0;0
+Lancer;First Army/Legacy Cygnar;Light Warjack;2;18.99;9;4;3;1;0
 Lanyssa Ryssyl, Nyss Sorceress;Legacy Circle Orboros;Solo;1;9.99;3;1;1;0;0
 Legion of Lost Souls;Legacy Crucible Guard;Unit;5;79.99/2;7;3;0;0;0
 Leviathan;Blackfleet/Legacy Cryx;Heavy Warjack;4;34.99;12;4;1;1;0
 Liberator;Crucible Guard/Legacy Crucible Guard;Light Warjack;2;28.99;9;4;1;0;0
+Lieutenant Allister Caine;First Army/Legacy Cygnar;Warcaster;1;11.99;0;1;1;0;0
 Loki;Devourer's Host/Legacy Circle Orboros;Heavy Warbeast;4;49.99;15;1;0;0;0
 Longchops;Legacy Circle Orboros;Solo;2;18.99;4;1;0;0;0
 Lord Exhumator Scaverous;Dark Host/Legacy Cryx;Warcaster;2;39.99;0;1;0;0;0
@@ -194,6 +213,7 @@ Master Gunner Dougal MacNaile;Legacy Crucible Guard;Solo;1;9.99;4;1;1;0;0
 Maximus;Legacy Circle Orboros;Solo;1;17.99;4;1;0;0;0
 Meat Thresher;Legacy Circle Orboros;Battle Engine;10;69.99;13;2;0;0;0
 Megalith;Secret Dominion/Legacy Circle Orboros;Heavy Warbeast;4;59.99;15;1;0;0;0
+Minuteman;First Army/Legacy Cygnar;Light Warjack;2;23.99;9;4;1;0;0
 Misery Cage;Blackfleet/Legacy Cryx;Solo;1;19.99/2;1;4;0;0;0
 Mitigator;Convergence of Cyriss/Legacy Convergence of Cyriss;Light Warjack;2;18.99;6;4;3;0;0
 Modulator;Convergence of Cyriss/Legacy Convergence of Cyriss;Heavy Warjack;4;34.99;10;4;1;0;0
@@ -216,6 +236,7 @@ Ol' Grim;Dark Host/Legacy Cryx;Solo;1;14.99;6;1;1;0;0
 Optifex Directive;Convergence of Cyriss/Legacy Convergence of Cyriss;Unit;3;16.99;3;4;0;0;0
 Order of Illumination Resolutes;Legacy Crucible Guard;Unit;6;49.99;6;2;0;0;0
 Order of Illumination Vigilants;Legacy Crucible Guard;Unit;5;39.99;7;2;1;0;0
+Patrol Dog;First Army/Legacy Cygnar;Solo;1;8.99;1;2;1;0;0
 Perforators;Convergence of Cyriss/Legacy Convergence of Cyriss;Unit;6;44.99;9;2;2;0;0
 Pirate Queen Skarre;Blackfleet/Legacy Cryx;Warcaster;1;11.99;0;1;1;1;0
 Pistol Wraith;Dark Host/Legacy Cryx;Solo;1;7.99;4;2;2;2;0
@@ -229,6 +250,7 @@ Prospero;Crucible Guard/Legacy Crucible Guard;Solo;2;16.99;4;1;1;1;0
 Pureblood Warpwolf;Devourer's Host/Secret Dominion/Legacy Circle Orboros;Heavy Warbeast;4;34.99;15;4;2;0;0
 Ragman;Legacy Crucible Guard;Solo;1;10.99;3;1;1;0;0
 Railless Interceptor;Crucible Guard/Legacy Crucible Guard;Battle Engine;10;119.99;13;2;1;1;0
+Rangers;First Army/Legacy Cygnar;Unit;3;30.99/2;4;3;2;0;0
 Raptor;Necrofactorium;Light Warjack;2;CRYX_NECROFACTORIUM_BATTLEGROUP;8;6;0;0;0
 Razorwing Griffon;Devourer's Host/Legacy Circle Orboros;Light Warbeast;2;18.99;7;4;0;0;0
 Reaper;Blackfleet/Dark Host/Legacy Cryx;Heavy Warjack;4;34.99;11;4;2;1;0
@@ -269,6 +291,7 @@ Sea Dog Deck Gun;Legacy Crucible Guard;Unit;4;17.99;3;2;0;0;0
 Sea Dog Pirates;Legacy Crucible Guard;Unit;5;49.99/2;5;4;4;0;0
 Sea Dog Rifleman;Legacy Crucible Guard;Unit;3;32.97;3;4;2;0;0
 Seether;Dark Host/Legacy Cryx;Heavy Warjack;4;34.99;10;4;1;0;0
+Sentinel;First Army/Legacy Cygnar;Light Warjack;2;18.99;7;4;1;0;0
 Sentry Stone & Mannikins;Secret Dominion/Legacy Circle Orboros;Solo;4;16.99;5;2;2;0;0
 Sepulcher;Blackfleet/Dark Host/Legacy Cryx;Colossal Warjack;10;109.99;28;2;0;0;0
 Sergeant Nicolas Verendrye;Legacy Crucible Guard;Solo;1;15.99;3;1;0;0;0
@@ -281,6 +304,7 @@ Skarlock Thrall;Dark Host/Legacy Cryx;Solo;1;9.99;2;1;1;1;0
 Skarre, Admiral of the Black Fleet;Blackfleet/Legacy Cryx;Warcaster;10;124.99;0;1;1;0;0
 Slayer;Blackfleet/Dark Host/Legacy Cryx;Heavy Warjack;4;34.99;9;4;4;1;0
 Soul Trapper;Dark Host/Legacy Cryx;Solo;1;19.99/2;1;6;3;0;0
+Squire;First Army/Legacy Cygnar;Solo;1;9.99;4;1;1;0;0
 Stalker;Dark Host/Legacy Cryx;Light Warjack;2;11.99;7;4;4;4;4
 Stannis Brocker;Legacy Crucible Guard;Solo;4;19.99;6;1;1;0;0
 Steelhead Arcanist;Legacy Crucible Guard;Solo;1;14.99;2;3;0;0;0
@@ -298,6 +322,7 @@ Stone Lord Guvul Godor;Legacy Crucible Guard;Solo;1;14.99;4;1;1;0;0
 Stonecold Black Bella;Legacy Crucible Guard;Solo;1;RIOT_QUEST_WINTERTIME;3;1;1;0;0
 Stoneward & Woldstalkers;Secret Dominion/Legacy Circle Orboros;Unit;6;24.99;8;2;0;0;0
 Storm Raptor;Devourer's Host/Legacy Circle Orboros;Gargantuan Warbeast;10;109.99;25;2;1;0;0
+Stormwall;First Army/Legacy Cygnar;Colossal Warjack;13;109.99;27;2;1;0;0
 Suppressor;Crucible Guard/Legacy Crucible Guard;Heavy Warjack;4;39.99;11;4;0;0;0
 Swamp Gobber Bellows Crew;Legacy Circle Orboros;Unit;2;7.99;1;1;1;1;0
 Swamp Gobber Chef;Legacy Circle Orboros;Solo;1;12.99;1;2;1;0;0
@@ -331,6 +356,24 @@ Totem Hunter;Legacy Circle Orboros;Solo;2;14.99;5;1;1;0;0
 Trancer;Crucible Guard/Legacy Crucible Guard;Solo;1;11.99/2;2;4;4;0;0
 Transfinite Emergence Projector;Convergence of Cyriss/Legacy Convergence of Cyriss;Battle Engine;13;69.99;13;2;0;0;0
 Transverse Enumerator;Convergence of Cyriss/Legacy Convergence of Cyriss;Command Attachment;1;11.99;2;3;0;0;0
+Trench Buster;First Army/Legacy Cygnar;Solo;2;21.99;4;2;0;0;0
+Trencher Blockhouse;First Army/Legacy Cygnar;Structure;10;59.99;9;2;0;0;0
+Trencher Cannon Crew;First Army/Legacy Cygnar;Unit;6;32.99;5;2;0;0;0
+Trencher Chain Gun Crew;First Army/Legacy Cygnar;Unit;5;19.99;3;2;0;0;0
+Trencher Combat Engineers;First Army/Legacy Cygnar;Unit;3;24.99;4;2;0;0;0
+Trencher Commando Officer;First Army/Legacy Cygnar;Command Attachment;1;11.99;3;4;0;0;0
+Trencher Commando Scattergunners;First Army/Legacy Cygnar;Unit;3;23.97;6;2;0;0;0
+Trencher Commandos;First Army/Legacy Cygnar;Unit;5;49.99/2;7;2;0;0;0
+Trencher Express Team;First Army/Legacy Cygnar;Unit;3;24.99;4;2;1;0;0
+Trencher Infantry Officer;First Army/Legacy Cygnar;Command Attachment;1;TRENCHER_ATTACH;2;4;0;0;0
+Trencher Infantry;First Army/Legacy Cygnar;Unit;5;TRENCHER_INFANTRY;8;4;2;2;0
+Trencher Long Gunner Officer;First Army/Legacy Cygnar;Command Attachment;1;TRENCHER_LONG_GUNNERS;3;2;0;0;0
+Trencher Long Gunners;First Army/Legacy Cygnar;Unit;5;TRENCHER_LONG_GUNNERS;8;2;0;0;0
+Trencher Master Gunner;First Army/Legacy Cygnar;Solo;1;9.99;3;2;1;0;0
+Trencher Rifle Grenadiers;First Army/Legacy Cygnar;Unit;3;TRENCHER_INFANTRY;5;4;1;0;0
+Trencher Sniper;First Army/Legacy Cygnar;Solo;1;TRENCHER_ATTACH;2;4;0;0;0
+Trencher Warcaster Lieutenant;First Army/Legacy Cygnar;Solo;1;14.99;3;1;0;0;0
+Triumph;First Army/Legacy Cygnar;Heavy Warjack;4;44.98;15;1;0;0;0
 Una the Falconer;Legacy Circle Orboros;Solo;1;17.99;4;1;0;0;0
 Una the Skyhunter;Legacy Circle Orboros;Warlock;1;16.99;0;1;1;0;0
 Underchief Mire;Legacy Circle Orboros;Solo;1;12.99;4;1;1;0;0
@@ -363,49 +406,6 @@ Wolves of Orboros;Secret Dominion/Legacy Circle Orboros;Unit;5;54.99/2;5;3;2;0;0
 Wraith Engine;Dark Host/Legacy Cryx;Battle Engine;10;84.99;11;2;2;0;0
 Wrong Eye & Snapjaw;Legacy Circle Orboros;Solo;6;44.99;15;1;1;1;0
 Wurmwood, Tree of Fate;Devourer's Host/Legacy Circle Orboros;Warlock;5;30.99;0;1;1;0;0
-Captain E. Dominic Darius;First Army/Legacy Cygnar;Warcaster;5;44.99;0;1;0;0;0
-Captain Jeremiah Kraye;First Army/Legacy Cygnar;Warcaster;4;25.99;0;1;1;0;0
-Colonel Markus "Siege" Brisbane;First Army/Legacy Cygnar;Warcaster;4;27.99;0;1;0;0;0
-Lieutenant Allister Caine;First Army/Legacy Cygnar;Warcaster;1;11.99;0;1;1;0;0
-Ace;First Army/Legacy Cygnar;Light Warjack;2;24.99;8;1;0;0;0
-Centurion;First Army/Legacy Cygnar;Heavy Warjack;4;34.99;11;4;0;0;0
-Charger;First Army/Legacy Cygnar;Light Warjack;2;18.99;8;4;1;0;0
-Cyclone;First Army/Legacy Cygnar;Heavy Warjack;4;34.99;12;4;0;0;0
-Defender;First Army/Legacy Cygnar;Heavy Warjack;4;34.99;12;4;0;0;0
-Grenadier;First Army/Legacy Cygnar;Light Warjack;2;16.99;9;4;0;0;0
-Hammersmith;First Army/Legacy Cygnar;Heavy Warjack;4;34.99;11;4;0;0;0
-Hunter;First Army/Legacy Cygnar;Light Warjack;2;16.99;8;4;2;0;0
-Ironclad;First Army/Legacy Cygnar;Heavy Warjack;4;34.99;9;4;2;1;0
-Lancer;First Army/Legacy Cygnar;Light Warjack;2;18.99;9;4;3;1;0
-Minuteman;First Army/Legacy Cygnar;Light Warjack;2;23.99;9;4;1;0;0
-Sentinel;First Army/Legacy Cygnar;Light Warjack;2;18.99;7;4;1;0;0
-Hurricane;First Army/Legacy Cygnar;Colossal Warjack;10;109.99;28;2;0;0;0
-Stormwall;First Army/Legacy Cygnar;Colossal Warjack;13;109.99;27;2;1;0;0
-Triumph;First Army/Legacy Cygnar;Heavy Warjack;4;44.98;15;1;0;0;0
-Trencher Blockhouse;First Army/Legacy Cygnar;Structure;10;59.99;9;2;0;0;0
-Squire;First Army/Legacy Cygnar;Solo;1;9.99;4;1;1;0;0
-Captain Jonas Murdoch;First Army/Legacy Cygnar;Solo;1;12.99;2;1;0;0;0
-Captain Maxwell Finn;First Army/Legacy Cygnar;Solo;1;12.99;5;1;1;0;0
-Commander Anson Hitch;First Army/Legacy Cygnar;Solo;1;12.99;4;1;1;0;0
-Patrol Dog;First Army/Legacy Cygnar;Solo;1;8.99;1;2;1;0;0
-Trench Buster;First Army/Legacy Cygnar;Solo;2;21.99;4;2;0;0;0
-Trencher Master Gunner;First Army/Legacy Cygnar;Solo;1;9.99;3;2;1;0;0
-Trencher Sniper;First Army/Legacy Cygnar;Solo;1;TRENCHER_ATTACH;2;4;0;0;0
-Trencher Warcaster Lieutenant;First Army/Legacy Cygnar;Solo;1;14.99;3;1;0;0;0
-Rangers;First Army/Legacy Cygnar;Unit;3;30.99/2;4;3;2;0;0
-Trencher Cannon Crew;First Army/Legacy Cygnar;Unit;6;32.99;5;2;0;0;0
-Trencher Chain Gun Crew;First Army/Legacy Cygnar;Unit;5;19.99;3;2;0;0;0
-Trencher Combat Engineers;First Army/Legacy Cygnar;Unit;3;24.99;4;2;0;0;0
-Trencher Commando Scattergunners;First Army/Legacy Cygnar;Unit;3;23.97;6;2;0;0;0
-Trencher Commandos;First Army/Legacy Cygnar;Unit;5;49.99/2;7;2;0;0;0
-Trencher Express Team;First Army/Legacy Cygnar;Unit;3;24.99;4;2;1;0;0
-Trencher Infantry;First Army/Legacy Cygnar;Unit;5;TRENCHER_INFANTRY;8;4;2;2;0
-Trencher Rifle Grenadiers;First Army/Legacy Cygnar;Unit;3;TRENCHER_INFANTRY;5;4;1;0;0
-Trencher Long Gunners;First Army/Legacy Cygnar;Unit;5;TRENCHER_LONG_GUNNERS;8;2;0;0;0
-Trencher Long Gunner Officer;First Army/Legacy Cygnar;Command Attachment;1;TRENCHER_LONG_GUNNERS;3;2;0;0;0
-Captain Karli;First Army/Legacy Cygnar;Command Attachment;2;14.99;3;1;1;1;0
-Trencher Commando Officer;First Army/Legacy Cygnar;Command Attachment;1;11.99;3;4;0;0
-Trencher Infantry Officer;First Army/Legacy Cygnar;Command Attachment;1;TRENCHER_ATTACH;2;4;0;0;0
 
 Captain Buck Hasker;Gravediggers;Warcaster;1;?;0;1;0;0;0
 Captain Athena di Baro;Storm Legion;Warcaster;1;?;0;1;0;0;0

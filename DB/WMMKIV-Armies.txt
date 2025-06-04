@@ -4,11 +4,13 @@ Convergence of Cyriss;Convergence of Cyriss;True;False;False
 Crucible Guard;Crucible Guard;True;False;False
 Dark Host;Cryx;True;False;False
 Devourer's Host;Circle Orboros;True;False;False
+First Army;Cygnar;True;False;False
 Gravediggers;Cygnar;True;True;False
 Legacy Circle Orboros;Circle Orboros;False;False;False
 Legacy Convergence of Cyriss;Convergence of Cyriss;False;False;False
 Legacy Crucible Guard;Crucible Guard;False;False;False
 Legacy Cryx;Cryx;False;False;False
+Legacy Cygnar;Cygnar;False;False;False
 MKIV Mercenary;Mercenaries;True;True;True
 Necrofactorium;Cryx;True;True;False
 Secret Dominion;Circle Orboros;True;False;False

@@ -1,31 +1,36 @@
 # 5/18/25 3rd/25
 
 Characters (10):
-Cable (Nathan Summers)
-Psylocke (Elizabeth Braddock)
-Sabretooth (Victor Creed)
-Bishop (Lucas Bishop)
-Sunspot (Roberto da Costa)
-Deadpool (Wade Wilson)
-Warlock
-Domino (Neena Thurman)
-X-23 (Laura Kinney)
-Honey Badger (Gabrielle Kinney)
+Threat: 35
+*Cable (5)
+Psylocke (4)
+Sabretooth (4)
+Bishop (4)
+Sunspot (4)
+Deadpool (3)
+Warlock (3)
+Domino (3)
+*X-23 (3)
+Honey Badger (2)
+
 Tactics (10):
+Brace for Impact (R)
 Cat and Mouse
-Brace for Impact
 Pretty Sneaky, Sis
 Recalibration Matrix
 Preserve the Dream
-Fall Back
+Fall Back (R)
 Instant Recovery
 Grievous Wounds
 Warpath
 Chimichangas
-Crises
-Intrusions Open Across City As Seals Collapse
-M'Kraan Crystal Gets Heroes Home!
-Deadly Meteors Mutate Citizens
-Alien Ship Crashes in Downtown!
-Inhumans Deploy Advanced Weaponry
-Skrulls Infiltrate World Leadership
+
+Secure Crisis:
+Intrusions Open Across City As Seals Collapse (C, 19)
+M'Kraan Crystal Gets Heroes Home! (, 19)
+Deadly Meteors Mutate Citizens (I, 17)
+
+Extract Crisis:
+Skrulls Infiltrate World Leadership (J, 20)
+Inhumans Deploy Advanced Weaponry (, 18)
+Alien Ship Crashes in Downtown! (C, 17)

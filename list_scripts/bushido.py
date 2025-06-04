@@ -69,6 +69,8 @@ def manual_fix(in_item):
         return 'Kohanin'
     if in_item in ['• 1x Kami of Sapping Silt B']:
         return 'Kami of Sapping Silt'
+    if in_item in ['• 1x Kami of the Strong West Wind B']:
+        return 'Kami of the Strong West Wind'
     if in_item == 'Mother of Pearl':
         return 'Mother-of-Pearl'
     if in_item == '• 1x Ashigaru of the Peaks B':

@@ -1,15 +1,28 @@
 # 5/31/25 6th/32 UKGE
 
+Temple of Ro-Kan - Righteous Warriors.txt - [100 Rice]
+
+# ++ Risen Sun ++ [100 Rice]
+## Faction Profile Cards [88 Rice]
 Hotaru [13 Rice]: Student of Master Koju, Wind Kick
 Koji [9 Rice]
-Koji's Pack [2 Rice]: Joji
+Koji's Pack [2 Rice]:
+• 1x Joji [2 Rice]
 Riku [17 Rice]
 Seiji [14 Rice]
 Tsutsumi [15 Rice]
 Yuuki [18 Rice]: Patient Crane Stance, Student of Master Enos
+
+## Faction Event Cards [3 Rice]
 Moment of Enlightenment [2 Rice]
 Spiritual Harmony [1 Rice]
-Gorint? [1 Rice]
+
+## Faction Terrain Cards [1 Rice]
+Gorintō [1 Rice]
+
+## Faction Theme Cards
 Righteous Warriors
-Kami of the Eternal Earth [8 Rice]: Kami of the Eternal Earth A
-++ Total: [100 Rice] ++
+
+## Ronin Profile Cards [8 Rice]
+Kami of the Eternal Earth [8 Rice]:
+• 1x Kami of the Eternal Earth A [8 Rice]
