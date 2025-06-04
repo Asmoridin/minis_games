@@ -10,3 +10,4 @@ SCHARDE_PIRATE;Scharde Pirates-2/Scharde Pirate Officer-1;59.99
 TRENCHER_ATTACH;Trencher Infantry Officer-1/Trencher Sniper-1;17.99
 TRENCHER_INFANTRY;Trencher Infantry-2/Trencher Rifle Grenadiers-1;49.99
 TRENCHER_LONG_GUNNERS;Trencher Long Gunner Officer-1/Trencher Long Gunners-2;69.99
+STORMBLADE_INF;Stormblade Infantry-1/Stormblade Infantry Storm Gunner-3;44.99
