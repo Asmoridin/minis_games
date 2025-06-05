@@ -43,7 +43,7 @@ def validate_model_types(in_model_type):
     elif in_model_type in ['Heavy Warbeast', 'Light Warbeast', 'Gargantuan Warbeast',
         'Heavy Warjack', 'Light Warjack', 'Colossal Warjack']:
         return "Battlegroup"
-    elif in_model_type in ['Command Attachment']:
+    elif in_model_type in ['Command Attachment', 'Weapon Attachment']:
         return "Unit"
     elif in_model_type in ['Structure']:
         return "Battle Engine"
