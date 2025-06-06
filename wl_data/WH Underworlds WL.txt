@@ -1,0 +1,27 @@
+Steelheart's Champions;Ironskull's Boyz;Joey;W;10;2
+Steelheart's Champions;Ironskull's Boyz;Joey;L;4;6
+Chosen Axes;Ironskull's Boyz;Joey;W;5;5
+Chosen Axes;Ironskull's Boyz;Joey;T;8;8
+Stormsire's Cursebreakers;Magore's Fiends;BK;L;4;15
+Chosen Axes;Magore's Fiends;BK;L;6;19
+Chosen Axes;Magore's Fiends;BK;L;0;18
+Spiteclaw's Swarm;Stormsire's Cursebreakers;BK;L;9;14
+Spiteclaw's Swarm;Stormsire's Cursebreakers;BK;W;9;4
+Thorns of the Briarqueen;Stormsire's Cursebreakers;BK;L;4;10
+Spiteclaw's Swarm;Sepulchral Guard;Matt;W;13;5
+Spiteclaw's Swarm;Steelheart's Champions;Matt;W;10;6
+Stormsire's Cursebreakers;Steelheart's Champions;Matt;W;9;6
+Stormsire's Cursebreakers;Eyes of the Nine;BK;L;9;12
+Spiteclaw's Swarm;Eyes of the Nine;BK;L;4;9
+Steelheart's Champions;Farstriders;Matt;W;7;3
+Steelheart's Champions;Farstriders;Matt;W;11;1
+Mollog's Mob;Godsworn Hunt;Matt;W;13;9
+Grashrak's Despoilers;The Grymwatch;Matt;W;18;7
+
+10-8-1
+
+Matt: 7-0-0
+BK: 1-7-0
+Joey: 2-1-1
+
+
