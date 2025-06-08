@@ -1,32 +1,36 @@
 # 5/24/25 2nd/26 austrailian tournamnet
 
-King T'Challa T'Challa
-M'Baku
-Killmonger N'Jadaka
-Storm Ororo Munroe
-Okoye
-Hulk Bruce Banner
-Red Skull, Master of Hydra Johann Schmidt
-Namor, the Sub-Mariner Namor McKenzie
-Baron Zemo Helmut Zemo
-Luke Cage
+Characters (10):
+Threat: 40
+*King T'Challa (5)
+*M'Baku (4)
+Killmonger (4)
+*Storm (3)
+Okoye (2)
+Hulk (6)
+*Red Skull, Master of Hydra (5)
+*Namor, the Sub-Mariner (5)
+Baron Zemo (3)
+Luke Cage (3)
 
-Team Tactics
-Brace for Impact
-Sacrifice
+Tactics (10):
+Brace for Impact (R)
+Sacrifice (R)
 Wakanda Forever
 Wisdom of the Ancestors
-Spirit of Wakanda
 Usurp the Throne
+Spirit of Wakanda
 Heroes for Hire
 Cosmic Obliteration
 I Am A Baron, After All
 Survival
 
-Crises
-Deadline to Destruction
-Intrusions Open Across City As Seals Collapse
-M'Kraan Crystal Gets Heroes Home!
-Inhumans Deploy Advanced Weaponry
-Deadly Legacy Virus Cured?
-Skrulls Infiltrate World Leadership
+Secure Crisis:
+Deadline to Destruction (, 16)
+Intrusions Open Across City As Seals Collapse (C, 19)
+M'Kraan Crystal Gets Heroes Home! (, 19)
+
+Extract Crisis:
+Inhumans Deploy Advanced Weaponry (, 18)
+Deadly Legacy Virus Cured? (C, 19)
+Skrulls Infiltrate World Leadership (J, 20)
