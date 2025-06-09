@@ -1,6 +1,6 @@
-#3/29/25 6th/48 IG Qualifiers
+# 6/7/25 1st/10 BC, Canada
 
-Shyryss 100
+Shyryss
 Khymaera - Shadowflame Shard
 Grand Melee - 100 pts
 
@@ -9,34 +9,37 @@ PC CARD
 Defenses
 DEFENSE 1 - Barrier
 DEFENSE 1 - Barrier
-DEFENSE 1 - Barrier
+DEFENSE 1 -
+Barrier
 
 Shyryss, the Flawless Dark
-SPELL - Carnivore
-SPELL - Curse of Shadows
-SPELL - Dash
+SPELL -
+SPELL -
+SPELL -
 
 16 Skylla, The Abyssal Fury
 9 CENTRAL HEAD - Skylla
 4 SMALLER HEAD 1 - Horned Piercer
 3 SMALLER HEAD 2 - Gnashing Fangs
 
+31 Trikhymaerax
+9 ARCANE HEADS - Many-Eyed Head
+RANGE HEADS - Flame Head
+8 MELEE HEADS - Gulper Head
+ARCANE TAILS - Negation Tail
+8 RANGE TAILS - Frost Tail
+6 MELEE TAILS - Stinger
+
 15 Vypex
 4 HEAD - Viper
 3 TAIL - Hunter's Mark
 8 ARMS - Impalers
 
-19 Wyvern
-
 4 Bellighul, Master of Pain
 
-5 Wraithwing Paragon 1
-
-5 Wraithwing Paragon 2
+5 Wraithwing Paragon
 
 11 Incarnate Knights
-
-7 Quick Fang Stalkers
 
 7 Talon Lashers 1
 
