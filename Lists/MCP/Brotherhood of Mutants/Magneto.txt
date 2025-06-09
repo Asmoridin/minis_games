@@ -1,31 +1,36 @@
-# 5/25/25 3rd/8 Spanish tournament
+# 6/7/25 5th/36 Ontario tournament
 
-Characters
-Colossus (Piotr Rasputin)
-Mystique (Raven Darkholme)
-Magneto (Max Eisenhardt)
-Rogue (Anna Marie LeBeau)
-Pyro (St. John Allerdyce)
-The Blob (Fred Dukes)
-Toad (Mortimer Toynbee)
-Juggernaut (Cain Marko)
-Quicksilver (Pietro Maximoff)
-Sabretooth (Victor Creed)
-Team Tactics
+Characters 10:
+Threat: 37
+Okoye 2
+*King T'Challa 5
+*M'Baku 4
+Shuri 3
+Juggernaut 5
+*Magneto 6
+Quicksilver 3
+The Blob 3
+Toad 2
+Rogue 4
+
+Tactics 10:
 Asteroid M
-The Books of Truth
-Pyrotechnics
-Mind If I Cut In?
 Magnetic Refraction
-Magnetic Crush
+Wakanda Forever
+Recalibration Matrix
+Brace for Impact R
+Patch Up R
 Do You Know Who I Am?
-Makin' a Ruckus
-Versatile Strategy
 Can I Borrow That?
-Crises
-Gamma Wave Sweeps Across Midwest
-S.W.O.R.D. Establishes Base on Moon's Blue Area
-Mayor Fisk Vows to Find Missing Witnesses
-Skrulls Infiltrate World Leadership
-Research Station Attacked!
-The Montesi Formula Found
+Jabari Chieftain
+Wisdom of the Ancestors
+
+Secure Crisis:
+Wedding Party Targeted By Terrible Attack! , 20
+Super-Powered Scoundrels Form Sinister Syndicate! F, 20
+Riots Spark Over Extremis 3.0 D, 17
+
+Extract Crisis:
+The Montesi Formula Found E, 18
+Fear Grips World as "Worthy" Terrorize Cities D, 18
+Skrulls Infiltrate World Leadership J, 20
