@@ -1,6 +1,6 @@
-#4/6/25 15th/18
+# 6/8/25 4th/8 Cali tournament
 
-Issyria 100
+issyria
 Retribution of Scyrah - Legions of Dawn
 Grand Melee - 100 pts
 
@@ -8,21 +8,15 @@ PC CARD
 
 Issyria, Sibyl of Dawn
 
-5 Aspis
+7 Chimera
 
-12 Hemera
-
-12 Hydra
+28 Hyperion
 
 14 Dawnguard Trident 1
 
 14 Dawnguard Trident 2
 
 5 Dawnguard Destor Thane
-
-3 Dawnguard Sentinel Scyir
-
-3 Fane Knight Guardian
 
 10 Dawnguard Destors 1
 

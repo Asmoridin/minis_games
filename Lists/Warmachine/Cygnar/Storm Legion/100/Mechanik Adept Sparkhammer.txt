@@ -1,48 +1,65 @@
-#3/29/25 23rd/48 IG Qualifiers
+# 6/7/25 3rd/10 BC, Canada
 
-DwarfStorm
+AC/DC
 Cygnar - Storm Legion
 Grand Melee - 100 pts
 
 PC CARD
 
+Defenses
+DEFENSE 1 - Barrier
+DEFENSE 1 - Barrier
+DEFENSE 1 - Barrier
+
 Mechanik Adept Sparkhammer
 SPELL - Arcane Shield
 SPELL - Deflection
 
-32 Maelstrom 1
-HEAD - Secondary Neural Coupling
+7 Courser 2
+1 HEAD - Advance Deployment
+4 RIGHT ARM - Heavy Stormthrower
+2 LEFT ARM - Voltaic Punching Spike
+
+33 Maelstrom
+HEAD - Defender
 8 SUPPORT WEAPON RIGHT - Electro Bombard Right
 8 SUPPORT WEAPON LEFT - Electro Bombard Left
-8 RIGHT ARM - Pneumatic Hammer
+9 RIGHT ARM - Thunder Hammer
 8 LEFT ARM - Pulse Fist
 
-32 Maelstrom 2
-HEAD - Secondary Neural Coupling
-8 SUPPORT WEAPON RIGHT - Electro Bombard Right
-8 SUPPORT WEAPON LEFT - Electro Bombard Left
-8 RIGHT ARM - Pneumatic Hammer
-8 LEFT ARM - Pulse Fist
+3 Legionnaire Officer
 
-7 Krueger, Wrath of Blighterghast
+4 Lieutenant Sara Brisbane
 
-9 Zephyr
+7 Courser 1
+1 HEAD - Shield Guard
+4 RIGHT ARM - Heavy Stormthrower
+2 LEFT ARM - Voltaic Punching Spike
+
+3 Specialist Tyson Vas
+
+3 Weather Station
 
 5 Arcane Mechaniks
 
+5 Storm Callers 1
+
+5 Storm Callers 2
+
+10 Storm Lance Legionnaires
+
 5 Storm Vanes
 
-9 The Black 13th
-RYAN 3 - Ryan 3
-WATTS 3 - Watts 3
-GLOVER 1 - Glover 1
+8 Stormthrower Legionnaires
+
+2 Legionnaire Standard Bearer
 
 
 PC COMMAND CARD
 Blessing of the Gods
+Careful Reconnaissance
+Defenses
 Duck and Cover!
-Old Faithful
-Put the Fires Out
-Sapper
+Lucky Penny
 
-TOTAL POINTS 99/100
+TOTAL POINTS 100/100

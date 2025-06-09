@@ -1,31 +1,35 @@
-# 4/19/25 7th/8
+# 6/7/25 5th/8 Perth Brawlmachine tournament
 
-NEW FORCE
 Cygnar - Storm Legion
 Skirmish - 50 pts
 
 PC CARD
 
 Major Allister Caine
+SPELL - Arcane Shield
 SPELL - Deflection
-SPELL - Snipe
 
 17 Deuce
 
+12 Stryker
+1 HEAD - Relentless Charge
+6 RIGHT ARM - Voltaic Halberd
+5 LEFT ARM - Galvanic Shield
+
 4 Captain Bastian Falk
 
-20 Magnus the Unstoppable
+6 Stormblade Legionnaires
 
-Invictus
+2 Legionnaire Standard Bearer
 
 9 The Black 13th
 
 
 PC COMMAND CARD
 Blessing of the Gods
+Careful Reconnaissance
 Lucky Penny
 Old Faithful
 Put the Fires Out
-Sapper
 
 TOTAL POINTS 50/50

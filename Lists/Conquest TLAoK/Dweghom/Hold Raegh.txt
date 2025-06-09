@@ -1,34 +1,33 @@
-# 5/25/25 5th/8 German Tournament
+# 6/7/25 3rd/12
 
 === The Last Argument of Kings ===
 
-Doppelt gemoppelt [1995/2000]
+Raegh Goonz [2000/2000]
 Dweghom
 
 
-== Tempered Sorcerer [130]:
-Fire School
+== Warlord Hold Raegh [125]: Bergont Raegh
 
-* Hold Ballistae 3 [140]:
+* Hold Ballistae 3 [150]: Standard Bearer
 
-* Fireforged 3 [180]:
+* Ironclad Drake 1 [220]:
+
+
+== Tempered Sorcerer [135]: Fire School, Hellbringer Sorcerer
 
 * Hellbringer Drake 1 [200]:
 
 * Hellbringer Drake 1 [200]:
 
-
-== Tempered Steelshaper [120]:
-
-* Fireforged 3 [180]:
-
-* Hold Warriors 3 [170]: Herald of Fire, Exemplar
+* Hold Ballistae 3 [140]:
 
 * Hold Ballistae 3 [140]:
 
 
-== Warlord Hold Raegh [100]:
+== Ardent Kerawegh [120]: Flaming Oratory
 
-* Hold Warriors 3 [170]: Herald of Fire, Exemplar
+* Flame Berserkers 3 [160]:
 
-* Dragonslayers 3 [265]: Mnemancer Apprentice, Standard Bearer
+* Flame Berserkers 3 [160]:
+
+* Magmaforged 4 [250]:

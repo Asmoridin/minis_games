@@ -1,6 +1,6 @@
-# 5/24/25 13th/16 Canada event
+# 6/8/25 3rd/8 Cali tournament
 
-Axis gonna drop
+Axis
 Convergence of Cyriss - Convergence of Cyriss
 Grand Melee - 100 pts
 
@@ -8,24 +8,26 @@ PC CARD
 
 Defenses
 DEFENSE 1 - Barrier
-DEFENSE 1 - Barrier
-DEFENSE 1 - Barrier
+DEFENSE 1 - Spike Trap
+DEFENSE 1 - Spike Trap
 
 Axis, The Harmonic Enforcer
 
-10 Conservator
+10 Conservator 1
+
+10 Conservator 2
+
+10 Conservator 3
 
 6 Corollary
 
-14 Inverter
+26 Prime Conflux
 
-12 Asphyxious the Sanctified
+2 Algorithmic Dispersion Optifex
 
-Annihilation Servitors
+3 Enigma Foundry
 
-6 Negator 1
-
-6 Negator 2
+4 Frustum Locus
 
 2 Reflex Servitors 1
 
@@ -35,13 +37,9 @@ Annihilation Servitors
 
 7 Eradicators 2
 
-6 Obstructors 1
+9 Perforators
 
-6 Obstructors 2
-
-8 Reciprocators 1
-
-8 Reciprocators 2
+2 Transverse Enumerator
 
 
 PC COMMAND CARD
