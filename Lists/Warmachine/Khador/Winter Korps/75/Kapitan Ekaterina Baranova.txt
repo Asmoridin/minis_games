@@ -1,41 +1,40 @@
-# 4/26/25 5th/6
+# 6/8/25 6th/12 Spanish Tournament
 
-Baranova 75
+Lista #2
+
+Disparasion
 Khador - Winter Korps
 Pitched Battle - 75 pts
 
 PC CARD
 
-Defenses
-DEFENSE 1 - Barrier
-DEFENSE 2 - Fire Pit
-DEFENSE 1 - Fire Pit
-
 Kapitan Ekaterina Baranova
-SPELL - Iron Flesh
-SPELL - Fog of War
-SPELL - Weald Secrets
+SPELL - Avenging Force
+SPELL - Return Fire
+SPELL - Superiority
 
-32 Mastodon
-HEAD - Shock Assault
-6 RIGHT SHOULDER - Right Shoulder Mounted Heavy Cannon
-6 LEFT SHOULDER - Left Shoulder Mounted Heavy Cannon
-9 RIGHT ARM - Great Axe
-11 LEFT ARM - Grinder Fist
+15 Great Bear
+2 HEAD - Reposition
+8 RIGHT ARM - Deep Freezer
+5 LEFT ARM - Battle Axe
 
-4 Alexia, Queen of the Damned
+10 AC-2 Bison 1
+
+10 AC-2 Bison 2
 
 2 Battle Mechanik
 
+4 Magziev Zariyah Volkova
+
 2 Mortar Team
 
-5 Sergeant Sergei Krol
+4 Sergeant Goran Lazarenko, the Jackal
 
-3 Winter Korps Officer
+4 Arkanists
 
-11 Man-O-War Suppressors 1
+11 Man-O-War Suppressors
 
-11 Man-O-War Suppressors 2
+8 The Hounds
 
 4 Winter Korps Snipers
 
@@ -43,9 +42,9 @@ HEAD - Shock Assault
 
 
 PC COMMAND CARD
-Blessing of the Gods
 Careful Reconnaissance
-Defenses
+For the Motherland
+Hit & Run
 Lucky Penny
 Old Faithful
 
