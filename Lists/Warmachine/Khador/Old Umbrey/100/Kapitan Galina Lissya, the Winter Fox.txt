@@ -1,0 +1,55 @@
+# 6/7/25 7th/10 BC, Canada
+
+Foxy Lady
+Khador - Old Umbrey
+Grand Melee - 100 pts
+
+ERRORS:
+• Invalid spell card choices in force.
+
+PC CARD
+
+Kapitan Galina Lissya, the Winter Fox
+ERRORS:
+• Invalid number of spell cards selected.
+
+9 Feral
+5 HEAD - Alke
+4 BACK - Wings
+
+15 Primeval 1
+4 HEAD - Stag
+7 RIGHT ARM - Hunting Spear
+4 LEFT ARM - Runed Skull
+
+15 Primeval 2
+3 HEAD - Bear
+7 RIGHT ARM - Bone Sword
+5 LEFT ARM - Enchanted Shield
+
+15 Primeval 3
+3 HEAD - Bear
+7 RIGHT ARM - Bone Sword
+5 LEFT ARM - Enchanted Shield
+
+15 Strix
+
+4 Sergeant Goran Lazarenko, the Jackal
+
+4 Vorony
+
+6 Zacchaeus, The Winter’s Chill
+
+9 Chosen of the Witch
+
+8 The Hounds
+
+
+PC COMMAND CARD
+Blessing of the Gods
+Break Through
+Lucky Penny
+Old Faithful
+Put the Fires Out
+
+TOTAL POINTS 100/100
