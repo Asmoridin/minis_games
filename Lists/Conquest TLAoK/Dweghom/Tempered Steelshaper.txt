@@ -1,0 +1,33 @@
+# 6/7/25 1st/12
+
+=== The Last Argument of Kings ===
+
+Raegh [1995/2000]
+Dweghom
+[object Object]
+
+
+== Hold Raegh [130]: The Crown of Ushkelodh, Fuelled by the Furnace
+
+* Ironclad Drake 1 [220]:
+
+* Dragonslayers 3 [265]: Mnemancer Apprentice, Standard Bearer
+
+* Hold Thanes 5 [330]: Herald of Stone
+
+* Initiates 3 [145]:
+
+
+== Warlord Tempered Steelshaper [140]: Remembrance of the Core, Lava Shots
+
+* Fireforged 3 [180]:
+
+
+== Tempered Sorcerer [155]: Fire School, Focused
+
+* Hold Ballistae 3 [140]:
+
+
+== Ardent Kerawegh [130]: Memory of Breath, Flaming Oratory
+
+* Flame Berserkers 3 [160]:
