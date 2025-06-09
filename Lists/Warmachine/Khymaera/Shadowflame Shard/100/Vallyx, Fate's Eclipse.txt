@@ -1,26 +1,37 @@
-# 5/17/25 7th/18 Wisconsin Tournament
+# 6/7/25 3rd/11 Australian tournament
 
-Vallossal
+Gone crit fishing
 Khymaera - Shadowflame Shard
 Grand Melee - 100 pts
 
 PC CARD
 
-Vallyx, Fate's Eclipse
+Defenses
+DEFENSE 1 - Barrier
+DEFENSE 2 - Barrier
+DEFENSE 1 - Spiker trap
 
+
+Vallyx, Fate's Eclipse
+SPELL - Silence of Death
+SPELL - Dash
+
+12 Hydrix 1
+3 CENTRAL HEAD - Diviner
+4 SMALLER HEAD - Horned Piercer
+3 SMALLER HEAD - Blockhead
+2 DORSAL FEATURE - Bladeback
+
+13 Hydrix 2
+3 CENTRAL HEAD - Diviner
+3 SMALLER HEAD - Blockhead
+4 SMALLER HEAD - Horned Piercer
+4 DORSAL FEATURE - Wings
 
 16 Skylla, The Abyssal Fury
 9 CENTRAL HEAD - Skylla
 4 SMALLER HEAD 1 - Horned Piercer
 3 SMALLER HEAD 2 - Gnashing Fangs
-
-33 Trikhymaerax
-12 ARCANE HEADS - Eyeless Head
-RANGE HEADS - Flame Head
-6 MELEE HEADS - Bicorn
-ARCANE TAILS - Negation Tail
-9 RANGE TAILS - Spined Tail
-6 MELEE TAILS - Stinger
 
 10 Vypex
 1 HEAD - Asp
@@ -31,9 +42,13 @@ ARCANE TAILS - Negation Tail
 
 3 Pythia
 
+4 Shadowmancer Scion
+
 5 Wraithwing Paragon
 
-11 Incarnate Knights
+6 Quick Fang Wind Strikers
+
+9 Shades
 
 7 Talon Lashers 1
 
@@ -44,9 +59,9 @@ ARCANE TAILS - Negation Tail
 
 PC COMMAND CARD
 Blessing of the Gods
+Defenses
 Duck and Cover!
 Lucky Penny
-Old Faithful
 Put the Fires Out
 
 TOTAL POINTS 100/100
