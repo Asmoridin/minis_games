@@ -1,18 +1,20 @@
 # 5/18/25 1st/8 Big London event
 
 Characters (10):
-Star-Lord (Peter Quill)
-Rocket Raccoon
-Groot
-Agent Venom (Flash Thompson)
-Beta Ray Bill (Bill)
-Yondu (Yondu Udonta)
-Nova (Richard Rider)
-Nebula
+Threat: 35
+*Star-Lord (3)
+Rocket Raccoon (2)
+Groot (3)
+Agent Venom (4)
+Beta Ray Bill (4)
+Yondu (4)
+Nova (5)
+Nebula (2)
 Baron Zemo (3)
-Namor, the Sub-Mariner (Namor McKenzie)
+*Namor, the Sub-Mariner (5)
+
 Tactics (10):
-Brace for Impact
+Brace for Impact (R)
 Foreign Assignment
 Galaxy's Greatest
 Lovable Misfits
@@ -20,12 +22,15 @@ Deadly Duo
 Recalibration Matrix
 Survival
 We Are Groot
-Call for Backup
 I Am A Baron, After All
-Crises
-Deadline to Destruction
-Infinity Formula Goes Missing!
-Guardians Save Shi'ar Empress in Style
-Alien Ship Crashes in Downtown!
-The Montesi Formula Found
-Deadly Legacy Virus Cured?
+Call for Backup
+
+Secure Crisis:
+Deadline to Destruction (, 16)
+Infinity Formula Goes Missing! (B, 17)
+Guardians Save Shi'ar Empress in Style (, 17)
+
+Extract Crisis:
+Alien Ship Crashes in Downtown! (C, 17)
+The Montesi Formula Found (E, 18)
+Deadly Legacy Virus Cured? (C, 19)
