@@ -8,6 +8,7 @@ Ant-Man;Avengers;0
 Apocalypse;Servants of the Apocalypse/L;0
 Archangel;X-Force, Servants of the Apocalypse, Hellfire Club;0
 Arnim Zola;Cabal, Hydra;0
+Avalanche;Brotherhood of Mutants;0
 Baron Helmut Zemo;Cabal, Hydra/L;1
 Baron Mordo;Cabal, Convocation;1
 Baron Strucker;Cabal, Hydra/L;0
@@ -61,6 +62,7 @@ Elektra;Criminal Syndicate, Defenders;1
 Elsa Bloodstone;Defenders, Midnight Sons/L;0
 Emma Frost;Brotherhood of Mutants, Hellfire Club/L, Uncanny X-Men, New Mutants;1
 Enchantress;Asgard, Cabal;1
+Exodus;Brotherhood of Mutants;0
 Frankenstein's Monster;Midnight Sons;0
 Gambit;Brotherhood of Mutants, Uncanny X-Men, Servants of the Apocalypse;0
 Gamora;A-Force, Guardians of the Galaxy;0
@@ -93,6 +95,7 @@ King T'Challa;Avengers, Wakanda/L;0
 Kingpin;Cabal, Criminal Syndicate/L, Spider-Foes;1
 Klaw;Cabal, Criminal Syndicate/L;0
 Kraven the Hunter;Criminal Syndicate, Spider-Foes;0
+Lady Mastermind;Brotherhood of Mutants, Hellfire Club;0
 Lady Sif;Asgard;0
 Lizard;Spider-Foes;1
 Lockjaw;Inhumans;1
@@ -125,6 +128,7 @@ Nightcrawler;Uncanny X-Men;0
 Nova;Guardians of the Galaxy;0
 Okoye;A-Force, Wakanda;1
 Omega Red;Cabal, Criminal Syndicate, Winter Guard, Hellfire Club;0
+Phoenix;Uncanny X-Men;0
 Professor X;Uncanny X-Men/L;0
 Proxima Midnight;Black Order;1
 Psylocke;Uncanny X-Men, X-Force, Servants of the Apocalypse, Hellfire Club;1
