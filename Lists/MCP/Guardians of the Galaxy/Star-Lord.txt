@@ -1,36 +1,31 @@
-# 5/18/25 1st/8 Big London event
+# 7/6/2025 4th/47 Polish AMG GT
 
-Characters (10):
-Threat: 35
-*Star-Lord (3)
-Rocket Raccoon (2)
-Groot (3)
-Agent Venom (4)
-Beta Ray Bill (4)
-Yondu (4)
-Nova (5)
-Nebula (2)
-Baron Zemo (3)
-*Namor, the Sub-Mariner (5)
-
-Tactics (10):
-Brace for Impact (R)
-Foreign Assignment
+Characters
+Star-Lord (Peter Quill)
+Cosmic Ghost Rider (Frank Castle)
+Nova (Richard Rider)
+Yondu (Yondu Udonta)
+Agent Venom (Flash Thompson)
+Beta Ray Bill (Bill)
+Drax the Destroyer (Drax)
+Groot
+Rocket Raccoon
+Nebula
+Team Tactics
+Brace for Impact
+Sacrifice
 Galaxy's Greatest
 Lovable Misfits
 Deadly Duo
-Recalibration Matrix
-Survival
 We Are Groot
-I Am A Baron, After All
+Plundered Goods
+Foreign Assignment
 Call for Backup
-
-Secure Crisis:
-Deadline to Destruction (, 16)
-Infinity Formula Goes Missing! (B, 17)
-Guardians Save Shi'ar Empress in Style (, 17)
-
-Extract Crisis:
-Alien Ship Crashes in Downtown! (C, 17)
-The Montesi Formula Found (E, 18)
-Deadly Legacy Virus Cured? (C, 19)
+Survival
+Crises
+Deadline to Destruction
+Deadly Meteors Mutate Citizens
+Wedding Party Targeted By Terrible Attack!
+Alien Ship Crashes in Downtown!
+The Montesi Formula Found
+Deadly Legacy Virus Cured?
