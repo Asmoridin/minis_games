@@ -1,53 +1,65 @@
-#3/29/25 19th/48 IG Qualifiers
+# 7/5/2025 3rd/8 Belgium
 
-huxley madness
 Cygnar - Storm Legion
 Grand Melee - 100 pts
 
 PC CARD
 
+Defenses
+DEFENSE 1 - Barrier
+DEFENSE 1 - Barrier
+DEFENSE 1 - Barrier
+
 Captain Raef Huxley
 SPELL - Arcane Shield
 SPELL - Deflection
 
-7 Courser
+7 Courser 1
 1 HEAD - Shield Guard
 4 RIGHT ARM - Heavy Stormthrower
 2 LEFT ARM - Voltaic Punching Spike
 
-15 Stryker 1
+7 Courser 2
+1 HEAD - Shield Guard
+4 RIGHT ARM - Heavy Stormthrower
+2 LEFT ARM - Voltaic Punching Spike
+
+7 Courser 3
+1 HEAD - Shield Guard
+4 RIGHT ARM - Heavy Stormthrower
+2 LEFT ARM - Voltaic Punching Spike
+
+17 Deuce
+
+12 Stryker 1
 2 HEAD - True Sight
-6 RIGHT ARM - Voltaic Halberd
-7 LEFT ARM - Heavy Mag-Bolter
+6 RIGHT ARM - Voltaic Javelin
+4 LEFT ARM - Stormblazer Cannon
 
-15 Stryker 2
+12 Stryker 2
 2 HEAD - True Sight
-6 RIGHT ARM - Voltaic Halberd
-7 LEFT ARM - Heavy Mag-Bolter
+6 RIGHT ARM - Voltaic Javelin
+4 LEFT ARM - Stormblazer Cannon
 
-20 Carver Ultimus
+17 The General
+HEAD - The General
+LEFT ARM - Polarity Fist
+RIGHT ARM - Quicksilver Mk III
 
-War Boar MMD47
+5 Arcane Mechaniks 1
 
-5 Eiryss, Shadow of Retribution
+5 Arcane Mechaniks 2
 
-10 Storm Lance Legionnaires 1
+5 Storm Vanes
 
-10 Storm Lance Legionnaires 2
-
-9 Tempest Assailers
-
-9 The Black 13th
-RYAN 3 - Ryan 3
-WATTS 3 - Watts 3
-GLOVER 1 - Glover 1
+6 Stormblade Legionnaires
 
 
 PC COMMAND CARD
 Blessing of the Gods
-Duck and Cover!
+Defenses
 Lucky Penny
 Old Faithful
-Put the Fires Out
+Sapper
 
 TOTAL POINTS 100/100
