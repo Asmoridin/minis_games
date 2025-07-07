@@ -1,35 +1,37 @@
-# 5/25/25 2/14 Iowa tournament
+# 7/5/2025 1st/12 Oregon Team Tournament
+
+
 
 Characters 10
-* Doctor Strange 5
 Clea 3
+* Doctor Strange 5
+* Elsa Bloodstone 4
 Luke Cage 3
-Shang-Chi 4
+Scarlet Witch 5
 Wong 2
+Namor, the Sub-Mariner 5
+Shang-Chi 4
+Silver Sable 4
 Hawkeye 3
-The Wrecking Crew 4
-* Daredevil 4
-Hulk 6
-Killmonger 4
 
 Team Tactics 10
-Cover Me
-Heroes for Hire
-Brace for Impact R
-Sacrifice R
-Street Smarts
-Pentagram of Farallah
-Stronger Together
 Mystic Ward
-Usurp the Throne
-Chi Mastery
+Street Smarts
+No More Mutants
+Recalibration Matrix
+Brace for Impact R
+Prince‘s Protection
+Heroes for Hire
+The Whims of Chaos
+Human Weapon
+Fall Back R
 
 Secure Crisis
-Riots Spark Over Extremis 3.0 D, 17
-Intrusions Open Across City As Seals Collapse C, 19
-Wedding Party Targeted in Terrible Attack! R, 20
+Guardians Save Shi‘ar Empress in Style M, 17
+M‘Kraan Crystal Gets Heroes Home! G, 19
+Infinity Formula Goes Missing! B, 17
 
 Extract Crisis
-Skrulls Infiltrate World Leadership J, 20
+Struggle For The Cube Continues F, 17
 Fear Grips World As “Worthy“ Terrorize Cities D, 18
-Scientific Samples Found in Discovered Universe D, 17
+The Montesi Formula Found E, 18
