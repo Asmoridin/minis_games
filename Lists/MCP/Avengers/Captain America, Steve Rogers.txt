@@ -1,36 +1,31 @@
-# 3/30/25 3rd place World Championship
+# 7/6/2025 1st/47 Polish AMG GT
 
-Characters (10):
-Threat: 36
-Black Widow (2)
-*Captain America (Steve Rogers) (4)
-*Captain America (Sam Wilson) (3)
-Doctor Voodoo (4)
-*Crimson Dynamo (4)
-Baron Zemo (3)
-Heimdall, The All-Seeing (3)
-Shang-Chi (4)
-Hulk (6)
-Pyro (3)
-
-Tactics (10):
+Characters
+Captain America (Steve Rogers)
+Shang-Chi (Zheng Shang-Chi)
+Captain America (Sam Wilson)
+Hulk (Bruce Banner)
+Black Panther (T'Challa)
+Gorgon (Gorgon Petragon)
+Gladiator (Kallark)
+Baron Zemo (Helmut Zemo)
+Spider-Man (Miles Morales)
+Black Widow (Natasha Romanoff)
+Team Tactics
+Brace for Impact
+Patch Up
 Avengers Assemble
-Second Wind
-Battle Plan
-Indomitable (R)
-Brace for Impact (R)
-Survival
-Recalibration Matrix
 Reserve Members
 Chi Mastery
-Pyrotechnics
-
-Secure Crisis:
-Wedding Party Targeted By Terrible Attack! (, 20)
-Super-Powered Scoundrels Form Sinister Syndicate! (F, 20)
-Infinity Formula Goes Missing! (B, 17)
-
-Extract Crisis:
-Deadly Legacy Virus Cured? (C, 19)
-Fear Grips World as "Worthy" Terrorize Cities (D, 18)
-Skrulls Infiltrate World Leadership (J, 20)
+Protector of the Empire
+Recalibration Matrix
+Battle Plan
+Survival
+Bird of Prey
+Crises
+Wedding Party Targeted By Terrible Attack!
+Super-Powered Scoundrels Form Sinister Syndicate!
+Intrusions Open Across City As Seals Collapse
+Inhumans Deploy Advanced Weaponry
+Deadly Legacy Virus Cured?
+Fear Grips World as "Worthy" Terrorize Cities
