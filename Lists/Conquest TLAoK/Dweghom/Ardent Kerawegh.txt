@@ -1,0 +1,32 @@
+# 7/12/2025 8th/9
+
+=== The Last Argument of Kings ===
+
+London [1995/2000]
+Dweghom
+[object Object]
+
+
+== Warlord Ardent Kerawegh [130]: Memory of Breath, Baptized in Combat
+
+* Flame Berserkers 3 [160]:
+
+* Magmaforged 3 [215]: Mnemancer Apprentice
+
+
+== Hold Raegh [135]: Gifted in Fire, Fuelled by the Furnace
+
+* Hold Warriors 3 [145]: Exemplar
+
+* Dragonslayers 4 [330]: Mnemancer Apprentice, Standard Bearer
+
+
+== Tempered Steelshaper [130]: Ferric Throne
+
+* Stoneforged 1 [220]:
+
+* Steelforged 3 [210]:
+
+* Fireforged 3 [180]:
+
+* Hold Ballistae 3 [140]:
