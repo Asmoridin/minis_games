@@ -1,0 +1,37 @@
+# 7/12/2025 8th/14
+
+=== The Last Argument of Kings ===
+
+Orders [2000/2000]
+The Hundred Kingdoms
+[object Object]
+
+
+== Warlord Priory Commander Crimson Tower [145]: Caledburn
+
+* Order of the Sealed Temple 3 [200]:
+
+* Order of the Crimson Tower 3 [210]:
+
+* Order of the Crimson Tower 3 [210]:
+
+
+== Noble Lord [125]: The Flesh Cleaver, Weapon Master, Graceful Combatant, Get in Position
+
+* Men at Arms 5 [170]:
+
+
+== Mounted Noble Lord [140]: Dynastic Ally, Mask of Eaklides, Weapon Master
+
+* Household Knights 3 [170]:
+
+* Mounted Squires 3 [130]:
+
+* Longbowmen 4 [180]:
+
+* Militia 4 [130]:
+
+
+== Chapter Mage [80]: School of Fire
+
+* Mercenary Crossbowmen 3 [110]:
