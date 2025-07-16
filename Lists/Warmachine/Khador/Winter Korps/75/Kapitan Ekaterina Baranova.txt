@@ -1,8 +1,5 @@
-# 6/8/25 6th/12 Spanish Tournament
+# 7/12/2025 3rd/8 Australia
 
-Lista #2
-
-Disparasion
 Khador - Winter Korps
 Pitched Battle - 75 pts
 
@@ -10,25 +7,21 @@ PC CARD
 
 Kapitan Ekaterina Baranova
 SPELL - Avenging Force
-SPELL - Return Fire
-SPELL - Superiority
+SPELL - Fog of War
+SPELL - Freezing Grip
 
-15 Great Bear
-2 HEAD - Reposition
-8 RIGHT ARM - Deep Freezer
-5 LEFT ARM - Battle Axe
+10 Dire Wolf
+1 HEAD - Shield Guard
+5 RIGHT ARM - Long Axe
+4 LEFT ARM - Plow-Shield
 
-10 AC-2 Bison 1
+18 Razor
 
-10 AC-2 Bison 2
-
-2 Battle Mechanik
+10 AC-2 Bison
 
 4 Magziev Zariyah Volkova
 
-2 Mortar Team
-
-4 Sergeant Goran Lazarenko, the Jackal
+3 Winter Korps Officer
 
 4 Arkanists
 
@@ -36,14 +29,16 @@ SPELL - Superiority
 
 8 The Hounds
 
-4 Winter Korps Snipers
+6 Winter Korps Infantry
+WEAPON SUPPORT TROOPERS - Auto Cannon
+WEAPON SUPPORT TROOPERS - Auto Cannon
 
-1 Winter Korps Hunting Dog
+1 Winter Korps Standard
 
 
 PC COMMAND CARD
+Blessing of the Gods
 Careful Reconnaissance
-For the Motherland
 Hit & Run
 Lucky Penny
 Old Faithful
