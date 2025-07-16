@@ -1,36 +1,31 @@
-# Updated 2/2/25 21/27 Mid-Atlantic tournament
+# 7/12/2025 2nd/14
 
-Characters (10):
-Threat: 37
-Bullseye (2)
-Electro (4)
-Elektra (4)
-Hood (3)
-*Klaw (5)
-*M.O.D.O.K. Scientist Supreme (4)
-Sandman (4)
-Silver Sable (4)
-The Wrecking Crew (4)
-Vulture (3)
-
-Tactics (10):
-Brace for Impact (R)
-Cruel Tutelage
-Cruelty
-Instant Recovery
-Mystic Menace
-No Mercy
-Recalibration Matrix
-Rejuvenation
+Characters
+Klaw (Ulysses Klaw)
+Gwenpool (Gwendolyn Poole)
+Rhino (Aleksei Sytsevich)
+Elektra (Elektra Nachios)
+M.O.D.O.K. Scientist Supreme (George Tarleton)
+Mysterio (Quentin Beck)
+Bullseye (Benjamin Poindexter)
+Bob, Agent of Hydra (Robert Dobalina)
+Gladiator (Kallark)
+Ultron, Metal Tyrant (Ultron)
+Team Tactics
+All According to Plan
 Shadow Organization
-Stronger Together
-
-Secure Crisis:
-Intrusions Open Across City As Seals Collapse (C, 19)
-Riots Spark Over Extremis 3.0 (D, 17)
-Super-Powered Scoundrels Form Sinister Syndicate! (F, 20)
-
-Extract Crisis:
-Deadly Legacy Virus Cured? (C, 19)
-Fear Grips World as "Worthy" Terrorize Cities (D, 18)
-Mutant Extremists Target U.S. Senators! (L, 19)
+Brace for Impact
+Sacrifice
+Versatile Strategy
+They Say Keep Your Enemies Close...
+The Grand Illusion
+Mind Games
+Protector of the Empire
+This is a Robbery
+Crises
+Intrusions Open Across City As Seals Collapse
+Deadly Meteors Mutate Citizens
+M'Kraan Crystal Gets Heroes Home!
+Fear Grips World as "Worthy" Terrorize Cities
+Mutant Extremists Target U.S. Senators!
+Skrulls Infiltrate World Leadership
