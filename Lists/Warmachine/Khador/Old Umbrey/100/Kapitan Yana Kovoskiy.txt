@@ -1,27 +1,30 @@
 # 7/12/2025 1st/14 California
 
-Gunmas Eve
+Hogs in Bogs
 Khador - Old Umbrey
 Grand Melee - 100 pts
 
 PC CARD
 
-Kapitan Galina Lissya, the Winter Fox
-SPELL - Spirit Fang
-SPELL - Curse of Shadows
+Kapitan Yana Kovoskiy
+SPELL - Earth Spikes
+SPELL - Lashing Tendrils
 
-10 Feral
-6 HEAD - Drek
-4 BACK - Wings
+9 Feral 1
+6 HEAD - Razorback
+3 BACK - Bony Spine
 
-14 Primeval 1
+9 Feral 2
+6 HEAD - Razorback
+3 BACK - Bony Spine
+
+7 Feral 3
+5 HEAD - Alke
+2 BACK - Mane
+
+13 Primeval
 3 HEAD - Raven
-7 RIGHT ARM - Hunting Spear
-4 LEFT ARM - Runed Skull
-
-14 Primeval 2
-3 HEAD - Raven
-7 RIGHT ARM - Bone Sword
+6 RIGHT ARM - Ancient Staff
 4 LEFT ARM - Runed Skull
 
 15 Strix
@@ -43,7 +46,7 @@ Razor
 
 PC COMMAND CARD
 Blessing of the Gods
-Break Through
+For the Motherland
 Hit & Run
 Lucky Penny
 Put the Fires Out

@@ -1,25 +1,25 @@
 # 7/12/2025 5th/8 Australia
 
-lazy dekathus
 Cryx - Necrofactorium
 Pitched Battle - 75 pts
 
 PC CARD
 
-Lich Lord Dekathus
+Exulon Khythos
 SPELL - Calamity
 SPELL - Death Ward
+SPELL - Ghost Walk
 
-12 Malefactor
-1 HEAD - Soul Claiming
-7 RIGHT ARM - Fell Axe
+14 Malefactor
+4 HEAD - Dark Shroud
+6 RIGHT ARM - Harpoon
 4 LEFT ARM - Spiked Shield
 
-6 Raptor
-4 HEAD - Doomspitter
-2 BACK - Arc Node
+3 Akulon Thaemestra
 
-15 Malfessor
+20 Exulon Nostilla
+
+Aberration
 
 4 Master Necrotech Chatterbane
 
@@ -29,11 +29,9 @@ SPELL - Death Ward
 
 8 Criterions 2
 
-4 Necrosurgeon Initiates 1
+4 Necrosurgeon Initiates
 
-4 Necrosurgeon Initiates 2
-
-10 Night Terrors
+10 The Furies
 
 
 PC COMMAND CARD

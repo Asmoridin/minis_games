@@ -1,6 +1,6 @@
-# 5/30/25 5th/16 Swedish Masters
+# 7/12/2025 1st/19 Australia
 
-Sepsira
+Supreme Sepizza
 Cryx - Necrofactorium
 Grand Melee - 100 pts
 
@@ -8,45 +8,41 @@ PC CARD
 
 Defenses
 DEFENSE 1 - Barrier
+DEFENSE 2 - Barrier
 DEFENSE 1 - Barrier
-DEFENSE 1 - Spike Trap
 
 Master Necrosurgeon Sepsira
-SPELL - Ghost Walk
-SPELL - Scything Touch
-SPELL - Death's Dominion
+SPELL - Blood Rain
+SPELL - Calamity
+SPELL - Carnage
 
-12 Malefactor 1
-1 HEAD - Soul Claiming
-7 RIGHT ARM - Fell Axe
-4 LEFT ARM - Spiked Shield
+5 Raptor 1
+3 HEAD - Deathripper
+2 BACK - Arc Node
 
-12 Malefactor 2
-1 HEAD - Soul Claiming
-7 RIGHT ARM - Fell Axe
-4 LEFT ARM - Spiked Shield
-
-6 Raptor
-4 HEAD - Doomspitter
+5 Raptor 2
+3 HEAD - Deathripper
 2 BACK - Arc Node
 
 3 Akulon Thaemestra
 
-8 Necroharvester
+20 Carver Ultimus
 
-Corpse Crawler
+War Boar MMD47
+
+4 Iron Lich Commander
 
 3 Skarlock Lieutenant
 
-8 Mechanithrall Brutes
+8 Criterions
 
 6 Mechanithrall Swarm 1
 
 6 Mechanithrall Swarm 2
 
-6 Mechanithrall Swarm 3
-
 4 Necrosurgeon Initiates
+
+10 Night Terrors
 
 8 Sludge Thralls 1
 
@@ -57,9 +53,9 @@ Corpse Crawler
 
 PC COMMAND CARD
 Defenses
+Duck and Cover!
 Hit & Run
 Lucky Penny
-Old Faithful
 Put the Fires Out
 
 TOTAL POINTS 100/100

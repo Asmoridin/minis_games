@@ -1,5 +1,6 @@
 # 7/12/2025 2nd/19 Australia
 
+WayOH!
 Cygnar - Gravediggers
 Grand Melee - 100 pts
 
@@ -24,44 +25,38 @@ Fuel Canister 2
 Defenses
 DEFENSE 1 - Barrier
 DEFENSE 1 - Barrier
-DEFENSE 1 - Fire Pit
+DEFENSE 1 - Barrier
 
-Major Allister Caine
+Captain Connor ‘Boom Boom’ McCoy
 SPELL - Arcane Shield
 SPELL - Chasten
-
-10 Patriot 1
-2 HEAD - Reposition
-6 RIGHT ARM - Dual Cannon
-2 LEFT ARM - Trench Blade
-
-10 Patriot 2
-2 HEAD - Reposition
-6 RIGHT ARM - Dual Cannon
-2 LEFT ARM - Trench Blade
-
-10 Patriot 3
-2 HEAD - Reposition
-6 RIGHT ARM - Dual Cannon
-2 LEFT ARM - Trench Blade
-
-10 Patriot 4
-2 HEAD - Reposition
-6 RIGHT ARM - Dual Cannon
-2 LEFT ARM - Trench Blade
 
 17 Plugger
 HEAD - Plugger
 RIGHT ARM - Trench Ripper
 LEFT ARM - Trench Ripper
 
-4 Gravedigger Gun Mages 1
+3 Heavy Machine Gun Crew
 
-4 Gravedigger Gun Mages 2
+3 Lt. Stella Barron
 
-4 Gravedigger Gun Mages 3
+8 Gravedigger Commandos 1
 
-8 Gravedigger Rangers
+2 Commando Officer 1
+
+8 Gravedigger Commandos 2
+
+2 Commando Officer 2
+
+8 Gravedigger Commandos 3
+
+2 Commando Officer 3
+
+8 Gravedigger Rangers 1
+
+8 Gravedigger Rangers 2
+
+8 Gravedigger Rangers 3
 
 5 Storm Vanes
 
@@ -78,6 +73,6 @@ Light Airdrop 1
 Light Airdrop 2
 Lucky Penny
 Military Engineering
-Old Faithful
+Put the Fires Out
 
 TOTAL POINTS 100/100

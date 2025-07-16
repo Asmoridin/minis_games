@@ -5,35 +5,36 @@ Pitched Battle - 75 pts
 
 PC CARD
 
-Kapitan Ekaterina Baranova
+Kommander Tatiana Sikora
 SPELL - Avenging Force
 SPELL - Fog of War
-SPELL - Freezing Grip
 
-10 Dire Wolf
+15 Avalanche
+HEAD - Hyper-Aggressive
+RIGHT ARM - Pneumatic Lance
+LEFT ARM - Wedge Shield
+
+10 Dire Wolf 1
 1 HEAD - Shield Guard
 5 RIGHT ARM - Long Axe
 4 LEFT ARM - Plow-Shield
 
-18 Razor
+10 Dire Wolf 2
+1 HEAD - Evasive
+5 RIGHT ARM - Long Axe
+4 LEFT ARM - Plow-Shield
 
 10 AC-2 Bison
 
-4 Magziev Zariyah Volkova
+5 Sergeant Sergei Krol
 
 3 Winter Korps Officer
 
 4 Arkanists
 
-11 Man-O-War Suppressors
+10 Man-O-War Wrecking Crew
 
 8 The Hounds
-
-6 Winter Korps Infantry
-WEAPON SUPPORT TROOPERS - Auto Cannon
-WEAPON SUPPORT TROOPERS - Auto Cannon
-
-1 Winter Korps Standard
 
 
 PC COMMAND CARD
