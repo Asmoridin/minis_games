@@ -1,47 +1,43 @@
-# 4/26/25 4th/6
+# 7/12/2025 5th/8 Australia
 
-75p dekathus list
+lazy dekathus
 Cryx - Necrofactorium
 Pitched Battle - 75 pts
 
 PC CARD
 
 Lich Lord Dekathus
-SPELL - Carnage
+SPELL - Calamity
 SPELL - Death Ward
 
-12 Malefactor 1
+12 Malefactor
 1 HEAD - Soul Claiming
 7 RIGHT ARM - Fell Axe
 4 LEFT ARM - Spiked Shield
 
-12 Malefactor 2
-1 HEAD - Soul Claiming
-6 RIGHT ARM - Harpoon
-5 LEFT ARM - Helldriver
+6 Raptor
+4 HEAD - Doomspitter
+2 BACK - Arc Node
 
-11 Malefactor 3
-1 HEAD - Soul Claiming
-6 RIGHT ARM - Plague Cannon
-4 LEFT ARM - Vexing Cannon
-
-4 Iron Lich Commander
+15 Malfessor
 
 4 Master Necrotech Chatterbane
 
-8 Mechanithrall Brutes
+4 Silexus Xiphus
+
+8 Criterions 1
+
+8 Criterions 2
 
 4 Necrosurgeon Initiates 1
 
 4 Necrosurgeon Initiates 2
 
-8 Sludge Thralls
-
-8 The Criterions
+10 Night Terrors
 
 
 PC COMMAND CARD
-Break Through
+Blessing of the Gods
 Hit & Run
 Lucky Penny
 Old Faithful
