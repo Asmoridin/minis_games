@@ -1,6 +1,5 @@
-# 5/31/25 1st/17 Australia
+# 7/20/25 1st/20 Australia
 
-V.Champs Kyrrax
 Khymaera - Shadowflame Shard
 Grand Melee - 100 pts
 
@@ -15,26 +14,29 @@ Kyrrax, the Unrelenting Night
 SPELL - Carnivore
 SPELL - Curse of Shadows
 
-34 Trikhymaerax
-12 ARCANE HEADS - Eyeless Head
+31 Trikhymaerax
+9 ARCANE HEADS - Many-Eyed Head
 RANGE HEADS - Flame Head
 8 MELEE HEADS - Gulper Head
 ARCANE TAILS - Negation Tail
 8 RANGE TAILS - Frost Tail
 6 MELEE TAILS - Stinger
 
-10 Vypex
+10 Vypex 1
 1 HEAD - Asp
 3 TAIL - Hunter's Mark
 6 ARMS - Cleavers
 
-3 Pythia
+10 Vypex 2
+1 HEAD - Asp
+1 TAIL - Chasten
+8 ARMS - Impalers
 
 5 Wraithwing Paragon 1
 
 5 Wraithwing Paragon 2
 
-11 Incarnate Knights
+7 Quick Fang Stalkers
 
 7 Talon Death Dealers 1
 

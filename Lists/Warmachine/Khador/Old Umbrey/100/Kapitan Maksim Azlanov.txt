@@ -1,32 +1,30 @@
 # 7/19/25 4th/24 Ottawa
 
-Bohdan LW
 Khador - Old Umbrey
 Grand Melee - 100 pts
 
 PC CARD
 
-Bohdan Lesnoi, Apostle of the Witch
+Defenses
+DEFENSE 1 - Barrier
+DEFENSE 1 - Barrier
+DEFENSE 1 - Spike Trap
+
+Kapitan Maksim Azlanov
 SPELL - Curse of Shadows
 SPELL - Earth Spikes
 
-8 Feral 1
-5 HEAD - Alke
-3 BACK - Bony Spine
-
-9 Feral 2
+9 Feral 1
 5 HEAD - Alke
 4 BACK - Wings
 
-16 Primeval 1
-4 HEAD - Stag
-7 RIGHT ARM - Bone Sword
-5 LEFT ARM - Enchanted Shield
+8 Feral 2
+5 HEAD - Alke
+3 BACK - Quills
 
-14 Primeval 2
-3 HEAD - Raven
-7 RIGHT ARM - Bone Sword
-4 LEFT ARM - Runed Skull
+15 Strix
+
+16 The Starved
 
 2 Animist
 
@@ -36,20 +34,22 @@ Razor
 
 4 Vorony
 
+2 Witch-Marked Totem
+
 9 Chosen of the Witch
 
 5 Liegemen Wardens
 
-5 Shearlings
+5 Shearlings 1
 
-8 The Hounds
+5 Shearlings 2
 
 
 PC COMMAND CARD
 Blessing of the Gods
+Defenses
 Hit & Run
 Lucky Penny
-Old Faithful
-Sapper
+Put the Fires Out
 
 TOTAL POINTS 100/100

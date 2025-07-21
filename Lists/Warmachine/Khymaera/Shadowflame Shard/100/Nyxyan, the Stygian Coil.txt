@@ -1,6 +1,5 @@
-# 5/31/25 1st/17 Australia
+# 7/20/25 1st/20 Australia
 
-V.Champs Nyxyan
 Khymaera - Shadowflame Shard
 Grand Melee - 100 pts
 
@@ -17,28 +16,27 @@ SPELL - Curse of Shadows
 
 14 Aklyss
 
+16 Skylla, The Abyssal Fury
+9 CENTRAL HEAD - Skylla
+4 SMALLER HEAD 1 - Horned Piercer
+3 SMALLER HEAD 2 - Gnashing Fangs
+
 10 Vypex
 1 HEAD - Asp
 3 TAIL - Hunter's Mark
 6 ARMS - Cleavers
 
-19 Wyvern
-
-4 Bellighul, Master of Pain
-
 3 Pythia
-
-2 Spinner 1
-
-2 Spinner 2
 
 5 Wraithwing Paragon
 
+11 Incarnate Knights
+
+7 Quick Fang Stalkers 1
+
+7 Quick Fang Stalkers 2
+
 9 Shades
-
-7 Talon Death Dealers 1
-
-7 Talon Death Dealers 2
 
 7 Talon Lashers 1
 
@@ -50,7 +48,7 @@ SPELL - Curse of Shadows
 PC COMMAND CARD
 Blessing of the Gods
 Defenses
-Duck & Cover!
+Duck and Cover!
 Hit & Run
 Lucky Penny
 
