@@ -1,36 +1,18 @@
-# 5/31/25 2nd/18 Oregon
+# 7/19/25 1st/24 Ottawa
 
-hazaroth
 Dusk - House Kallyss
 Grand Melee - 100 pts
 
 PC CARD
 
-Defenses
-DEFENSE 1 - Barrier
-DEFENSE 1 - Barrier
-DEFENSE 1 - Spike Trap
-
 Hazaroth, Narcissar of Ruin
-SPELL - Mirage
-SPELL - Ghost Walk
+SPELL - Deceleration
+SPELL - Revive
 
-15 Eidolon 1
-1 HEAD - Arcane Stasis
+15 Eidolon
+2 HEAD - True Sight
 6 RIGHT ARM - Dawn Blade
-5 LEFT ARM - Force Shield
-3 BACK - Vortex Cannon
-
-15 Eidolon 2
-1 HEAD - Arcane Stasis
-6 RIGHT ARM - Dawn Blade
-5 LEFT ARM - Force Shield
-3 BACK - Vortex Cannon
-
-13 Eidolon 3
-1 HEAD - Arcane Stasis
-4 RIGHT ARM - Null Blade
-5 LEFT ARM - Force Shield
+4 LEFT ARM - Dusk Blade
 3 BACK - Vortex Cannon
 
 17 Israfyl
@@ -39,28 +21,34 @@ LEFT ARM - Serpentine Blade
 RIGHT ARM - Serpentine Blade
 BACK - Death Whisper
 
+10 Specter
+
+4 Dreadguard Scyir
+
 4 Dyssiss, the Eye of Darkness
 
-7 Krueger, Wrath of Blighterghast
+4 Mage Hunter Commander
 
-3 Mage Hunter Sniper Team
+4 Vaelyss, The Hand of Mourning
 
-6 Mage Hunter Assassins 1
+2 Void Shaper
 
-6 Mage Hunter Assassins 2
+9 Dreadguard Archers
 
-4 Seeker Adepts 1
+11 Dreadguard Cavalry
 
-4 Seeker Adepts 2
+8 Dreadguard Slayers 1
 
-6 Soulless Guardians
+8 Dreadguard Slayers 2
+
+4 Seeker Adepts
 
 
 PC COMMAND CARD
-Blessing of the Gods
 Careful Reconnaissance
-Defenses
-Old Faithful
+Duck and Cover!
+Lucky Penny
 Put the Fires Out
+Sapper
 
 TOTAL POINTS 100/100
