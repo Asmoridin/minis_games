@@ -1,47 +1,58 @@
-# 5/31/25 2nd/17 Utah
+# 7/19/25 2nd/24 Ottawa
 
 Orgoth - Sea Raiders
 Grand Melee - 100 pts
 
 PC CARD
 
+Defenses
+DEFENSE 1 - Barrier
+DEFENSE 2 - Fire Pit
+DEFENSE 1 - Fire Pit
+
 Kishtaar, The Howling Silence
 SPELL - Redline
-SPELL - Windstorm
+SPELL - Silence of Death
 
-7 Jackal 1
-1 HEAD - Advance Deployment
-5 RIGHT ARM - Hunter Rifle
-1 LEFT ARM - Clawed Fist
+6 Jackal 1
+1 HEAD - Bloodthirst
+3 RIGHT ARM - Mace
+2 LEFT ARM - Pneumatic Spike
 
-7 Jackal 2
-1 HEAD - Advance Deployment
-5 RIGHT ARM - Hunter Rifle
-1 LEFT ARM - Clawed Fist
+6 Jackal 2
+1 HEAD - Bloodthirst
+3 RIGHT ARM - Mace
+2 LEFT ARM - Pneumatic Spike
 
-17 Tyrant 1
-2 HEAD - Relentless Charge
-8 RIGHT ARM - Scything Flail
-7 LEFT ARM - Quad Bolt Thrower
+6 Jackal 3
+1 HEAD - Bloodthirst
+3 RIGHT ARM - Mace
+2 LEFT ARM - Pneumatic Spike
 
-17 Tyrant 2
-2 HEAD - Relentless Charge
-8 RIGHT ARM - Scything Flail
-7 LEFT ARM - Quad Bolt Thrower
+6 Jackal 4
+1 HEAD - Bloodthirst
+3 RIGHT ARM - Mace
+2 LEFT ARM - Pneumatic Spike
 
-3 Koldun Lord Damien Korovnik
+5 Grhotten Keeper 1
 
-3 Reaver Commander
+5 Grhotten Keeper 2
 
-2 Vulcar Forge Master
+3 Reaver Commander 1
 
-8 Strike Reavers 1
+3 Reaver Commander 2
 
-2 Reaver Standard 1
+4 Therion Vhanek
 
-8 Strike Reavers 2
+2 Vulcar Forge Master 1
 
-2 Reaver Standard 2
+2 Vulcar Forge Master 2
+
+9 Gnashers 1
+
+9 Gnashers 2
+
+10 Rhok Harriers
 
 8 Ulkor Barragers 1
 
@@ -55,8 +66,8 @@ SPELL - Windstorm
 PC COMMAND CARD
 Blessing of the Gods
 Careful Reconnaissance
-Hit & Run
-Lucky Penny
+Defenses
+Duck and Cover!
 Old Faithful
 
 TOTAL POINTS 100/100
