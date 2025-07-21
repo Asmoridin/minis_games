@@ -1,19 +1,9 @@
-# 5/31/25 5th/21 Colorado tournament
+# 7/20/25 2nd/20 Australia
 
-Hasker
 Cygnar - Gravediggers
 Grand Melee - 100 pts
 
 PC CARD
-
-Heavy Weapon Crate 1
-HEAVY WEAPON - Heavy Flamethrower
-
-Blocker 1
-
-Skirmisher 1
-
-Raider 1
 
 Ammo Crate 1
 
@@ -31,58 +21,54 @@ Mantlet 2
 
 Fuel Canister 2
 
-Heavy Weapon Crate 2
-HEAVY WEAPON - Heavy Flamethrower
-
-Skirmisher 2
-
-Blocker 2
-
-Raider 2
+Defenses
+DEFENSE 1 - Barrier
+DEFENSE 1 - Barrier
+DEFENSE 1 - Barrier
 
 Captain Buck Hasker
-SPELL - Chasten
+SPELL - Rock Wall
 SPELL - Silence of Death
+
+16 Beaker
+HEAD - Beaker
+RIGHT ARM - Sonic Pulse Cannon
+LEFT ARM - Pulse Drill
 
 17 Plugger
 HEAD - Plugger
 RIGHT ARM - Trench Ripper
 LEFT ARM - Trench Ripper
 
-12 Valiant 1
-2 HEAD - Reposition
+11 Valiant
+1 HEAD - Evasive
 5 RIGHT ARM - Piston Hammer
 5 LEFT ARM - Harpoon Fist
 
-13 Valiant 2
-2 HEAD - Aggressive
-5 RIGHT ARM - Piston Hammer
-6 LEFT ARM - Volley Shield
+20 Carver Ultimus
 
-4 Greygore Boomhowler
+War Boar MMD47
 
-4 Sergeant Brunaugh "Bruno" Ramjaw
+3 Lt. Stella Barron
 
-8 Gravedigger Commandos
+8 Gravedigger Commandos 1
 
-2 Commando Officer
+2 Commando Officer 1
 
-4 Gravedigger Gun Mages 1
+8 Gravedigger Commandos 2
 
-4 Gravedigger Gun Mages 2
+2 Commando Officer 2
 
-8 Gravedigger Rangers
+4 Gravedigger Gun Mages
 
-5 Storm Vanes
-
-9 The Black 13th
+9 The Rowdies
 
 
 PC COMMAND CARD
 Blessing of the Gods
-Duck and Cover!
-5 Heavy Airdrop 1
-5 Heavy Airdrop 2
+Break Through
+Defenses
+Hit & Run
 Light Airdrop 1
 Light Airdrop 2
 Military Engineering
