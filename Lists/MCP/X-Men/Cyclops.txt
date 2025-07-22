@@ -1,33 +1,36 @@
 # 7/5/2025 1st/10 Texas
 
+Characters (10):
+Threat: 35
+Angel (3)
+Colossus (4)
+Shadowcat (3)
+*Storm (3)
+*Cyclops (4)
+Phoenix (6)
+Psylocke (4)
+*X-23 (3)
+Okoye (2)
+*Magik (3)
 
-
-Characters
-Angel (Warren Worthington III)
-Colossus (Piotr Rasputin)
-Shadowcat (Katherine "Kitty" Pryde)
-Storm (Ororo Munroe)
-Phoenix (Jean Grey)
-Psylocke (Elizabeth Braddock)
-X-23 (Laura Kinney)
-Cyclops (Scott Summers)
-Okoye
-Magik (Illyana Rasputin)
-Team Tactics
-Brace for Impact
-Sacrifice
+Tactics (10):
+Brace for Impact (R)
+Sacrifice (R)
 Xavier's Dream
 To Me, My X-Men!
 First Class
 Children of the Atom
-Mental Domination
 Fallen
+Mental Domination
 Ultimate Sacrifice
 Journey Through Limbo
-Crises
-Guardians Save Shi'ar Empress in Style
-M'Kraan Crystal Gets Heroes Home!
-Deadly Meteors Mutate Citizens
-The Montesi Formula Found
-Deadly Legacy Virus Cured?
-Unexpected Guests Crash Royal Wedding
+
+Secure Crisis:
+Guardians Save Shi'ar Empress in Style (, 17)
+M'Kraan Crystal Gets Heroes Home! (, 19)
+Deadly Meteors Mutate Citizens (I, 17)
+
+Extract Crisis:
+The Montesi Formula Found (E, 18)
+Unexpected Guests Crash Royal Wedding (F, 17)
+Deadly Legacy Virus Cured? (C, 19)

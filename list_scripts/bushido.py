@@ -117,6 +117,14 @@ def manual_fix(in_item):
         return "Koji's Pack"
     if in_item in ["• 1x Hilltribe Tracker A", "• 1x Hilltribe Tracker B"]:
         return "Hilltribe Tracker"
+    if in_item in ["• 1x Armoured Kairai A"]:
+        return "Armoured Kairai"
+    if in_item in ['• 1x Kairai Farmer A', '• 1x Kairai Farmer B']:
+        return "Kairai Farmers"
+    if in_item in ['• 1x Kairai Militia A']:
+        return "Kairai Militia"
+    if in_item in ['• 1x Kairai Villager A']:
+        return "Kairai Villagers"
     return in_item
 
 def clean_list(in_list):

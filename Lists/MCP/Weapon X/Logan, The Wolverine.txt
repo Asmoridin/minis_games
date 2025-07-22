@@ -1,19 +1,20 @@
 # Updated 5/24/25 4/16 Illinois tournament
 
-Characters 10
-* X-23 3
-Domino 3
-Honey Badger 2
-* Logan, the Wolverine 4
-Maverick 3
-Sabretooth, Apex Predator 4
-* Weapon X 3
-Deadpool 3
-Mister Sinister 4
-* Cable 5
+Characters (10):
+Threat: 34
+*Logan, The Wolverine (4)
+*X-23 (3)
+Domino (3)
+Honey Badger (2)
+Maverick (3)
+Sabretooth (4)
+*Weapon X (3)
+Deadpool (3)
+Mister Sinister (4)
+*Cable (5)
 
-Team Tactics 10
-Are You Sure You Want To Remember?
+Tactics (10):
+Are You Sure You Want to Remember?
 Dossier
 Weapons Stash
 Cat and Mouse
@@ -21,15 +22,15 @@ Preserve the Dream
 Cloning Banks
 Forced Extraction
 Instant Recovery
-Patch Up R
-Brace for Impact R
+Brace for Impact (R)
+Patch Up (R)
 
-Secure Crisis
-Super-Powered Scoundrels Form Sinister Syndicate F, 20
-Mayor Fisk Vows To Find Missing Witnesses H, 16
-Cosmic Invasion! Black Order Descends on Earth D, 16
+Secure Crisis:
+Super-Powered Scoundrels Form Sinister Syndicate! (F, 20)
+Mayor Fisk Vows to Find Missing Witnesses (H, 16)
+Cosmic Invasion! Black Order Descends on Earth (D, 16)
 
-Extract Crisis
-Spider-Infected Invade Manhattan F, 17
-Fear Grips World As “Worthy“ Terrorize Cities D, 18
-Struggle For The Cube Continues F, 17
+Extract Crisis:
+Struggle for the Cube Continues (F, 17)
+Spider-Infected Invade Manhattan (F, 17)
+Fear Grips World as "Worthy" Terrorize Cities (D, 18)

@@ -175,9 +175,9 @@ Ka-Feng, the Gardener;Savage Wave;1;0
 Kaede;Silvermoon Syndicate;1;0
 Kaihei Alpha;Savage Wave;1;0
 Kaihei;Savage Wave;4;0
-Kairai Farmer;Cult of Yurei;2;0
+Kairai Farmers;Cult of Yurei;2;0
 Kairai Militia;Cult of Yurei;2;0
-Kairai Villager;Cult of Yurei;2;0
+Kairai Villagers;Cult of Yurei;2;0
 Kaito;Temple of Ro-Kan;1;0
 Kaiyō & Mangetsu;Temple of Ro-Kan;1;0
 Kami of Blighted Earth;Ronin;2;0
