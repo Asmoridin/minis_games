@@ -1,37 +1,36 @@
 # 7/5/2025 1st/12 Oregon Team Tournament
 
+Characters (10):
+Threat: 38
+Clea (3)
+*Doctor Strange (5)
+*Elsa Bloodstone (4)
+Luke Cage (3)
+Scarlet Witch (5)
+Wong (2)
+*Namor, the Sub-Mariner (5)
+Shang-Chi (4)
+Silver Sable (4)
+Hawkeye (3)
 
-
-Characters 10
-Clea 3
-* Doctor Strange 5
-* Elsa Bloodstone 4
-Luke Cage 3
-Scarlet Witch 5
-Wong 2
-Namor, the Sub-Mariner 5
-Shang-Chi 4
-Silver Sable 4
-Hawkeye 3
-
-Team Tactics 10
+Tactics (10):
 Mystic Ward
 Street Smarts
-No More Mutants
 Recalibration Matrix
-Brace for Impact R
-Prince‘s Protection
+No More Mutants
+Brace for Impact (R)
+Prince's Protection
 Heroes for Hire
 The Whims of Chaos
 Human Weapon
-Fall Back R
+Fall Back (R)
 
-Secure Crisis
-Guardians Save Shi‘ar Empress in Style M, 17
-M‘Kraan Crystal Gets Heroes Home! G, 19
-Infinity Formula Goes Missing! B, 17
+Secure Crisis:
+Guardians Save Shi'ar Empress in Style (, 17)
+M'Kraan Crystal Gets Heroes Home! (, 19)
+Infinity Formula Goes Missing! (B, 17)
 
-Extract Crisis
-Struggle For The Cube Continues F, 17
-Fear Grips World As “Worthy“ Terrorize Cities D, 18
-The Montesi Formula Found E, 18
+Extract Crisis:
+Struggle for the Cube Continues (F, 17)
+Fear Grips World as "Worthy" Terrorize Cities (D, 18)
+The Montesi Formula Found (E, 18)

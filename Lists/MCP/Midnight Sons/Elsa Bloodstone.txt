@@ -1,31 +1,36 @@
 # 7/19/25 3rd/16 Australia
 
-Characters
-Elsa Bloodstone
-Man-Thing (Theodore Sallis)
-Moon Knight (Marc Spector)
-N'Kantu, the Living Mummy (N'Kantu)
-Wong
-Bob, Agent of Hydra (Robert Dobalina)
-Nebula
-Rocket Raccoon
-Groot
-Hood (Parker Robbins)
-Team Tactics
+Characters (10):
+Threat: 27
+*Elsa Bloodstone (4)
+Man-Thing (3)
+Moon Knight (3)
+N'Kantu, the Living Mummy (3)
+Wong (2)
+Bob, Agent of Hydra (2)
+Nebula (2)
+Rocket Raccoon (2)
+Groot (3)
+Hood (3)
+
+Tactics (10):
 Bats the Ghost Hound
 Siege of Darkness
 Deadly Duo
-Covering Fire
 Dimensional Quagmire
+Covering Fire
 We Are Groot
-Brace for Impact
-Fall Back
-Joint Effort
+Fall Back (R)
+Brace for Impact (R)
 Hood's Gang
-Crises
-Super-Powered Scoundrels Form Sinister Syndicate!
-Wedding Party Targeted By Terrible Attack!
-Riots Spark Over Extremis 3.0
-Mutant Extremists Target U.S. Senators!
-Inhumans Deploy Advanced Weaponry
-Unexpected Guests Crash Royal Wedding
+Joint Effort
+
+Secure Crisis:
+Super-Powered Scoundrels Form Sinister Syndicate! (F, 20)
+Wedding Party Targeted By Terrible Attack! (, 20)
+Riots Spark Over Extremis 3.0 (D, 17)
+
+Extract Crisis:
+Mutant Extremists Target U.S. Senators! (L, 19)
+Inhumans Deploy Advanced Weaponry (, 18)
+Unexpected Guests Crash Royal Wedding (F, 17)
