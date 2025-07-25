@@ -1,31 +1,36 @@
 # 7/6/2025 4th/47 Polish AMG GT
 
-Characters
-Star-Lord (Peter Quill)
-Cosmic Ghost Rider (Frank Castle)
-Nova (Richard Rider)
-Yondu (Yondu Udonta)
-Agent Venom (Flash Thompson)
-Beta Ray Bill (Bill)
-Drax the Destroyer (Drax)
-Groot
-Rocket Raccoon
-Nebula
-Team Tactics
-Brace for Impact
-Sacrifice
+Characters (10):
+Threat: 36
+*Star-Lord (3)
+Cosmic Ghost Rider (6)
+Nova (5)
+Yondu (4)
+Agent Venom (4)
+Beta Ray Bill (4)
+Drax the Destroyer (3)
+Groot (3)
+Rocket Raccoon (2)
+Nebula (2)
+
+Tactics (10):
+Brace for Impact (R)
 Galaxy's Greatest
+Sacrifice (R)
+We Are Groot
 Lovable Misfits
 Deadly Duo
-We Are Groot
-Plundered Goods
 Foreign Assignment
-Call for Backup
+Plundered Goods
 Survival
-Crises
-Deadline to Destruction
-Deadly Meteors Mutate Citizens
-Wedding Party Targeted By Terrible Attack!
-Alien Ship Crashes in Downtown!
-The Montesi Formula Found
-Deadly Legacy Virus Cured?
+Call for Backup
+
+Secure Crisis:
+Deadline to Destruction (, 16)
+Deadly Meteors Mutate Citizens (I, 17)
+Wedding Party Targeted By Terrible Attack! (, 20)
+
+Extract Crisis:
+Alien Ship Crashes in Downtown! (C, 17)
+Deadly Legacy Virus Cured? (C, 19)
+The Montesi Formula Found (E, 18)

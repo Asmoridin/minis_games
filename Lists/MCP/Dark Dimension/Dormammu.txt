@@ -1,31 +1,36 @@
 # 7/20/25 1st/10 Iowa
 
-Characters
-Hulk (Bruce Banner)
-Dormammu
-King T'Challa (T'Challa)
-M'Baku
-Okoye
-The Mighty Thor (Jane Foster)
-Gambit (Remy LeBeau)
-Nick Fury & the Howling Commandos (Nicholas Fury, Sr., Timothy "Dum Dum" Dugan, Gabriel Jones)
-Nick Fury (Nicholas J. Fury, Jr.)
-Carnage (Cletus Kasady)
-Team Tactics
-Brace for Impact
-Patch Up
-Wakanda Forever
+Characters (10):
+Threat: 44
+*Dormammu (8)
+Hulk (6)
+*King T'Challa (5)
+*M'Baku (4)
+Okoye (2)
+*The Mighty Thor (5)
+Gambit (3)
+Nick Fury & the Howling Commandos (3)
+*Nick Fury (4)
+Carnage (4)
+
+Tactics (10):
+Brace for Impact (R)
+Patch Up (R)
 Spirit of Wakanda
+Wakanda Forever
 Wisdom of the Ancestors
-Dark Restoration
 Survival
+Dark Restoration
 Eye in the Sky
 Carnage Rules
 Gamma Launch
-Crises
-Mayor Fisk Vows to Find Missing Witnesses
-Wedding Party Targeted By Terrible Attack!
-Intrusions Open Across City As Seals Collapse
-Fear Grips World as "Worthy" Terrorize Cities
-Inhumans Deploy Advanced Weaponry
-Skrulls Infiltrate World Leadership
+
+Secure Crisis:
+Wedding Party Targeted By Terrible Attack! (, 20)
+Mayor Fisk Vows to Find Missing Witnesses (H, 16)
+Intrusions Open Across City As Seals Collapse (C, 19)
+
+Extract Crisis:
+Fear Grips World as "Worthy" Terrorize Cities (D, 18)
+Inhumans Deploy Advanced Weaponry (, 18)
+Skrulls Infiltrate World Leadership (J, 20)
