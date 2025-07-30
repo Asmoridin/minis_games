@@ -1,36 +1,36 @@
 # 6/7/25 5th/36 Ontario tournament
 
-Characters 10:
+Characters (10):
 Threat: 37
-Okoye 2
-*King T'Challa 5
-*M'Baku 4
-Shuri 3
-Juggernaut 5
-*Magneto 6
-Quicksilver 3
-The Blob 3
-Toad 2
-Rogue 4
+*Magneto (6)
+Okoye (2)
+*King T'Challa (5)
+*M'Baku (4)
+Shuri (3)
+Juggernaut (5)
+Quicksilver (3)
+The Blob (3)
+Toad (2)
+Rogue (4)
 
-Tactics 10:
+Tactics (10):
 Asteroid M
 Magnetic Refraction
 Wakanda Forever
 Recalibration Matrix
-Brace for Impact R
-Patch Up R
-Do You Know Who I Am?
+Patch Up (R)
+Brace for Impact (R)
 Can I Borrow That?
+Do You Know Who I Am?
 Jabari Chieftain
 Wisdom of the Ancestors
 
 Secure Crisis:
-Wedding Party Targeted By Terrible Attack! , 20
-Super-Powered Scoundrels Form Sinister Syndicate! F, 20
-Riots Spark Over Extremis 3.0 D, 17
+Wedding Party Targeted By Terrible Attack! (, 20)
+Super-Powered Scoundrels Form Sinister Syndicate! (F, 20)
+Riots Spark Over Extremis 3.0 (D, 17)
 
 Extract Crisis:
-The Montesi Formula Found E, 18
-Fear Grips World as "Worthy" Terrorize Cities D, 18
-Skrulls Infiltrate World Leadership J, 20
+The Montesi Formula Found (E, 18)
+Fear Grips World as "Worthy" Terrorize Cities (D, 18)
+Skrulls Infiltrate World Leadership (J, 20)

@@ -1,31 +1,36 @@
 # 7/6/2025 2nd/47 Polish AMG GT
 
-Characters
-Kingpin (Wilson Fisk)
-M.O.D.O.K. Scientist Supreme (George Tarleton)
-Ulik
-Elektra (Elektra Nachios)
-Rhino (Aleksei Sytsevich)
-The Wrecking Crew (Brian Calusky, Dirk Garthwaite, Eliot Franklin, Henry Camp)
-Black Cat (Felicia Hardy)
-Shocker (Herman Schultz)
-Bullseye (Benjamin Poindexter)
-Logan, The Wolverine (James Logan Howlett)
-Team Tactics
-Brace for Impact
-Fall Back
-Recalibration Matrix
+Characters (10):
+Threat: 37
+*Kingpin (4)
+*M.O.D.O.K. Scientist Supreme (4)
+Ulik (5)
+Elektra (4)
+Rhino (4)
+The Wrecking Crew (4)
+Black Cat (3)
+Shocker (3)
+Bullseye (2)
+*Logan, The Wolverine (4)
+
+Tactics (10):
+Brace for Impact (R)
+Fall Back (R)
 All According to Plan
-Cruelty
+Recalibration Matrix
 Shadow Organization
+Cruelty
 No Mercy
 Stronger Together
 This is a Robbery
 Gotta Get Some Air
-Crises
-Super-Powered Scoundrels Form Sinister Syndicate!
-Riots Spark Over Extremis 3.0
-Cosmic Invasion! Black Order Descends on Earth
-Struggle for the Cube Continues
-Mutant Extremists Target U.S. Senators!
-Terrigen Canisters Fuel Doomsday Device
+
+Secure Crisis:
+Super-Powered Scoundrels Form Sinister Syndicate! (F, 20)
+Riots Spark Over Extremis 3.0 (D, 17)
+Cosmic Invasion! Black Order Descends on Earth (D, 16)
+
+Extract Crisis:
+Terrigen Canisters Fuel Doomsday Device (F, 17)
+Struggle for the Cube Continues (F, 17)
+Mutant Extremists Target U.S. Senators! (L, 19)
