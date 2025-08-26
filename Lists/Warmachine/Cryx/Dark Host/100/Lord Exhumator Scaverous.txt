@@ -1,8 +1,5 @@
-#3/29/25 6th/10 Central PA Clash 2025
+# 8/23/25 3rd/6 UK tournament
 
-
-
-List1
 Cryx - Dark Host
 Grand Melee - 100 pts
 
@@ -10,42 +7,40 @@ PC CARD
 
 Lord Exhumator Scaverous
 
+12 Desecrator
+
 14 Erebus
 
-14 Nightmare
+11 Reaper
 
-10 Seether
+9 Slayer 1
 
-7 Stalker 1
+9 Slayer 2
 
-7 Stalker 2
+9 Slayer 3
 
-11 Wraith Engine
+2 Machine Wraith 1
 
-5 Bane Lord Tartarus
+2 Machine Wraith 2
 
-1 Necrotech
+2 Machine Wraith 3
 
-4 Pistol Wraith
-
-2 Skarlock Thrall
-
-1 Soul Trapper
+7 Bane Knights
 
 7 Bane Warriors 1
 
-4 Bane Warrior Officer & Standard
+4 Bane Warrior Officer & Standard 1
 
 7 Bane Warriors 2
 
-6 The Withershadow Combine
+4 Bane Warrior Officer & Standard 2
 
 
 PC COMMAND CARD
+Blessing of the Gods
 Careful Reconnaissance
-Duck and Cover!
-Hit & Run
 Lucky Penny
 Old Faithful
+Put the Fires Out
 
-TOTAL POINTS 100/100
+TOTAL POINTS 99/100
