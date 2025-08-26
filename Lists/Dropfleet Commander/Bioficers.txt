@@ -1,0 +1,50 @@
+# 3/29/25 1st/16 Adepticon
+
+Bioficers - Carnage - [1250 pts]
+
+# ++ Fleet ++ [1250 pts]
+## Configuration
+Game Size: Clash
+
+## Admirals [20 pts]
+Lvl 2: Admiral [20 pts]
+
+## Heavy Groups [140 pts]
+Stature Battlecruiser [140 pts]: Decon Annihilator
+
+## Medium Groups [430 pts]
+Cacophony Heavy Cruiser [140 pts]: 2x Scythes
+Catastrophe Heavy Cruiser [110 pts]: Heavy Lightvice, Thermator
+Comet Cruisers [180 pts]:
+• 2x Comet Cruiser [90 pts]: Thermator, Decon Blaster
+
+## Light Groups [550 pts]
+Domain Destroyers [130 pts]:
+• 2x Domain Destroyer [65 pts]: Decon Cannon
+Foray Frigates [50 pts]:
+• 2x Foray Frigate [25 pts]: Decon Burst
+Fulcrum Frigates [160 pts]:
+• 4x Fulcrum Frigate [40 pts]: Barb Spiker
+Logic Lighters [40 pts]:
+• 2x Logic Lighter [20 pts]: Light Bombardment, Drop Pods
+Logic Lighters [40 pts]:
+• 2x Logic Lighter [20 pts]: Light Bombardment, Drop Pods
+Matrix Monitors [130 pts]:
+• 2x Matrix Monitor [65 pts]: Decon Blast, Torpedo
+
+## Payload Groups [110 pts]
+Lander Cells [15 pts]:
+• 1x Lander Cell [15 pts]: Bulk Landers
+Lander Cells [15 pts]:
+• 1x Lander Cell [15 pts]: Bulk Landers
+Torpedo Cells [20 pts]:
+• 1x Torpedo Cell [20 pts]: Torpedo
+Torpedo Cells [20 pts]:
+• 1x Torpedo Cell [20 pts]: Torpedo
+Torpedo Cells [20 pts]:
+• 1x Torpedo Cell [20 pts]: Torpedo
+Torpedo Cells [20 pts]:
+• 1x Torpedo Cell [20 pts]: Torpedo
+
+## Game
+Secondary Objectives: Take Prizes, Decapitate
