@@ -1,43 +1,48 @@
-# 7/12/2025 1st/14 California
+# 8/23/25 1st/18 German Masters
 
-Hogs in Bogs
 Khador - Old Umbrey
 Grand Melee - 100 pts
 
 PC CARD
 
+Defenses
+DEFENSE 1 - Barrier
+DEFENSE 1 - Barrier
+DEFENSE 1 - Barrier
+
 Kapitan Yana Kovoskiy
+SPELL - Curse of Shadows
 SPELL - Earth Spikes
-SPELL - Lashing Tendrils
 
 9 Feral 1
-6 HEAD - Razorback
-3 BACK - Bony Spine
+5 HEAD - Alke
+4 BACK - Wings
 
 9 Feral 2
-6 HEAD - Razorback
+6 HEAD - Peryton
+3 BACK - Quills
+
+9 Feral 3
+6 HEAD - Drek
 3 BACK - Bony Spine
 
-7 Feral 3
-5 HEAD - Alke
-2 BACK - Mane
-
-13 Primeval
+14 Primeval 1
 3 HEAD - Raven
-6 RIGHT ARM - Ancient Staff
+7 RIGHT ARM - Hunting Spear
 4 LEFT ARM - Runed Skull
 
+15 Primeval 2
+3 HEAD - Bear
+7 RIGHT ARM - Bone Sword
+5 LEFT ARM - Enchanted Shield
+
 15 Strix
-
-20 Kapitan Zahara Vilkul
-
-Razor
-
-4 Sergeant Goran Lazarenko, the Jackal
 
 4 Vorony
 
 2 Witch-Marked Totem
+
+6 Zacchaeus, The Winter’s Chill
 
 9 Chosen of the Witch
 
@@ -46,9 +51,9 @@ Razor
 
 PC COMMAND CARD
 Blessing of the Gods
-For the Motherland
+Defenses
 Hit & Run
 Lucky Penny
-Put the Fires Out
+Sapper
 
 TOTAL POINTS 100/100

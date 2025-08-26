@@ -1,21 +1,21 @@
-# 7/19/25 4th/24 Ottawa
+# 8/23/25 1st/18 German Masters
 
-Bohdan LW
 Khador - Old Umbrey
 Grand Melee - 100 pts
 
 PC CARD
 
+Defenses
+DEFENSE 1 - Barrier
+DEFENSE 1 - Barrier
+DEFENSE 1 - Barrier
+
 Bohdan Lesnoi, Apostle of the Witch
 SPELL - Curse of Shadows
 SPELL - Earth Spikes
 
-8 Feral 1
-5 HEAD - Alke
-3 BACK - Bony Spine
-
-9 Feral 2
-5 HEAD - Alke
+10 Feral
+6 HEAD - Drek
 4 BACK - Wings
 
 16 Primeval 1
@@ -23,33 +23,31 @@ SPELL - Earth Spikes
 7 RIGHT ARM - Bone Sword
 5 LEFT ARM - Enchanted Shield
 
-14 Primeval 2
+13 Primeval 2
 3 HEAD - Raven
-7 RIGHT ARM - Bone Sword
-4 LEFT ARM - Runed Skull
-
-2 Animist
+6 RIGHT ARM - Ancient Staff
+4 LEFT ARM - Enchanted Claw
 
 20 Kapitan Zahara Vilkul
 
 Razor
 
+20 Magnus the Unstoppable
+
+Invictus
+
 4 Vorony
 
 9 Chosen of the Witch
-
-5 Liegemen Wardens
-
-5 Shearlings
 
 8 The Hounds
 
 
 PC COMMAND CARD
 Blessing of the Gods
+Defenses
 Hit & Run
 Lucky Penny
 Old Faithful
-Sapper
 
 TOTAL POINTS 100/100

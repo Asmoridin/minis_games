@@ -1,0 +1,13 @@
+# 3/29/25 6th/11 Adepticon
+
+Plane= Spitfire Vb 32pts
+Quantity= 6
+Pilot skills= all 3
+Doc=Aggressive Tactics
+total pts w/o equip= 492
+
+equipment:
+Tropical Filters or
+Cold Weather Lub or
+Drop Tanks, depending on
+table.

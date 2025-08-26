@@ -1,31 +1,36 @@
-# 7/6/2025 19th/47 Polish AMG GT
+# 8/24/25 7th/18 UK tournament
 
-Characters
-Kingpin (Wilson Fisk)
-M.O.D.O.K. Scientist Supreme (George Tarleton)
-Bullseye (Benjamin Poindexter)
-Black Cat (Felicia Hardy)
-Rhino (Aleksei Sytsevich)
-Abomination (Emil Blonsky)
-Shuri
-Lizard (Curtis Connors)
-Mephisto, Lord of Temptation (Mephisto)
-The Wrecking Crew (Brian Calusky, Dirk Garthwaite, Eliot Franklin, Henry Camp)
-Team Tactics
+Characters (10):
+Threat: 36
+Abomination (5)
+Black Cat (3)
+Bullseye (2)
+Hood (3)
+Killmonger (4)
+*Loki, Prince of Lies (5)
+*M.O.D.O.K. Scientist Supreme (4)
+Rhino (4)
+Shocker (3)
+Taskmaster (3)
+
+Tactics (10):
 All According to Plan
-This is a Robbery
-Mind Games
-Shadow Organization
+Brace for Impact (R)
 Cruelty
-Patch Up
-Brace for Impact
-Brand New Day
-Up the Ante
-Stronger Together
-Crises
-Super-Powered Scoundrels Form Sinister Syndicate!
-Mayor Fisk Vows to Find Missing Witnesses
-M'Kraan Crystal Gets Heroes Home!
-Fear Grips World as "Worthy" Terrorize Cities
-Terrigen Canisters Fuel Doomsday Device
-Scientific Samples Found In Discovered Universe
+Hood's Gang
+Joint Effort
+Sacrifice (R)
+Survival
+This is a Robbery
+Usurp the Throne
+You Will Do As I Say, Monster
+
+Secure Crisis:
+Guardians Save Shi'ar Empress in Style (, 17)
+Infinity Formula Goes Missing! (B, 17)
+Mutant Madman Turns City Center Into Lethal Amusement Park (B, 18)
+
+Extract Crisis:
+Fear Grips World as "Worthy" Terrorize Cities (D, 18)
+Skrulls Infiltrate World Leadership (J, 20)
+Unexpected Guests Crash Royal Wedding (F, 17)
