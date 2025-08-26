@@ -1,0 +1,63 @@
+# 3/29/25 6th/16 Adepticon
+
+Clash
+Admirals 40 pts
+Lvl 3: Admiral
+40 pts
+Heavy Groups 310 pts
+Phalanx Battlecruiser 1
+165 pts
+• Phalanx Battlecruiser
+Rules: Critical-X, Penetrator, Volley-X, Fusillade-X
+Ship: Phalanx
+Weapon: 9K Mass Driver Turrets, N-31 Hybrid Gun Long Battery
+Senator Battlecruiser 1
+145 pts
+• Senator Battlecruiser
+Rules: Swacs, Bombardment, Limited-X, VX Bomb, Close Action
+Ship: Senator
+Weapon: VX Bomb, NC-16 Missile Salvo
+Medium Groups 420 pts
+Centurion Grand Cruisers 1
+125 pts
+• Centurion Grand Cruiser
+Rules: Remnant Rare, Critical-X, Penetrator, Volley-X
+Ship: Centurion x2 x2
+Weapon: 9K Mass Driver Turret x2 x2, N-31 Hybrid Gun Battery x2 x2
+Centurion Grand Cruisers 1
+125 pts
+• Centurion Grand Cruiser
+Rules: Remnant Rare, Critical-X, Penetrator, Volley-X
+Ship: Centurion x2 x2
+Weapon: 9K Mass Driver Turret x2 x2, N-31 Hybrid Gun Battery x2 x2
+Light Cruisers 2
+170 pts
+• 2x Light Cruiser: XN-31 Mass Driver Turret, 2x Bulk Landers & Fire Ships
+Rules: Critical-X
+Ship: Light Cruiser x2 x2
+Weapon: XN-31 Mass Driver Turret
+Load: Bulk Landers & Fire Ships x2 x2
+Light Groups 475 pts
+Aldrin Colony Ships 2
+150 pts
+• 2x Aldrin Colony Ship
+Rules: Descent
+Ship: Aldrin x2 x4
+Load: Bulk Landers x2 x4
+Galileo Orbital Telescopes 1
+55 pts
+• Galileo Orbital Telescope
+Rules: Detector, Monitor, Rare, Space Telescope, Telescope Token
+Ship: Galileo
+Strike Carriers 3
+135 pts
+• 3x Strike Carrier: Sensor Dome
+Rules: Descent, Detector
+Ship: Strike Carrier x6 x6
+Load: Dropships x2 x2
+Structure: Sensor Dome
+Strike Carriers 3
+135 pts
+• 3x Strike Carrier: Sensor Dome
+Rules: Descent, Detector
+Ship: Strike Carrier x6 x6
