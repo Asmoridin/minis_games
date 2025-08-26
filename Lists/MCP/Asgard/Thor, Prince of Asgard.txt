@@ -1,37 +1,36 @@
-# 4/12/25 20/32 Irish Tournament
+# 8/23/25 2nd/6 Spain
 
 Characters (10):
-Threat: 46
-Angela (5)
-Lady Sif (4)
-*Loki, Prince of Lies (5)
-*The Mighty Thor (5)
+Threat: 44
 *Thor, Prince of Asgard (5)
-Ronan the Accuser (4)
-Hulk (6)
-Toad (2)
-The Immortal Hulk (7)
-*Spider-Man (Miles Morales) (3)
+*The Mighty Thor (5)
+*Loki, Prince of Lies (5)
+Angela (5)
+Thor, Hero of Midgard (6)
+Beta Ray Bill (4)
+Lady Sif (4)
+Valkyrie (3)
+Ulik (5)
+Black Widow (2)
 
 Tactics (10):
-Trickster's Boon
-Heart of the Worthy
-Odin's Blessing
-Giant's Blood
-Doomed Prophecy
-Indomitable (R)
-Rainbow Bridge
-One Below All
 Patch Up (R)
+Brace for Impact (R)
 Recalibration Matrix
+Odin's Blessing
+Freyja's Blessing
+Rainbow Bridge
+For A Limited Time Only
+Giant's Blood
+Skuttlebutt, On Me!
+Rock and Troll
 
 Secure Crisis:
-Deadline to Destruction (, 16)
-Mayor Fisk Vows to Find Missing Witnesses (H, 16)
+Guardians Save Shi'ar Empress in Style (, 17)
+M'Kraan Crystal Gets Heroes Home! (, 19)
 Deadly Meteors Mutate Citizens (I, 17)
 
 Extract Crisis:
-Terrigen Canisters Fuel Doomsday Device (F, 17)
-Scientific Samples Found In Discovered Universe (D, 17)
-Alien Ship Crashes in Downtown! (C, 17)
-
+The Montesi Formula Found (E, 18)
+Fear Grips World as "Worthy" Terrorize Cities (D, 18)
+Skrulls Infiltrate World Leadership (J, 20)
