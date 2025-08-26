@@ -1,4 +1,4 @@
-# 7/5/2025 3rd/8 Belgium
+# 8/23/25 3rd/18 German Masters
 
 Cygnar - Storm Legion
 Grand Melee - 100 pts
@@ -11,8 +11,8 @@ DEFENSE 1 - Barrier
 DEFENSE 1 - Barrier
 
 Captain Raef Huxley
-SPELL - Arcane Shield
-SPELL - Deflection
+SPELL - Electrify
+SPELL - Jackhammer
 
 7 Courser 1
 1 HEAD - Shield Guard
@@ -29,14 +29,17 @@ SPELL - Deflection
 4 RIGHT ARM - Heavy Stormthrower
 2 LEFT ARM - Voltaic Punching Spike
 
-17 Deuce
-
 12 Stryker 1
 2 HEAD - True Sight
 6 RIGHT ARM - Voltaic Javelin
 4 LEFT ARM - Stormblazer Cannon
 
 12 Stryker 2
+2 HEAD - True Sight
+6 RIGHT ARM - Voltaic Javelin
+4 LEFT ARM - Stormblazer Cannon
+
+12 Stryker 3
 2 HEAD - True Sight
 6 RIGHT ARM - Voltaic Javelin
 4 LEFT ARM - Stormblazer Cannon
@@ -50,7 +53,9 @@ RIGHT ARM - Quicksilver Mk III
 
 5 Arcane Mechaniks 2
 
-5 Storm Vanes
+5 Storm Vanes 1
+
+5 Storm Vanes 2
 
 6 Stormblade Legionnaires
 
