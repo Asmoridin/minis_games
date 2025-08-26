@@ -1,6 +1,5 @@
-# 5/17/25 5th/11 Spanish tournament
+# 8/24/25 3rd/8 Utah Cup
 
-Zaragoza 1
 Cryx - Necrofactorium
 Grand Melee - 100 pts
 
@@ -8,7 +7,7 @@ PC CARD
 
 Wraithbinder Nekane
 SPELL - Calamity
-SPELL - Hellfire
+SPELL - Carnage
 SPELL - Scything Touch
 
 16 Hades
@@ -16,18 +15,13 @@ HEAD - Hades
 RIGHT ARM - Soul Cannon
 LEFT ARM - Death Claw
 
-11 Malefactor
-1 HEAD - Soul Claiming
-6 RIGHT ARM - Plague Cannon
-4 LEFT ARM - Vexing Cannon
-
 5 Raptor
-3 HEAD - Deathripper
+3 HEAD - Beaked Maw
 2 BACK - Arc Node
 
-3 Akulon Thaemestra
+15 Malfessor
 
-4 Iron Lich Commander
+3 Akulon Thaemestra
 
 4 Machine Wraith Dominator
 
@@ -35,24 +29,24 @@ LEFT ARM - Death Claw
 
 3 Skarlock Lieutenant
 
+6 Mechanithrall Swarm
+
 4 Necrosurgeon Initiates
 
 10 Night Terrors 1
 
 10 Night Terrors 2
 
-8 Sludge Thralls 1
-
-8 Sludge Thralls 2
+8 Sludge Thralls
 
 10 The Furies
 
 
 PC COMMAND CARD
-Break Through
-Hit & Run
+Blessing of the Gods
+Careful Reconnaissance
+Duck and Cover!
 Lucky Penny
 Old Faithful
-Sapper
 
-TOTAL POINTS 100/100
+TOTAL POINTS 98/100
