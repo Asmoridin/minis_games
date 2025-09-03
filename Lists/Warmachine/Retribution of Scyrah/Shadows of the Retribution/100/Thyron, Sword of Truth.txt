@@ -1,6 +1,5 @@
-# 5/30/25 12th/16 Swedish Masters
+# 8/31/25 42nd/62
 
-Thyron tykeil
 Retribution of Scyrah - Shadows of the Retribution
 Grand Melee - 100 pts
 
@@ -9,35 +8,33 @@ PC CARD
 Defenses
 DEFENSE 1 - Barrier
 DEFENSE 1 - Barrier
-DEFENSE 1 - Spike Trap
+DEFENSE 1 - Barrier
 
 Thyron, Sword of Truth
 
-14 Aeternae 1
+8 Harpy 1
 
-13 Arcantrik Force Generator
+8 Harpy 2
 
 1 Arcanist Mechanik 1
 
 1 Arcanist Mechanik 2
 
-1 Arcanist Mechanik 3
+20 Exulon Nostilla
 
-1 Arcanist Mechanik 4
+Aberration
 
-3 Elara, Tyro of the Third Chamber
-
-14 Aeternae 2
-
-9 Moros
+3 Nayl
 
 7 House Ellowuyr Swordsmen 1
 
-4 House Ellowuyr Swordsmen Officer & Standard 1
+4 House Ellowuyr Swordsmen Officer & Standard
 
 7 House Ellowuyr Swordsmen 2
 
-4 House Ellowuyr Swordsmen Officer & Standard 2
+8 House Ellowuyr Wardens 1
+
+8 House Ellowuyr Wardens 2
 
 7 Mage Hunter Infiltrators 1
 
@@ -45,12 +42,14 @@ Thyron, Sword of Truth
 
 7 Spears of Scyrah
 
+4 Eiryss, Mage Hunter Commander
+
 
 PC COMMAND CARD
 Careful Reconnaissance
 Defenses
 Duck and Cover!
 Hit & Run
-Sapper
+Lucky Penny
 
 TOTAL POINTS 100/100
