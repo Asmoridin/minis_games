@@ -1,33 +1,27 @@
-# 5/17/25 1st/18 Wisconsin Tournament
+# 8/31/25 1st/62
 
-Butcher
 Orgoth - Sea Raiders
 Grand Melee - 100 pts
 
 PC CARD
 
 Orsus the Betrayed
-SPELL - Carnage
+SPELL - Silence of Death
 
-8 Jackal 1
+6 Jackal
 2 HEAD - Arc Node
-5 RIGHT ARM - Hunter Rifle
+3 RIGHT ARM - Mace
 1 LEFT ARM - Clawed Fist
 
-8 Jackal 2
-1 HEAD - Bloodthirst
-4 RIGHT ARM - Pole Arm
-3 LEFT ARM - Assault Shield
+12 Ravener
 
-13 Tyrant 1
-2 HEAD - Relentless Charge
-8 RIGHT ARM - Scything Flail
-3 LEFT ARM - Claw
+20 Exulon Nostilla
 
-13 Tyrant 2
-2 HEAD - Relentless Charge
-8 RIGHT ARM - Scything Flail
-3 LEFT ARM - Claw
+Aberration
+
+5 Grhotten Keeper
+
+3 Koldun Lord Damien Korovnik
 
 3 Reaver Commander 1
 
@@ -35,26 +29,26 @@ SPELL - Carnage
 
 4 Therion Vhanek
 
-2 Vulcar Forge Master
+6 Assault Reavers
 
-9 Gnashers 1
+2 Reaver Standard 1
 
-9 Gnashers 2
+6 Reaver Skirmishers
 
-8 Ulkor Axers 1
+2 Reaver Standard 2
 
-8 Ulkor Axers 2
+10 Rhok Harriers 1
+
+10 Rhok Harriers 2
 
 8 Ulkor Barragers
-
-4 Warwitch Coven
 
 
 PC COMMAND CARD
 Blessing of the Gods
-Break Through
 Careful Reconnaissance
+Hit & Run
 Lucky Penny
-Old Faithful
+Sapper
 
 TOTAL POINTS 100/100
