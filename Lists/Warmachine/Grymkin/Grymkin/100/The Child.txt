@@ -1,6 +1,5 @@
-# 5/17/25 5th/18 Wisconsin Tournament
+# 8/29/25 1st/14
 
-child 2 house 100
 Grymkin - Grymkin
 Grand Melee - 100 pts
 
@@ -10,36 +9,46 @@ The Child
 
 12 Cage Rager
 
-26 Slaughterhouse 1
+13 Clockatrice
 
-26 Slaughterhouse 2
+3 Crabbit 1
+
+3 Crabbit 2
+
+3 Crabbit 3
+
+12 Skin & Moans 1
+
+12 Skin & Moans 2
 
 9 Death Knell
 
 3 Baron Tonguelick, Lord of Warts
 
-1 Cask Imp 1
-
-1 Cask Imp 2
-
 3 Grave Ghoul
+
+3 Gremlin Swarm 1
+
+3 Gremlin Swarm 2
 
 3 Lady Karianna Rose
 
+5 Dread Rots 1
+
+5 Dread Rots 2
+
+5 Dread Rots 3
+
 3 Mad Caps
-
-9 Neigh Slayers
-
-4 Neigh Slayer War Horse
 
 
 PC COMMAND CARD
-Careful Reconnaissance
 Fortune’s Path
 Ill Omens
+Labyrinth
 Lucky Penny
-Old Faithful
 Ruin
 Sacrifice
+Shroud
 
 TOTAL POINTS 100/100
