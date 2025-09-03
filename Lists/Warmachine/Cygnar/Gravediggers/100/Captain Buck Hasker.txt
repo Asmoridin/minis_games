@@ -1,4 +1,4 @@
-# 7/20/25 2nd/20 Australia
+# 8/31/25 3rd/62
 
 Cygnar - Gravediggers
 Grand Melee - 100 pts
@@ -11,66 +11,61 @@ Medical Crate 1
 
 Mantlet 1
 
-Fuel Canister 1
-
 Ammo Crate 2
 
 Medical Crate 2
 
 Mantlet 2
 
-Fuel Canister 2
-
 Defenses
-DEFENSE 1 - Barrier
-DEFENSE 1 - Barrier
-DEFENSE 1 - Barrier
+DEFENSE 1 - Spike Trap
+DEFENSE 1 - Spike Trap
+DEFENSE 1 - Spike Trap
 
 Captain Buck Hasker
-SPELL - Rock Wall
-SPELL - Silence of Death
+SPELL - Arcane Shield
+SPELL - Chasten
 
-16 Beaker
-HEAD - Beaker
-RIGHT ARM - Sonic Pulse Cannon
-LEFT ARM - Pulse Drill
+17 Deuce
 
-17 Plugger
-HEAD - Plugger
-RIGHT ARM - Trench Ripper
-LEFT ARM - Trench Ripper
-
-11 Valiant
-1 HEAD - Evasive
+12 Valiant 1
+2 HEAD - Aggressive
 5 RIGHT ARM - Piston Hammer
 5 LEFT ARM - Harpoon Fist
 
-20 Carver Ultimus
+12 Valiant 2
+2 HEAD - Aggressive
+5 RIGHT ARM - Piston Hammer
+5 LEFT ARM - Harpoon Fist
 
-War Boar MMD47
+4 Greygore Boomhowler
 
 3 Lt. Stella Barron
 
-8 Gravedigger Commandos 1
+20 Magnus the Unstoppable
 
-2 Commando Officer 1
+Invictus
 
-8 Gravedigger Commandos 2
+8 Gravedigger Commandos
 
-2 Commando Officer 2
+2 Commando Officer
 
-4 Gravedigger Gun Mages
+4 Gravedigger Gun Mages 1
+
+4 Gravedigger Gun Mages 2
+
+5 Storm Vanes
 
 9 The Rowdies
 
 
 PC COMMAND CARD
 Blessing of the Gods
-Break Through
 Defenses
 Hit & Run
 Light Airdrop 1
 Light Airdrop 2
+Lucky Penny
 Military Engineering
 Old Faithful
 
