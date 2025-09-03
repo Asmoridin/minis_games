@@ -1,20 +1,25 @@
-# 7/27/25 5th/9 UK tournament
+# 8/30/25 4th/12 Germany
 
-The Savage Wave - Ring of Fire - [99.99999899999999 Rice]
+The Savage Wave - Ring of Fire - [100 Rice]
 
-# ++ Risen Sun ++ [99.99999899999999 Rice]
-## Faction Profile Cards [92.99999899999999 Rice]
-Boba [15 Rice]
-Jokash [19.333333 Rice]: Fiery Wroth
-Junec [21.333333 Rice]: Fiery Wroth
-Kano [19.333333 Rice]: Battle Hungry, Fiery Wroth, Raiment of Violence
-Merlek [18 Rice]
+# ++ Risen Sun ++ [100 Rice]
+## Faction Profile Cards [87.99999999999999 Rice]
+Boba [18 Rice]: His Father's Skull
+Jokash [19 Rice]
+Kuroko [18 Rice]: Headbutt, Mantle of the Matriarch
+Merlek [19 Rice]: Ancestral Guidance
+Tsuta [14 Rice]
 
 ## Faction Event Cards [7 Rice]
-Impending Doom [1 Rice]
 Inviolable Physique [1 Rice]
-There Can Be Only One [3 Rice]
 Unworthy Task [2 Rice]
+Worthy Opponent [2 Rice]
+Worthy Opponent [2 Rice]
 
 ## Faction Theme Cards
 The Ring of Fire
+
+## Ronin Event Cards [5 Rice]
+Preordain [3 Rice]
+Second Chance [1 Rice]
+Year of the Risen Sun [1 Rice]
