@@ -1,4 +1,4 @@
-# 8/23/25 3rd/18 German Masters
+# 8/31/25 5th/62
 
 Cygnar - Storm Legion
 Grand Melee - 100 pts
@@ -8,11 +8,11 @@ PC CARD
 Defenses
 DEFENSE 1 - Barrier
 DEFENSE 1 - Barrier
-DEFENSE 1 - Barrier
+DEFENSE 1 - Spike Trap
 
 Captain Raef Huxley
 SPELL - Electrify
-SPELL - Jackhammer
+SPELL - Snipe
 
 7 Courser 1
 1 HEAD - Shield Guard
@@ -29,9 +29,9 @@ SPELL - Jackhammer
 4 RIGHT ARM - Heavy Stormthrower
 2 LEFT ARM - Voltaic Punching Spike
 
-12 Stryker 1
-2 HEAD - True Sight
-6 RIGHT ARM - Voltaic Javelin
+11 Stryker 1
+1 HEAD - Relentless Charge
+6 RIGHT ARM - Voltaic Halberd
 4 LEFT ARM - Stormblazer Cannon
 
 12 Stryker 2
@@ -53,11 +53,11 @@ RIGHT ARM - Quicksilver Mk III
 
 5 Arcane Mechaniks 2
 
-5 Storm Vanes 1
-
-5 Storm Vanes 2
-
 6 Stormblade Legionnaires
+
+2 Legionnaire Standard Bearer
+
+9 The Black 13th
 
 
 PC COMMAND CARD
