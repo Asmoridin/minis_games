@@ -1,31 +1,36 @@
-# 4/12/25 15/16 Denmark tournament
+# 8/30/25 9th/24
 
 Characters (10):
+Threat: 35
 Baron Zemo (3)
-Bullseye (Benjamin Poindexter)
-Crossbones (Brock Rumlow)
-Hood (Parker Robbins)
-Sin (Sinthea Schmidt)
-Ulik
-Viper (Ophelia Sarkissian)
-Quicksilver (Pietro Maximoff)
-Yondu (Yondu Udonta)
-Spider-Woman (Jessica Drew)
+Crossbones (3)
+Loki, God of Mischief (4)
+Mysterio (3)
+*Red Skull, Master of the World (4)
+Shang-Chi (4)
+*Sin (3)
+The Wrecking Crew (4)
+Toad (2)
+Ultron, Metal Tyrant (5)
+
 Tactics (10):
+Brace for Impact (R)
+Chi Mastery
+Cosmic Obliteration
 Dark Reign
 Dig In
-Can I Borrow That?
-Hood's Gang
 I Am A Baron, After All
-Rock and Troll
-Brace for Impact
-To Ash and Cinder
-Double Agent
-Plundered Goods
-Crises
-Guardians Save Shi'ar Empress in Style
-M'Kraan Crystal Gets Heroes Home!
-Infinity Formula Goes Missing!
-Scientific Samples Found In Discovered Universe
-Deadly Legacy Virus Cured?
-Mutant Extremists Target U.S. Senators!
+Illicit Tech
+Patch Up (R)
+Stronger Together
+The Grand Illusion
+
+Secure Crisis:
+Guardians Save Shi'ar Empress in Style (, 17)
+Infinity Formula Goes Missing! (B, 17)
+M'Kraan Crystal Gets Heroes Home! (, 19)
+
+Extract Crisis:
+Fear Grips World as "Worthy" Terrorize Cities (D, 18)
+Inhumans Deploy Advanced Weaponry (, 18)
+Scientific Samples Found In Discovered Universe (D, 17)
