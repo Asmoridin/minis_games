@@ -1,51 +1,63 @@
-# 5/24/25 2nd/16 Canada event
+# 8/30/25 2nd/48
 
-Thexus
 Mercenaries - Dark Operations
 Grand Melee - 100 pts
 
 PC CARD
 
+Defenses
+DEFENSE 1 - Barrier
+DEFENSE 1 - Spike Trap
+DEFENSE 1 - Powder Keg
+
 Exulon Thexus
 
-10 Subduer 1
+10 Subduer
 
-10 Subduer 2
+12 Wrecker
 
-9 Warden
+2 Agitator 1
 
-20 Carver Ultimus
+2 Agitator 2
 
-War Boar MMD47
+3 Akulon Thaemestra
 
-2 Cephalyx Agitator 1
+20 Exulon Nostilla
 
-2 Cephalyx Agitator 2
+Aberration
 
-3 Doctor Stygius
+4 Silexus Xiphus
 
-2 Machine Wraith 1
+2 Stygius
 
-2 Machine Wraith 2
+8 Criterions 1
 
-6 Cephalyx Mind Bender & Drudges 1
+8 Criterions 2
 
-6 Cephalyx Mind Bender & Drudges 2
+4 Drudge Conduits 1
 
-6 Cephalyx Mind Slaver & Drudges 1
+2 Mind Bender 1
 
-6 Cephalyx Mind Slaver & Drudges 2
+4 Drudge Conduits 2
 
-8 Dominated Horgenhold Forge Guard 1
+2 Mind Bender 2
 
-8 Dominated Horgenhold Forge Guard 2
+4 Drudge Slayers 1
+
+2 Mind Slaver 1
+
+4 Drudge Slayers 2
+
+2 Mind Slaver 2
+
+5 Overlords
 
 
 PC COMMAND CARD
+Blessing of the Gods
 Careful Reconnaissance
+Defenses
 Hit & Run
-Lucky Penny
-Old Faithful
-Sapper
+Put the Fires Out
 
 TOTAL POINTS 100/100
