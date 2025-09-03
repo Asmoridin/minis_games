@@ -1,6 +1,5 @@
-# 5/3/25 3rd/6
+# 8/31/25 19th/62
 
-Di Morray
 Crucible Guard - Crucible Guard
 Grand Melee - 100 pts
 
@@ -10,15 +9,15 @@ Aurum Legate Lukas di Morray
 
 9 Liberator
 
-10 Toro 1
-
-10 Toro 2
+10 Toro
 
 5 Aurum Ominus Alyce Marc
 
 1 Crucible Guard Mechanik 1
 
 1 Crucible Guard Mechanik 2
+
+1 Crucible Guard Mechanik 3
 
 20 Magnus the Unstoppable
 
@@ -36,9 +35,11 @@ Invictus
 
 2 Trancer 4
 
-4 Combat Alchemists
+6 Containment Operatives 1
 
-6 Containment Operatives
+6 Containment Operatives 2
+
+7 Crucible Guard Assault Troopers
 
 4 Dragon's Breath Rocket
 
@@ -52,6 +53,6 @@ Blessing of the Gods
 Careful Reconnaissance
 Lucky Penny
 Old Faithful
-Put the Fires Out
+Sapper
 
 TOTAL POINTS 100/100
