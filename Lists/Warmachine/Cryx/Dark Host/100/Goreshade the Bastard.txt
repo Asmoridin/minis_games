@@ -1,4 +1,4 @@
-# 7/12/2025 12th/14 California
+# 8/30/25 7th/12
 
 Cryx - Dark Host
 Grand Melee - 100 pts
@@ -9,25 +9,25 @@ Goreshade the Bastard
 
 Deathwalker
 
-14 Nightmare
-
 11 Reaper 1
 
 11 Reaper 2
 
-7 Stalker 1
+10 Seether
 
-7 Stalker 2
+9 Slayer
+
+7 Stalker
 
 5 Bane Lord Tartarus
 
-6 Hellslinger Phantom
+7 Darragh Wrathe
+
+2 Machine Wraith
 
 1 Necrotech 1
 
 1 Necrotech 2
-
-1 Necrotech 3
 
 4 Pistol Wraith 1
 
@@ -45,10 +45,10 @@ Deathwalker
 
 
 PC COMMAND CARD
-Blessing of the Gods
 Break Through
-Duck and Cover!
+Careful Reconnaissance
+Lucky Penny
 Old Faithful
-Sapper
+Put the Fires Out
 
 TOTAL POINTS 100/100

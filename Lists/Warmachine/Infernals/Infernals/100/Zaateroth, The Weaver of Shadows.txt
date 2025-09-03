@@ -1,6 +1,5 @@
-# 3/29/25 1st/25 IG Qualifier
+# 8/30/25 3rd/48
 
-Zaateroth
 Infernals - Infernals
 Grand Melee - 100 pts
 
@@ -8,11 +7,7 @@ PC CARD
 
 Zaateroth, The Weaver of Shadows
 
-7 Lamenter
-
-12 Tormentor 1
-
-12 Tormentor 2
+13 Soul Stalker
 
 4 Eilish Garrity, the Dark Seeker
 
@@ -24,37 +19,42 @@ Zaateroth, The Weaver of Shadows
 
 4 Lord Roget D’Vyaros
 
-4 Nicia, Hound of the Abyss
+3 Lynda the Forgotten
 
-3 The Wretch
+3 Saxon Orrik
+
+3 The Wretch 1
+
+3 The Wretch 2
 
 5 Umbral Guardian
 
 5 Valin Hauke, the Fallen Knight
 
-4 Cultist Band
+4 Cultist Band 1
 
 3 Master Preceptor Orin Midwinter
 
-6 Griever Swarm 1
+4 Cultist Band 2
 
-6 Griever Swarm 2
+5 Dark Sentinels 1
+
+5 Dark Sentinels 2
+
+5 Dark Sentinels 3
+
+6 Griever Swarm
 
 7 Howlers 1
 
 7 Howlers 2
 
-Defenses
-DEFENSE 1 - Barrier
-DEFENSE 1 - Barrier
-DEFENSE 1 - Spike Trap
-
 
 PC COMMAND CARD
 Blessing of the Gods
-Defenses
 Duck and Cover!
 Hit & Run
 Lucky Penny
+Sapper
 
 TOTAL POINTS 100/100

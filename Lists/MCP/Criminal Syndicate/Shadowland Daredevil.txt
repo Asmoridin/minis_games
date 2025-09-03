@@ -1,31 +1,36 @@
-# 5/18/25 1/8 cut of big London event
+# 8/30/25 4th/NOVA
 
 Characters (10):
-Shadowland Daredevil (Matt Murdock)
-Baron Zemo (3)
-Bullseye (Benjamin Poindexter)
-Iron Man (Tony Stark)
-Killmonger (N'Jadaka)
-The Immortal Hulk (Bruce Banner)
-Nick Fury & the Howling Commandos (Nicholas Fury, Sr., Timothy "Dum Dum" Dugan, Gabriel Jones)
-Loki, Prince of Lies (Loki Laufeyson)
-Pyro (St. John Allerdyce)
-The Wrecking Crew (Brian Calusky, Dirk Garthwaite, Eliot Franklin, Henry Camp)
+Threat: 38
+Abomination (5)
+Black Cat (3)
+Bullseye (2)
+Crossbones, Merciless Merc (3)
+*Kingpin (4)
+*Loki, Prince of Lies (5)
+*Mephisto, Lord of Temptation (5)
+N'Kantu, the Living Mummy (3)
+Rhino (4)
+*Shadowland Daredevil (4)
+
 Tactics (10):
 All According to Plan
+Brace for Impact (R)
+Brand New Day
 Cruelty
-Shadow Organization
-Brace for Impact
-Helios Laser Bombardment
-Usurp the Throne
-I Am A Baron, After All
-Pyrotechnics
 Giant's Blood
-Sacrifice
-Crises
-M'Kraan Crystal Gets Heroes Home!
-Mayor Fisk Vows to Find Missing Witnesses
-Guardians Save Shi'ar Empress in Style
-Deadly Legacy Virus Cured?
-Skrulls Infiltrate World Leadership
-Fear Grips World as "Worthy" Terrorize Cities
+No Mercy
+Patch Up (R)
+Shadow Organization
+This is a Robbery
+Up the Ante
+
+Secure Crisis:
+Deadly Meteors Mutate Citizens (I, 17)
+Infinity Formula Goes Missing! (B, 17)
+Mayor Fisk Vows to Find Missing Witnesses (H, 16)
+
+Extract Crisis:
+Alien Ship Crashes in Downtown! (C, 17)
+Deadly Legacy Virus Cured? (C, 19)
+The Montesi Formula Found (E, 18)

@@ -1,7 +1,7 @@
-# 8/31/25 19th/62
+# 8/28/25 3rd/12
 
 Crucible Guard - Crucible Guard
-Grand Melee - 100 pts
+Skirmish - 50 pts
 
 PC CARD
 
@@ -17,12 +17,6 @@ Aurum Legate Lukas di Morray
 
 1 Crucible Guard Mechanik 2
 
-1 Crucible Guard Mechanik 3
-
-20 Magnus the Unstoppable
-
-Invictus
-
 3 Rocketman Stinger 1
 
 3 Rocketman Stinger 2
@@ -31,28 +25,18 @@ Invictus
 
 2 Trancer 2
 
-2 Trancer 3
+4 Combat Alchemists
 
-2 Trancer 4
-
-6 Containment Operatives 1
-
-6 Containment Operatives 2
-
-7 Crucible Guard Assault Troopers
+6 Containment Operatives
 
 4 Dragon's Breath Rocket
-
-8 Failed Experiments 1
-
-8 Failed Experiments 2
 
 
 PC COMMAND CARD
 Blessing of the Gods
 Careful Reconnaissance
+Duck and Cover!
 Lucky Penny
 Old Faithful
-Sapper
 
-TOTAL POINTS 100/100
+TOTAL POINTS 50/50

@@ -1,29 +1,29 @@
-# 3/29/25 9th Worlds
+# 8/29/25 1st NOVA
 
 Characters (10):
-Threat: 42
-*King T'Challa (5)
-*M'Baku (4)
-*Killmonger, Usurper (4)
-Killmonger (4)
-Shuri (3)
-Okoye (2)
-The Immortal Hulk (7)
-*Namor, the Sub-Mariner (5)
-*Red Skull, Master of Hydra (5)
+Threat: 38
 Baron Zemo (3)
+Hulk (6)
+Killmonger (4)
+*King T'Challa (5)
+Luke Cage (3)
+*M'Baku (4)
+Nebula (2)
+Okoye (2)
+*Red Skull, Master of Hydra (5)
+Shang-Chi (4)
 
 Tactics (10):
 Brace for Impact (R)
-Sacrifice (R)
-Spirit of Wakanda
-Jabari Chieftain
-Wakanda Forever
-Usurp the Throne
-Wisdom of the Ancestors
+Chi Mastery
 Cosmic Obliteration
-Survival
+Heroes for Hire
 I Am A Baron, After All
+Sacrifice (R)
+Survival
+Usurp the Throne
+Wakanda Forever
+Wisdom of the Ancestors
 
 Secure Crisis:
 Intrusions Open Across City As Seals Collapse (C, 19)
@@ -31,6 +31,6 @@ Mayor Fisk Vows to Find Missing Witnesses (H, 16)
 Wedding Party Targeted By Terrible Attack! (, 20)
 
 Extract Crisis:
-Inhumans Deploy Advanced Weaponry (, 18)
-Skrulls Infiltrate World Leadership (J, 20)
+Alien Ship Crashes in Downtown! (C, 17)
 Deadly Legacy Virus Cured? (C, 19)
+Inhumans Deploy Advanced Weaponry (, 18)

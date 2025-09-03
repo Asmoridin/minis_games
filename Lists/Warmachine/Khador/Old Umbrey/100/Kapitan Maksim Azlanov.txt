@@ -1,55 +1,55 @@
-# 7/19/25 4th/24 Ottawa
+# 8/30/25 1st/12
 
 Khador - Old Umbrey
 Grand Melee - 100 pts
 
 PC CARD
 
-Defenses
-DEFENSE 1 - Barrier
-DEFENSE 1 - Barrier
-DEFENSE 1 - Spike Trap
-
 Kapitan Maksim Azlanov
-SPELL - Curse of Shadows
-SPELL - Earth Spikes
+SPELL - Inviolable Resolve
+SPELL - Sure Foot
 
-9 Feral 1
+8 Feral 1
+5 HEAD - Alke
+3 BACK - Bony Spine
+
+9 Feral 2
 5 HEAD - Alke
 4 BACK - Wings
 
-8 Feral 2
-5 HEAD - Alke
-3 BACK - Quills
+15 Primeval
+3 HEAD - Bear
+7 RIGHT ARM - Bone Sword
+5 LEFT ARM - Enchanted Shield
 
 15 Strix
 
-16 The Starved
-
 2 Animist
 
-20 Kapitan Zahara Vilkul
+4 Lupine Apex
 
-Razor
+2 Lupine Shifted 1
+
+2 Lupine Shifted 2
+
+20 Magnus the Unstoppable
+
+Invictus
 
 4 Vorony
 
-2 Witch-Marked Totem
-
 9 Chosen of the Witch
 
-5 Liegemen Wardens
+5 Liegemen Wardens 1
 
-5 Shearlings 1
-
-5 Shearlings 2
+5 Liegemen Wardens 2
 
 
 PC COMMAND CARD
 Blessing of the Gods
-Defenses
+Break Through
 Hit & Run
 Lucky Penny
-Put the Fires Out
+Old Faithful
 
 TOTAL POINTS 100/100

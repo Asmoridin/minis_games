@@ -1,0 +1,32 @@
+# 8/30/25 7th/12
+
+=== The Last Argument of Kings ===
+
+Test [1995/2000]
+Dweghom
+[object Object]
+
+
+== Lost Ancestor [120]:
+
+* Found 3 [180]:
+
+* Lost 3 [170]:
+
+* Dragonslayers 4 [305]: Standard Bearer
+
+
+== Warlord Tempered Sorcerer [185]: Cthonic Flame, Fire School, Focused
+
+* Fireforged 3 [215]: Standard Bearer, Flamecaster
+
+* Inferno Automata 3 [180]:
+
+
+== Ardent Kerawegh [130]: Memory of Breath, Flaming Oratory
+
+* Flame Berserkers 3 [160]:
+
+* Flame Berserkers 3 [160]:
+
+* Wardens 3 [190]:

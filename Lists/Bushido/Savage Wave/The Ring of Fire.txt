@@ -1,19 +1,16 @@
-# 7/27/25 5th/9 UK tournament
+# 8/30/25 1st/8 Russia
 
-The Savage Wave - Ring of Fire - [99.99999899999999 Rice]
+The Savage Wave - Ring of Fire - [100 Rice]
 
-# ++ Risen Sun ++ [99.99999899999999 Rice]
-## Faction Profile Cards [92.99999899999999 Rice]
-Boba [15 Rice]
-Jokash [19.333333 Rice]: Fiery Wroth
-Junec [21.333333 Rice]: Fiery Wroth
-Kano [19.333333 Rice]: Battle Hungry, Fiery Wroth, Raiment of Violence
+# ++ Risen Sun ++ [100 Rice]
+## Faction Profile Cards [97.99999999999999 Rice]
+Goro [22 Rice]: Battle Hungry
+Jokash [19 Rice]
+Junec [22 Rice]: Ancestral Guidance
+Kano [17 Rice]: Raiment of Violence
 Merlek [18 Rice]
 
-## Faction Event Cards [7 Rice]
-Impending Doom [1 Rice]
-Inviolable Physique [1 Rice]
-There Can Be Only One [3 Rice]
+## Faction Event Cards [2 Rice]
 Unworthy Task [2 Rice]
 
 ## Faction Theme Cards

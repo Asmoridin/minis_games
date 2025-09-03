@@ -1,31 +1,29 @@
-#3/29/25 4th/7 
+# 8/30/25 23rd/48
 
-Dwarvenhold
 Mercenaries - Rhul Guard
 Grand Melee - 100 pts
 
 PC CARD
 
-Defenses
-DEFENSE 1 - Barrier
-DEFENSE 2 - Fire Pit
-DEFENSE 1 - Fire Pit
-
 Durgen Madhammer
 
-27 Ghordson Earthbreaker 1
+27 Ghordson Earthbreaker
 
-27 Ghordson Earthbreaker 2
+14 Hammerfall Siege Crawler
 
-5 Grundback Blaster 1
+3 Balthazar Bamfist
 
-5 Grundback Blaster 2
+20 Magnus the Unstoppable
 
-5 Gudrun the Wanderer
+Invictus
 
-3 Steelhead Gunner
+3 Ogrun Bokur
 
-2 Thor Steinhammer
+3 Steelhead Gunner 1
+
+3 Steelhead Gunner 2
+
+5 Herne & Jonne
 
 4 Horgenhold Artillery Corps 1
 
@@ -33,14 +31,12 @@ Durgen Madhammer
 
 9 Ogrun Assault Corps
 
-4 Tactical Arcanist Corps 1
-
-4 Tactical Arcanist Corps 2
+4 Tactical Arcanist Corps
 
 
 PC COMMAND CARD
 Blessing of the Gods
-Defenses
+Careful Reconnaissance
 Lucky Penny
 Old Faithful
 Put the Fires Out

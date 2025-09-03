@@ -1,32 +1,36 @@
-# 5/18/25 5/25
+# 8/30/25 5th/NOVA
 
 Characters (10):
-Doctor Strange, Sorcerer Supreme (Stephen Vincent Strange)
-Wong
-Doctor Voodoo (Jericho Drumm)
-Magik (Illyana Rasputin)
-Shang-Chi (Zheng Shang-Chi)
-Spider-Man (Miles Morales)
-Nick Fury (Nicholas J. Fury, Jr.)
-Ebony Maw
-    Space gem
-Namor, the Sub-Mariner (Namor McKenzie)
-Baron Zemo (3)
+Threat: 38
+Clea (3)
+Doctor Strange, Sorcerer Supreme (5)
+Doctor Voodoo (4)
+*Dracula (5)
+Juggernaut (5)
+*Magik (3)
+N'Kantu, the Living Mummy (3)
+*Nick Fury (4)
+Shang-Chi (4)
+Wong (2)
+
 Tactics (10):
+Brace for Impact (R)
+Do You Know Who I Am?
+Eye in the Sky
 Iron-Bound Books of Shuma-Gorath
-The Bar with No Doors
-Brace for Impact
+Journey Through Limbo
 Plane of Pohldahk
-Astral Ring
-Orb of Agamotto
-Shhh...
-Reposition
-Indomitable
-I Am A Baron, After All
-Crises
-Riots Spark Over Extremis 3.0
-Guardians Save Shi'ar Empress in Style
-M'Kraan Crystal Gets Heroes Home!
-Mutant Extremists Target U.S. Senators!
-Fear Grips World as "Worthy" Terrorize Cities
-Scientific Samples Found In Discovered Universe
+Sacrifice (R)
+Survival
+The Bar with No Doors
+Warpath
+
+Secure Crisis:
+Deadline to Destruction (, 16)
+M'Kraan Crystal Gets Heroes Home! (, 19)
+Super-Powered Scoundrels Form Sinister Syndicate! (F, 20)
+
+Extract Crisis:
+Fear Grips World as "Worthy" Terrorize Cities (D, 18)
+Inhumans Deploy Advanced Weaponry (, 18)
+Skrulls Infiltrate World Leadership (J, 20)

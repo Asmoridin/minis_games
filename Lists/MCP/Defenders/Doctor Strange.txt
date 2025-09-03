@@ -1,36 +1,36 @@
-# 7/5/2025 1st/12 Oregon Team Tournament
+# 8/30/25 1st/14
 
 Characters (10):
-Threat: 38
-Clea (3)
+Threat: 36
+Baron Zemo (3)
+*Crimson Dynamo (4)
 *Doctor Strange (5)
-*Elsa Bloodstone (4)
-Luke Cage (3)
-Scarlet Witch (5)
-Wong (2)
-*Namor, the Sub-Mariner (5)
-Shang-Chi (4)
-Silver Sable (4)
 Hawkeye (3)
+Luke Cage (3)
+*Magik (3)
+*Namor, the Sub-Mariner (5)
+Okoye (2)
+Shang-Chi (4)
+Yondu (4)
 
 Tactics (10):
-Mystic Ward
-Street Smarts
-Recalibration Matrix
-No More Mutants
 Brace for Impact (R)
-Prince's Protection
+Chi Mastery
+Cover Me
 Heroes for Hire
-The Whims of Chaos
-Human Weapon
-Fall Back (R)
+I Am A Baron, After All
+Journey Through Limbo
+Mystic Ward
+Recalibration Matrix
+Sacrifice (R)
+Seven Suns of Cinnibus
 
 Secure Crisis:
-Guardians Save Shi'ar Empress in Style (, 17)
+Deadline to Destruction (, 16)
 M'Kraan Crystal Gets Heroes Home! (, 19)
-Infinity Formula Goes Missing! (B, 17)
+Wedding Party Targeted By Terrible Attack! (, 20)
 
 Extract Crisis:
-Struggle for the Cube Continues (F, 17)
 Fear Grips World as "Worthy" Terrorize Cities (D, 18)
-The Montesi Formula Found (E, 18)
+Skrulls Infiltrate World Leadership (J, 20)
+Unexpected Guests Crash Royal Wedding (F, 17)

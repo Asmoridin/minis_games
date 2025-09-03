@@ -1,6 +1,5 @@
-#3/29/25 2nd/48 IG Qualifiers
+# 8/31/25 1st/62
 
-Horruskh Tarask
 Orgoth - Sea Raiders
 Grand Melee - 100 pts
 
@@ -20,12 +19,14 @@ SPELL - Death March
 3 RIGHT ARM - Mace
 1 LEFT ARM - Clawed Fist
 
-27 Gharlghast
-7 HEAD - Spider
+26 Gharlghast
+6 HEAD - Frother
 4 RIGHT FOREARM - Infernus Cannon Right
 6 RIGHT FIST - Rending Claws Right
 4 LEFT FOREARM - Infernus Cannon Left
 6 LEFT FIST - Rending Claws Left
+
+5 Grhotten Keeper
 
 3 Reaver Commander
 
@@ -41,18 +42,18 @@ SPELL - Death March
 
 9 Gnashers 2
 
-8 Ulkor Axers 1
-
-8 Ulkor Axers 2
+8 Ulkor Axers
 
 8 Ulkor Barragers
+
+4 Warwitch Coven
 
 
 PC COMMAND CARD
 Blessing of the Gods
 Careful Reconnaissance
-Duck and Cover!
+Hit & Run
 Lucky Penny
-Put the Fires Out
+Old Faithful
 
 TOTAL POINTS 100/100
