@@ -1,35 +1,48 @@
-#3/29/25 2nd/7 
+# 8/29/25 1st/14
 
-Daniel Heretic
 Grymkin - Grymkin
 Grand Melee - 100 pts
 
 PC CARD
+
 The Heretic
+
 12 Cage Rager
-12 Skin & Moans
+
+3 Crabbit 1
+
+3 Crabbit 2
+
+6 Gorehound 1
+
+6 Gorehound 2
+
+12 Skin & Moans 1
+
+12 Skin & Moans 2
 
 9 Death Knell
 
+3 Baron Tonguelick, Lord of Warts
+
 3 Grave Ghoul
+
 7 Isaiah, Dread Harvester
+
 3 Lady Karianna Rose
-3 Malady Man
-5 The Four Horseymans
 
 5 Dread Rots 1
+
 5 Dread Rots 2
-7 Hollowmen
-2 Lantern Man
-1 Hollow Holden
-9 Neigh Slayers 1
-4 Neigh Slayer War Horse 1
-9 Neigh Slayers 2
-4 Neigh Slayer War Horse 2
+
+8 Piggybacks
+
+3 Piggyback Officer
+
 
 PC COMMAND CARD
-Blessing of the Gods
 Fortune’s Path
+Hit & Run
 Ill Omens
 Lucky Penny
 Ruin
