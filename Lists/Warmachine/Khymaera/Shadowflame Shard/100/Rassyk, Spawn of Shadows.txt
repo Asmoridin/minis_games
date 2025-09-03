@@ -1,6 +1,5 @@
-# 6/1/25 1st/8 England
+# 8/31/25 2nd/62
 
-Snakes on a plain.
 Khymaera - Shadowflame Shard
 Grand Melee - 100 pts
 
@@ -12,8 +11,8 @@ DEFENSE 1 - Barrier
 DEFENSE 1 - Barrier
 
 Rassyk, Spawn of Shadows
-SPELL - Carnivore
-SPELL - Curse of Shadows
+SPELL - Silence of Death
+SPELL - Execration of Blackest Night
 
 14 Aklyss
 
