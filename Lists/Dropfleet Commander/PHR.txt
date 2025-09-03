@@ -1,0 +1,32 @@
+Post-Human Republic - nova2 - [1241 pts]
+
+# ++ Fleet ++ [1241 pts]
+## Configuration
+Game Size: Clash
+
+## Admirals [65 pts]
+Lvl 3: Vice Director [65 pts]
+
+## Colossal Groups [455 pts]
+Remus Dreadnought [455 pts]: Apocalypse Cannon, 2x Energy Glaive Battery, Hornet Drone Hive, Torpedo
+
+## Medium Groups [425 pts]
+Bellerophon Heavy Cruiser [185 pts]: Twin Supernova Laser, Fighters & Bombers
+Otera Light Cruisers [240 pts]:
+• 3x Otera Light Cruiser [80 pts]: Bombardment Battery, Light Calibre Broadside
+
+## Light Groups [296 pts]
+Medea Strike Carriers [100 pts]:
+• 2x Medea Strike Carrier [50 pts]: Bombardment Turret, Dropships
+Odysseus Blockade Runners [126 pts]:
+• 2x Odysseus Blockade Runner [63 pts]: Kingfisher Drones, Bulk Landers
+Ourania Swiftlinks [35 pts]:
+• 1x Ourania Swiftlink [35 pts]
+Ourania Swiftlinks [35 pts]:
+• 1x Ourania Swiftlink [35 pts]
+
+## Launch Assets
+Launch Assets: Torpedo, Bombers, Mines, Fighters
+
+## Game
+Secondary Objectives: Priority Target, Long Shot
