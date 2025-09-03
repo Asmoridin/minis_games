@@ -1,34 +1,14 @@
-# 7/12/2025 2nd/19 Australia
+# 8/31/25 4th/62
 
 Cygnar - Gravediggers
 Grand Melee - 100 pts
 
-PC CARD
-
-Ammo Crate 1
-
-Medical Crate 1
-
-Mantlet 1
-
-Fuel Canister 1
-
-Ammo Crate 2
-
-Medical Crate 2
-
-Mantlet 2
-
-Fuel Canister 2
-
 Defenses
 DEFENSE 1 - Barrier
 DEFENSE 1 - Barrier
-DEFENSE 1 - Fire Pit
+DEFENSE 1 - Barrier
 
 Major Allister Caine
-SPELL - Arcane Shield
-SPELL - Chasten
 
 10 Patriot 1
 2 HEAD - Reposition
