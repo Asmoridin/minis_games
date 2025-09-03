@@ -1,7 +1,5 @@
-# 5/24/25 2nd/16 Canada event
+# 8/30/25 2nd/48
 
-
-Cyphon
 Mercenaries - Dark Operations
 Grand Melee - 100 pts
 
@@ -13,36 +11,38 @@ Cognifex Cyphon
 
 10 Subduer 2
 
-10 Subduer 3
-
-10 Subduer 4
-
 9 Warden 1
 
 9 Warden 2
 
 9 Warden 3
 
-12 Wrecker
+12 Wrecker 1
 
-2 Cephalyx Agitator 1
+12 Wrecker 2
 
-2 Cephalyx Agitator 2
+2 Agitator 1
 
-2 Cephalyx Agitator 3
+2 Agitator 2
 
-3 Doctor Stygius
+2 Agitator 3
 
-6 Cephalyx Mind Slaver & Drudges 1
+8 Criterions
 
-6 Cephalyx Mind Slaver & Drudges 2
+4 Drudge Conduits 1
+
+2 Mind Bender
+
+4 Drudge Conduits 2
+
+5 Overlords
 
 
 PC COMMAND CARD
 Blessing of the Gods
-Careful Reconnaissance
 Hit & Run
-Lucky Penny
 Old Faithful
+Put the Fires Out
+Sapper
 
 TOTAL POINTS 100/100
