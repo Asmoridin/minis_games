@@ -1,6 +1,5 @@
-# 6/7/25 1st/10 BC, Canada
+# 8/30/25 1st/48
 
-Shyryss
 Khymaera - Shadowflame Shard
 Grand Melee - 100 pts
 
@@ -9,13 +8,12 @@ PC CARD
 Defenses
 DEFENSE 1 - Barrier
 DEFENSE 1 - Barrier
-DEFENSE 1 -
-Barrier
+DEFENSE 1 - Barrier
 
 Shyryss, the Flawless Dark
-SPELL -
-SPELL -
-SPELL -
+SPELL - Carnivore
+SPELL - Curse of Shadows
+SPELL - Dash
 
 16 Skylla, The Abyssal Fury
 9 CENTRAL HEAD - Skylla
@@ -51,8 +49,8 @@ ARCANE TAILS - Negation Tail
 PC COMMAND CARD
 Blessing of the Gods
 Defenses
-Hit & Run
 Lucky Penny
 Put the Fires Out
+Sapper
 
 TOTAL POINTS 100/100
