@@ -1,32 +1,36 @@
-# 3/30/25 7th Worlds
+# 8/30/25 2nd/NOVA
 
 Characters (10):
-Blade (Eric Brooks)
-The Immortal Hulk (Bruce Banner)
-Ghost Rider (Johnathon Blaze)
-Doctor Voodoo (Jericho Drumm)
-N'Kantu, the Living Mummy (N'Kantu)
-Iron Fist (Danny Rand)
-Red Skull, Master of Hydra (Johann Schmidt)
-Abomination (Emil Blonsky)
-Beta Ray Bill (Bill)
-Ebony Maw
-    Space gem
+Threat: 37
+*Blade (4)
+Iron Fist (3)
+Moon Knight (3)
+The Immortal Hulk (7)
+Wong (2)
+Black Cat (3)
+Beta Ray Bill (4)
+Black Panther, Chosen of Bast (3)
+N'Kantu, the Living Mummy (3)
+Werewolf By Night (5)
+
 Tactics (10):
 Bats the Ghost Hound
-Siege of Darkness
-Brace for Impact
-Patch Up
-Recalibration Matrix
 Heroes for Hire
-Cosmic Obliteration
-Deal with the Devil
 One Below All
-Shhh...
-Crises
-Infinity Formula Goes Missing!
-Deadline to Destruction
-Cosmic Invasion! Black Order Descends on Earth
-Skrulls Infiltrate World Leadership
-Scientific Samples Found In Discovered Universe
-Inhumans Deploy Advanced Weaponry
+Patch Up (R)
+Siege of Darkness
+Recalibration Matrix
+Gamma Drain
+Survival
+Warpath
+Brace for Impact (R)
+
+Secure Crisis:
+Mayor Fisk Vows to Find Missing Witnesses (H, 16)
+Infinity Formula Goes Missing! (B, 17)
+Guardians Save Shi'ar Empress in Style (, 17)
+
+Extract Crisis:
+Alien Ship Crashes in Downtown! (C, 17)
+Struggle for the Cube Continues (F, 17)
+Fear Grips World as "Worthy" Terrorize Cities (D, 18)
