@@ -1,40 +1,38 @@
-# 7/20/25 1st/20 Australia
+# 8/31/25 2nd/62
 
 Khymaera - Shadowflame Shard
 Grand Melee - 100 pts
 
 PC CARD
 
-Defenses
-DEFENSE 1 - Barrier
-DEFENSE 1 - Barrier
-DEFENSE 1 - Barrier
-
 Nyxyan, the Stygian Coil
-SPELL - Carnivore
-SPELL - Curse of Shadows
+SPELL - Execration of Blackest Night
+SPELL - Silence of Death
 
-14 Aklyss
+13 Hydrix
+3 CENTRAL HEAD - Diviner
+4 SMALLER HEAD - Venom Spitter
+4 SMALLER HEAD - Venom Spitter
+2 DORSAL FEATURE - Spineback
 
-16 Skylla, The Abyssal Fury
-9 CENTRAL HEAD - Skylla
-4 SMALLER HEAD 1 - Horned Piercer
-3 SMALLER HEAD 2 - Gnashing Fangs
-
-10 Vypex
+12 Vypex
 1 HEAD - Asp
 3 TAIL - Hunter's Mark
-6 ARMS - Cleavers
+8 ARMS - Impalers
+
+19 Wyvern
+
+4 Bellighul, Master of Pain
+
+4 Incarnate Conjuror
 
 3 Pythia
 
+2 Spinner 1
+
+2 Spinner 2
+
 5 Wraithwing Paragon
-
-11 Incarnate Knights
-
-7 Quick Fang Stalkers 1
-
-7 Quick Fang Stalkers 2
 
 9 Shades
 
@@ -42,14 +40,16 @@ SPELL - Curse of Shadows
 
 7 Talon Lashers 2
 
+9 Wyrmspine Cinderbacks
+
 4 Wyrmspine Shadowmancers
 
 
 PC COMMAND CARD
 Blessing of the Gods
-Defenses
-Duck and Cover!
+Break Through
 Hit & Run
 Lucky Penny
+Put the Fires Out
 
 TOTAL POINTS 100/100
