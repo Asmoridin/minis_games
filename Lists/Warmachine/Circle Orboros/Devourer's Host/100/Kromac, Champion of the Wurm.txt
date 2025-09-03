@@ -1,6 +1,5 @@
-# 5/31/25 12th/17 Australia
+# 8/30/25 6th/48
 
-VIC CHAMPS Birdmac
 Circle Orboros - Devourer's Host
 Grand Melee - 100 pts
 
@@ -12,24 +11,30 @@ Kromac, Champion of the Wurm
 
 16 Ghetorix
 
-15 Loki
-
 25 Storm Raptor
 
 15 Warpwolf Stalker
 
-4 Tharn Wolf Rider Champion 1
+4 Bloodweaver Night Witch
 
-4 Tharn Wolf Rider Champion 2
+1 Gallows Grove
 
-8 Tharn Wolf Riders
+3 Tharn Blood Shaman
+
+4 Tharn Ravager Shaman
+
+10 Tharn Blood Pack
+
+7 Tharn Bloodweavers
+
+2 Tharn Bloodweaver Haruspex
 
 
 PC COMMAND CARD
 Blessing of the Gods
 Break Through
-Duck and Cover!
 Hit & Run
 Lucky Penny
+Put the Fires Out
 
 TOTAL POINTS 100/100
