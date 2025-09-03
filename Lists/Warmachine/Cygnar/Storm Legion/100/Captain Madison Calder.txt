@@ -1,27 +1,29 @@
-#3/29/25 4th/48 IG Qualifiers
+# 8/31/25 5th/62
 
-Calder
 Cygnar - Storm Legion
 Grand Melee - 100 pts
 
 PC CARD
 
+Defenses
+DEFENSE 1 - Barrier
+DEFENSE 1 - Barrier
+DEFENSE 1 - Spike Trap
+
 Captain Madison Calder
 SPELL - Arcane Shield
+SPELL - Snipe
 SPELL - Electrify
-SPELL - Deflection
 
-14 Borealis
-HEAD - Repulsor Field
-RIGHT ARM - Thunder Maul
-LEFT ARM - Sky Breaker
+7 Courser
+1 HEAD - Shield Guard
+4 RIGHT ARM - Heavy Stormthrower
+2 LEFT ARM - Voltaic Punching Spike
 
-17 The General
-HEAD - The General
-LEFT ARM - Polarity Fist
-RIGHT ARM - Quicksilver Mk III
-
-4 Alexia, Queen of the Damned
+12 Stryker
+1 HEAD - Relentless Charge
+6 RIGHT ARM - Voltaic Halberd
+5 LEFT ARM - Galvanic Shield
 
 7 Krueger, Wrath of Blighterghast
 
@@ -29,24 +31,32 @@ RIGHT ARM - Quicksilver Mk III
 
 3 Legionnaire Officer 2
 
-4 Lieutenant Sara Brisbane
+10 Storm Lance Legionnaires 1
 
-17 Deuce
+10 Storm Lance Legionnaires 2
 
-3 Specialist Tyson Vas
+5 Storm Vanes
 
-10 Storm Lance Legionnaires
+6 Stormblade Legionnaires
 
-9 Tempest Assailers 1
+7 Stormguard Legionnaires 1
 
-9 Tempest Assailers 2
+2 Legionnaire Standard Bearer 1
+
+7 Stormguard Legionnaires 2
+
+2 Legionnaire Standard Bearer 2
+
+9 Tempest Assailers
+
+9 The Black 13th
 
 
 PC COMMAND CARD
 Blessing of the Gods
 Careful Reconnaissance
+Defenses
 Duck and Cover!
-Lucky Penny
-Old Faithful
+Sapper
 
-TOTAL POINTS 100/100
+TOTAL POINTS 99/100
