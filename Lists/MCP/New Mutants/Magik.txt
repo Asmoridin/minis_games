@@ -1,31 +1,36 @@
-# Updated 5/3/25 15/48
+# 9/7/25 3/22
 
 Characters (10):
-Magik (Illyana Rasputin)
-X-23 (Laura Kinney)
-Hulk (Bruce Banner)
-Emma Frost
-Warlock
-Cable (Nathan Summers)
-Namor, the Sub-Mariner (Namor McKenzie)
-Okoye
-Rhino (Aleksei Sytsevich)
-N'Kantu, the Living Mummy (N'Kantu)
+Threat: 38
+*Black Bolt (5)
+Black Dwarf (4)
+Ghost Rider (5)
+Gladiator (6)
+Gwenom (4)
+Luke Cage (3)
+*Magik (3)
+Okoye (2)
+Warlock (3)
+*X-23 (3)
+
 Tactics (10):
+Brace for Impact (R)
+Deal with the Devil
+Heroes for Hire
+Highway to Hell
+Journey Through Limbo
 New Mutants
-Tomorrow's Soldiers
-Survival
-Sacrifice
-Brace for Impact
 Practice Round
+Protector of the Empire
+Sacrifice (R)
 Survive the Night
-This is a Robbery
-Prince's Protection
-Service to Anubis
-Crises
-Guardians Save Shi'ar Empress in Style
-Mutant Madman Turns City Center Into Lethal Amusement Park
-M'Kraan Crystal Gets Heroes Home!
-Mutant Extremists Target U.S. Senators!
-Terrigen Canisters Fuel Doomsday Device
-Scientific Samples Found In Discovered Universe
+
+Secure Crisis:
+Guardians Save Shi'ar Empress in Style (, 17)
+Infinity Formula Goes Missing! (B, 17)
+Mutant Madman Turns City Center Into Lethal Amusement Park (B, 18)
+
+Extract Crisis:
+Fear Grips World as "Worthy" Terrorize Cities (D, 18)
+Inhumans Deploy Advanced Weaponry (, 18)
+Scientific Samples Found In Discovered Universe (D, 17)
