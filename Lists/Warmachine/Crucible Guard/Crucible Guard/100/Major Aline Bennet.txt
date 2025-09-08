@@ -1,43 +1,34 @@
-#3/29/25 7th/9 Finnish event
+# 9/6/24 5th/9
 
-Bennet turnaus
 Crucible Guard - Crucible Guard
 Grand Melee - 100 pts
-
 PC CARD
 
 Major Aline Bennet
 
-9 Vanguard
-
+8 Retaliator
+11 Suppressor
+10 Toro 1
+10 Toro 2
 5 Aurum Ominus Alyce Marc
-
 1 Crucible Guard Mechanik 1
-
 1 Crucible Guard Mechanik 2
-
-4 Prospero
-
-28 Vulcan 1
-
-28 Vulcan 2
-
-3 Rocketman Stinger 1
-
-3 Rocketman Stinger 2
-
-7 Crucible Guard Assault Troopers 1
-
-7 Crucible Guard Assault Troopers 2
-
+4 Doctor Alejandro Mosby
+4 Gorman di Wulfe, Rogue Alchemist
+3 Rocketman Ace
+2 Trancer
+6 Containment Operatives
+6 Crucible Guard Rocketmen
+3 Crucible Guard Rocketman Captain
+9 Crucible Guard Storm Troopers
 4 Dragon's Breath Rocket
-
-
+8 Failed Experiments
+5 Rocketmen Gunners
 PC COMMAND CARD
 Blessing of the Gods
-Careful Reconnaissance
 Lucky Penny
 Old Faithful
 Put the Fires Out
+Sapper
 
 TOTAL POINTS 100/100
