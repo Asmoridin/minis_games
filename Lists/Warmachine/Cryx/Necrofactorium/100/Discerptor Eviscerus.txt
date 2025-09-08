@@ -1,6 +1,5 @@
-# 5/31/25 1st/24 BC, Canada
+# 9/7/24 1st/30 OTC
 
-Eviscerus
 Cryx - Necrofactorium
 Grand Melee - 100 pts
 
@@ -12,51 +11,56 @@ DEFENSE 1 - Barrier
 DEFENSE 1 - Barrier
 
 Discerptor Eviscerus
-SPELL - Carnage
 SPELL - Ghost Walk
-
-16 Grendel
-HEAD - Grendel
-RIGHT ARM - Salvage Ripper Right
-LEFT ARM - Salvage Ripper Left
+SPELL - Scything Touch
 
 12 Malefactor 1
 1 HEAD - Soul Claiming
 7 RIGHT ARM - Fell Axe
 4 LEFT ARM - Spiked Shield
 
-12 Malefactor 2
+11 Malefactor 2
+1 HEAD - Soul Claiming
+6 RIGHT ARM - Harpoon
+4 LEFT ARM - Spiked Shield
+
+12 Malefactor 3
 1 HEAD - Soul Claiming
 7 RIGHT ARM - Fell Axe
-4 LEFT ARM - Vexing Cannon
+4 LEFT ARM - Spiked Shield
+
+5 Raptor
+3 HEAD - Beaked Maw
+2 BACK - Arc Node
 
 3 Akulon Thaemestra
+
+4 Iron Lich Commander
 
 4 Machine Wraith Dominator
 
 3 Skarlock Lieutenant
 
-8 Mechanithrall Brutes 1
+8 Criterions 1
 
-8 Mechanithrall Brutes 2
+8 Criterions 2
 
-6 Mechanithrall Swarm 1
+6 Mechanithrall Swarm
 
-6 Mechanithrall Swarm 2
+4 Necrosurgeon Initiates 1
 
-4 Necrosurgeon Initiates
+4 Necrosurgeon Initiates 2
 
-8 Sludge Thralls
+8 Sludge Thralls 1
 
-10 The Furies
+8 Sludge Thralls 2
 
 
 PC COMMAND CARD
 Blessing of the Gods
-Careful Reconnaissance
 Defenses
-Lucky Penny
+Hit & Run
 Old Faithful
-3 barriers
+Sapper
 
 TOTAL POINTS 100/100

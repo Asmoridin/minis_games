@@ -1,6 +1,5 @@
-# 5/31/25 1st/24 BC, Canada
+# 9/7/24 1st/30 OTC
 
-Helena Bonham Carter
 Cryx - Necrofactorium
 Grand Melee - 100 pts
 
@@ -8,37 +7,30 @@ PC CARD
 
 Defenses
 DEFENSE 1 - Barrier
-DEFENSE 1 - Barrier
-DEFENSE 1 - Barrier
+DEFENSE 2 - Fire Pit
+DEFENSE 1 - Fire Pit
 
 Exulon Khythos
-SPELL - Carnage
 SPELL - Ghost Walk
+SPELL - Carnage
 SPELL - Scything Touch
 
-14 Malefactor 1
-3 HEAD - Overtake
-7 RIGHT ARM - Fell Axe
-4 LEFT ARM - Spiked Shield
+16 Grendel
+HEAD - Grendel
+RIGHT ARM - Salvage Ripper Right
+LEFT ARM - Salvage Ripper Left
 
-12 Malefactor 2
-1 HEAD - Soul Claiming
-6 RIGHT ARM - Harpoon
-5 LEFT ARM - Helldriver
+6 Raptor 1
+4 HEAD - Doomspitter
+2 BACK - Arc Node
 
-5 Raptor 1
-3 HEAD - Deathripper
-2 BACK - Necrovent
-
-5 Raptor 2
-3 HEAD - Deathripper
+6 Raptor 2
+4 HEAD - Doomspitter
 2 BACK - Arc Node
 
 3 Akulon Thaemestra
 
 4 Iron Lich Commander
-
-4 Machine Wraith Dominator
 
 3 Skarlock Lieutenant
 
@@ -46,15 +38,17 @@ SPELL - Scything Touch
 
 8 Criterions 2
 
-6 Mechanithrall Swarm 1
-
-6 Mechanithrall Swarm 2
+6 Mechanithrall Swarm
 
 4 Necrosurgeon Initiates
 
 10 Night Terrors
 
-8 Sludge Thralls
+8 Sludge Thralls 1
+
+8 Sludge Thralls 2
+
+10 The Furies
 
 
 PC COMMAND CARD
@@ -62,6 +56,6 @@ Blessing of the Gods
 Defenses
 Hit & Run
 Lucky Penny
-Old Faithful
+Sapper
 
 TOTAL POINTS 100/100

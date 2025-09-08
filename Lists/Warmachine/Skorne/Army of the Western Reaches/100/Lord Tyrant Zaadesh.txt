@@ -1,35 +1,38 @@
-#3/29/25 7th/7 
+# 9/7/24 14th/30 OTC
 
-Nick Zaddy
 Skorne - Army of the Western Reaches
 Grand Melee - 100 pts
 
 PC CARD
+
 Lord Tyrant Zaadesh
+
 6 Basilisk Krea
+
 27 Mammoth
 
-4 Aptimus Marketh
-2 Mortitheurge Willbreaker 1
-2 Mortitheurge Willbreaker 2
-8 Tyrant Rhadeim
+14 Titan Gladiator
 
-9 Cataphract Arcuarii
+13 Siege Animantarax 1
+
+13 Siege Animantarax 2
+
+2 Mortitheurge Willbreaker
+
 7 Legends of Halaak
+
 3 Paingiver Beast Handlers
-10 Praetorian Ferox 1
-10 Praetorian Ferox 2
-6 Praetorian Keltarii
-6 Praetorian Swordsmen
+
+10 Praetorian Ferox
+
+5 Tyrant Commander & Standard Bearer
+
 
 PC COMMAND CARD
-Break Through
+Blessing of the Gods
 Careful Reconnaissance
-Hit & Run
+Duck and Cover!
 Lucky Penny
-Defenses
-DEFENSE 1 - Barrier
-DEFENSE 2 - Barrier
-DEFENSE 3 - Barrier
+Put the Fires Out
 
 TOTAL POINTS 100/100

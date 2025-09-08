@@ -1,6 +1,5 @@
-#4/6/25 7th/7
+# 9/6/24 11th/12
 
-Piggy Backin!
 Mercenaries - Thornfall Alliance
 Grand Melee - 100 pts
 
@@ -8,31 +7,37 @@ PC CARD
 
 Lord Carver, BMMD, Esq. III
 
-8 Gun Boar 1
+6 Battle Boar
 
-8 Gun Boar 2
-
-8 Gun Boar 3
+8 Gun Boar
 
 13 War Hog 1
 
 13 War Hog 2
 
-13 Meat Thresher
+4 Farrow Bone Grinders 1
 
-3 Targ
+4 Farrow Bone Grinders 2
 
-4 Farrow Bone Grinders
+7 Farrow Brigands 1
 
-7 Farrow Brigands
+3 Farrow Brigand Warlord 1
 
-3 Farrow Brigand Warlord
+7 Farrow Brigands 2
+
+3 Farrow Brigand Warlord 2
+
+7 Farrow Brigands 3
+
+3 Farrow Brigand Warlord 3
+
+4 Farrow Razorback Crew 1
+
+4 Farrow Razorback Crew 2
 
 7 Farrow Slaughterhousers 1
 
 7 Farrow Slaughterhousers 2
-
-6 Farrow Valkyries
 
 
 PC COMMAND CARD

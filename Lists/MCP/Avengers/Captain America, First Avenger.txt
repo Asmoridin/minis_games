@@ -1,37 +1,36 @@
-# 5/17/25 2nd/14
+# 9/6/25 4th/31
 
 Characters (10):
-Threat: 40
-*Thor, Prince of Asgard (5)
-Gamora (4)
-Nebula (2)
-Shang-Chi (4)
+Threat: 38
+*Black Panther (4)
+*Cable (5)
 *Captain America, First Avenger (4)
-*King T'Challa (5)
-Doctor Voodoo (4)
-Luke Cage (3)
 Gambit (3)
 Hulk (6)
+Iron Fist (3)
+Lockjaw (3)
+Luke Cage (3)
+Shang-Chi (4)
+*Spider-Man (Miles Morales) (3)
 
 Tactics (10):
-Brace for Impact (R)
 Avengers Assemble
-Wisdom of the Ancestors
-Reserve Members
 Battle Plan
+Brace for Impact (R)
 Chi Mastery
 Heroes for Hire
-Second Wind
-Survival
 Patch Up (R)
+Recalibration Matrix
+Reserve Members
+Survival
+Wisdom of the Ancestors
 
 Secure Crisis:
+Deadly Meteors Mutate Citizens (I, 17)
+M'Kraan Crystal Gets Heroes Home! (, 19)
 Mayor Fisk Vows to Find Missing Witnesses (H, 16)
-Wedding Party Targeted By Terrible Attack! (, 20)
-Intrusions Open Across City As Seals Collapse (C, 19)
 
 Extract Crisis:
 Deadly Legacy Virus Cured? (C, 19)
-Fear Grips World as "Worthy" Terrorize Cities (D, 18)
-Skrulls Infiltrate World Leadership (J, 20)
-
+Inhumans Deploy Advanced Weaponry (, 18)
+Terrigen Canisters Fuel Doomsday Device (F, 17)

@@ -1,24 +1,36 @@
-# 5/24/25 1st/12 Arizona Steamroller
+# 9/7/24 2nd/30 OTC
 
-Wolfe sampler 2
 Cygnar - Storm Legion
 Grand Melee - 100 pts
 
 PC CARD
+
+Defenses
+DEFENSE 1 - Barrier
+DEFENSE 1 - Barrier
+DEFENSE 1 - Barrier
 
 Major Anson Wolfe
 SPELL - Arcane Shield
 SPELL - Deflection
 SPELL - Electrify
 
-17 Deuce
+8 Courser
+2 HEAD - Arc Node
+4 RIGHT ARM - Heavy Stormthrower
+2 LEFT ARM - Voltaic Punching Spike
+
+12 Stryker
+2 HEAD - True Sight
+6 RIGHT ARM - Voltaic Javelin
+4 LEFT ARM - Stormblazer Cannon
 
 17 The General
 HEAD - The General
 LEFT ARM - Polarity Fist
 RIGHT ARM - Quicksilver Mk III
 
-4 Captain Bastian Falk
+7 Krueger, Wrath of Blighterghast
 
 3 Legionnaire Officer 1
 
@@ -26,21 +38,15 @@ RIGHT ARM - Quicksilver Mk III
 
 5 Arcane Mechaniks
 
-10 Storm Lance Legionnaires
+10 Storm Lance Legionnaires 1
 
-5 Storm Vanes
+10 Storm Lance Legionnaires 2
 
-6 Stormblade Legionnaires
+7 Stormguard Legionnaires 1
 
-2 Legionnaire Standard Bearer 2
+7 Stormguard Legionnaires 2
 
-7 Stormguard Legionnaires
-
-2 Legionnaire Standard Bearer 3
-
-8 Stormthrower Legionnaires
-
-2 Legionnaire Standard Bearer 1
+2 Legionnaire Standard Bearer
 
 9 The Black 13th
 
@@ -48,8 +54,8 @@ RIGHT ARM - Quicksilver Mk III
 PC COMMAND CARD
 Blessing of the Gods
 Careful Reconnaissance
+Defenses
 Hit & Run
-Lucky Penny
-Old Faithful
+Sapper
 
 TOTAL POINTS 100/100
