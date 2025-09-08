@@ -57,6 +57,7 @@ Dormammu;Dark Dimension/L;1
 Dracula;Cabal, Thralls of Dracula/L;0
 Drax the Destroyer;Guardians of the Galaxy;1
 Ebony Maw;Black Order;1
+Echo;Criminal Syndicate/Defenders;0
 Electro;Criminal Syndicate, Spider-Foes;0
 Elektra;Criminal Syndicate, Defenders;1
 Elsa Bloodstone;Defenders, Midnight Sons/L;0
@@ -130,6 +131,7 @@ Okoye;A-Force, Wakanda;1
 Omega Red;Cabal, Criminal Syndicate, Winter Guard, Hellfire Club;0
 Phoenix;Uncanny X-Men;0
 Professor X;Uncanny X-Men/L;0
+Prowler;Criminal Syndicate/Spider-Foes;0
 Proxima Midnight;Black Order;1
 Psylocke;Uncanny X-Men, X-Force, Servants of the Apocalypse, Hellfire Club;1
 Punisher;Defenders;0
@@ -143,6 +145,7 @@ Rhino;Criminal Syndicate, Spider-Foes;0
 Rocket Raccoon;Guardians of the Galaxy;0
 Rogue;Brotherhood of Mutants, Uncanny X-Men;0
 Ronan the Accuser;Inhumans, Guardians of the Galaxy;1
+Ronin;Avengers/Defenders;0
 Sabretooth, Apex Predator;Brotherhood of Mutants, Weapon X;1
 Sabretooth;Brotherhood of Mutants, Cabal, X-Force, Servants of the Apocalypse;1
 Sandman;Criminal Syndicate, Spider-Foes;0
@@ -158,12 +161,16 @@ Shang-Chi;Avengers, Defenders;0
 She-Hulk;A-Force/L, Avengers, S.H.I.E.L.D.;1
 Shocker;Criminal Syndicate, Spider-Foes;0
 Shuri;A-Force, Wakanda;1
+Silk;Web Warriors;0
 Silver Sable;Criminal Syndicate, Defenders, Web Warriors;0
 Sin;Cabal/L, Criminal Syndicate, Hydra;1
 Skurge, The Executioner;Asgard, Cabal;0
 Spectacular Spider-Man;S.H.I.E.L.D., Web Warriors;1
+Spider-Ham;Web Warriors;0
 Spider-Man (Miles Morales);Web Warriors/L;1
 Spider-Man (Peter Parker);Defenders, Web Warriors;1
+Spider-Man 2099;Web Warriors;0
+Spider-Man Noir;Web Warriors;0
 Spider-Woman;A-Force, Avengers, Hydra, S.H.I.E.L.D., Web Warriors;0
 Squirrel Girl;A-Force, Avengers;0
 Star-Lord;Guardians of the Galaxy/L;1
@@ -181,8 +188,10 @@ The Original Human Torch;S.H.I.E.L.D.;0
 The Wrecking Crew;Cabal, Criminal Syndicate;0
 Thor, Hero of Midgard;Asgard;0
 Thor, Prince of Asgard;Asgard/L, Avengers;1
+Tigra;Avengers/Defenders;0
 Toad;Brotherhood of Mutants, Servants of the Apocalypse;1
 Ulik;Cabal, Criminal Syndicate;0
+Ultimate Spider-Man;Web Warriors;0
 Ultron, Metal Tyrant;Cabal;1
 Ultron;Cabal;1
 Ursa Major;Winter Guard;1
