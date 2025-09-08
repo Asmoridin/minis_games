@@ -1,36 +1,37 @@
-# 5/17/25 3/14
+# 9/6/25 3/31
 
 Characters (10):
-Threat: 39
+Threat: 36
 *Professor X (4)
-Jean Grey (5)
-Psylocke (4)
-Shadowcat (3)
-Nightcrawler (4)
-Gambit (3)
-*Cable (5)
-*Magik (3)
+Bishop (4)
+Angel (3)
+Iceman (3)
+Pyro (3)
+Wong (2)
 Rogue (4)
-*Cyclops (4)
+Juggernaut (5)
+*Storm (3)
+*Cable (5)
 
 Tactics (10):
-Cerebro
-Children of the Atom
-First Class
-Mind Wipe
-To Me, My X-Men!
-Xavier's Dream
 Brace for Impact (R)
-Recalibration Matrix
-Charming Thief
-Journey Through Limbo
+First Class
+Xavier's Dream
+To Me, My X-Men!
+Survival
+Pyrotechnics
+Ultimate Sacrifice
+Do You Know Who I Am?
+Children of the Atom
+Patch Up (R)
 
 Secure Crisis:
 M'Kraan Crystal Gets Heroes Home! (, 19)
+Guardians Save Shi'ar Empress in Style (, 17)
 Mutant Madman Turns City Center Into Lethal Amusement Park (B, 18)
-Wedding Party Targeted By Terrible Attack! (, 20)
 
 Extract Crisis:
-Deadly Legacy Virus Cured? (C, 19)
 Mutant Extremists Target U.S. Senators! (L, 19)
-Scientific Samples Found In Discovered Universe (D, 17)
+Skrulls Infiltrate World Leadership (J, 20)
+Inhumans Deploy Advanced Weaponry (, 18)
+
