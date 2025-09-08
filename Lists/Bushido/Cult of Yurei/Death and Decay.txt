@@ -1,21 +1,32 @@
-# 7/19/25 18th/22 Germany
+# 9/6/25 8th/19 US Masters
 
 Cult of Yurei - Death and Decay - [100 Rice]
 
 # ++ Risen Sun ++ [100 Rice]
-## Faction Profile Cards [93 Rice]
-Araka [15 Rice]
-Armoured Kairai [12 Rice]:
-• 1x Armoured Kairai A [12 Rice]
-Gok [20 Rice]
+## Reference Cards
+Kairai Farmers (reference):
+• 1x Kairai Farmer A
+Kairai Militia (reference):
+• 1x Kairai Militia A
+Risen Kairai (reference):
+• 1x Risen Kairai A
+
+## Faction Profile Cards [89 Rice]
 Kairai Farmers [14 Rice]:
 • 1x Kairai Farmer A [7 Rice]
 • 1x Kairai Farmer B [7 Rice]
-Kairai Militia [8 Rice]:
+Kairai Militia [16 Rice]:
 • 1x Kairai Militia A [8 Rice]
+• 1x Kairai Militia B [8 Rice]
 Kairai Villagers [9 Rice]:
 • 1x Kairai Villager A [9 Rice]
-Masaema Tadao [15 Rice]
+Kato, the Puppet Master [22 Rice]
+Masaema Tadao [16 Rice]: Fresh
+Risen Kairai [12 Rice]:
+• 1x Risen Kairai A [3 Rice]
+• 1x Risen Kairai B [3 Rice]
+• 1x Risen Kairai C [3 Rice]
+• 1x Risen Kairai D [3 Rice]
 
 ## Faction Event Cards [3 Rice]
 Breath of Yurei [3 Rice]
@@ -25,3 +36,7 @@ Desecrated Grave [4 Rice]
 
 ## Faction Theme Cards
 Death and Decay
+
+## Ronin Event Cards [4 Rice]
+War Weary [3 Rice]
+Year of the Risen Sun [1 Rice]
