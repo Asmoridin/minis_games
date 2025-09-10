@@ -1,0 +1,237 @@
+Abomination;Outcasts;Minion;Amalgam;8;0
+Abuela Ortega;Guild;Enforcer;Family;1;0
+Adze;Neverborn;Enforcer;Swampfiend;1;0
+Aeslin;Neverborn;Henchman;Fae;1;0
+Agent 46;Guild;Henchman;Elite/Mimic;1;0
+Aionus;Outcasts;Henchman;Obliteration;1;0
+Akaname;Bayou;Minion;Oni/Tri-Chi;3;0
+Alan Reid;Guild;Henchman;Elite;1;0
+Allison Dade;Guild;Henchman;Journalist;1;0
+Alp;Neverborn;Minion;Nightmare;3;0
+Alphonse LeBlanc;Bayou;Henchman;Wizz-Bang;1;1
+Alpinist;Explorer;Enforcer;Versatile;1;0
+Ama No Zako;Thunder;Henchman;Oni;1;0
+Amai;Thunder;Minion;Versatile, Sayuri;2;0
+Amanjaku;Thunder;Enforcer;Oni;1;0
+Amina Naidu;Arcanists;Henchman;M&SU;1;0
+Ancient Construct;Outcasts;Minion;Bygone;2;0
+Angel Eyes;Neverborn;Henchman;Half-Blood/Versatile;1;0
+Angelica Durand;Arcanists;Enforcer;Performer;1;0
+Anna Lovelance;Res;Henchman;Transmortis;1;0
+Anya Lycargen, Rail Magnate;Explorer;Master;Syndicate;1;0
+Anya Lycargen;Explorer;Master;Syndicate;1;0
+Apprentice Wesley;Bayou;Enforcer;Tri-Chi;1;0
+Arcane Effigy;Arcanists;Enforcer;Effigy/Puppet/Versatile;1;0
+Arcane Emissary;Arcanists;Enforcer;Versatile/Emissary of Fate;1;0
+Archie;Res;Enforcer;Forgotten;1;0
+Archivist;Explorer;Enforcer;Cadmus;1;0
+Arik Schöttemer;Outcasts;Henchman;Freikorps;1;0
+Artemis;Explorer;Enforcer;Apex;1;0
+Asami Tanaka, Shintaku;Thunder;Master;Oni;1;0
+Asami Tanaka;Thunder;Master;Oni;1;0
+Ashes and Dust;Outcasts;Enforcer;Amalgam;1;0
+Ashigaru;Res;Minion;Retainer;3;0
+Aspiring Student;Thunder;Minion;Monk;2;0
+Asura Roten;Res;Henchman;Versatile/Zombie;1;0
+Athorak;Neverborn;Henchman;Returned/Nephilim;1;0
+Aua Warrior;Outcasts;Minion;Bygone;3;0
+Auguste Hart;Guild;Enforcer;Journalist/Tormented;1;0
+Aunty Mel;Bayou;Henchman;Angler;1;0
+Austera and Twigge;Explorer;Enforcer;Seeker;1;0
+Austringer;Guild;Minion;Frontier;2;0
+Autumn Knight;Neverborn;Minion;Fae;3;0
+Aversion;Neverborn;Minion;Woe;2;0
+Baby Kade;Neverborn;Enforcer;Woe;1;1
+Backup Assistant;Bayou;Enforcer;Transmortis/Wizz-Bang;1;0
+Bad Juju;Neverborn;Henchman;Swampfiend;1;0
+Banasuvia;Arcanists;Enforcer;Academic/Elemental;1;0
+Bandersnatch;Neverborn;Enforcer;Nightmare;1;0
+Bandido;Outcasts;Minion;Bandit;3;0
+Banjonista;Bayou;Minion;Big Hat;3;0
+Barbaros;Outcasts;Henchman;Nephilim/Returned/Versatile;1;1
+Bayou Gator;Bayou;Minion;Swampfiend/Versatile;3;0
+Bayou Gremlin;Bayou;Minion;Versatile/Big Hat;8;0
+Bayou Smuggler;Bayou;Minion;Versatile/Bandit/Infamous;2;0
+Beau Fishbocker;Bayou;Enforcer;EVS/Infamous;1;0
+Beckoner;Thunder;Minion;Honeypot;2;0
+Bellaventine Thrope;Arcanists;Henchman;Witness;1;0
+Bellhop Porter;Explorer;Enforcer;Versatile;1;0
+Benny Wolcomb;Outcasts;Henchman;Bandit/Plague;1;0
+Bernadette Basse;Guild/Explorer;Enforcer;Frontier;1;0
+Berserker Husk;Explorer;Minion;Cadmus;3;0
+Big Brain Brin;Bayou;Henchman;Tricksy;1;0
+Big Jake;Outcasts;Enforcer;Mercenary;1;0
+Bill Algren;Thunder;Henchman;Qi and Gong;1;0
+Bishop;Outcasts;Enforcer;Mercenary;1;0
+Black Blood Shaman;Neverborn;Minion;Nephilim;2;0
+Blessed of December;Arcanists;Enforcer;December;1;0
+Blood Hunter;Neverborn;Enforcer;Nephilim;1;0
+Blood Vessel;Res;Minion;Returned;3;0
+Blood Wretch;Neverborn;Minion;Versatile/Half-Blood;2;0
+Bo Peep;Bayou;Henchman;Versatile/Jockey/Sooey;1;0
+Bone Pile;Res;Minion;Versatile;3;0
+Bookkeeper;Thunder;Minion;Red Library;3;0
+Botanist;Explorer;Minion;Versatile;3;0
+Brass Arachnid;Arcanists/DEAD;Enforcer;Machina;1;0
+Brocken Spectre;Explorer;Minion;Umbra;2;0
+Bruce;Bayou;Enforcer;Angler;1;0
+Brutal Effigy;Guild;Enforcer;Versatile/Effigy/Puppet;1;0
+Brutal Emissary;Guild;Enforcer;Versatile/Emissary of Fate;1;0
+Buckaroo;Bayou;Minion;Angler;3;0
+Bultungin;Neverborn;Minion;Fae/Savage;3;0
+Bunraku;Thunder;Minion;Puppet/Qi and Gong;3;0
+Burt Jebsen;Bayou;Enforcer;Versatile/Infamous/Wizz-Bang;1;0
+Bushwhacker;Bayou;Minion;Tricksy;3;0
+Bête Noire;Res;Enforcer;Redchapel;1;0
+Caligrapher;Thunder;Minion;Red Library;3;0
+Calypso, Mk II;Explorer;Enforcer;EVS;1;0
+Candy;Neverborn;Henchman;Woe;1;1
+Canine Remains;Res;Minion;Experimental;3;0
+Captain Zipp, Dread Pirate;Bayou/Outcasts;Master;Infamous;1;0
+Captain Zipp;Bayou/Outcasts;Master;Infamous;1;0
+Carlos Vasquez;Arcanists;Henchman;Performer/Wildfire;1;0
+Carrion Effigy;Res;Enforcer;Versatile/Effigy/Puppet;1;0
+Carrion Emissary;Res;Enforcer;Versatile/Emissary of Fate;1;0
+Cassandra Felton;Arcanists;Henchman;Performer;1;0
+Catalan Brawler;Outcasts;Enforcer;Versatile/Syndicate;1;0
+Catalan Rifleman;Outcasts;Minion;Versatile/Syndicate;2;0
+Cavatica;Explorer;Enforcer;Cadmus/Mimic;1;0
+Cavern Nephilim;Neverborn;Minion;Nephilim/Returned;2;0
+Changeling;Neverborn;Minion;Mimic;3;0
+Charles Hoffman, Inventor;Guild/Arcanists;Master;Augmented;1;0
+Charles Hoffman;Guild/Arcanists;Master;Augmented;1;0
+Charm Warder;Thunder;Minion;Monk/Qi and Gong;2;0
+Cherub;Neverborn/DEAD;Enforcer;Nephilim;1;1
+Chiaki, The Beacon;Thunder;Enforcer;Ancestor/Retainer;1;0
+Chiyo Hamasaki;Thunder;Enforcer;Qi and Gong;1;0
+Clockwork Trap;Guild;Minion;Frontier;8;0
+Cojo;Arcanists;Enforcer;Chimera;1;0
+Colette Du Bois, Smuggler;Arcanists;Master;Performer;1;0
+Colette Du Bois;Arcanists;Master;Performer;1;0
+Collodi;Neverborn/DEAD;Master;Puppet;1;1
+Convict Gunslinger;Outcasts;Minion;Bandit;2;0
+Cooper Jones;Bayou;Enforcer;Tri-Chi;1;0
+Coppelius;Neverborn;Enforcer;Nightmare;1;0
+Copycat Killer;Res;Enforcer;Redchapel;1;0
+Cornelius Basse, Badlands Sheriff;Guild/Explorer;Master;Frontier;1;0
+Cornelius Basse;Guild/Explorer;Master;Frontier;1;0
+Corpse Candle;Res;Minion;Revenant;2;0
+Corpse Curator;Res;Enforcer;Experimental/Wastrel;1;0
+Corrupted Hound;Neverborn;Minion;Nephilim;4;0
+Corvis Rook;Explorer;Henchman;DUA/Syndicate;1;0
+Coryphee Duet;Arcanists;Enforcer;Performer/Puppet;1;0
+Coryphee;Arcanists;Minion;Performer/Puppet;2;0
+Crooked Man;Res;Minion;Tormented;3;0
+Crooligan;Res;Minion;Forgotten;3;0
+Crypsis Corps;Explorer;Minion;Apex;2;0
+Cryptologist;Explorer;Minion;Wastrel;2;0
+Cyclops;Neverborn;Minion;Savage;2;0
+Dabbler;Arcanists;Minion;Witness/Wizz-Bang;3;0
+Daeva;Explorer;Minion;Umbra;3;0
+Damian Ravencroft, Aspirant;Arcanists;Master;Witness;1;0
+Damian Ravencroft, Unbound;Arcanists;Master;Witness;1;0
+Dashel Barker, Butcher;Guild;Master;Guard;1;0
+Dashel Barker;Guild;Master;Guard;1;0
+Datsue Ba;Res;Henchman;Urami;1;0
+Dawn Serpent;Thunder;Enforcer;Versatile;1;0
+Daydream;Neverborn;Minion;Nightmare;3;0
+Deacon Hillcrest;Arcanists;Enforcer;Revenant/Witness;1;0
+Dead Dandy;Res;Minion;Redchapel/Zombie;3;0
+Dead Doxy;Res;Minion;Redchapel/Zombie;2;0
+Dead Outlaw;Outcasts;Minion;Bandit/Tormented;3;0
+Dead Rider;Res;Enforcer;Versatile/Horseman;1;0
+Death Marshal Recruiter;Guild;Minion;Marshal;2;0
+Death Marshal;Guild;Minion;Marshal;3;3
+December Acolyte;Arcanists;Minion;December;3;0
+Depleted;Thunder;Minion;Honeypot;3;0
+Desolation Engine;Outcasts;Minion;Amalgam;2;0
+Desper LaRaux;Thunder;Henchman;Wastrel;1;0
+Desperate Mercenary;Outcasts;Minion;Mercenary;2;0
+Disease Containment Unit;Guild;Enforcer;Guard/Plague;1;0
+Doc Mitchell;Outcasts;Enforcer;Bandit;1;0
+Domador De Cadáveres;Guild;Minion;Marshal;2;0
+Doppleganger;Neverborn;Enforcer;Versatile/Mimic;1;1
+Dorian Crowe;Neverborn;Enforcer;Performer/Woe;1;0
+Dr. Beebe;Explorer;Enforcer;EVS;1;0
+Dr. Grimwell;Guild;Henchman;Versatile/Asylum;1;0
+Dr. McMourning, Insanitary;Res;Master;Experimental;1;0
+Dr. McMourning;Res;Master;Experimental;1;0
+Dr. Meredith Stanley;Explorer;Henchman;Cadmus;1;0
+Drachen Trooper;Outcasts;Minion;Freikorps;2;0
+Draugr;Res;Minion;Revenant;2;1
+Drowned;Res;Minion;Tormented/Urami;3;0
+Drudge;Arcanists;Minion;M&SU/Syndicate;3;0
+Earl Burns;Bayou/Outcasts;Enforcer;Infamous;1;0
+Electrical Creation;Arcanists/DEAD;Minion;Machina;3;0
+Elijah Borgmann;Arcanists;Enforcer;Wildfire;1;0
+Empyrean Eagle;Explorer;Minion;Apex/Chimera;2;0
+English Ivan, Double Agent;Explorer;Master;DUA/Umbra;1;0
+English Ivan;Explorer;Master;DUA/Umbra;1;0
+Enslaved Nephilim;Guild;Enforcer;Family/Nephilim;1;1
+Enslaved Spirit;Res;Minion;Urami/Versatile;3;0
+Envy;Arcanists;Henchman;Versatile/Crossroads;1;0
+Erymanthian Bear;Neverborn;Enforcer;Fae/Pig;1;0
+Essence of Power;Arcanists;Enforcer;Elemental;1;0
+Eternal Flame;Arcanists;Enforcer;Wildfire;1;0
+Euripides, Old One-Eye;Neverborn;Master;Savage;1;0
+Euripides;Neverborn;Master;Savage;1;0
+Eva Havenhand;Explorer;Enforcer;DUA;1;0
+Executioner;Guild;Minion;Guard;2;0
+Exorcist;Guild;Minion;Marshal;2;0
+Eyes and Ears;Explorer;Minion;Cadmus;5;0
+False Witness;Guild;Minion;Elite/Journalist;3;0
+Ferdinand Vogel;Arcanists;Enforcer;Chimera;1;0
+Fermented River Monk;Thunder;Minion;Monk/Tri-Chi;3;0
+Field Reporter;Guild;Minion;Journalist;3;0
+Fingers Leong;Bayou;Henchman;Tri-Chi;1;0
+Fire Gamin;Arcanists;Minion;Elemental/Wildfire;3;0
+Fire Golem;Arcanists;Enforcer;Elemental/Wildfire;1;0
+Firebranded;Arcanists;Minion;Wildfire;3;0
+Fitzsimmons;Arcanists;Henchman;M&SU;1;0
+Flesh Construct;Res;Minion;Experimental;Zombie;3;0
+Fluffernutter;Bayou;Enforcer;Versatile/Jockey/Wizz-Bang;1;0
+Flying Piglet;Bayou;Minion;Infamous/Wizz-Bang;3;0
+Forgeling;Thunder/Arcanists;Enforcer;Foundry;1;0
+Four Winds Golem;Arcanists;Enforcer;Elemental/Monk;1;0
+Francois LaCroix;Bayou;Henchman;Kin;1;0
+Fransisco Ortega;Guild;Henchman;Family;1;1
+Freikorps Engineer;Outcasts;Minion;Freikorps;2;0
+Freikorps Librarian;Outcasts;Minion;Freikorps;2;0
+Freikorps Scout;Outcasts;Minion;Freikorps;3;0
+Freikorpsman;Outcasts;Minion;Freikorps;3;0
+Frontiersman;Guild;Minion;Frontier;3;0
+Fuhatsu;Thunder;Enforcer;Versatile;1;0
+Gaki;Res;Minion;Urami;3;0
+Gatling Gunner;Guild;Minion;Versatile;3;0
+Gautraeux Bokor;Bayou;Minion;Swampfiend/Wizz-Bang;3;0
+Gearling;Arcanists;Minion;Versatile/Watchmen;2;0
+Geisha;Thunder;Minion;Qi and Gong;3;0
+Georgy and Olaf;Bayou;Enforcer;Big Hat;1;0
+Geryon;Neverborn;Minion;Savage;2;0
+Gibson DeWalt;Explorer;Henchman;DUA;1;0
+Gigant;Neverborn;Minion;Savage;3;0
+Gluttony;Bayou;Henchman;Versatile/Crossroads;1;0
+Gokudo;Thunder;Minion;Retainer;3;0
+Good Ol' Boy;Bayou;Minion;Big Hat;3;0
+Gorar;Neverborn;Enforcer;Fae;1;0
+Goryo;Res;Minion;Urami;2;0
+Gracie;Bayou;Enforcer;Versatile/Infamous/Pig;1;0
+Grave Golem;Res;Enforcer;Versatile;1;0
+Grave Goo;Explorer;Enforcer;Seeker;1;0
+Gravedigger;Res;Minion;Versatile/Mortuary;2;0
+Greed;Guild;Henchman;Versatile/Crossroads;1;0
+Gremlin Crier;Bayou;Minion;Big Hat;3;0
+Grootslang;Neverborn;Enforcer;Swampfiend;1;0
+Guard Patrol;Guild;Minion;Guard;4;0
+Guardian;Guild;Minion;Augmented;2;0
+Guild Autopsy;Res;Minion;Experimental/Zombie;3;0
+Guild Hound;Guild;Minion;Guard;4;0
+Guild Lawyer;Guild;Minin;Elite;3;0
+Guild Mage;Guild;Minion;Versatile;3;0
+Guild Steward;Guild;Enforcer;Versatile;1;0
+Guilty;Outcasts;Minion;Tormented;3;0
+Gunsmith;Arcanists;Minion;M&SU;2;0
+Gupps;Bayou;Minion;Swampfiend;3;0
+Gwisin;Res;Minion;Versatile/Urami;3;0
+Gwyll;Res;Henchman;Returned;1;0
+Gwyneth Maddox;Thunder;Henchman;Honeypot;1;0
