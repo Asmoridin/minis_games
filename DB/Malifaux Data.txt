@@ -269,8 +269,38 @@ Gupps;Bayou;Minion;Versatile;3;0
 Gwisin;Res;Minion;Urami;3;0
 Gwyll;Neverborn;Henchman;Returned;1;0
 Gwyneth Maddox;Thunder;Henchman;Honeypot;1;0
+
+Hamelin, The Piper;Outcasts;Master;Plague;1;0
+Hamelin;Outcasts;Master;Plague;1;0
+Hanged;Res;Minion;Tormented;2;0
+Hannah Lovelace;Outcasts;Henchman;Freikorps;1;0
+Hans;Outcasts;Enforcer;Versatile;1;0
+Harata Ngaatoro;Explorer;Enforcer;EVS/Performer;1;0
+Harold Tull, Artillerist;Guild;Master;Cavalier;1;0
+Harold Tull, Dead Silent;Guild;Master;Cavalier;1;0
+Harpooner;Explorer;Minion;Apex/EVS;2;0
+Harris J-5;Arcanists;Enforcer;Versatile/Watchmen;1;0
+Harrison Frodsham;Arcanists;Henchman;Versatile/Watchmen;1;0
+Hayreddin;Neverborn;Henchman;Nephilim;1;0
+Hermits;Bayou;Minion;Angler;2;0
+Hex Bow;Guild;Minion;Cavalier/Witch Hunter;3;0
+High River Monk;Thunder;Minion;Monk;3;0
+Hildegard;Neverborn;Enforcer;Versatile/Grim;1;0
+Hinamatsu;Neverborn;Henchman;Versatile/Puppet/Qi and Gong;1;0
+Hoarcat;Arcanists;Minion;December;3;0
+Hodgepodge Effigy;Outcasts;Enforcer;Versatile/Effigy/Puppet;1;0
+Hodgepodge Emissary;Outcasts;Enforcer;Versatile/Emissary of Fate;1;0
+Hog Whisperer;Bayou;Minion;Sooey;3;0
+Hollow Waif;Outcasts;Minion;Amalgam;2;0
+Hooded Rider;Neverborn;Enforcer;Versatile/Horseman;1;0
+Hopeful Prospect;Explorer;Minion;Versatile;2;0
+Howard Langston;Arcanists;Enforcer;Augmented/M&SU;1;0
+Huckster;Thunder;Minion;Wastrel;3;0
+Hungering Darkness;Thunder;Henchman;Honeypot;1;1
+Hunter;Guild;Minion;Augmented;3;0
+
 Papa Loco - HAVE +1 (Enslaved Nephilim)
-Terror Tot - COUNT AS HAVING +1
+Terror Tot - COUNT AS HAVING +1 (Cherub)
 The Bad Omen;Outcasts;Enforcer;Versatile;1;0
 The Brass Bull;Explorer;Totem;Syndicate;1;0
 The Brewmaster, Moonshiner;Bayou;Master;Tri-Chi;1;0
@@ -290,4 +320,4 @@ The First Light;Explorer;Enforcer;Bygone;1;0
 The First Mate;Outcasts;Henchman;Infamous;1;0
 The Forgotten Marshal;Res;Enforcer;Forgotten;1;0
 The Fortune Teller;Outcasts;Enforcer;Ampersand;1;0
-Vasilisa - COUNT AS HAVING +1
+Vasilisa - COUNT AS HAVING +1 (Collod)
