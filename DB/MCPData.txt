@@ -57,7 +57,7 @@ Dormammu;Dark Dimension/L;1
 Dracula;Cabal, Thralls of Dracula/L;0
 Drax the Destroyer;Guardians of the Galaxy;1
 Ebony Maw;Black Order;1
-Echo;Criminal Syndicate/Defenders;0
+Echo;Criminal Syndicate, Defenders;0
 Electro;Criminal Syndicate, Spider-Foes;0
 Elektra;Criminal Syndicate, Defenders;1
 Elsa Bloodstone;Defenders, Midnight Sons/L;0
@@ -131,7 +131,7 @@ Okoye;A-Force, Wakanda;1
 Omega Red;Cabal, Criminal Syndicate, Winter Guard, Hellfire Club;0
 Phoenix;Uncanny X-Men;0
 Professor X;Uncanny X-Men/L;0
-Prowler;Criminal Syndicate/Spider-Foes;0
+Prowler;Criminal Syndicate, Spider-Foes;0
 Proxima Midnight;Black Order;1
 Psylocke;Uncanny X-Men, X-Force, Servants of the Apocalypse, Hellfire Club;1
 Punisher;Defenders;0
@@ -145,7 +145,7 @@ Rhino;Criminal Syndicate, Spider-Foes;0
 Rocket Raccoon;Guardians of the Galaxy;0
 Rogue;Brotherhood of Mutants, Uncanny X-Men;0
 Ronan the Accuser;Inhumans, Guardians of the Galaxy;1
-Ronin;Avengers/Defenders;0
+Ronin;Avengers, Defenders;0
 Sabretooth, Apex Predator;Brotherhood of Mutants, Weapon X;1
 Sabretooth;Brotherhood of Mutants, Cabal, X-Force, Servants of the Apocalypse;1
 Sandman;Criminal Syndicate, Spider-Foes;0
@@ -188,7 +188,7 @@ The Original Human Torch;S.H.I.E.L.D.;0
 The Wrecking Crew;Cabal, Criminal Syndicate;0
 Thor, Hero of Midgard;Asgard;0
 Thor, Prince of Asgard;Asgard/L, Avengers;1
-Tigra;Avengers/Defenders;0
+Tigra;Avengers, Defenders;0
 Toad;Brotherhood of Mutants, Servants of the Apocalypse;1
 Ulik;Cabal, Criminal Syndicate;0
 Ultimate Spider-Man;Web Warriors;0
