@@ -300,7 +300,7 @@ Hungering Darkness;Thunder;Henchman;Honeypot;1;1
 Hunter;Guild;Minion;Augmented;3;0
 
 Papa Loco - HAVE +1 (Enslaved Nephilim)
-Terror Tot - COUNT AS HAVING +1 (Cherub)
+Terror Tot - COUNT AS HAVING +1
 The Bad Omen;Outcasts;Enforcer;Versatile;1;0
 The Brass Bull;Explorer;Totem;Syndicate;1;0
 The Brewmaster, Moonshiner;Bayou;Master;Tri-Chi;1;0
@@ -320,4 +320,4 @@ The First Light;Explorer;Enforcer;Bygone;1;0
 The First Mate;Outcasts;Henchman;Infamous;1;0
 The Forgotten Marshal;Res;Enforcer;Forgotten;1;0
 The Fortune Teller;Outcasts;Enforcer;Ampersand;1;0
-Vasilisa - COUNT AS HAVING +1 (Collod)
+Vasilisa - COUNT AS HAVING +1
