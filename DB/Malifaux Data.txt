@@ -304,19 +304,21 @@ Huckster;Explorer;Minion;Wastrel;3;0
 Hungering Darkness, Beneath the Bets;Thunder;Totem;Honeypot;1;1
 Hungering Darkness, Eclipse;Thunder;Totem;Honeypot;1;0
 Hunter;Guild;Minion;Augmented;3;0
-
-Ice Dancer;Arcanists;Minion;December/Performer;2;0
-Ice Gamin;Arcanists;Minion;December/Elemental;3;0
-Ice Golem;Arcanists;Enforcer;December/Elemental;1;0
-Iggy;Neverborn;Enforcer;Wildfire/Woe;1;0
-Ikiryo;Res;Enforcer;Urami;1;0
+Ice Gamin;Arcanists;Minion;December/Academic/Versatile;3;0
+Ice Golem;Arcanists;Enforcer;December/Academic/Versatile;1;0
+Iggy;Neverborn;Totem;Woe;1;0
+Ikiryo, Spirit of Vengeance;Res;Totem;Urami;1;0
+Ikiryo, The Heart that Left;Res;Totem;Urami;1;0
 Illuminated;Thunder;Minion;Honeypot;3;3
 Insidious Madness;Neverborn;Minion;Nightmare;3;0
-Intrepid Effigy;Explorer;Enforcer;Versatile/Effigy/Puppet;1;0
-Intrepid Emissary;Explorer;Enforcer;Versatile/Emissary of Fate;1;0
+Intrepid Fate, Effigy;Explorer;Enforcer;Versatile;1;0
+Intrepid Fate, Emissary;Explorer;Enforcer;Versatile;1;0
 Investigator;Guild;Minion;Elite;2;0
-Iron Skeeter;Bayou;Minion;Infamous;3;0
-Izamu, The Armor;Thunder;Enforcer;Ancestor/Retainer;1;0
+Irena Keene;Arcanists;Enforcer;Versatile/Syndicate;1;0
+The Iron Matron;Explorer;Henchman;Bygone;1;0
+Iron Wing;Bayou;Minion;Infamous;3;0
+Ithanna;Neverborn;Henchman;Brood/Fae;1;0
+Izamu, The Armor;Res;Enforcer;Ancestor;1;0
 
 Papa Loco - HAVE +1 (Enslaved Nephilim)
 Terror Tot - COUNT AS HAVING +1
