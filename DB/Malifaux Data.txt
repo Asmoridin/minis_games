@@ -320,6 +320,24 @@ Iron Wing;Bayou;Minion;Infamous;3;0
 Ithanna;Neverborn;Henchman;Brood/Fae;1;0
 Izamu, The Armor;Res;Enforcer;Ancestor;1;0
 
+Jaakuna Ubum;Res;Enforcer;Tormented/Urami;1;0
+Jack Daw, Ensouled;Res/Outcasts;Master;Tormented;1;0
+Jack Daw;Res/Outcasts;Master;Tormented;1;0
+Jackalope;Arcanists/Neverborn;Enforcer;Chimera;1;1
+Jade Rabbit;Thunder;Enforcer;Red Library/Story;1;0
+Jakob Lynch, Dark Bet;Thunder;Master;Honeypot;1;10
+Jakob Lynch;Thunder;Master;Honeypot;1;1
+Jedza, Everlasting;Explorer;Master;Seeker;1;0
+Jedza;Explorer;Master;Seeker;1;10
+Jessie Halliday;Explorer;Henchman;Versatile/Wastrel;1;0
+Jin Baccara;Explorer;Enforcer;Dua/Last Blossom;1;0
+Johan Creedy;Outcasts;Enforcer;Versatile/Infamous;1;0
+John Watson;Guild;Enforcer;Cavalier;1;0
+Jonathan Reichart;Guild;Henchman;Frontier;1;0
+Jorogumo;Thunder;Minion;Oni;3;0
+Joss;Arcanists;Henchman;Augmented/Machina;1;0
+Judd & Honey;Bayou;Enforcer;Angler/Cavalier;1;0
+
 Papa Loco - HAVE +1 (Enslaved Nephilim)
 Terror Tot - COUNT AS HAVING +1
 The Bad Omen;Outcasts;Enforcer;Versatile;1;0
