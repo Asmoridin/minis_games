@@ -319,24 +319,26 @@ The Iron Matron;Explorer;Henchman;Bygone;1;0
 Iron Wing;Bayou;Minion;Infamous;3;0
 Ithanna;Neverborn;Henchman;Brood/Fae;1;0
 Izamu, The Armor;Res;Enforcer;Ancestor;1;0
-
-Jaakuna Ubum;Res;Enforcer;Tormented/Urami;1;0
-Jack Daw, Ensouled;Res/Outcasts;Master;Tormented;1;0
-Jack Daw;Res/Outcasts;Master;Tormented;1;0
-Jackalope;Arcanists/Neverborn;Enforcer;Chimera;1;1
-Jade Rabbit;Thunder;Enforcer;Red Library/Story;1;0
-Jakob Lynch, Dark Bet;Thunder;Master;Honeypot;1;10
-Jakob Lynch;Thunder;Master;Honeypot;1;1
+Jaakuna Ubume;Res;Enforcer;Tormented;1;0
+Jack Daw, Ensouled;Res;Master;Tormented;1;0
+Jack Daw, Spirit of Betrayal;Res;Master;Tormented;1;0
+Jackalope;Neverborn;Totem;Chimera;1;1
+Jade Rabbit;Thunder;Totem;Red Library;1;0
+Jakob Lynch, Dark Bet;Thunder;Master;Honeypot;1;0
+Jakob Lynch, Wildcard;Thunder;Master;Honeypot;1;1
+Jane Doe;Guild;Totem;Elite;1;0
+Jasper Gray;Guild;Enforcer;Cavalier;1;0
+Jebediah Jones;Bayou;Enforcer;Big Hat/Tricksy;1;0
 Jedza, Everlasting;Explorer;Master;Seeker;1;0
-Jedza;Explorer;Master;Seeker;1;10
-Jessie Halliday;Explorer;Henchman;Versatile/Wastrel;1;0
-Jin Baccara;Explorer;Enforcer;Dua/Last Blossom;1;0
-Johan Creedy;Outcasts;Enforcer;Versatile/Infamous;1;0
+Jedza, The Wanderer;Explorer;Master;Seeker;1;0
+Jessie Halliday;Explorer;Enforcer;Versatile;1;0
+Jin Baccara;Explorer;Henchman;DUA;1;0
+Johan Creedy;Outcasts;Enforcer;Versatile;1;0
 John Watson;Guild;Enforcer;Cavalier;1;0
-Jonathan Reichart;Guild;Henchman;Frontier;1;0
+Jonathan Reichart;Anarchists;Henchman;Frontier;1;0
 Jorogumo;Thunder;Minion;Oni;3;0
-Joss;Arcanists;Henchman;Augmented/Machina;1;0
-Judd & Honey;Bayou;Enforcer;Angler/Cavalier;1;0
+Joss;Arcanists;Henchman;Machina;1;0
+Judd & Honey;Bayou;Totem;Angler;1;0
 
 Papa Loco - HAVE +1 (Enslaved Nephilim)
 Terror Tot - COUNT AS HAVING +1
@@ -359,4 +361,6 @@ The First Light;Explorer;Enforcer;Bygone;1;0
 The First Mate;Outcasts;Henchman;Infamous;1;0
 The Forgotten Marshal;Res;Enforcer;Forgotten;1;0
 The Fortune Teller;Outcasts;Enforcer;Ampersand;1;0
+The Judge;Guild;Henchman;Marshal;1;0
+The Jury;Guild;Enforcer;Marshal;1;0
 Vasilisa - COUNT AS HAVING +1
