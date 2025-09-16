@@ -120,7 +120,7 @@ Ceddra, Sightless Snow;Arcanists;Enforcer;Chimera/December;1;0
 Ceddra, White Stag;Arcanists;Enforcer;Chimera/December;1;0
 Changeling;Neverborn;Minion;Versatile/Elite;3;0
 Charles Hoffman, Inventor;Guild;Master;Augmented;1;0
-Charles Hoffman, Steel Sculptor;GuildMaster;Augmented;1;0
+Charles Hoffman, Steel Sculptor;Guild;Master;Augmented;1;0
 Charm Warder;Thunder;Minion;Qi and Gong;2;0
 Chiaki, The Beacon;Res;Henchman;Ancestor;1;0
 Chiyo Hamasaki;Thunder;Totem;Qi and Gong;1;0
@@ -335,13 +335,13 @@ Jessie Halliday;Explorer;Enforcer;Versatile;1;0
 Jin Baccara;Explorer;Henchman;DUA;1;0
 Johan Creedy;Outcasts;Enforcer;Versatile;1;0
 John Watson;Guild;Enforcer;Cavalier;1;0
-Jonathan Reichart;Anarchists;Henchman;Frontier;1;0
+Jonathan Reichart;Arcanists;Henchman;Frontier;1;0
 Jorogumo;Thunder;Minion;Oni;3;0
 Joss;Arcanists;Henchman;Machina;1;0
 Judd & Honey;Bayou;Totem;Angler;1;0
 
-Papa Loco - HAVE +1 (Enslaved Nephilim)
-Terror Tot - COUNT AS HAVING +1
+# Papa Loco - HAVE +1 (Enslaved Nephilim)
+# Terror Tot - COUNT AS HAVING +1
 The Bad Omen;Outcasts;Enforcer;Versatile;1;0
 The Brass Bull;Explorer;Totem;Syndicate;1;0
 The Brewmaster, Moonshiner;Bayou;Master;Tri-Chi;1;0
@@ -363,4 +363,4 @@ The Forgotten Marshal;Res;Enforcer;Forgotten;1;0
 The Fortune Teller;Outcasts;Enforcer;Ampersand;1;0
 The Judge;Guild;Henchman;Marshal;1;0
 The Jury;Guild;Enforcer;Marshal;1;0
-Vasilisa - COUNT AS HAVING +1
+# Vasilisa - COUNT AS HAVING +1
