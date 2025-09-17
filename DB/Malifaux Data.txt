@@ -340,8 +340,37 @@ Jorogumo;Thunder;Minion;Oni;3;0
 Joss;Arcanists;Henchman;Machina;1;0
 Judd & Honey;Bayou;Totem;Angler;1;0
 
+Kabuki Warrior;Thunder;Minion;Qi and Gong;2;0
+Kaeris, Reborn;Arcanists;Master;Wildfire;1;0
+Kareis;Arcanists;Master;Wildfire;1;0
+Kaltgeist;Neverborn;Minion;December/Savage;3;0
+Kamaitachi;Thunder;Enforcer;Oni;1;0
+Kandara;Arcanists;Henchman;Academic/Elemental;1;0
+Kang;Thunder;Henchman;Foundry;1;0
+Kara;Thunder;Enforcer;Versatile/Sayuri;1;0
+Karina;Outcasts;Enforcer;Obliteration;1;0
+Kastore, Awakened;Neverborn/Res;Master;Returned;1;0
+Kastore, Fervent;Neverborn/Res;Master;Returned;1;0
+Katanaka Crime Boss;Thunder;Minion;Last Blossom;2;0
+Katanaka Sniper;Thunder;Minion;Last Blossom;2;0
+Katashiro;Thunder;Minion;Oni;2;0
+Kenshiro, The Tactician;Thunder;Enforcer;Ancestor/Mercenary;1;0
+Kentauroi;Res;Minion;Experimental;2;0
+Kett;Outcasts;Henchman;Bayou;1;0
+Killjoy;Neverborn;Enforcer;Fae;1;0
+King's Wall;Guild;Henchman;Cavalier;1;0
+Kirai Ankoku, Envoy of the Court;Res;Master;Urami;1;0
+Kirai Ankoku;Res;Master;Urami;1;0
+Kitty Dumont;Thunder;Henchman;Honeypot;1;0
+Kiya Manimi;Explorer;Henchman;EVS;1;0
+Klaus Norwood;Neverborn;Henchman;Versatile/Grim/Mimic;1;0
+Koji;Thunder;Henchman;Versatile/Sayuri;1;0
+Komainu;Thunder;Minion;Retainer;2;0
+Kudra;Arcanists;Henchman;Academic/Elemental;1;0
+Kunoichi;Thunder;Minion;Qi and Gong;3;0
+
 # Papa Loco - HAVE +1 (Enslaved Nephilim)
-# Terror Tot - COUNT AS HAVING +1
+# Terror Tot - COUNT AS HAVING +1 (Cherub)
 The Bad Omen;Outcasts;Enforcer;Versatile;1;0
 The Brass Bull;Explorer;Totem;Syndicate;1;0
 The Brewmaster, Moonshiner;Bayou;Master;Tri-Chi;1;0
@@ -363,4 +392,4 @@ The Forgotten Marshal;Res;Enforcer;Forgotten;1;0
 The Fortune Teller;Outcasts;Enforcer;Ampersand;1;0
 The Judge;Guild;Henchman;Marshal;1;0
 The Jury;Guild;Enforcer;Marshal;1;0
-# Vasilisa - COUNT AS HAVING +1
+# Vasilisa - COUNT AS HAVING +1 (Collodi)
