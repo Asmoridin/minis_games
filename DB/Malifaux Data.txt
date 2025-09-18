@@ -369,6 +369,43 @@ Komainu;Thunder;Minion;Retainer;2;0
 Kudra;Arcanists;Henchman;Academic/Elemental;1;0
 Kunoichi;Thunder;Minion;Qi and Gong;3;0
 
+LaCroix Raider;Bayou;Minion;Kin;3;0
+Lady Justice, Death-Touched;Guild;Master;Marshal;1;0
+Lady Justice;Guild;Master;Marshal;1;1
+Lady Ligeia;Outcasts/Res;Enforcer;Tormented;1;0
+Lady Yume;Thunder;Enforcer;Oni/Nightmare;1;0
+Lampad;Res;Minion;Revenant;3;0
+Lamplighter;Explorer;Minion;Seeker;3;0
+Lazarus;Outcasts;Enforcer;Freikorps;1;0
+Leger De Main;Arcanists;Enforcer;Witness;1;0
+Lelu;Neverborn;Minion;Nephilim;2;0
+Lenny Jones;Bayou;Henchman;Big Hat;1;0
+Leveticus, Pariah of Blood;Outcasts;Master;Amalgam/Horseman;1;0
+Leveticus;Outcasts;Master;Amalgam;1;0
+Lightning Bug;Bayou;Minion;Wizz-Bang;3;3
+Lilith;Neverborn/DEAD;Master;Nephilim;1;1
+Lilitu;Neverborn;Minion;Nephilim;2;0
+Linh Ly, Bibliothecary;Thunder;Master;Red Library/Story;1;0
+Linh Ly, Storyteller;Thunder;Master;Red Library/Story;1;0
+Little Gasser;Res;Minion;Experimental;3;0
+Lohith;Arcanists;Henchman;Witness;1;0
+Lord Chompy Bits;Neverborn;Henchman;Nightmare;1;0
+Lord Cooper, Huntmaster;Explorer;Master;Apex1;0
+Lord Cooper;Explorer;Master;Apex;1;0
+Lost Love;Res;Enforecer;Urami;1;0
+Lotus Eater;Thunder;Minion;Monk;3;0
+Louisa Fusi;Guild;Henchman;Cavalier;1;0
+Low River Monk;Thunder;Minion;Monk;3;0
+Lucas McCabe, Relic Hunter;Thunder/Explorer;Master;Wastrel;1;0
+Lucas McCabe, Tomb Delver;Thunder/Explorer;Master;Wastrel;1;0
+Lucius Mattheson, Dishonorable;Neverborn/Guild;Master;Elite/Mimic;1;0
+Lucis Mattheson;Neverborn/Guild;Master;Elite/Mimic;1;0
+Lucky Effigy;Bayou;Enforcer;Versatile/Effigy/Puppet;1;0
+Lucky Emissary;Bayou;Enforcer;Versatile/Emissary of Fate;1;0
+Luna;Thunder/Explorer;Enforcer;Wastrel;1;0
+Lust;Thunder;Henchman;Versatile/Crossroads;1;0
+Lyssa;Neverborn;Minion;Savage/Woe;3;0
+
 # Papa Loco - HAVE +1 (Enslaved Nephilim)
 # Terror Tot - COUNT AS HAVING +1 (Cherub)
 The Bad Omen;Outcasts;Enforcer;Versatile;1;0
