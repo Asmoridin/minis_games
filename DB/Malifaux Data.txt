@@ -317,7 +317,7 @@ Investigator;Guild;Minion;Elite;2;0
 Irena Keene;Arcanists;Enforcer;Versatile/Syndicate;1;0
 The Iron Matron;Explorer;Henchman;Bygone;1;0
 Iron Wing;Bayou;Minion;Infamous;3;0
-Ithanna;Neverborn;Henchman;Brood/Fae;1;0
+Ithanna;Neverborn;Henchman;Brood/Fae;1;1 # 1 Lilith
 Izamu, The Armor;Res;Enforcer;Ancestor;1;0
 Jaakuna Ubume;Res;Enforcer;Tormented;1;0
 Jack Daw, Ensouled;Res;Master;Tormented;1;0
@@ -339,72 +339,76 @@ Jonathan Reichart;Arcanists;Henchman;Frontier;1;0
 Jorogumo;Thunder;Minion;Oni;3;0
 Joss;Arcanists;Henchman;Machina;1;0
 Judd & Honey;Bayou;Totem;Angler;1;0
-
+K.O.T.O.;Thunder;Enforcer;Honeypot/Qi and Gong;1;0
 Kabuki Warrior;Thunder;Minion;Qi and Gong;2;0
 Kaeris, Reborn;Arcanists;Master;Wildfire;1;0
-Kareis;Arcanists;Master;Wildfire;1;0
-Kaltgeist;Neverborn;Minion;December/Savage;3;0
+Kaeris, Iron-Threaded;Arcanists;Master;Wildfire;1;0
+Kainhearse;Explorer;Enforcer;Apex/Cadmus;1;0
+Kaltgeist;Arcanists;Minion;December;3;0
 Kamaitachi;Thunder;Enforcer;Oni;1;0
-Kandara;Arcanists;Henchman;Academic/Elemental;1;0
+Kandara;Arcanists;Henchman;Academic;1;0
 Kang;Thunder;Henchman;Foundry;1;0
 Kara;Thunder;Enforcer;Versatile/Sayuri;1;0
-Karina;Outcasts;Enforcer;Obliteration;1;0
-Kastore, Awakened;Neverborn/Res;Master;Returned;1;0
-Kastore, Fervent;Neverborn/Res;Master;Returned;1;0
+Kari Zotiko;Res;Henchman;Tormented;1;0
+Karina;Outcasts;Totem;Obliteration;1;0
+Kastore, Awakened;Neverborn;Master;Returned;1;0
+Kastore, Fervent;Neverborn;Master;Returned;1;0
 Katanaka Crime Boss;Thunder;Minion;Last Blossom;2;0
 Katanaka Sniper;Thunder;Minion;Last Blossom;2;0
-Katashiro;Thunder;Minion;Oni;2;0
-Kenshiro, The Tactician;Thunder;Enforcer;Ancestor/Mercenary;1;0
+Katashiro;Thunder;Minion;Versatile;2;0
+Kazamir;Guild;Totem;Witch Hunter;1;0
+Keepside Strangers;Res;Enforcer;Forgotten/Redchapel;1;0
+Kenshiro;Outcasts;Enforcer;Mercenary;1;0
 Kentauroi;Res;Minion;Experimental;2;0
-Kett;Outcasts;Henchman;Bayou;1;0
+Kett;Explorer;Henchman;Bygone;1;0
 Killjoy;Neverborn;Enforcer;Fae;1;0
 King's Wall;Guild;Henchman;Cavalier;1;0
 Kirai Ankoku, Envoy of the Court;Res;Master;Urami;1;0
-Kirai Ankoku;Res;Master;Urami;1;0
+Kirai Ankoku, Lady of Vengeance;Res;Master;Urami;1;0
 Kitty Dumont;Thunder;Henchman;Honeypot;1;0
 Kiya Manimi;Explorer;Henchman;EVS;1;0
-Klaus Norwood;Neverborn;Henchman;Versatile/Grim/Mimic;1;0
+Klaus Norwood;Neverborn;Henchman;Versatile/Grim;1;0
 Koji;Thunder;Henchman;Versatile/Sayuri;1;0
-Komainu;Thunder;Minion;Retainer;2;0
-Kudra;Arcanists;Henchman;Academic/Elemental;1;0
+Komainu;Thunder;Minion;Foundry;2;0
+Kuchisake-Onna;Res;Henchman;Urami;1;0
+Kudra;Arcanists;Henchman;Academic;1;0
 Kunoichi;Thunder;Minion;Qi and Gong;3;0
-
 LaCroix Raider;Bayou;Minion;Kin;3;0
 Lady Justice, Death-Touched;Guild;Master;Marshal;1;0
-Lady Justice;Guild;Master;Marshal;1;1
-Lady Ligeia;Outcasts/Res;Enforcer;Tormented;1;0
-Lady Yume;Thunder;Enforcer;Oni/Nightmare;1;0
+Lady Justice, Arbiter of the Undead;Guild;Master;Marshal;1;1
+Lady Ligeia;Res;Totem;Tormented;1;0
+Lady Yume;Thunder;Henchman;Oni;1;0
 Lampad;Res;Minion;Revenant;3;0
 Lamplighter;Explorer;Minion;Seeker;3;0
+Last Bite;Res;Minion;Experimental/Transmortis;4;0
 Lazarus;Outcasts;Enforcer;Freikorps;1;0
+Leech King;Neverborn;Enforcer;Returned/Swampfiend;1;0
+Leftovers;Res;Enforcer;Experimental/Transmortis;1;0
 Leger De Main;Arcanists;Enforcer;Witness;1;0
-Lelu;Neverborn;Minion;Nephilim;2;0
+Lelu;Neverborn;Enforcer;Brood;2;0
 Lenny Jones;Bayou;Henchman;Big Hat;1;0
-Leveticus, Pariah of Blood;Outcasts;Master;Amalgam/Horseman;1;0
-Leveticus;Outcasts;Master;Amalgam;1;0
 Lightning Bug;Bayou;Minion;Wizz-Bang;3;3
-Lilith;Neverborn/DEAD;Master;Nephilim;1;1
-Lilitu;Neverborn;Minion;Nephilim;2;0
-Linh Ly, Bibliothecary;Thunder;Master;Red Library/Story;1;0
-Linh Ly, Storyteller;Thunder;Master;Red Library/Story;1;0
-Little Gasser;Res;Minion;Experimental;3;0
+Lilitu;Neverborn;Enforcer;Brood;1;0
+Linh Ly, Bibliothecary;Thunder;Master;Red Library;1;0
+Linh Ly, Storyteller;Thunder;Master;Red Library;1;0
+Little Gasser;Res;Peon;Experimental;3;0
 Lohith;Arcanists;Henchman;Witness;1;0
-Lord Chompy Bits;Neverborn;Henchman;Nightmare;1;0
-Lord Cooper, Huntmaster;Explorer;Master;Apex1;0
-Lord Cooper;Explorer;Master;Apex;1;0
-Lost Love;Res;Enforecer;Urami;1;0
+Lord Chompy Bits, Dreamlord;Neverborn;Totem;Nightmare;1;0
+Lord Chompy Bits, Lurking Lullaby;Neverborn;Totem;Nightmare;1;0
+Lord Cooper, Huntmaster;Explorer;Master;Apex;1;0
+Lord Cooper, Manhunter;Explorer;Master;Apex;1;0
+Lost Love;Res;Enforcer;Urami;1;0
 Lotus Eater;Thunder;Minion;Monk;3;0
 Louisa Fusi;Guild;Henchman;Cavalier;1;0
-Low River Monk;Thunder;Minion;Monk;3;0
-Lucas McCabe, Relic Hunter;Thunder/Explorer;Master;Wastrel;1;0
-Lucas McCabe, Tomb Delver;Thunder/Explorer;Master;Wastrel;1;0
-Lucius Mattheson, Dishonorable;Neverborn/Guild;Master;Elite/Mimic;1;0
-Lucis Mattheson;Neverborn/Guild;Master;Elite/Mimic;1;0
-Lucky Effigy;Bayou;Enforcer;Versatile/Effigy/Puppet;1;0
-Lucky Emissary;Bayou;Enforcer;Versatile/Emissary of Fate;1;0
-Luna;Thunder/Explorer;Enforcer;Wastrel;1;0
+Lucas McCabe, Relic Hunter;Explorer;Master;Wastrel;1;0
+Lucas McCabe, Tomb Delver;Explorer;Master;Wastrel;1;0
+Lucius Mattheson, Dishonorable;Guild;Master;Elite;1;0
+Lucis Mattheson, In Plain Sight;Guild;Master;Elite;1;0
+Lucky Fate, Effigy;Bayou;Enforcer;Versatile;1;0
+Lucky Fate, Emissary;Bayou;Enforcer;Versatile;1;0
+Luna;Explorer;Totem;Wastrel;1;0
 Lust;Thunder;Henchman;Versatile/Crossroads;1;0
-Lyssa;Neverborn;Minion;Savage/Woe;3;0
+Lyssa;Neverborn;Minion;Woe;3;0
 
 # Papa Loco - HAVE +1 (Enslaved Nephilim)
 # Terror Tot - COUNT AS HAVING +1 (Cherub)
@@ -429,4 +433,8 @@ The Forgotten Marshal;Res;Enforcer;Forgotten;1;0
 The Fortune Teller;Outcasts;Enforcer;Ampersand;1;0
 The Judge;Guild;Henchman;Marshal;1;0
 The Jury;Guild;Enforcer;Marshal;1;0
+The Kitchen Sink;Outcasts;Enforcer;Ampersand;1;0
+The Kurgan;Explorer;Totem;Seeker;1;0
+The Little Lass;Bayou;Totem;Tricksy;1;0
+The Lone Marshal;Guild;Enforcer;Marshal;1;0
 # Vasilisa - COUNT AS HAVING +1 (Collodi)

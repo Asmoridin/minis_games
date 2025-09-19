@@ -34,6 +34,7 @@ names = set()
 for line in lines:
     if line.startswith('#') or line == "":
         continue
+    line = line.split('#')[0].strip()
     try:
         model_name, model_faction, model_station, keywords, model_max, model_own = line.split(';')
     except ValueError:
