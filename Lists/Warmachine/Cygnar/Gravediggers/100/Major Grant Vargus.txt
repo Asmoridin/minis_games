@@ -1,7 +1,9 @@
-# 8/31/25 4th/62
+# 9/21/25 1st/65 Welsh Masters
 
 Cygnar - Gravediggers
 Grand Melee - 100 pts
+
+PC CARD
 
 Major Grant Vargus
 
@@ -12,9 +14,14 @@ HEAD - Plugger
 RIGHT ARM - Trench Ripper
 LEFT ARM - Trench Ripper
 
-12 Valiant
-1 HEAD - Evasive
-5 RIGHT ARM - Piston Hammer
+14 Valiant 1
+2 HEAD - Aggressive
+6 RIGHT ARM - Trench Sword
+6 LEFT ARM - Volley Shield
+
+14 Valiant 2
+2 HEAD - Aggressive
+6 RIGHT ARM - Trench Sword
 6 LEFT ARM - Volley Shield
 
 4 Gravedigger Gun Mages 1
@@ -23,21 +30,15 @@ LEFT ARM - Trench Ripper
 
 8 Gravedigger Rangers 1
 
-3 Trollkin Express Sniper 1
-
 8 Gravedigger Rangers 2
-
-3 Trollkin Express Sniper 2
-
-5 Storm Vanes
 
 9 The Black 13th
 
 
 PC COMMAND CARD
 Blessing of the Gods
+Duck and Cover!
 5 Heavy Airdrop 1
-5 Heavy Airdrop 2
 Hit & Run
 Light Airdrop 1
 Light Airdrop 2
