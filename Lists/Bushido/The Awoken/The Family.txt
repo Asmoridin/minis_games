@@ -1,19 +1,21 @@
-# 9/6/25 13th/19 US Masters
+# 9/20/25 7th/14 Germany
 
 The Awoken - The Family - [100 Rice]
 
 # ++ Risen Sun ++ [100 Rice]
-## Faction Profile Cards [94 Rice]
-Aiumi, With No Compassion [15 Rice]
-Hidemi [8 Rice]
+## Faction Profile Cards [96 Rice]
+Endless Procession of Arachnid Presence [8 Rice]: Procession A
 Itoko [16 Rice]
 Kiyo, Who Sees Behind [13 Rice]
-Mei [19 Rice]
+Ma'go [11 Rice]
+Musume [19 Rice]
 Obasan [23 Rice]
+Ren, Powerful Hatred [6 Rice]
 
-## Faction Event Cards [6 Rice]
-Family Bond [4 Rice]
-Moment of Ignorance [2 Rice]
+## Faction Event Cards [3 Rice]
+Kimura's Gift [1 Rice]
+Protective Brood [1 Rice]
+Protective Brood [1 Rice]
 
 ## Faction Terrain Cards
 Webbed Victim
@@ -21,3 +23,6 @@ Webbed Victim
 
 ## Faction Theme Cards
 The Family
+
+## Ronin Event Cards [1 Rice]
+Balance [1 Rice]

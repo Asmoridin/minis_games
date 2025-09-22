@@ -410,6 +410,70 @@ Luna;Explorer;Totem;Wastrel;1;0
 Lust;Thunder;Henchman;Versatile/Crossroads;1;0
 Lyssa;Neverborn;Minion;Woe;3;0
 
+Machinist;Explorer;Minion;EVS;3;0
+Mad Dog Brackett;Outcasts;Henchman;Bandit;1;0
+Madame Sybelle;Res;Henchman;Redchapel/Zombie;1;0
+Mah Tucket, Mecha-Meemaw;Bayou;Master;Tricksy;1;0
+Mah Tucket;Bayou;Master;Tricksy;1;0
+Malifaux Child;Outcasts;Enforcer;Versatile;1;0
+Malifaux Rat;Outcasts;Minion;Plague/Vermin;12;0
+Malisaurius Rex;Explorer;Enforer;Apex/Fae;1;0
+Mancha Roja;Bayou;Henchman;Infamous;1;0
+Mannequin;Arcanists;Minion;Performer/Puppet;4;0
+Manos, The Risen;Res;Henchman;Ancestor/Retainer;1;0
+Map Map;Thunder;Henchman;Red Library;1;0
+Marathine;Neverborn/Res;Enforcer;Returned;1;0
+Marco Bonatti;Arcanists;Enforcer;Witness;1;0
+Marcus, Alpha;Neverborn/Arcanists;Master;Chimera;1;0
+Marcus;Neverborn/Arcanists;Master;Chimera;1;1
+Marionette;Neverborn/DEAD;Minion;Puppet;4;4
+Marlena Webster;Outcasts;Enforcer;Amalgam;1;0
+Mature Nephilim;Neverborn;Minion;Nephilim;2;1
+Maurice;Neverborn;Enforcer;Versatile/Half-Blood;1;0
+Maxine Agassiz, Monomaniacal;Explorer;Master;EVS;1;0
+Maxine Agassiz;Explorer;Master;EVS;1;0
+McTavish;Bayou;Henchman;Versatile/Swampfiend;1;0
+Mechanical Attendant;Guild/Arcanists;Enforcer;Augmented;1;0
+Mechanical Dove;Arcanists;Minion;Performer;3;0
+Mechanical Rider;Arcanists;Enforcer;Versatile/Horseman;1;0
+Mechanized Porkchop;Bayou;Enforcer;Versatile/Foundry;1;0
+Mecharachnid;Arcanists;Minion;Versatile/Machina;2;0
+Medical Automaton;Arcanists;Minion;Augmented;2;0
+Mei Feng, Foreman;Thunder/Arcanists;Master;Foundry;1;0
+Mei Feng;Thunder/Arcanists;Master;Foundry;1;0
+Melissa K.O.R.E.;Guild;Henchman;Augmented;1;0
+Merris LaCroix;Bayou;Enforcer;Infamous/Kin;1;0
+Metal Gamin;Arcanists;Minion;Elemental/Foundry;3;0
+Metal Golem;Arcanists;Enforcer;Elemental/Foundry;1;0
+Metallurgist;Outcasts;Enforcer;Augmented/Freikorps;1;0
+Mikhail XVI;Explorer;Henchman;Seeker;1;0
+Minako Rei;Thunder;Henchman;Versatile/Last Blossom;1;0
+Mindless Zombie;Res;Minion;Versatile/Zombie;5;0
+Misaki Katanaka, Fractured;Thunder;Master;Last Blossom;1;0
+Misaki Katanaka;Thunder;Master;Last Blossom;1;0
+Miya Murakami;Thunder;Enforcer;Red Library/Witness;1;0
+Mobile Toolkit;Arcanists;Enforcer;Augmented/Machina;1;0
+Model 9;Explorer;Henchman;Apex;1;0
+Moleman;Arcanists;Minion;Chimera;3;0
+Molly Squidpidge, Chaotic Conductor;Res;Master;Forgotten;1;0
+Molly Squidpidge;Res;Master;Forgotten;1;0
+Monster Hunter;Guild;Minion;Family;2;0
+Montresor;Outcasts;Henchman;Tormented;1;0
+Moon Shinobi;Bayou;Minion;Tri-Chi;3;0
+Moorwraith;Explorer;Minion;Seeker;3;0
+Mortimer;Res;Henchman;Mortuary/Versatile/Zombie;1;0
+Mounted Guard;Guild;Minion;Guard;2;0
+Mourner;Res;Minion;Redchapel/Revenant;2;0
+Mouse;Arcanists;Enforcer;M&SU;1;0
+Mr. Graves;Thunder;Enforcer;Honeypot;1;1
+Mr. Mordrake;Explorer;Enforcer;DUA/Umbra;1;0
+Mr. Ngaatoro;Explorer;Henchman;Versatile;1;0
+Mr. Tannen;Thunder;Enforcer;Honeypot;1;0
+Myranda;Arcanists;Henchman;Chimera;1;1
+Mysterious Effigy;Neverborn;Enforcer;Versatile/Effigy/Puppet;1;0
+Mysterious Emissary;Neverborn;Enforcer;Versatile/Emissary of Fate;1;0
+
+
 # Papa Loco - HAVE +1 (Enslaved Nephilim)
 # Terror Tot - COUNT AS HAVING +1 (Cherub)
 The Bad Omen;Outcasts;Enforcer;Versatile;1;0

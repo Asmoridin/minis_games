@@ -1,4 +1,4 @@
-# 8/31/25 3rd/62
+# 9/21/25 2nd/65 Welsh Masters
 
 Cygnar - Gravediggers
 Grand Melee - 100 pts
@@ -22,9 +22,18 @@ Mantlet 2
 Fuel Canister 2
 
 Defenses
-DEFENSE 1 - Barrier
 DEFENSE 1 - Spike Trap
-DEFENSE 1 - Barrier
+DEFENSE 1 - Spike Trap
+DEFENSE 1 - Spike Trap
+
+Heavy Weapon Crate
+HEAVY WEAPON - Heavy Flamethrower
+
+Blocker
+
+Skirmisher
+
+Raider
 
 Captain Connor ‘Boom Boom’ McCoy
 SPELL - Silence of Death
@@ -35,23 +44,20 @@ HEAD - Plugger
 RIGHT ARM - Trench Ripper
 LEFT ARM - Trench Ripper
 
-11 Valiant 1
-2 HEAD - Aggressive
-5 RIGHT ARM - Piston Hammer
-4 LEFT ARM - Slug Fist
-
-13 Valiant 2
+13 Valiant
 2 HEAD - Aggressive
 5 RIGHT ARM - Piston Hammer
 6 LEFT ARM - Volley Shield
 
 4 Captain Argo Brock
 
-4 Captain Bastian Falk
+8 Gravedigger Commandos 1
 
-8 Gravedigger Commandos
+2 Commando Officer 1
 
-2 Commando Officer
+8 Gravedigger Commandos 2
+
+2 Commando Officer 2
 
 4 Gravedigger Gun Mages
 
@@ -69,7 +75,7 @@ LEFT ARM - Trench Ripper
 PC COMMAND CARD
 Blessing of the Gods
 Defenses
-Duck and Cover!
+5 Heavy Airdrop 1
 Light Airdrop 1
 Light Airdrop 2
 Lucky Penny
