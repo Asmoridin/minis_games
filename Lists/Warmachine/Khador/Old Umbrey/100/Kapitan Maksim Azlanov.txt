@@ -1,40 +1,43 @@
-# 8/30/25 1st/12
+# 9/21/25 3rd/65 Welsh Masters
 
 Khador - Old Umbrey
 Grand Melee - 100 pts
 
 PC CARD
 
+Defenses
+DEFENSE 1 - Barrier
+DEFENSE 1 - Barrier
+DEFENSE 1 - Barrier
+
 Kapitan Maksim Azlanov
-SPELL - Inviolable Resolve
-SPELL - Sure Foot
+SPELL - Curse of Shadows
+SPELL - Earth Spikes
 
-8 Feral 1
-5 HEAD - Alke
-3 BACK - Bony Spine
-
-9 Feral 2
+9 Feral 1
 5 HEAD - Alke
 4 BACK - Wings
+
+8 Feral 2
+6 HEAD - Razorback
+2 BACK - Mane
 
 15 Primeval
 3 HEAD - Bear
 7 RIGHT ARM - Bone Sword
 5 LEFT ARM - Enchanted Shield
 
-15 Strix
+16 The Starved
 
-2 Animist
+2 Animist 1
 
-4 Lupine Apex
+2 Animist 2
 
-2 Lupine Shifted 1
+4 Lupine Apex 1
 
-2 Lupine Shifted 2
+4 Lupine Apex 2
 
-20 Magnus the Unstoppable
-
-Invictus
+2 Lupine Shifted
 
 4 Vorony
 
@@ -42,14 +45,20 @@ Invictus
 
 5 Liegemen Wardens 1
 
+2 Liegemen Primalist
+
 5 Liegemen Wardens 2
+
+5 Shearlings
+
+8 The Hounds
 
 
 PC COMMAND CARD
 Blessing of the Gods
-Break Through
+Defenses
 Hit & Run
 Lucky Penny
-Old Faithful
+Sapper
 
 TOTAL POINTS 100/100
