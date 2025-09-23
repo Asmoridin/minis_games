@@ -409,70 +409,71 @@ Lucky Fate, Emissary;Bayou;Enforcer;Versatile;1;0
 Luna;Explorer;Totem;Wastrel;1;0
 Lust;Thunder;Henchman;Versatile/Crossroads;1;0
 Lyssa;Neverborn;Minion;Woe;3;0
-
 Machinist;Explorer;Minion;EVS;3;0
 Mad Dog Brackett;Outcasts;Henchman;Bandit;1;0
-Madame Sybelle;Res;Henchman;Redchapel/Zombie;1;0
+Madame Sybelle;Res;Henchman;Redchapel;1;0
 Mah Tucket, Mecha-Meemaw;Bayou;Master;Tricksy;1;0
-Mah Tucket;Bayou;Master;Tricksy;1;0
-Malifaux Child;Outcasts;Enforcer;Versatile;1;0
-Malifaux Rat;Outcasts;Minion;Plague/Vermin;12;0
-Malisaurius Rex;Explorer;Enforer;Apex/Fae;1;0
-Mancha Roja;Bayou;Henchman;Infamous;1;0
-Mannequin;Arcanists;Minion;Performer/Puppet;4;0
-Manos, The Risen;Res;Henchman;Ancestor/Retainer;1;0
+Mah Tucket, Metal Magpie;Bayou;Master;Tricksy;1;0
+Malifaux Rat;Outcasts;Peon;Plague;12;0
+Malisaurius Rex;Neverborn;Enforcer;Apex/Versatile;1;0
+Mancha Roja;Outcasts;Totem;Infamous;1;0
+Manos, The Risen;Res;Enforcer;Ancestor;1;0
 Map Map;Thunder;Henchman;Red Library;1;0
-Marathine;Neverborn/Res;Enforcer;Returned;1;0
+Mara;Arcanists;Totem;December;1;0
+Marathine;Neverborn;Totem;Returned;1;0
 Marco Bonatti;Arcanists;Enforcer;Witness;1;0
-Marcus, Alpha;Neverborn/Arcanists;Master;Chimera;1;0
-Marcus;Neverborn/Arcanists;Master;Chimera;1;1
-Marionette;Neverborn/DEAD;Minion;Puppet;4;4
-Marlena Webster;Outcasts;Enforcer;Amalgam;1;0
-Mature Nephilim;Neverborn;Minion;Nephilim;2;1
-Maurice;Neverborn;Enforcer;Versatile/Half-Blood;1;0
+Marcus, Alpha;Neverborn;Master;Chimera;1;0
+Marcus, Monstermaker;Neverborn;Master;Chimera;1;1
+Mariya Dyatlov;Guild;Enforcer;Cavalier;1;0
+Marlena Webster;Outcasts;Henchman;Amalgam;1;0
+Mature Nephilim;Neverborn;Minion;Brood;2;1
+Maurice;Outcasts;Enforcer;Versatile/Half-Blood;1;0
 Maxine Agassiz, Monomaniacal;Explorer;Master;EVS;1;0
-Maxine Agassiz;Explorer;Master;EVS;1;0
-McTavish;Bayou;Henchman;Versatile/Swampfiend;1;0
-Mechanical Attendant;Guild/Arcanists;Enforcer;Augmented;1;0
+Maxine Agassiz, The Renowned;Explorer;Master;EVS;1;0
+McTavish;Bayou;Enforcer;Versatile/Swampfiend;1;0
+Mechanical Attendant;Guild;Totem;Augmented;1;0
 Mechanical Dove;Arcanists;Minion;Performer;3;0
-Mechanical Rider;Arcanists;Enforcer;Versatile/Horseman;1;0
-Mechanized Porkchop;Bayou;Enforcer;Versatile/Foundry;1;0
-Mecharachnid;Arcanists;Minion;Versatile/Machina;2;0
-Medical Automaton;Arcanists;Minion;Augmented;2;0
-Mei Feng, Foreman;Thunder/Arcanists;Master;Foundry;1;0
-Mei Feng;Thunder/Arcanists;Master;Foundry;1;0
+Mechanical Misfit;Outcasts;Minion;Ampersand;3;0
+Mechanical Rider;Arcanists;Enforcer;Versatile;1;0
+Mechanized Porkchop;Bayou;Enforcer;Tricksy;1;0
+Mecharachnid;Arcanists;Minion;Wildfire;2;0
+Mei Feng, Foreman;Thunder;Master;Foundry;1;0
+Mei Feng, Sentinel of Steel;Thunder;Master;Foundry;1;0
 Melissa K.O.R.E.;Guild;Henchman;Augmented;1;0
-Merris LaCroix;Bayou;Enforcer;Infamous/Kin;1;0
-Metal Gamin;Arcanists;Minion;Elemental/Foundry;3;0
-Metal Golem;Arcanists;Enforcer;Elemental/Foundry;1;0
-Metallurgist;Outcasts;Enforcer;Augmented/Freikorps;1;0
+Merris LaCroix;Bayou;Enforcer;Kin;1;0
+Metal Gamin;Thunder;Minion;Foundry;3;0
+Metal Golem;Thunder;Enforcer;Foundry;1;0
 Mikhail XVI;Explorer;Henchman;Seeker;1;0
-Minako Rei;Thunder;Henchman;Versatile/Last Blossom;1;0
-Mindless Zombie;Res;Minion;Versatile/Zombie;5;0
+Minako Rei;Thunder;Enforcer;Versatile;1;0
+Mindless Zombie;Res;Peon;Versatile;10;0
+Mirewing;Bayou;Totem;Swampfiend;1;0
 Misaki Katanaka, Fractured;Thunder;Master;Last Blossom;1;0
-Misaki Katanaka;Thunder;Master;Last Blossom;1;0
-Miya Murakami;Thunder;Enforcer;Red Library/Witness;1;0
-Mobile Toolkit;Arcanists;Enforcer;Augmented/Machina;1;0
+Misaki Katanaka, Oyabun;Thunder;Master;Last Blossom;1;0
+Miya Murakami;Thunder;Enforcer;Red Library;1;0
 Model 9;Explorer;Henchman;Apex;1;0
-Moleman;Arcanists;Minion;Chimera;3;0
+Moleman;Neverborn;Minion;Chimera;3;0
 Molly Squidpidge, Chaotic Conductor;Res;Master;Forgotten;1;0
-Molly Squidpidge;Res;Master;Forgotten;1;0
+Molly Squidpidge, Harbinger of Havoc;Res;Master;Forgotten;1;0
 Monster Hunter;Guild;Minion;Family;2;0
-Montresor;Outcasts;Henchman;Tormented;1;0
+Montresor;Res;Henchman;Tormented;1;0
 Moon Shinobi;Bayou;Minion;Tri-Chi;3;0
 Moorwraith;Explorer;Minion;Seeker;3;0
-Mortimer;Res;Henchman;Mortuary/Versatile/Zombie;1;0
+Mortimer;Res;Enforcer;Versatile;1;0
+Mossbeard;Bayou;Enforcer;Angler/Infamous;1;0
 Mounted Guard;Guild;Minion;Guard;2;0
-Mourner;Res;Minion;Redchapel/Revenant;2;0
-Mouse;Arcanists;Enforcer;M&SU;1;0
+Mourner;Res;Minion;Redchapel;2;0
+Mouse;Arcanists;Totem;M&SU;1;0
+Mr. Amrbose;Outcasts;Henchman;Ampersand;1;0
 Mr. Graves;Thunder;Enforcer;Honeypot;1;1
-Mr. Mordrake;Explorer;Enforcer;DUA/Umbra;1;0
-Mr. Ngaatoro;Explorer;Henchman;Versatile;1;0
+Mr. Mordrake, Bump in the Night;Explorer;Totem;DUA;1;0
+Mr. Mordrake, Silent Witness;Explorer;Totem;DUA;1;0
+Mr. Ngaatoro;Explorer;Henchman;Versatile/Society;1;0
 Mr. Tannen;Thunder;Enforcer;Honeypot;1;0
-Myranda;Arcanists;Henchman;Chimera;1;1
-Mysterious Effigy;Neverborn;Enforcer;Versatile/Effigy/Puppet;1;0
-Mysterious Emissary;Neverborn;Enforcer;Versatile/Emissary of Fate;1;0
-
+Ms. Weiss;Outcasts;Totem;Freikorps;1;0
+Mu Long;Thunder;Totem;Monk;1;0
+Myranda;Neverborn;Henchman;Chimera;1;1
+Mysterious Fate, Effigy;Neverborn;Enforcer;Versatile;1;0
+Mysterious Fate, Emissary;Neverborn;Enforcer;Versatile;1;0
 
 # Papa Loco - HAVE +1 (Enslaved Nephilim)
 # Terror Tot - COUNT AS HAVING +1 (Cherub)
@@ -501,4 +502,6 @@ The Kitchen Sink;Outcasts;Enforcer;Ampersand;1;0
 The Kurgan;Explorer;Totem;Seeker;1;0
 The Little Lass;Bayou;Totem;Tricksy;1;0
 The Lone Marshal;Guild;Enforcer;Marshal;1;0
+The Midnight Stalker;Outcasts;Enforcer;Versatile;1;0
 # Vasilisa - COUNT AS HAVING +1 (Collodi)
+# Wicked Dolls - Count as haing +4 (Marionette)

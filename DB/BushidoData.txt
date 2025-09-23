@@ -228,7 +228,7 @@ Koji;Temple of Ro-Kan;1;0
 Kokei;Silvermoon Syndicate;1;0
 Kokkio;Prefecture of Ryu;1;0
 Kokoro the Harvester;Savage Wave;1;0
-Korusea;Jung Pirates;2;0
+Korusea;Jung Pirates;2;1
 Koshimori Yukio;Ronin;1;0
 Kosuke;Temple of Ro-Kan;1;0
 Kota;Temple of Ro-Kan;1;0
