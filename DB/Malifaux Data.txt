@@ -492,7 +492,6 @@ Nix;Outcasts;Henchman;Plague;1;0
 Niño Ortega;Guild;Enforcer;Family;1;1
 Nocturne;Explorer;Minion;DUA;3;0
 Noxious Nephilim;Res;Totem;Forgotten;1;0
-The Iron Matron;Explorer;Henchman;Bygone;1;0
 
 Obedient Wretch;Outcasts;Enforcer;Plague;1;0
 Obsidian Oni;Thunder;Minion;Oni;3;0
@@ -533,6 +532,7 @@ The First Light;Explorer;Enforcer;Bygone;1;0
 The First Mate;Outcasts;Henchman;Infamous;1;0
 The Forgotten Marshal;Res;Enforcer;Forgotten;1;0
 The Fortune Teller;Outcasts;Enforcer;Ampersand;1;0
+The Iron Matron;Explorer;Henchman;Bygone;1;0
 The Judge;Guild;Henchman;Marshal;1;0
 The Jury;Guild;Enforcer;Marshal;1;0
 The Kitchen Sink;Outcasts;Enforcer;Ampersand;1;0
