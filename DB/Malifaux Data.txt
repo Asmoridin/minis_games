@@ -474,26 +474,25 @@ Mu Long;Thunder;Totem;Monk;1;0
 Myranda;Neverborn;Henchman;Chimera;1;1
 Mysterious Fate, Effigy;Neverborn;Enforcer;Versatile;1;0
 Mysterious Fate, Emissary;Neverborn;Enforcer;Versatile;1;0
-
 Necropunk;Res;Minion;Amalgam/Transmortis;3;0
-Necrotic Machine;Res;Enforcer;Forgotten;1;0
-Neil Henry;Arcanists;Enforcer;Foundry;1;0
-Nekima, Broodmother;Neverborn;Master;Nephilim;1;0
-Nekima;Neverborn;Master;Nephilim;1;1
+Necrotic Machine;Res;Totem;Forgotten;1;0
+Neil Henry;Thunder;Henchman;Foundry;1;0
+Nekima, Broodmother;Neverborn;Master;Brood;1;0
+Nekima, Nephilim Queen;Neverborn;Master;Brood;1;1
 Nellie Cochrane, Voice of Disorder;Guild;Master;Journalist;1;0
-Nellie Cochrane;Guild;Master;Journalist;1;0
+Nellie Cochrane, The Tattler;Guild;Master;Journalist;1;0
 Newsie;Guild;Minion;Journalist;3;0
 Nexus, One of Many;Explorer;Master;Cadmus;1;0
-Nexus;Explorer;Master;Cadmus;1;0
-Nicodem;Res/DEAD;Master;Mortuary/Zombie;1;0
-Night Terror;Res;Minion;Forgotten;4;0
+Nexus, Heart of the Hive;Explorer;Master;Cadmus;1;0
+Nia, Fractured Future;Bayou;Enforcer;Tri-Chi;1;0
+Nia, Life of the Party;Bayou;Enforcer;Tri-Chi;1;0
+Night Terror;Res;Minion;Forgotten;2;0
+Nightcrawler Network;Guild;Enforcer;Guard/Journalist;1;0
 Nightsilk Creeper;Explorer;Enforcer;Cadmus;1;0
 Nix;Outcasts;Henchman;Plague;1;0
-Nino Ortega;Guild;Enforcer;Family;1;1
-Nocturne;Explorer;Minion;Umbra;3;0
-Noxious Nephilim;Res;Enforcer;Forgotten/Nephilim;1;0
-Nurse Heartsbane;Guild;Enforcer;Versatile/Asylum;1;0
-Nurse;Res;Minion;Asylum/Experimental;2;0
+Niño Ortega;Guild;Enforcer;Family;1;1
+Nocturne;Explorer;Minion;DUA;3;0
+Noxious Nephilim;Res;Totem;Forgotten;1;0
 
 # Papa Loco - HAVE +1 (Enslaved Nephilim)
 # Terror Tot - COUNT AS HAVING +1 (Cherub)
@@ -523,5 +522,6 @@ The Kurgan;Explorer;Totem;Seeker;1;0
 The Little Lass;Bayou;Totem;Tricksy;1;0
 The Lone Marshal;Guild;Enforcer;Marshal;1;0
 The Midnight Stalker;Outcasts;Enforcer;Versatile;1;0
+The Nothing Beast;Outcasts;Henchman;Obliteration;1;0
 # Vasilisa - COUNT AS HAVING +1 (Collodi)
 # Wicked Dolls - Count as haing +4 (Marionette)
