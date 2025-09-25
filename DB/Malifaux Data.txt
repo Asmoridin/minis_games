@@ -270,8 +270,8 @@ Gwisin;Res;Minion;Urami;3;0
 Gwyll;Neverborn;Henchman;Returned;1;0
 Gwyneth Maddox;Thunder;Henchman;Honeypot;1;0
 Habber-Dasher;Bayou;Peon;Big Hat/Tricksy;3;0
-Hamelin, The Piper;Outcasts;Master;Plague;1;0
 Hamelin, Plaguebringer;Outcasts;Master;Plague;1;0
+Hamelin, The Piper;Outcasts;Master;Plague;1;0
 Hand of Janus;Explorer;Enforcer;Versatile;1;0
 Hanged;Res;Minion;Tormented;2;0
 Hannah Lovelace;Outcasts;Henchman;Freikorps;1;0
@@ -315,7 +315,6 @@ Intrepid Fate, Effigy;Explorer;Enforcer;Versatile;1;0
 Intrepid Fate, Emissary;Explorer;Enforcer;Versatile;1;0
 Investigator;Guild;Minion;Elite;2;0
 Irena Keene;Arcanists;Enforcer;Versatile/Syndicate;1;0
-The Iron Matron;Explorer;Henchman;Bygone;1;0
 Iron Wing;Bayou;Minion;Infamous;3;0
 Ithanna;Neverborn;Henchman;Brood/Fae;1;1 # 1 Lilith
 Izamu, The Armor;Res;Enforcer;Ancestor;1;0
@@ -341,8 +340,8 @@ Joss;Arcanists;Henchman;Machina;1;0
 Judd & Honey;Bayou;Totem;Angler;1;0
 K.O.T.O.;Thunder;Enforcer;Honeypot/Qi and Gong;1;0
 Kabuki Warrior;Thunder;Minion;Qi and Gong;2;0
-Kaeris, Reborn;Arcanists;Master;Wildfire;1;0
 Kaeris, Iron-Threaded;Arcanists;Master;Wildfire;1;0
+Kaeris, Reborn;Arcanists;Master;Wildfire;1;0
 Kainhearse;Explorer;Enforcer;Apex/Cadmus;1;0
 Kaltgeist;Arcanists;Minion;December;3;0
 Kamaitachi;Thunder;Enforcer;Oni;1;0
@@ -374,8 +373,8 @@ Kuchisake-Onna;Res;Henchman;Urami;1;0
 Kudra;Arcanists;Henchman;Academic;1;0
 Kunoichi;Thunder;Minion;Qi and Gong;3;0
 LaCroix Raider;Bayou;Minion;Kin;3;0
-Lady Justice, Death-Touched;Guild;Master;Marshal;1;0
 Lady Justice, Arbiter of the Undead;Guild;Master;Marshal;1;1
+Lady Justice, Death-Touched;Guild;Master;Marshal;1;0
 Lady Ligeia;Res;Totem;Tormented;1;0
 Lady Yume;Thunder;Henchman;Oni;1;0
 Lampad;Res;Minion;Revenant;3;0
@@ -402,8 +401,8 @@ Lotus Eater;Thunder;Minion;Monk;3;0
 Louisa Fusi;Guild;Henchman;Cavalier;1;0
 Lucas McCabe, Relic Hunter;Explorer;Master;Wastrel;1;0
 Lucas McCabe, Tomb Delver;Explorer;Master;Wastrel;1;0
-Lucius Mattheson, Dishonorable;Guild;Master;Elite;1;0
 Lucis Mattheson, In Plain Sight;Guild;Master;Elite;1;0
+Lucius Mattheson, Dishonorable;Guild;Master;Elite;1;0
 Lucky Fate, Effigy;Bayou;Enforcer;Versatile;1;0
 Lucky Fate, Emissary;Bayou;Enforcer;Versatile;1;0
 Luna;Explorer;Totem;Wastrel;1;0
@@ -479,11 +478,11 @@ Necrotic Machine;Res;Totem;Forgotten;1;0
 Neil Henry;Thunder;Henchman;Foundry;1;0
 Nekima, Broodmother;Neverborn;Master;Brood;1;0
 Nekima, Nephilim Queen;Neverborn;Master;Brood;1;1
-Nellie Cochrane, Voice of Disorder;Guild;Master;Journalist;1;0
 Nellie Cochrane, The Tattler;Guild;Master;Journalist;1;0
+Nellie Cochrane, Voice of Disorder;Guild;Master;Journalist;1;0
 Newsie;Guild;Minion;Journalist;3;0
-Nexus, One of Many;Explorer;Master;Cadmus;1;0
 Nexus, Heart of the Hive;Explorer;Master;Cadmus;1;0
+Nexus, One of Many;Explorer;Master;Cadmus;1;0
 Nia, Fractured Future;Bayou;Enforcer;Tri-Chi;1;0
 Nia, Life of the Party;Bayou;Enforcer;Tri-Chi;1;0
 Night Terror;Res;Minion;Forgotten;2;0
@@ -493,6 +492,25 @@ Nix;Outcasts;Henchman;Plague;1;0
 Niño Ortega;Guild;Enforcer;Family;1;1
 Nocturne;Explorer;Minion;DUA;3;0
 Noxious Nephilim;Res;Totem;Forgotten;1;0
+The Iron Matron;Explorer;Henchman;Bygone;1;0
+
+Obedient Wretch;Outcasts;Enforcer;Plague;1;0
+Obsidian Oni;Thunder;Minion;Oni;3;0
+Obsidian Statue;Thunder;Enforcer;Versatile;1;0
+Ohaguro Bettari;Thunder;Henchman;Oni;1;0
+Old Cranky;Bayou;Enforcer;Big Hat;1;0
+Old Major;Bayou;Henchman;Pig;1;0
+Olivia Bernard;Bayou;Enforcer;Wizz-Bang;1;1
+Onryo;Res;Minion;Urami;2;0
+Operative;Explorer;Minion;DUA/Syndicate;2;0
+Ophelia LaCroix, Overloaded;Bayou;Master;Kin;1;0
+Ophelia LaCroix;Bayou;Master;Kin;1;0
+Order Initiate;Arcanists;Minion;Chimera;3;3
+Orderly;Guild;Minion;Versatile/Asylum;2;0
+Oro Boro;Explorer/Outcasts;Enforcer;Bygone;1;0
+Orville Agassiz;Explorer;Enforcer;EVS;1;0
+Ototo;Thunder;Henchman;Last Blossom;1;0
+Oxfordian Mage;Arcanists;Minion;Academic;3;0
 
 # Papa Loco - HAVE +1 (Enslaved Nephilim)
 # Terror Tot - COUNT AS HAVING +1 (Cherub)
