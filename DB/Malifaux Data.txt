@@ -510,7 +510,37 @@ Oskar;Res;Enforcer;Fungal;1;0
 Ototo;Thunder;Henchman;Last Blossom;1;0
 Oxfordian Mage;Arcanists;Minion;Academic;3;0
 
-# Papa Loco - HAVE +1 (Enslaved Nephilim)
+Pale Rider;Guild;Enforcer;Versatile/Horseman;1;0
+Pandora, Tyrant-Torn;Neverborn;Master;Woe;1;0
+Pandora;Neverborn;Master;Woe;1;1
+Papa Loco;Guild;Enforcer;Family;1;1
+Paper Tiger;Thunder;Enforcer;Red Library;1;0
+Parker Barrows, Dead Man Walking;Outcasts;Master;Bandit;1;0
+Parker Barrows;Outcasts;Master;Bandit;1;0
+Parson;Explorer;Enforcer;Bygone;1;0
+Pathfinder;Guild;Minion;Frontier;2;0
+Paul Crockett;Arcanists;Enforcer;Chimera/Frontier;1;0
+Peacekeeper;Guild;Enforcer;Versatile/Augmented;1;0
+Pearl Musgrove;Explorer;Enforcer;Bandit/Frontier;1;0
+Penelope;Bayou;Enforcer;Sooey;1;0
+Perdita Ortega, Neverborn Hunter;Guild;Master;Family;1;0
+Perdita Ortega;Guild;Master;Family;1;1
+Pere Ravage;Bayou;Enforcer;Kin;1;0
+Philip and the Nanny;Res;Henchman;Forgotten;1;0
+Phiona Gage;Guild;Henchman;Journalist;1;0
+Pigapult;Bayou;Enforcer;Versatile/Wizz-Bang;1;0
+Piglet;Bayou;Minion;Pig;4;0
+Pistolero De Latigo;Guild;Minion;Family;3;0
+Poison Gamin;Arcanists;Minion;Elemental;3;0
+Poltergeist;Neverborn;Enforcer;Woe;1;1
+Popcorn Turner;Bayou;Henchman;Tri-Chi;1;0
+Pride;Outcasts;Henchman;Versatile/Crossroads;1;0
+Primordial Magic;Neverborn;Enforcer;Savage;1;0
+Prof. Von Schtook, Stargazer;Res;Master;Transmortis;1;0
+Prof. Von Schtook;Res;Master;Transmortis;1;0
+Prospector;Outcasts;Minion;Versatile;3;0
+Purifying Flame;Guild;Enforcer;Witch Hunter, Witchling;1;0
+
 # Terror Tot - COUNT AS HAVING +1 (Cherub)
 The Bad Omen;Outcasts;Enforcer;Versatile;1;0
 The Brass Bull;Explorer;Totem;Syndicate;1;0
