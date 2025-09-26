@@ -492,22 +492,21 @@ Nix;Outcasts;Henchman;Plague;1;0
 Niño Ortega;Guild;Enforcer;Family;1;1
 Nocturne;Explorer;Minion;DUA;3;0
 Noxious Nephilim;Res;Totem;Forgotten;1;0
-
-Obedient Wretch;Outcasts;Enforcer;Plague;1;0
+Obedient Wretch;Outcasts;Totem;Plague;1;0
 Obsidian Oni;Thunder;Minion;Oni;3;0
-Obsidian Statue;Thunder;Enforcer;Versatile;1;0
+Obsidian Statue;Thunder;Enforcer;Versatile/Ancestor;1;0
 Ohaguro Bettari;Thunder;Henchman;Oni;1;0
-Old Cranky;Bayou;Enforcer;Big Hat;1;0
-Old Major;Bayou;Henchman;Pig;1;0
-Olivia Bernard;Bayou;Enforcer;Wizz-Bang;1;1
-Onryo;Res;Minion;Urami;2;0
-Operative;Explorer;Minion;DUA/Syndicate;2;0
+Old Cranky;Bayou;Enforcer;Kin;1;0
+Old Hob;Res;Enforcer;Versatile;1;0
+Old Major;Bayou;Henchman;Sooey;1;0
+Olivia Bernard;Bayou;Totem;Wizz-Bang;1;1
+Operative;Explorer;Minion;Syndicate;2;0
 Ophelia LaCroix, Overloaded;Bayou;Master;Kin;1;0
-Ophelia LaCroix;Bayou;Master;Kin;1;0
-Order Initiate;Arcanists;Minion;Chimera;3;3
-Orderly;Guild;Minion;Versatile/Asylum;2;0
-Oro Boro;Explorer/Outcasts;Enforcer;Bygone;1;0
-Orville Agassiz;Explorer;Enforcer;EVS;1;0
+Ophelia LaCroix, Red Cage Raider;Bayou;Master;Kin;1;0
+Order Initiate;Neverborn;Minion;Chimera;3;3
+Oro Boro;Explorer;Totem;Bygone;1;0
+Orville Agassiz;Explorer;Totem;EVS;1;0
+Oskar;Res;Enforcer;Fungal;1;0
 Ototo;Thunder;Henchman;Last Blossom;1;0
 Oxfordian Mage;Arcanists;Minion;Academic;3;0
 
