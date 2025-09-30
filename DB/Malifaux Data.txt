@@ -538,38 +538,35 @@ Prof. Von Schtook, Admissions Executive;Res;Master;Transmortis;1;0
 Propagandist;Guild;Enforcer;Versatile;1;0
 Prospector;Outcasts;Minion;Versatile;3;0
 Purifying Flame;Guild;Totem;Witch Hunter;1;0
-
 Rabble Riser;Res;Minion;Forgotten;3;0
-Rafkin;Res;Enforcer;Experimental/Mortuary;1;0
-Rail Worker;Thunder;Minion;Foundry;3;0
+Rafkin;Res;Henchman;Experimental;1;0
 Rami LaCroix;Bayou;Enforcer;Kin;1;0
-Ramos;Arcanists/DEAD;Master;Machina;1;0
 Raphael LaCroix;Bayou;Enforcer;Kin;1;0
 Rasputina, Abominable;Arcanists;Master;December;1;0
-Rasputina;Arcanists;Master;December;1;0
+Rasputina, Winter's Teeth;Arcanists;Master;December;1;0
 Rat Catcher;Outcasts;Minion;Plague;2;0
-Rat King;Outcasts;Minion;Plague/Vermin;2;0
-Razorspine Rattler;Neverborn;Minion;Chimera;3;0
-Red Cap;Neverborn;Minion;Versatile/Grim/Puppet;2;0
-Research Assistant;Res;Enforcer;Transmortis;1;0
+Rat King;Outcasts;Minion;Plague;2;0
+Razorspine Rattler;Neverborn;Totem;Chimera;1;0
+Red Cap;Neverborn;Minion;Versatile/Grim;2;0
+Research Assistant;Res;Totem;Transmortis;1;0
 Restless Spirit;Res;Enforcer;Revenant;1;0
 Reva Cortinas, Luminary;Res;Master;Revenant;1;0
-Reva Cortinas;Res;Master;Revenant;1;0
+Reva Cortinas, Death Shepherd;Res;Master;Revenant;1;0
 Rifleman;Guild;Minion;Guard;3;0
-Riotbreaker;Guild;Minion;Augmented;3;0
-Rock Hopper;Bayou;Enforcer;Foundry/Tricksy;1;0
+River Monk;Thunder;Minion;Monk;3;0
+Rock Hopper;Thunder;Totem;Foundry;1;0
 Rocketeer;Guild;Minion;Cavalier;2;0
-Rogue Necromancer;Res;Enforcer;Experimental/Forgotten;1;0
+Rogue Necromancy;Res;Enforcer;Experimental;1;0
 Ronin;Outcasts;Minion;Mercenary;3;0
 Rooster Rider;Bayou;Minion;Tricksy;3;0
-Rotten Belle;Res;Minion;Redchapel/Zombie;3;0
+Rosie Hill;Guild;Enforcer;Cavalier;1;0
 Rougarou;Neverborn;Minion;Fae;2;0
-Rough Rider;Explorer;Minion;Frontier/Wastrel;1;0
-Ruffian;Thunder;Minion;Wastrel;3;0
+Rough Rider;Explorer;Minion;Wastrel;2;0
+Ruffian;Explorer;Minion;Wastrel;3;0
 Ruffles;Bayou;Enforcer;Versatile/Jockey/Tricksy;1;0
 Runaway;Explorer;Minion;Apex;3;0
-Rusty Alyce;Outcasts;Henchman;Amalgam;1;0
-Ryle Hoffman;Arcanists/DEAD;Henchman;Augmented;1;0
+Rusty Alyce, Rider Remade;Outcasts;Master;Amalgam;1;0
+Rusty Alyce, Trigger Happy;Outcasts;Master;Amalgam;1;0
 
 # Terror Tot - COUNT AS HAVING +1 (Cherub)
 The Bad Omen;Outcasts;Enforcer;Versatile;1;0
@@ -601,5 +598,7 @@ The Lone Marshal;Guild;Enforcer;Marshal;1;0
 The Midnight Stalker;Outcasts;Enforcer;Versatile;1;0
 The Nothing Beast;Outcasts;Henchman;Obliteration;1;0
 The Printing Press;Guild;Totem;Journalist;1;0
+The Puzzle Box, Solved;Arcanists;Totem;Witness;1;0
+The Puzzle Box, Unsolved;Arcanists;Totem;Witness;1;0
 # Vasilisa - COUNT AS HAVING +1 (Collodi)
 # Wicked Dolls - Count as haing +4 (Marionette)
