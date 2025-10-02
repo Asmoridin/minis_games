@@ -568,6 +568,85 @@ Runaway;Explorer;Minion;Apex;3;0
 Rusty Alyce, Rider Remade;Outcasts;Master;Amalgam;1;0
 Rusty Alyce, Trigger Happy;Outcasts;Master;Amalgam;1;0
 
+Sabertooth Cerberus;Arcanists;Minion;Chimera;2;0
+Saboteur;Arcanists;Minion;Versatile;2;0
+Samael Hopkins;Guild;Henchman;Witch Hunter;1;0
+Sammy LaCroix;Bayou;Henchman;Kin/Wizz-Bang;1;0
+Samurai;Thunder;Minion;Versatile;3;0
+Sanctioned Spellcaster;Guild;Minion;Witch Hunter;3;0
+Sand Worm;Explorer;Enforcer;Frontier;1;0
+Sandeep Desai, Font of Magic;Arcanists;Master;Academic/Elemental;1;0
+Sandeep Desai;Arcanists;Master;Academic/Elemental;1;0
+Santiago Ortega;Guild;Enforcer;Family;1;1
+Sapper;Guild;Minion;Cavalier;3;0
+Scales of Justice;Guild;Enforcer;Marshal;1;1
+Scavenger;Outcasts;Minion;Amalgam;3;0
+Scion of the Void;Outcasts;Henchman;Obliteration;1;0
+Seamus, Aka Sebastian Baker;Res;Master;Redchapel;1;0
+Seamus;Res;Master;Redchapel;1;0
+Sebastian;Res;Henchman;Experimental;1;0
+Seishin;Res;Minion;Urami;5;0
+Sensei Yu;Thunder;Henchman;Monk;1;0
+Serena Bowman;Neverborn;Enforcer;Versatile/Nightmare;1;0
+Sergeant;Guild;Minion;Guard;2;0
+Shadow Effigy;Thunder;Enforcer;Versatile/Effigy/Puppet;1;0
+Shadow Emissary;Thunder;Enforcer;Versatile/Emissary of Fate;1;0
+Shambling Nest;Explorer;Minion;Cadmus;2;0
+Shang;Thunder;Enforcer;Last Blossom;1;0
+Shastar Vidiya Guard;Arcanists;Minion;Academic;3;0
+Shenlong, The Teacher;Thunder;Master;Monk;1;0
+Shenlong;Thunder;Master;Monk;1;0
+Shieldbearer;Res;Minion;Revenant;3;0
+Shikome;Res;Minion;Urami;2;0
+Showgirl;Arcanists;Minion;Performer;3;0
+Shōjō;Thunder;Enforcer;Qi and Gong/Tri-Chi;1;0
+Sidir Alchibal;Thunder;Henchman;Wastrel;1;0
+Silent One;Arcanists;Minion;December;2;0
+Silurid;Bayou;Minion;Swampfiend;3;0
+Sir Vantes;Bayou;Enforcer;Angler;1;0
+Skeeter;Bayou;Minion;Big Hat;2;0
+Skulker Skin;Bayou;Minion;Angler;3;0
+Slate Ridge Mauler;Arcanists;Minion;Chimera;2;0
+Slop Hauler;Bayou;Minion;Sooey;2;0
+Sloth;Res;Henchman;Versatile/Crossroads;1;0
+Sly "Six Shots";Guild;Enforcer;Family/Kin;1;0
+Snow Storm;Arcanists;Henchman;December;1;0
+Som'er Teeth Jones, Loot Monger;Bayou;Master;Big Hat;1;0
+Som'er Teeth Jones;Bayou;Master;Big Hat;1;0
+Sonnia Criid, Unmasked;Guild;Master;Witch Hunter;1;0
+Sonnia Criid;Guild;Master;Witch Hunter;1;0
+Sophie;Explorer;Enforcer;Seeker;1;0
+Sorrow;Neverborn;Minion;Woe;3;3
+Soul Battery;Outcasts;Enforcer;Amalgam/Honeypot;1;0
+Soul Porter;Thunder/Res;Enforcer;Retainer;1;0
+Soulstone Gamin;Arcanists;Minion;Witness;3;0
+Soulstone Miner;Arcanists;Minion;Versatile/Machine/Tricksy;2;0
+Sovereign;Explorer;Enforcer;Syndicate;1;0
+Sparks LeBlanc;Bayou;Henchman;Foundry/Tricksy;1;0
+Spawn Mother;Bayou;Henchman;Swampfiend;1;0
+Spelleater;Explorer;Minion;Cadmus/Witch Hunter;3;0
+Spit Hog;Bayou;Minion;Big Hat;2;0
+Squealer;Bayou;Minion;Pig;3;0
+Steam Arachnid Swarm;Arcanists;Minion;Versatile/Machina;2;0
+Steam Arachnid;Arcanists;Minion;Versatile/Machina;6;0
+Steam Trunk;Outcasts;Enforcer;Freikorps;1;0
+Stitched Together;Neverborn;Minion;Nightmare/Puppet;3;0
+Stolen;Outcasts;Minion;Plague;3;0
+Story of Raijin;Thunder;Enforcer;Story;1;0
+Story of Sun Wukong;Thunder;Enforcer;Story;1;0
+Story of Thang Giong;Thunder;Henchman;Story;1;0
+Student of Conflict;Outcasts;Enforcer;Mercenary;1;0
+Student of Sinew;Res;Minion;Transmortis;3;0
+Student of Steel;Res;Minion;Transmortis;3;0
+Student of Viscera;Res;Minion;Transmortis;2;0
+Stuffed Piglet;Bayou;Minion;Wizz-Bang;6;0
+Stumpy;Bayou;Enforcer;Jockey/Swampfiend;1;0
+Sue;Outcasts;Enforcer;Bandit;1;0
+Sun Quiang;Thunder;Enforcer;Retainer;1;0
+Surveyor;Explorer;Minion;Seeker/Syndicate;3;0
+Survivor;Bayou;Minion;Foundry/Tricksy;3;0
+Swine-Cursed;Bayou;Minion;Pig/Wizz-Bang;2;0
+
 # Terror Tot - COUNT AS HAVING +1 (Cherub)
 The Bad Omen;Outcasts;Enforcer;Versatile;1;0
 The Brass Bull;Explorer;Totem;Syndicate;1;0
