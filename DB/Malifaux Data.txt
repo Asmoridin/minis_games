@@ -510,8 +510,8 @@ Oskar;Res;Enforcer;Fungal;1;0
 Ototo;Thunder;Henchman;Last Blossom;1;0
 Oxfordian Mage;Arcanists;Minion;Academic;3;0
 Pale Rider;Guild;Enforcer;Versatile;1;0
-Pandora, Tyrant-Torn;Neverborn;Master;Woe;1;0
 Pandora, Despair's Desire;Neverborn;Master;Woe;1;1
+Pandora, Tyrant-Torn;Neverborn;Master;Woe;1;0
 Papa Loco;Guild;Totem;Family;1;1
 Paper Tiger;Thunder;Totem;Red Library;1;0
 Parker Barrows, Dead Man Walking;Outcasts;Master;Bandit;1;0
@@ -521,8 +521,8 @@ Paul Crockett;Arcanists;Henchman;Frontier;1;0
 Peacekeeper;Guild;Enforcer;Augmented;1;0
 Pearl Musgrove;Outcasts;Henchman;Bandit;1;0
 Penelope;Bayou;Totem;Sooey;1;0
-Perdita Ortega, Neverborn Hunter;Guild;Master;Family;1;0
 Perdita Ortega, La Diabla;Guild;Master;Family;1;1
+Perdita Ortega, Neverborn Hunter;Guild;Master;Family;1;0
 Pere Ravage;Bayou;Enforcer;Kin;1;0
 Philip and the Nanny;Res;Henchman;Forgotten;1;0
 Phiona Gage;Guild;Henchman;Journalist;1;0
@@ -533,8 +533,8 @@ Poltergeist;Neverborn;Totem;Woe;1;1
 Popcorn Turner;Bayou;Henchman;Tri-Chi;1;0
 Pride;Outcasts;Henchman;Versatile/Crossroads;1;0
 Primordial Magic;Neverborn;Totem;Savage;1;0
-Prof. Von Schtook, Stargazer;Res;Master;Transmortis;1;0
 Prof. Von Schtook, Admissions Executive;Res;Master;Transmortis;1;0
+Prof. Von Schtook, Stargazer;Res;Master;Transmortis;1;0
 Propagandist;Guild;Enforcer;Versatile;1;0
 Prospector;Outcasts;Minion;Versatile;3;0
 Purifying Flame;Guild;Totem;Witch Hunter;1;0
@@ -550,8 +550,8 @@ Razorspine Rattler;Neverborn;Totem;Chimera;1;0
 Red Cap;Neverborn;Minion;Versatile/Grim;2;0
 Research Assistant;Res;Totem;Transmortis;1;0
 Restless Spirit;Res;Enforcer;Revenant;1;0
-Reva Cortinas, Luminary;Res;Master;Revenant;1;0
 Reva Cortinas, Death Shepherd;Res;Master;Revenant;1;0
+Reva Cortinas, Luminary;Res;Master;Revenant;1;0
 Rifleman;Guild;Minion;Guard;3;0
 River Monk;Thunder;Minion;Monk;3;0
 Rock Hopper;Thunder;Totem;Foundry;1;0
@@ -594,13 +594,13 @@ Shadowlark;Arcanists;Henchman;Performer;1;0
 Shambling Nest;Explorer;Minion;Cadmus;2;0
 Shang;Thunder;Totem;Last Blossom;1;0
 Shastar Vidiya Guard;Arcanists;Minion;Academic;3;0
-Shenlong, The Teacher;Thunder;Master;Monk;1;0
 Shenlong, Dragon's Breath;Thunder;Master;Monk;1;0
+Shenlong, The Teacher;Thunder;Master;Monk;1;0
 Shieldbearer;Res;Minion;Revenant;3;0
 Shikome;Res;Minion;Urami;2;0
-Shōjō;Bayou;Enforcer;Tri-Chi;1;0
 Shorebound Sentinel;Neverborn;Minion;Banished;3;0
 Showgirl;Arcanists;Minion;Performer;3;0
+Shōjō;Bayou;Enforcer;Tri-Chi;1;0
 Sidir Alchibal;Explorer;Henchman;Wastrel;1;0
 Silent One;Arcanists;Minion;December;2;0
 Silent Siren;Neverborn;Enforcer;Banished;1;0
@@ -618,8 +618,8 @@ Sloth;Res;Henchman;Versatile/Crossroads;1;0
 Sly "Six Shots";Guild;Totem;Family;1;0
 Smokestack;Guild;Totem;Cavalier;1;0
 Snow Storm;Arcanists;Henchman;December;1;0
-Som'er Teeth Jones, Loot Monger;Bayou;Master;Big Hat;1;0
 Som'er Teeth Jones, Bayou Boss;Bayou;Master;Big Hat;1;0
+Som'er Teeth Jones, Loot Monger;Bayou;Master;Big Hat;1;0
 Sonnia Criid, Unmasked;Guild;Master;Witch Hunter;1;0
 Sonnia Criid, Unrelenting;Guild;Master;Witch Hunter;1;0
 Sophie;Explorer;Totem;Seeker;1;0
@@ -659,8 +659,6 @@ Survivor;Bayou;Minion;Tricksy;3;0
 Swashbuckler;Bayou;Minion;Infamous/Angler;2;0
 Swine Twirler;Bayou;Minion;Kin/Sooey;2;0
 Swine-Cursed;Bayou;Minion;Wizz-Bang;2;0
-
-# Terror Tot - COUNT AS HAVING +1 (Cherub)
 The Bad Omen;Outcasts;Enforcer;Versatile;1;0
 The Brass Bull;Explorer;Totem;Syndicate;1;0
 The Brewmaster, Moonshiner;Bayou;Master;Tri-Chi;1;0
@@ -681,7 +679,7 @@ The First Mate;Outcasts;Henchman;Infamous;1;0
 The Forgotten Marshal;Res;Enforcer;Forgotten;1;0
 The Fortune Teller;Outcasts;Enforcer;Ampersand;1;0
 The Iron Matron;Explorer;Henchman;Bygone;1;0
-The Judge;Guild;Henchman;Marshal;1;0
+The Judge;Guild;Henchman;Marshal;1;1
 The Jury;Guild;Enforcer;Marshal;1;0
 The Kitchen Sink;Outcasts;Enforcer;Ampersand;1;0
 The Kurgan;Explorer;Totem;Seeker;1;0
@@ -697,5 +695,99 @@ The Scribe;Guild;Totem;Elite;1;0
 The Sow;Bayou;Totem;Sooey;1;0
 The Strange Lady;Res;Enforcer;Forgotten/Redchapel;1;0
 The Syzygy Sisters;Neverborn;Enforcer;Versatile;1;0
-# Vasilisa - COUNT AS HAVING +1 (Collodi)
-# Wicked Dolls - Count as haing +4 (Marionette)
+
+Taelor;Outcasts;Henchman;Mercenary;1;0
+Taggart Queeg;Guild;Henchman;Guard;1;0
+Talos;Outcasts;Enforcer;Obliteration;1;0
+Tannenbaum;Explorer;Enforcer;Versatile/Seeker;1;0
+Tanuki;Thunder;Minion;Versatile/Tri-Chi;3;0
+Tara, Timeless;Outcasts;Master;Obliteration;1;0
+Tara;Outcasts;Master;Obliteration;1;0
+Taxidermist;Bayou;Minion;Wizz-Bang;2;0
+Teddy;Neverborn;Enforcer;Nightmare;1;1
+Ten Thunders Brother;Thunder;Minion;Versatile;3;0
+Tengu;Thunder;Minion;Oni;3;0
+Terracotta Warrior;Thunder;Minion;Versatile;3;0
+Terror Tot;Neverborn;Minion;Nephilim;3;3 # have 4 - 1 Cherub
+Test Subject;Bayou;Minion;Tricksy;3;0
+Thalarian Queller;Guild;Minion;Witch Hunter;2;0
+Thirty-Three;Outcasts;Enforcer;Marshal/Obliteration;1;0
+Thoon;Neverborn;Henchman;Savage;1;0
+Thunder Archer;Thunder;Minion;Last Blossom/Monk;3;0
+Tidecaller;Explorer;Enforcer;EVS;1;0
+Tiri, The Architect;Explorer/Outcasts;Master;Bygone;1;0
+Tiri, The Nomad;Explorer/Outcasts;Master;Bygone;1;0
+Titania, Autumn Queen;Neverborn;Master;Fae;1;0
+Titania;Neverborn;Master;Fae;1;0
+Toni Ironsides, Union President;Arcanists;Master;M&SU;1;0
+Toni Ironsides;Arcanists;Master;M&SU;1;0
+Torakage;Thunder;Minion;Last Blossom;3;0
+Toshiro, The Daimyo;Res;Henchman;Retainer/Ancestor;1;0
+Trained Raptor;Guild;Minion;Frontier;3;0
+Trixiebelle;Bayou;Henchman;Tricksy;1;0
+Tuco Ortega;Neverborn;Enforcer;Versatile/Half-Blood;1;0
+Ulix Turner, Porkbelly Protector;Bayou;Master;Sooey/Pig;1;0
+Ulix Turner;Bayou;Master;Sooey/Pig;1;0
+Ullr;Explorer;Enforcer;Apex;1;0
+Uncle Bogg;Bayou;Henchman;Angler;1;0
+Undercover Reporter;Guild;Enforcer;Journalist;1;0
+Undergraduate;Res;Minion;Transmortis;3;0
+Union Miner;Arcanists;Minion;M&SU;3;0
+Union Steamfitter;Arcanists;Minion;Augmented/M&SU;3;0
+Unseelie Engine;Explorer;Enforcer;Bygone/Returned;1;0
+Urnbearer;Neverborn;Minion;Returned;2;0
+The Valedictorian;Res;Henchman;Transmortis;1;0
+Vanessa Chambers;Outcasts;Enforcer;Mercenary;1;0
+Vasilisa;Neverborn;Enforcer;Versatile/Puppet;1;1 # Have +1 collodi
+Vatagi Huntsman;Explorer;Minion;Apex;3;0
+Vernon and Welles;Explorer;Enforcer;Versatile;1;0
+Viktoria Chambers, Twin Blades;Outcasts;Master;Mercenary;1;0
+Viktoria Chambers;Outcasts:Master;Mercenary;1;0
+Vincent St. Clair;Res;Henchman;Revenant;1;0
+Void Hunter;Outcasts;Minion;Obliteration;3;0
+Void Wretch;Outcasts;Minion;Obliteration;3;0
+Von Schill, Iron-Heart;Outcasts;Master;Freikorps;1;0
+Von Schill;Outcasts;Master;Freikorps;1;0
+Waldgeist;Neverborn;Minion;Fae/Swampfiend;3;0
+Walking Cannon;Guild;Minion;Cavalier;2;0
+Wandering River Monk;Thunder;Minion;Monk;3;0
+Wanyudo;Thunder;Enforcer;Versatile/Revenant;1;0
+War Pig;Bayou;Minion;Pig;3;0
+Warden;Guild;Minion;Augmented/Guard;2;0
+Watcher;Guild;Minion;Augmented;3;0
+Wendigo;Arcanists;Enforcer;December;1;0
+Whiskey Gamin;Bayou;Minion;Tri-Chi;2;0
+Whiskey Golem;Bayou;Enforcer;Tri-Chi;1;0
+White Eyes;Neverborn;Enforcer;Mimic/Returned;1;0
+White Rabbit Co.;Res;Enforcer;Big Hat/Redchapel;1;0
+Wicked Doll;Neverborn;Minion;Versatile/Puppet;3;3 # have +4 Marionette
+Widow Weaver;Neverborn;Henchman;Nightmare/Puppet;1;0
+Wild Boar;Bayou;Minion;Pig;3;0
+Will o' the Wisp;Neverborn;Minion;Swampfiend;3;0
+Willie;Arcanists;Enforcer;Foundry;1;0
+Wind Gamin;Arcanists;Minion;Elemental;3;0
+Winged Plague;Outcasts;Minion;Plague/Vermin;3;0
+Winston Finnigan;Explorer;Henchman;Syndicate;1;0
+Witchling Handler;Guild;Minion;Witch Hunter;2;0
+Witchling Stalker;Guild;Minion;Witch Hunter/Witchling;3;0
+Witchling Thrall;Guild;Minion;Witch Hunter/Witchling;2;0
+Wokou Rider;Outcasts;Minion;Bandit/Last Blossom;3;0
+Wong, The Enchanter;Bayou;Master;Wizz-Bang;1;0
+Wong;Bayou;Master;Wizz-Bang;1;0
+Wrastler;Bayou;Minion;Infamous;3;0
+Wrath;Neverborn;Henchman;Versatile/Crossroads;1;0
+Yaksha;Explorer;Minion;Versatile/Seeker;3;0
+Yamaziko;Thunder;Henchman;Last Blossom;1;0
+Yan Lo, The Spirit Walker;Thunder/Res;Master;Ancestor/Retainer;1;0
+Yan Lo;Thunder/Res;Master;Ancestor/Retainer;1;0
+Yannic Waller;Outcasts;Henchman;Versatile/Syndicate;1;0
+Yasunori;Thunder;Enforcer;Versatile;1;0
+Yin, The Panangalan;Res;Enforcer;Ancestor/Retainer;1;0
+Yokai;Thunder;Minion;Oni;3;0
+Youko Hamasaki, Unseen;Thunder;Master;Qi and Gong;1;0
+Youko Hamasaki;Thunder;Master;Qi and Gong;1;0
+Young LaCroix;Bayou;Minion;Kin;3;0
+Young Nephilim;Neverborn;Minion;Nephilim;4;0
+Zombie Chihuahua;Res;Enforcer;Experimental/Zombie;1;0
+Zoraida, Swamp Hag;Bayou/Neverborn;Master;Swampfiend;1;0
+Zoraida;Bayou/Neverborn;Master;Swampfiend;1;0
