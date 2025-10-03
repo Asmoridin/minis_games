@@ -1,4 +1,11 @@
 Inventory tracker and purchase suggestions for the Malifaux miniatures game.
 
-I own 35 out of 911 minis for this game (3.84 percent)
-Maybe purchase a(n) Daeva from The Explorer's Society (have 0 out of 3)
+I own 40 out of 1068 minis for this game (3.75 percent)
+Maybe purchase a(n) Eyes and Ears from The Explorer's Society (have 0 out of 5)
+
+Five lowest keyword counts:
+Society: 2
+Sayuri: 3
+Half-Blood: 3
+Fungal: 3
+Vanguard: 3

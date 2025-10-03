@@ -31,6 +31,7 @@ TOTAL_MAX = 0
 TOTAL_OWN = 0
 mini_lines = []
 names = set()
+keyword_counter = {}
 for line in lines:
     if line.startswith('#') or line == "":
         continue
@@ -48,6 +49,11 @@ for line in lines:
     if model_station not in VALID_STATIONS:
         print(f"Unknown station {model_station} for {model_name}")
     keywords = keywords.split('/')
+    for keyword in keywords:
+        keyword = keyword.strip()
+        if keyword not in keyword_counter:
+            keyword_counter[keyword] = 0
+        keyword_counter[keyword] += 1
     model_max = int(model_max)
     model_own = int(model_own)
     TOTAL_MAX += model_max
@@ -72,3 +78,10 @@ if __name__ == "__main__":
         f"({own_pct:.2f} percent)", out_file_h)
     double_print(f"Maybe purchase a(n) {item_choice} from {faction_choice} (have " + \
         f"{filtered_list[4]} out of {filtered_list[5]})", out_file_h)
+
+    double_print("\nFive lowest keyword counts:", out_file_h)
+    keyword_sorter = sorted(keyword_counter.items(),
+        key=lambda x: x[1])
+    for keyword, count in keyword_sorter[:5]:
+        double_print(f"{keyword}: {count}", out_file_h)
+    out_file_h.close()
