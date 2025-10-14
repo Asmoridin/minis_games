@@ -1,9 +1,10 @@
-Lilith;Rasputina;Rob M;W
-Lilith;Rasputina;Rob M;T
-Lilith;Hamelin;Rob M;L
-Lilith;Hamelin;Rob M;W
-Sonnia;Mei Feng;Rob M;L
-Lilith;Mei Feng;Rob M;W
-Jakob Lynch;Mei Feng;Rob M;W
-Lilith;Reva;Dan R;L
-Jakob Lynch;Reva;Dan R;L
+1E;Lilith;Rasputina;Rob M;W
+1E;Lilith;Rasputina;Rob M;T
+1E;Lilith;Hamelin;Rob M;L
+1E;Lilith;Hamelin;Rob M;W
+2E;Sonnia;Mei Feng;Rob M;L
+2E;Lilith;Mei Feng;Rob M;W
+2E;Jakob Lynch;Mei Feng;Rob M;W
+2E;Lilith;Reva;Dan R;L
+2E;Jakob Lynch;Reva;Dan R;L
+4E;Perdita Orteta, La Diabla;Jakob Lynch;BK;L

@@ -72,6 +72,7 @@ Fu Ran Ku;Jung Pirates;1;0
 Fudo, the Illuminator;Silvermoon Syndicate;1;0
 Fujitaka;Prefecture of Ryu;1;0
 Fujiwaro Ran;Jung Pirates;1;0
+Fukou;Cult of Yurei;1;0
 Fuku;Silvermoon Syndicate;1;0
 Fuma;Shadow Wind Clan;1;0
 Fuwa Kaidan;Cult of Yurei;1;0
@@ -133,6 +134,8 @@ Hozumi Maha;Ronin;1;1
 Ibara;Cult of Yurei;1;0
 Ichio;Ronin;1;0
 Ig;Savage Wave;1;0
+Ikeda Kokou;Cult of Yurei;1;0
+Ikeda Shindarei;Cult of Yurei;1;0
 Ikiryo;Cult of Yurei;1;0
 Ima;Prefecture of Ryu;1;0
 Isamu;Prefecture of Ryu;1;0
@@ -192,6 +195,7 @@ Kami of the Morning Dew;Ronin;2;0
 Kami of the Strong West Wind;Ronin;2;0
 Kami of the Summer Storm;Temple of Ro-Kan;1;0
 Kanae;Shadow Wind Clan;1;0
+Kanashī;Cult of Yurei;1;0
 Kani-chan;Jung Pirates;1;0
 Kani-kun;Jung Pirates;1;0
 Kano;Savage Wave;1;0
@@ -199,7 +203,7 @@ Kanut;The Descension;1;0
 Kappa;Ronin;1;0
 Karapan;Shadow Wind Clan;2;0
 Karu;Ronin;1;0
-Kato the Puppet Master;Cult of Yurei;1;0
+Kato, the Puppet Master;Cult of Yurei;1;0
 Katsumi;Shadow Wind Clan;1;0
 Kawa no Rojin;Temple of Ro-Kan;2;0
 Kazuhiko;Ito Clan;1;0
@@ -230,6 +234,7 @@ Kokkio;Prefecture of Ryu;1;0
 Kokoro the Harvester;Savage Wave;1;0
 Korusea;Jung Pirates;2;1
 Koshimori Yukio;Ronin;1;0
+Koshō;Cult of Yurei;1;0
 Kosuke;Temple of Ro-Kan;1;0
 Kota;Temple of Ro-Kan;1;0
 Kotenbo;The Descension;1;0
@@ -248,6 +253,7 @@ Kyuubi;Temple of Ro-Kan;1;0
 Lama'a;Silvermoon Syndicate;1;0
 Large Rat Swarm;Cult of Yurei;2;0
 Lost Slave;Savage Wave;2;0
+Lotus Kaidan;Cult of Yurei;1;0
 Loyal Kyudoka;Shiho Clan;2;0
 Loyal Yarimen;Shiho Clan;2;0
 Lua;Jung Pirates;1;0
@@ -301,6 +307,7 @@ Neko;Shadow Wind Clan;1;0
 Nian Rider;Savage Wave;1;0
 Nightwing Swarm;Ronin;2;0
 Ningyo;Silvermoon Syndicate;1;0
+Nintoku;Cult of Yurei;1;0
 Niseru;Temple of Ro-Kan;1;0
 Nomi;Silvermoon Syndicate;1;0
 Nuan;Minimoto Clan;1;0
@@ -483,6 +490,7 @@ Ume;Temple of Ro-Kan;1;0
 Umeka;Cult of Yurei;1;0
 Unblessed Ashigaru;Minimoto Clan;2;0
 Ushi the Sadistic;Savage Wave;1;0
+Vekye;Cult of Yurei;1;0
 Village Militia;Temple of Ro-Kan;2;0
 Waka the Rampager;Savage Wave;1;0
 Wakaba;Shadow Wind Clan;1;0
