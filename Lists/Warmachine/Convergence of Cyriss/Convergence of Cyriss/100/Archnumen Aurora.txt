@@ -1,12 +1,15 @@
-# 4/19/25 9th/11
+# 10/11/25 4th/12
 
-Wings go zoom
-Convergence of Cyriss
+Convergence of Cyriss - Convergence of Cyriss
+Grand Melee - 100 pts
+
+PC CARD
+
 Archnumen Aurora
 
-14 Cipher
-
 6 Corollary
+
+14 Monitor
 
 8 Tesselator 1
 
@@ -14,33 +17,37 @@ Archnumen Aurora
 
 8 Tesselator 3
 
+8 Tesselator 4
+
 12 Asphyxious the Sanctified
 
 Annihilation Servitors
 
-4 Galvanizer
+10 Conservator
+
+3 Enigma Foundry
 
 4 Prefect Hypatia
 
-3 Steelsoul Protector
+5 Clockwork Angels
 
-5 Clockwork Angels 1
-
-5 Clockwork Angels 2
-
-5 Clockwork Angels 3
+2 Transverse Enumerator
 
 6 Negation Angels 1
 
 6 Negation Angels 2
 
-6 Negation Angels 3
+Defenses
+DEFENSE 1 - Barrier
+DEFENSE 1 - Barrier
+DEFENSE 1 - Fire Pit
 
 
 PC COMMAND CARD
 Blessing of the Gods
-Careful Reconnaissance
+Defenses
+Duck and Cover!
+Hit & Run
 Lucky Penny
-Old Faithful
-Put the Fires Out
+
 TOTAL POINTS 100/100

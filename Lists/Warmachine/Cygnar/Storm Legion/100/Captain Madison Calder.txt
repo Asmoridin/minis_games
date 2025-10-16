@@ -1,4 +1,4 @@
-# 8/31/25 5th/62
+# 10/12/25 1st/13 Swedish tournament
 
 Cygnar - Storm Legion
 Grand Melee - 100 pts
@@ -8,22 +8,26 @@ PC CARD
 Defenses
 DEFENSE 1 - Barrier
 DEFENSE 1 - Barrier
-DEFENSE 1 - Spike Trap
+DEFENSE 1 - Barrier
 
 Captain Madison Calder
 SPELL - Arcane Shield
-SPELL - Snipe
+SPELL - Deflection
 SPELL - Electrify
 
-7 Courser
+7 Courser 1
 1 HEAD - Shield Guard
 4 RIGHT ARM - Heavy Stormthrower
 2 LEFT ARM - Voltaic Punching Spike
 
-12 Stryker
-1 HEAD - Relentless Charge
-6 RIGHT ARM - Voltaic Halberd
-5 LEFT ARM - Galvanic Shield
+7 Courser 2
+1 HEAD - Shield Guard
+4 RIGHT ARM - Heavy Stormthrower
+2 LEFT ARM - Voltaic Punching Spike
+
+20 Exulon Nostilla
+
+Aberration
 
 7 Krueger, Wrath of Blighterghast
 
@@ -35,17 +39,11 @@ SPELL - Electrify
 
 10 Storm Lance Legionnaires 2
 
-5 Storm Vanes
-
 6 Stormblade Legionnaires
 
-7 Stormguard Legionnaires 1
+2 Legionnaire Standard Bearer
 
-2 Legionnaire Standard Bearer 1
-
-7 Stormguard Legionnaires 2
-
-2 Legionnaire Standard Bearer 2
+7 Stormguard Legionnaires
 
 9 Tempest Assailers
 
@@ -56,7 +54,7 @@ PC COMMAND CARD
 Blessing of the Gods
 Careful Reconnaissance
 Defenses
-Duck and Cover!
-Sapper
+Hit & Run
+Lucky Penny
 
-TOTAL POINTS 99/100
+TOTAL POINTS 100/100

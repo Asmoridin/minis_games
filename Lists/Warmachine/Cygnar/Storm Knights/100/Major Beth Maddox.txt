@@ -1,38 +1,43 @@
-#3/29/25 7th/7
+# 10/11/25 3rd/13
 
-Giants Amongst Men
 Cygnar - Storm Knights
 Grand Melee - 100 pts
 
 PC CARD
 
+Defenses
+DEFENSE 1 - Barrier
+DEFENSE 1 - Barrier
+DEFENSE 1 - Barrier
+
 Major Beth Maddox
 
 28 Hurricane
 
-27 Stormwall 1
+14 Storm Strider 1
 
-27 Stormwall 2
+14 Storm Strider 2
 
 3 Captain Arlan Strangewayes
 
-2 Field Mechaniks 1
+7 Major Katherine Laddermore
 
-2 Field Mechaniks 2
+4 Squire
 
-11 Storm Lances
+4 Stormblade Captain
 
-Defenses
-DEFENSE 1 - Spike Trap
-DEFENSE 1 - Spike Trap
-DEFENSE 1 - Barrier
+4 Stormsmith Stormcallers
+
+11 Storm Lances 1
+
+11 Storm Lances 2
 
 
 PC COMMAND CARD
 Blessing of the Gods
+Careful Reconnaissance
 Defenses
 Lucky Penny
 Old Faithful
-Sapper
 
 TOTAL POINTS 100/100

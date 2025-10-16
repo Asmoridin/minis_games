@@ -1,0 +1,33 @@
+# 10/12/25 2nd/8
+
+=== The Last Argument of Kings ===
+
+The church will advance [2000/2000]
+The Hundred Kingdoms
+[object Object]
+
+
+== Mounted Noble Lord [185]: Dynastic Ally, Olefant's Roar, Tourney Champion, Tip of the Lance
+
+* Household Knights 5 [280]:
+[Veteran]
+
+* Longbowmen 4 [190]: [Veteran]
+
+* Mounted Squires 3 [140]: [Veteran]
+
+
+== Chapter Mage [100]: School of Water, School of Fire, Talented
+
+* Mercenary Crossbowmen 3 [110]:
+
+
+== Warlord Theist Priest [145]: Elysian Fragment, Get in Position
+
+* Archangel 1 [240]: Aspect of the Avenger Sword
+
+* Archangel 1 [240]: Aspect of the Avenger Sword
+
+* Sicarii 5 [240]:
+
+* Crusaders 3 [130]:
