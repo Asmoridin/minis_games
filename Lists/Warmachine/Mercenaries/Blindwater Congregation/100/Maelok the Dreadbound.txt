@@ -1,25 +1,23 @@
-# 5/31/25 8th/12 NY 
+# 10/12/25 4th/7
 
-You're Time is Up
 Mercenaries - Blindwater Congregation
 Grand Melee - 100 pts
 
 PC CARD
 
-Defenses
-DEFENSE 1 - Barrier
-DEFENSE 1 - Barrier
-DEFENSE 1 - Fire Pit
-
 Maelok the Dreadbound
+
+13 Blackhide Wrastler
 
 10 Blind Walker
 
-28 Dracodile
-
-3 Bog Trog Mist Speaker
+15 Swamp Horror
 
 4 Captain Crawtooth
+
+20 Carver Ultimus
+
+War Boar MMD47
 
 4 Gatorman Soul Slave
 
@@ -27,11 +25,7 @@ Maelok the Dreadbound
 
 3 Gatorman Witch Doctor 2
 
-4 Kwaak Slickspine & Gub, Croak Sorcerers
-
-4 Underchief Mire
-
-13 Blackhide Wrastler
+4 Kwaak Slickspine & Gub
 
 8 Gatorman Posse 1
 
@@ -42,9 +36,9 @@ Maelok the Dreadbound
 
 PC COMMAND CARD
 Blessing of the Gods
-Break Through
-Defenses
 Duck and Cover!
 Lucky Penny
+Old Faithful
+Put the Fires Out
 
 TOTAL POINTS 100/100
