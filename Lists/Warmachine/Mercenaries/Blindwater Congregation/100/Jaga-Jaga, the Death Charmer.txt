@@ -1,6 +1,5 @@
-#4/5/25 10th/10
+# 10/12/25 4th/7
 
-Jaga-Jagas aim training
 Mercenaries - Blindwater Congregation
 Grand Melee - 100 pts
 
@@ -8,40 +7,40 @@ PC CARD
 
 Jaga-Jaga, the Death Charmer
 
-6 Boneswarm
-
 13 Ironback Spitter 1
 
 13 Ironback Spitter 2
-
-3 Bog Trog Mist Speaker
 
 20 Carver Ultimus
 
 War Boar MMD47
 
-4 Kwaak Slickspine & Gub, Croak Sorcerers
+4 Gatorman Soul Slave
+
+4 Kwaak Slickspine & Gub
 
 4 Underchief Mire
 
 13 Blackhide Wrastler
 
-7 Croak Raiders 1
+1 Void Leech 1
 
-7 Croak Raiders 2
+1 Void Leech 2
 
-4 Gatorman Boil Master & Spirit Cauldron
+6 Bog Trog Ambushers
 
 5 Gatorman Bokor & Bog Trog Swamp Shamblers
 
-1 Swamp Gobber Bellows Crew
+8 Gatorman Posse 1
+
+8 Gatorman Posse 2
 
 
 PC COMMAND CARD
 Blessing of the Gods
 Break Through
 Careful Reconnaissance
+Duck and Cover!
 Lucky Penny
-Put the Fires Out
 
 TOTAL POINTS 100/100
