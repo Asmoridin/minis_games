@@ -1,61 +1,59 @@
-# 5/31/25 1st/17 Utah
+# 10/11/25 1st/16
 
-Spider
 Dusk - House Kallyss
 Grand Melee - 100 pts
 
 PC CARD
 
+Defenses
+DEFENSE 1 - Barrier
+DEFENSE 1 - Barrier
+DEFENSE 1 - Powder Keg
+
 Tyrus, Nis-Arsyr of Spiders
+SPELL - Battle Lust
 SPELL - Abyssal Gate
 SPELL - Backlash
-SPELL - Battle Lust
 
-17 Eidolon
-2 HEAD - Flight
-6 RIGHT ARM - Dawn Blade
-5 LEFT ARM - Force Shield
-4 BACK - Force Cannon
-
-8 Ghast
+7 Ghast
 2 HEAD - Arc Node
 3 RIGHT ARM - Heavy Blade Fist
-3 LEFT ARM - Battle Shield
+2 LEFT ARM - Light Blade Fist
 
 4 Dreadguard Scyir
 
 4 Dyssiss, the Eye of Darkness
 
-4 Mage Hunter Commander 1
-
-4 Mage Hunter Commander 2
+4 Mage Hunter Commander
 
 3 Mage Hunter Sniper Team
 
-4 Vaelyss, The Hand of Mourning
-
 11 Dreadguard Cavalry 1
-
 11 Dreadguard Cavalry 2
 
+8 Dreadguard Slayers 1
+8 Dreadguard Slayers 2
+
 6 Mage Hunter Assassins 1
-
 6 Mage Hunter Assassins 2
+6 Mage Hunter Assassins 3
 
-4 Seeker Adepts
+6 Soulless Blademasters 1
 
-6 Soulless Blademasters
+2 Seeker Warden 1
 
-2 Seeker Warden
+6 Soulless Blademasters 2
+
+2 Seeker Warden 2
 
 6 Soulless Guardians
 
 
 PC COMMAND CARD
 Blessing of the Gods
-Careful Reconnaissance
-Hit & Run
+Defenses
+Duck and Cover!
 Lucky Penny
-Old Faithful
+Put the Fires Out
 
 TOTAL POINTS 100/100
