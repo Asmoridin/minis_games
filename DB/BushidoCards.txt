@@ -9,6 +9,7 @@ Beloved Nobles
 Blessing of Kah'Non
 Blessings of the Void
 Blind Bomb
+Blood of Orochi
 Blow the Man Down
 Bounty
 Breath of Yurei
@@ -30,7 +31,9 @@ Gathering in the Dark
 Glimpse of Jigoku
 Gorintō
 Grave Misfortune
+Greater Sacrifices
 Grievous Sins
+Haemotoxic Oil
 Hasty Bear
 Haunted Well
 Herbal Remedy
@@ -64,6 +67,9 @@ Okami no Mimi
 Onojutsu
 Opportune Uprising
 Orochi's Gaze
+Orochi's Gift
+Orochi's Shadow
+Orochi's Vengeance
 Pariah's Voice
 Preordain
 Primal Howl
@@ -82,6 +88,7 @@ Second Chance
 Shadow
 Sharing is Killing
 Shrewd Negotiation
+Shrine to Orochi
 Signal Flag
 Smoke Bomb
 Smoke Field

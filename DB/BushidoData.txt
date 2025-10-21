@@ -301,6 +301,7 @@ Nachin;Silvermoon Syndicate;1;0
 Nagashikaku;Kinshi Temple;1;0
 Nagato;Shadow Wind Clan;1;0
 Naigubu;The Descension;1;0
+Nanako;Ito Clan;1;0
 Naoko;Ito Clan;1;0
 Narahobo;The Descension;1;0
 Neko;Shadow Wind Clan;1;0

@@ -69,7 +69,7 @@ Gambit;Brotherhood of Mutants, Uncanny X-Men, Servants of the Apocalypse;0
 Gamora;A-Force, Guardians of the Galaxy;0
 Ghost Rider;Defenders, Midnight Sons;0
 Ghost-Spider;Web Warriors;1
-Gladiator;UNAFFILIATED;0
+Gladiator;UNAFFILIATED;1
 Gorgon;Inhumans;0
 Green Goblin;Spider-Foes/L, Criminal Syndicate;1
 Groot;Guardians of the Galaxy;0
