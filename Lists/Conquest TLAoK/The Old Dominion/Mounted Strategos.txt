@@ -1,20 +1,31 @@
-# 8/23/25 4th/6 WA tournament
+# 10/12/25 3rd/8
 
 === The Last Argument of Kings ===
-The Scoured Legion 2k vX - Hoofbeats of Death XXX [2000/2000]
+
+Ven?ím barák [2000/2000]
 The Old Dominion
 
-== Mounted Strategos [130]: Skofnung
-* Kataphraktoi 5 [350]: Standard Bearer, Hetairos
-* Centaur Prodromoi 3 [150]:
-* Centaur Prodromoi 3 [150]:
 
-== Warlord Mounted Strategos [100]:
-* Kataphraktoi 3 [220]: Standard Bearer, Hetairos
-* Kataphraktoi 3 [210]: Hetairos
+== Theokrator [280]:
 
-== Hierodeacon [90]:
+* Legionnaires 3 [120]: Dark Cenotaph
+
+* Bone Golems 3 [210]:
+
+
+== Hierodeacon [105]: Devoted to Hazlia
+
 * Cultists 3 [90]:
-* Cultists 3 [90]:
-* Karyatids 3 [200]:
+
 * Buccephaloi 3 [220]:
+
+* Centaur Kerykes 3 [180]:
+
+* Karyatids 3 [200]:
+
+
+== Warlord Mounted Strategos [155]: Aventine Armor, Skofnung
+
+* Kataphraktoi 4 [255]: Hetairos
+
+* Praetorian Guard 3 [185]: Dark Cenotaph

@@ -1,6 +1,5 @@
-#3/29/25 6th/7
+# 10/12/25 9th/10
 
-the Dom
 Mercenaries - Soldiers of Fortune
 Grand Melee - 100 pts
 
@@ -8,25 +7,23 @@ PC CARD
 
 Captain Damiano
 
-9 Nomad
+13 Mule 1
 
-15 Rocinante
+13 Mule 2
 
-3 Reinholdt, Gobber Speculator
+20 Exulon Nostilla
 
-3 Rhupert Carvolo, Piper of Ord
+Aberration
 
 3 Sergeant Nicolas Verendrye
 
-6 Stannis Brocker
+2 Steelhead Arcanist 1
 
-2 Steelhead Arcanist
+2 Steelhead Arcanist 2
 
-3 Steelhead Gunner
+3 Steelhead Ironhead 1
 
-3 Steelhead Ironhead
-
-5 Steelhead Cannon Crew
+3 Steelhead Ironhead 2
 
 5 Steelhead Halberdiers 1
 
@@ -34,24 +31,20 @@ Captain Damiano
 
 5 Steelhead Halberdiers 3
 
-5 Steelhead Halberdiers 4
+8 Steelhead Heavy Cavalry 1
 
-8 Steelhead Heavy Cavalry
+8 Steelhead Heavy Cavalry 2
 
-5 Steelhead Riflemen 1
+5 Steelhead Mortar Crew 1
 
-5 Steelhead Riflemen 2
-
-5 Steelhead Riflemen 3
-
-5 Steelhead Volley Gun Crew
+5 Steelhead Mortar Crew 2
 
 
 PC COMMAND CARD
 Blessing of the Gods
-Break Through
 Careful Reconnaissance
-Lucky Penny
-Old Faithful
+Duck and Cover!
+Put the Fires Out
+Sapper
 
 TOTAL POINTS 100/100

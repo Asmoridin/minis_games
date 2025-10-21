@@ -1,20 +1,21 @@
-# 9/21/25 2nd/9
+# 10/12/25 1st/8
 
 Prefecture of Ryu - Passing the Night - [100 Rice]
 
 # ++ Risen Sun ++ [100 Rice]
-## Faction Profile Cards [95 Rice]
-Daisuke [8 Rice]
-Ryuko [15 Rice]
-Takashi Hida [8 Rice]
-Takashi Kazu [16 Rice]
-Takashi Nagisa [16 Rice]
-Takashi Takanibu [16 Rice]
-Takashi Yoshimi [16 Rice]
+## Faction Profile Cards [98 Rice]
+Bairei [9 Rice]
+Takashi Akio [25 Rice]
+Takashi Eiji [13 Rice]
+Takashi Hagane [25 Rice]: Heir by Deed, Vial of Raijin's Breath
+Takashi Hida [10 Rice]: The Dragon Banner
+Takashi Kumiko [16 Rice]: Battle Plans
 
-## Faction Event Cards [5 Rice]
-Confession [1 Rice]
-Hida's Last Command [4 Rice]
+## Faction Event Cards [1 Rice]
+Loyalty to the Daimyo [1 Rice]
 
 ## Faction Theme Cards
 Passing the Night
+
+## Ronin Event Cards [1 Rice]
+Second Chance [1 Rice]
