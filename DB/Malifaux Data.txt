@@ -95,7 +95,7 @@ Bruce;Bayou;Totem;Angler;1;0
 Brutal Fate, Effigy;Guild;Enforcer;Versatile;1;0
 Brutal Fate, Emissary;Guild;Enforcer;Versatile;1;0
 Buckaroo;Bayou;Minion;Angler;3;0
-Bucket Bot;Outcasts;Totem;Ampersand;1;0
+Bucket Bot;Outcasts;Totem;Ampersand;1;1
 Bultungin;Neverborn;Minion;Fae;3;0
 Bunraku;Thunder;Minion;Qi and Gong;3;0
 Burt Jebsen;Outcasts;Henchman;Infamous;1;0
@@ -125,7 +125,7 @@ Charm Warder;Thunder;Minion;Qi and Gong;2;0
 Chiaki, The Beacon;Res;Henchman;Ancestor;1;0
 Chiyo Hamasaki;Thunder;Totem;Qi and Gong;1;0
 Clipper;Guild;Enforcer;Augmented/Frontier;1;0
-Clockwork Queen, Matriarch of the Machine;Outcasts;Master;Ampersand;1;0
+Clockwork Queen, Matriarch of the Machine;Outcasts;Master;Ampersand;1;1
 Clockwork Queen, The Paradox;Outcasts;Master;Ampersand;1;0
 Clockwork Trap;Arcanists;Peon;Frontier;4;0
 Cojo;Neverborn;Enforcer;Chimera;1;0
@@ -432,7 +432,7 @@ Maxine Agassiz, The Renowned;Explorer;Master;EVS;1;0
 McTavish;Bayou;Enforcer;Versatile/Swampfiend;1;0
 Mechanical Attendant;Guild;Totem;Augmented;1;0
 Mechanical Dove;Arcanists;Minion;Performer;3;0
-Mechanical Misfit;Outcasts;Minion;Ampersand;3;0
+Mechanical Misfit;Outcasts;Minion;Ampersand;3;3
 Mechanical Rider;Arcanists;Enforcer;Versatile;1;0
 Mechanized Porkchop;Bayou;Enforcer;Tricksy;1;0
 Mecharachnid;Arcanists;Minion;Wildfire;2;0
@@ -598,14 +598,14 @@ Shenlong, Dragon's Breath;Thunder;Master;Monk;1;0
 Shenlong, The Teacher;Thunder;Master;Monk;1;0
 Shieldbearer;Res;Minion;Revenant;3;0
 Shikome;Res;Minion;Urami;2;0
-Shorebound Sentinel;Neverborn;Minion;Banished;3;0
+Shorebound Sentinel;Neverborn;Minion;Banished;3;3
 Showgirl;Arcanists;Minion;Performer;3;0
 Shōjō;Bayou;Enforcer;Tri-Chi;1;0
 Sidir Alchibal;Explorer;Henchman;Wastrel;1;0
 Silent One;Arcanists;Minion;December;2;0
-Silent Siren;Neverborn;Enforcer;Banished;1;0
+Silent Siren;Neverborn;Enforcer;Banished;1;1
 Silken King, Colossus;Neverborn;Master;Banished;1;0
-Silken King, Long Live;Neverborn;Master;Banished;1;0
+Silken King, Long Live;Neverborn;Master;Banished;1;1
 Silurid;Bayou;Minion;Versatile;3;0
 Sir Vantes;Bayou;Enforcer;Angler;1;0
 Six Armed Six-Shooter;Outcasts;Enforcer;Bandit/Mercenary;1;0
@@ -637,7 +637,7 @@ Squish and Squash;Bayou;Enforcer;Kin/Jockey;1;0
 Steam Arachnid;Arcanists;Peon;Wildfire;3;0
 Steam Trunk;Outcasts;Totem;Freikorps;1;0
 Steelworker;Thunder;Minion;Foundry;3;0
-Steiner;Outcasts;Enforcer;Ampersand;1;0
+Steiner;Outcasts;Enforcer;Ampersand;1;1
 Stitched Together;Neverborn;Minion;Nightmare;3;0
 Stolen;Outcasts;Minion;Plague;3;0
 Story of Raijin;Thunder;Enforcer;Red Library;1;0
@@ -683,7 +683,7 @@ The Captain;Arcanists;Henchman;M&SU;1;0
 The Carver;Neverborn;Enforcer;Woe;1;0
 The Clampetts, Bally-Hoo Bucket;Bayou;Master;Angler;1;0
 The Clampetts, Fisherfolk;Bayou;Master;Angler;1;0
-The Colony;Neverborn;Enforcer;Banished;1;0
+The Colony;Neverborn;Enforcer;Banished;1;1
 The Crowned;Neverborn;Minion;Banished;3;0
 The Damned;Explorer;Enforcer;Seeker;1;0
 The Dispatcher;Guild;Totem;Guard;1;0
@@ -693,7 +693,7 @@ The Ferryman;Res;Enforcer;Tormented;1;0
 The First Light;Explorer;Enforcer;Bygone;1;0
 The First Mate;Outcasts;Henchman;Infamous;1;0
 The Forgotten Marshal;Res;Enforcer;Forgotten;1;0
-The Fortune Teller;Outcasts;Enforcer;Ampersand;1;0
+The Fortune Teller;Outcasts;Enforcer;Ampersand;1;1
 The Iron Matron;Explorer;Henchman;Bygone;1;0
 The Judge;Guild;Henchman;Marshal;1;1
 The Jury;Guild;Enforcer;Marshal;1;0
@@ -737,7 +737,7 @@ Undercover Reporter;Guild;Enforcer;Journalist;1;0
 Undergraduate;Res;Minion;Transmortis;3;0
 Union Journeyman;Arcanists;Minion;M&SU;3;0
 Unseelie Engine;Explorer;Totem;Bygone;1;0
-Urchin;Neverborn;Totem;Banished;1;0
+Urchin;Neverborn;Totem;Banished;1;1
 Urnbearer;Neverborn;Minion;Returned;2;0
 Vanessa Chambers;Outcasts;Henchman;Mercenary;1;0
 Vasilisa;Neverborn;Enforcer;Versatile;1;1 # Have +1 collodi
