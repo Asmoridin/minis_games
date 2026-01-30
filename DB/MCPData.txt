@@ -4,7 +4,7 @@ Amazing Spider-Man;Defenders, Web Warriors/L;1
 Ancient One;Convocation, Defenders;1
 Angel;Uncanny X-Men, Hellfire Club;0
 Angela;A-Force, Asgard, Guardians of the Galaxy;1
-Ant-Man;Avengers;0
+Ant-Man;Avengers, Mighty Avengers;0
 Apocalypse;Servants of the Apocalypse/L;0
 Archangel;X-Force, Servants of the Apocalypse, Hellfire Club;0
 Arnim Zola;Cabal, Hydra;0
@@ -19,19 +19,20 @@ Bishop;X-Force, Uncanny X-Men;0
 Black Bolt;Inhumans/L;1
 Black Cat;A-Force, Criminal Syndicate, Midnight Sons, Web Warriors;1
 Black Dwarf;Black Order;1
-Black Panther, Chosen of Bast;Avengers, Defenders, Midnight Sons, Wakanda;0
+Black Panther, Chosen of Bast;Avengers, Defenders, Midnight Sons, Wakanda, Mighty Avengers;0
 Black Panther;Avengers, Wakanda/L;1
 Black Swan;Black Order;0
 Black Widow, Agent of S.H.I.E.L.D.;A-Force, Avengers, S.H.I.E.L.D.;1
-Black Widow;A-Force, Avengers, S.H.I.E.L.D., Winter Guard;1
+Black Widow;A-Force, Avengers, S.H.I.E.L.D., Winter Guard, Mighty Avengers;1
 Blade;Avengers, Defenders, Midnight Sons/L;1
+Blue Marvel;Defenders, Mighty Avengers;0
 Bob, Agent of Hydra;Cabal, Hydra;0
 Bullseye;Cabal, Criminal Syndicate;1
 Cable;Avengers, Uncanny X-Men, X-Force/L, New Mutants, Servants of the Apocalypse;1
-Captain America (Sam Wilson);Avengers/L;1
+Captain America (Sam Wilson);Avengers/L, Mighty Avengers;1
 Captain America (Steve Rogers);Avengers/L;1
 Captain America, First Avenger;Avengers/L, S.H.I.E.L.D.;1
-Captain Marvel, Cosmic Avenger;A-Force, Avengers;1
+Captain Marvel, Cosmic Avenger;A-Force, Avengers, Mighty Avengers;1
 Captain Marvel;A-Force, Avengers;1
 Carnage;Spider-Foes;0
 Cassandra Nova;Cabal, Sentinels, Servants of the Apocalypse, Hellfire Club;1
@@ -85,7 +86,7 @@ Hulkbuster;Avengers/L;0
 Iceman;Uncanny X-Men, Servants of the Apocalypse;0
 Invincible Iron Man;Avengers, S.H.I.E.L.D./L;1
 Iron Fist;Avengers, Defenders, Midnight Sons;0
-Iron Man;Avengers, S.H.I.E.L.D.;1
+Iron Man;Avengers, S.H.I.E.L.D., Mighty Avengers;1
 Jean Grey;Uncanny X-Men;1
 Juggernaut;Brotherhood of Mutants;0
 Karnak;Inhumans;0
@@ -103,7 +104,7 @@ Lockjaw;Inhumans;1
 Logan, The Wolverine;Uncanny X-Men, Weapon X/L;1
 Loki, God of Mischief;Asgard, Cabal;1
 Loki, Prince of Lies;Asgard/L, Criminal Syndicate;0
-Luke Cage;Avengers, Defenders;0
+Luke Cage;Avengers, Defenders, Mighty Avengers;0
 M'Baku;Criminal Syndicate, Wakanda/L;0
 M.O.D.O.K. Scientist Supreme;Criminal Syndicate/L, Hydra;0
 M.O.D.O.K.;Cabal, Criminal Syndicate;1
@@ -158,7 +159,7 @@ Shadow King;Brotherhood of Mutants, Hellfire Club;0
 Shadowcat;Uncanny X-Men, New Mutants;0
 Shadowland Daredevil;Criminal Syndicate/L;1
 Shang-Chi;Avengers, Defenders;0
-She-Hulk;A-Force/L, Avengers, S.H.I.E.L.D.;1
+She-Hulk;A-Force/L, Avengers, S.H.I.E.L.D., Mighty Avengers;1
 Shocker;Criminal Syndicate, Spider-Foes;0
 Shuri;A-Force, Wakanda;1
 Silk;Web Warriors;0
@@ -166,6 +167,7 @@ Silver Sable;Criminal Syndicate, Defenders, Web Warriors;0
 Sin;Cabal/L, Criminal Syndicate, Hydra;1
 Skurge, The Executioner;Asgard, Cabal;0
 Spectacular Spider-Man;S.H.I.E.L.D., Web Warriors;1
+Spectrum;Mighty Avengers/L;0
 Spider-Ham;Web Warriors;0
 Spider-Man (Miles Morales);Web Warriors/L;1
 Spider-Man (Peter Parker);Defenders, Web Warriors;1
@@ -174,7 +176,7 @@ Spider-Man Noir;Web Warriors;0
 Spider-Woman;A-Force, Avengers, Hydra, S.H.I.E.L.D., Web Warriors;0
 Squirrel Girl;A-Force, Avengers;0
 Star-Lord;Guardians of the Galaxy/L;1
-Steve Rogers, Captain America;S.H.I.E.L.D./L;0
+Steve Rogers, Captain America;S.H.I.E.L.D./L,Mighty Avengers;0
 Storm;A-Force, Uncanny X-Men/L, Wakanda, Hellfire Club;1
 Sunspot;New Mutants, X-Force, Hellfire Club;0
 Supergiant;Black Order;0
