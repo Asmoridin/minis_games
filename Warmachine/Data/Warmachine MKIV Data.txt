@@ -5,13 +5,13 @@ Lich Lord Dekathus;Necrofactorium;Warcaster;Annihilation/Death Ward/Ghost Walk/I
 Master Necrosurgeon Sepsira;Necrofactorium;Warcaster;Breath Stealer/Death's Dominion/Excarnate/Gravetouched/Onslaught;1;?;0;1;0;0;0
 Mortenebra Perfected;Necrofactorium;Warcaster;Admonition/Arcantrik Bolt/Hellwrought/Jumpstart/Mobility/Synergy;4;?;0;1;0;0;0
 Wraithbinder Nekane;Necrofactorium;Warcaster;Banishing Ward/Crimson Veil/Crippling Grasp/Mirage/Venom;1;?;0;1;0;0;0
-Deathjack, Dark Apotheosis;Necrofactorium;Heavy Warjack;?;20;1;0;0;0
-Grendel;Necrofactorium;Heavy Warjack;?;16;1;0;0;0
-Hades;Necrofactorium;Heavy Warjack;?;16;1;0;0;0
-Hellraker;Necrofactorium;Colossal Warjack;?;30;2;0;0;0
+Deathjack, Dark Apotheosis;Necrofactorium;Super Heavy Warjack;6;?;20;1;0;0;0
+Grendel;Necrofactorium;Heavy Warjack;4;?;16;1;0;0;0
+Hades;Necrofactorium;Heavy Warjack;4;?;16;1;0;0;0
+Hellraker;Necrofactorium;Colossal Warjack;10;?;30;2;0;0;0
 Malefactor;Necrofactorium;Heavy Warjack;4;CRYX_NECROFACTORIUM_BATTLEGROUP;16;4;0;0;0
 Raptor;Necrofactorium;Light Warjack;2;CRYX_NECROFACTORIUM_BATTLEGROUP;8;6;0;0;0
-Malfessor;Necrofactorium;? Monstrosity;?;?;15;1;0;0;0
+Malfessor;Necrofactorium/Hive Mind Cadre;Monstrosity;4;?;15;1;0;0;0
 Akulon Thaemestra;Necrofactorium;Solo;?;?;3;1;0;0;0
 Iron Lich Commander;Necrofactorium;Solo;?;?;4;2;0;0;0
 Machine Wraith Dominator;Necrofactorium;Solo;?;?;4;4;0;0;0
@@ -19,9 +19,9 @@ Master Necrotech Chatterbane;Necrofactorium;Solo;?;?;4;1;0;0;0
 Necroharvester;Necrofactorium;Solo;?;?;8;2;0;0;0
 Silexus Xiphus;Necrofactorium;Solo;?;?;3;1;0;0;0
 Skarlock Lieutenant;Necrofactorium;Solo;?;?;3;4;0;0;0
-Exulon Nostilla & Aberration;Necrofactorium;Solo;?;?;20;1;0;0;0
+Exulon Nostilla & Aberration;MKIV Mercenary;Solo;?;?;20;1;0;0;0
 Gorman di Wulfe;Necrofactorium;Solo;?;?;3;1;0;0;0
-Maulgreth, The Charnel Plague;Necrofactorium;Solo;?;?;4;1;0;0;0
+Maulgreth, The Charnel Plague;MKIV Mercenary;Solo;?;?;4;1;0;0;0
 Criterions;Necrofactorium;Unit;?;?;9;2;0;0;0
 Mechanithrall Brutes;Necrofactorium;Unit;?;?;7;2;0;0;0
 Mechanithrall Swarm;Necrofactorium;Unit;?;?;6;6;0;0;0
@@ -107,7 +107,7 @@ Captain Maxwell Finn;First Army/Legacy Cygnar;Solo;1;12.99;5;1;1;0;0
 Captain Rahera, Terror of the Wailing Sea;Blackfleet/Legacy Cryx;Warcaster;1;14.99;0;1;1;0;0
 Captain Sam MacHorne;Legacy Crucible Guard/Legacy Cygnar;Solo;1;DEVIL_DOGS;3;1;1;0;0
 Captain Victoria Haley;Legacy Cygnar;Warcaster;1;15.99;0;1;1;0;0
-Carver Ultimus & War Boar MMD47;First Army/Legacy Cygnar/Storm Knights/Devourer's Host/Dark Host/MKIV Mercenary/Secret Dominion/Legacy Circle Orboros/Convergence of Cyriss/Legacy Convergence of Cyriss/Crucible Guard/Legacy Crucible Guard/Blackfleet/Legacy Cryx/Necrofactorium;Solo;9;69.99;20;1;0;0;0
+Carver Ultimus & War Boar MMD47;MKIV Mercenary;Solo;9;69.99;20;1;0;0;0
 Celestial Fulcrum;Secret Dominion/Legacy Circle Orboros;Battle Engine;10;84.99;13;2;0;0;0
 Centurion;First Army/Storm Knights/Legacy Cygnar;Heavy Warjack;4;34.99;11;4;0;0;0
 Charger;First Army/Legacy Cygnar;Light Warjack;2;18.99;8;4;1;0;0
@@ -274,7 +274,7 @@ Lord Rockbottom;Legacy Crucible Guard/Legacy Cygnar;Solo;1;8.99;3;1;1;0;0
 Lynus Wesselbaum & Edrea Lloryrr;Legacy Circle Orboros/Legacy Crucible Guard/Legacy Cygnar;Unit;2;19.99;4;1;0;0;0
 Machine Wraith;Dark Host/Legacy Cryx;Solo;2;13.99;2;3;3;2;2
 Madelyn Corbeau, Ordic Courtesan;Legacy Crucible Guard/Legacy Cygnar;Solo;1;9.99;3;1;0;0;0
-Magnus the Unstoppable & Invictus;First Army/Legacy Cygnar/Storm Knights/Devourer's Host/Dark Host/MKIV Mercenary/Secret Dominion/Legacy Circle Orboros/Legacy Crucible Guard/Convergence of Cyriss/Legacy Convergence of Cyriss/Crucible Guard/Legacy Crucible Guard/Blackfleet/Legacy Cryx/Necrofactorium;Solo;8;69.99;20;1;0;0;0
+Magnus the Unstoppable & Invictus;MKIV Mercenary;Solo;8;69.99;20;1;0;0;0
 Major Aline Bennet;Crucible Guard/Legacy Crucible Guard;Warcaster;2;19.99;0;1;1;1;0
 Major Beth Maddox;Storm Knights/Legacy Cygnar;Warcaster;1;10;0;1;1;0;0
 Major Harrison Gibbs;Legacy Crucible Guard/First Army/Legacy Cygnar;Solo;1;14.99;2;1;0;0;0

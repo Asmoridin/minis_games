@@ -3,7 +3,7 @@ Avenger/Centurion/Hammersmith;1;0;0
 Blighted Nyss Archers/Blighted Nyss Swordsmen;2;0;0
 Castigator/Reckoner/Sanctifier;2;0;0
 # Cephalyx Dominator & Steelhead Halberdiers/Cephalyx Dominator & Steelhead Riflemen;4;0;0
-Gnarlhorn Satyr/Rip Horn Satyr/Shadowhorn Satyr;1
+Gnarlhorn Satyr/Rip Horn Satyr/Shadowhorn Satyr;1;0;0
 Cipher/Inverter/Monitor;2;0;0
 Assimilator/Conservator/Modulator;2;0;0
 Corruptor/Reaper/Slayer;1;0;0
