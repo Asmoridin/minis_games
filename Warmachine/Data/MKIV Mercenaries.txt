@@ -13,6 +13,7 @@ Carver Ultimus & War Boar MMD47;Necrofactorium
 Carver Ultimus & War Boar MMD47;Secret Dominion
 Carver Ultimus & War Boar MMD47;Storm Knights
 Exulon Nostilla & Aberration;Necrofactorium
+Gorman di Wulfe, Revolutionary Agent;Necrofactorium
 Magnus the Unstoppable & Invictus;Blackfleet
 Magnus the Unstoppable & Invictus;Convergence of Cyriss
 Magnus the Unstoppable & Invictus;Crucible Guard
@@ -28,4 +29,6 @@ Magnus the Unstoppable & Invictus;Legacy Cygnar
 Magnus the Unstoppable & Invictus;Necrofactorium
 Magnus the Unstoppable & Invictus;Secret Dominion
 Magnus the Unstoppable & Invictus;Storm Knights
+Maulgreth, The Charnel Plague;House Kallyss
 Maulgreth, The Charnel Plague;Necrofactorium
+Maulgreth, The Charnel Plague;Sea Raiders

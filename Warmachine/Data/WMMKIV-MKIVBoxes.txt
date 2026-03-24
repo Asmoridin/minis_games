@@ -11,3 +11,8 @@ TRENCHER_ATTACH;Trencher Infantry Officer-1/Trencher Sniper-1;17.99
 TRENCHER_INFANTRY;Trencher Infantry-2/Trencher Rifle Grenadiers-1;49.99
 TRENCHER_LONG_GUNNERS;Trencher Long Gunner Officer-1/Trencher Long Gunners-2;69.99
 STORMBLADE_INF;Stormblade Infantry-1/Stormblade Infantry Storm Gunner-3;44.99
+HIVE_MIND_CARDRE;Exulon Kythos-1/Silexus Xiphus-1/Akulon Thaemestra-1/Malfessor-1/Criterions-1;79.99
+CRYX_NECROFACTORIUM_AUXILIARY;Lich Lord Dekathus-1/Iron Lich Commander-1/Night Terrors-1/Mechanithrall Brutes-1/Sludge Thralls-1;149.99
+CRYX_NECROFACTORIUM_CORE;Master Necrosurgeon Sepsira-1/Grendel-1/Machine Wraith Dominator-1/Skarlock Lieutenant-1/Mechanithrall Swarm-2/Necrosurgeon Initiates-1;159.99
+CRYX_NECROFACTORIUM_COMMAND_STARTER;Wraithbinder Nekane-1/Master Necrotech Chatterbane-1/Hades-1/The Furies-1;79.99
+
