@@ -5,7 +5,7 @@ Grand Melee - 100 pts
 
 PC CARD
 
-Exulon Thexus
+Exulon Khythos
 
 10 Subduer
 
@@ -15,13 +15,19 @@ Exulon Thexus
 
 2 Akulon Stygius
 
-20 Magnus the Unstoppable
+3 Akulon Thaemestra
 
-Invictus
+20 Carver Ultimus
+
+War Boar MMD47
 
 9 Criterions 1
 
 9 Criterions 2
+
+7 Dominated Stormblade Legionnaires
+
+8 Dominated Strike Reavers
 
 4 Drudge Conduits 1
 
@@ -31,10 +37,6 @@ Invictus
 
 2 Mind Bender 2
 
-9 Iconoclast Drudges 1
-
-9 Iconoclast Drudges 2
-
 5 Overlords
 
 
@@ -42,7 +44,7 @@ PC COMMAND CARD
 Blessing of the Gods
 Careful Reconnaissance
 Hit & Run
-Old Faithful
+Lucky Penny
 Put the Fires Out
 
 TOTAL POINTS 100/100
