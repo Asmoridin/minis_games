@@ -1,21 +1,24 @@
-# 3/21/26 11/14
+# 3/21/26 3/7
 
 Khymaera - Shadowflame Shard
 Grand Melee - 100 pts
 
 PC CARD
 
-Defenses
-DEFENSE 1 - Barrier
-DEFENSE 1 - Barrier
-DEFENSE 1 - Spike Trap
-
 Shyryss, the Flawless Dark
 
-36 Trikhymaerax
+33 Trikhymaerax 1
 12 ARCANE HEADS - Eyeless Head
 4 RANGE HEADS - Frost Head
 8 MELEE HEADS - Gulper Head
+ARCANE TAILS - Void Tail
+4 RANGE TAILS - Frost Tail
+5 MELEE TAILS - Barbed Tail
+
+30 Trikhymaerax 2
+9 ARCANE HEADS - Many-Eyed Head
+4 RANGE HEADS - Frost Head
+5 MELEE HEADS - Bicorn
 2 ARCANE TAILS - Negation Tail
 4 RANGE TAILS - Frost Tail
 6 MELEE TAILS - Stinger
@@ -25,30 +28,24 @@ Shyryss, the Flawless Dark
 3 TAIL - Hunter's Mark
 6 ARMS - Cleavers
 
-4 Bellighul, Master of Pain
+3 Pythia
 
-5 Ryvyn, the Onyx Rampant
+3 Shadowmancer Scion
 
-5 Wraithwing Paragon 1
+5 Wraithwing Paragon
 
-5 Wraithwing Paragon 2
+6 Quick Fang Wind Strikers 1
 
-6 Quick Fang Wind Strikers
-
-9 Shades
-
-8 Wyrmspine Cinderbacks 1
-
-8 Wyrmspine Cinderbacks 2
+6 Quick Fang Wind Strikers 2
 
 4 Wyrmspine Shadowmancers
 
 
 PC COMMAND CARD
 Blessing of the Gods
-Break Through
-Defenses
+Duck and Cover!
 Lucky Penny
 Put the Fires Out
+Sapper
 
 TOTAL POINTS 100/100
