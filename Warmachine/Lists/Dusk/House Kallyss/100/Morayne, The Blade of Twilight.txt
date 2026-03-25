@@ -1,30 +1,30 @@
-# 10/11/25 1st/13
+# 3/21/26 10/25
 
+Dusk - House Kallyss
 Grand Melee - 100 pts
 
 PC CARD
 
 Morayne, The Blade of Twilight
-SPELL - Battle Lust
-SPELL - Deceleration
-SPELL - Curse of Shadows
 
-7 Ghast
-2 HEAD - Arc Node
+6 Ghast
+1 HEAD - Arc Node
 3 RIGHT ARM - Heavy Blade Fist
 2 LEFT ARM - Light Blade Fist
 
-13 Sky Bomber
-
-20 Carver Ultimus
-
-War Boar MMD47
-
 4 Cylena Raefyll
+
+4 Dreadguard Scyir
 
 4 Dyssiss, the Eye of Darkness
 
-7 Krueger, Wrath of Blighterghast
+6 Krueger, Wrath of Blighterghast
+
+18 Lanyssa Ryssyl, Aransor of Sorrows
+
+Benkei
+
+Sasha
 
 4 Mage Hunter Commander
 
@@ -32,20 +32,24 @@ War Boar MMD47
 
 3 Mage Hunter Sniper Team 2
 
-9 Dreadguard Archers 1
-
-9 Dreadguard Archers 2
+9 Dreadguard Archers
 
 11 Dreadguard Cavalry
 
-6 Soulless Guardians
+7 Mage Hunter Assassins 1
+
+7 Mage Hunter Assassins 2
+
+6 Mage Hunter Rangers
+
+8 The Last Watch
 
 
 PC COMMAND CARD
-Blessing of the Gods
 Careful Reconnaissance
 Duck and Cover!
+Hit & Run
 Lucky Penny
-Put the Fires Out
+Sapper
 
 TOTAL POINTS 100/100
