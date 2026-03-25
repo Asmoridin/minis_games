@@ -1,4 +1,4 @@
-# 3/21/26 7/14
+# 3/21/26 4/12
 
 Khador - Winter Korps
 Grand Melee - 100 pts
@@ -7,51 +7,42 @@ PC CARD
 
 Kommander Tatiana Sikora
 
-9 Dire Wolf
+23 Behemoth, Spirit of Imperial Khador
+
+10 Dire Wolf
 HEAD - Shield Guard
 5 RIGHT ARM - Long Axe
-4 LEFT ARM - Flame Fist
+5 LEFT ARM - Plow-Shield
 
-14 Great Bear 1
-2 HEAD - Aggressive
+13 Great Bear
+1 HEAD - Mage Ward
 6 RIGHT ARM - Battle Mace
 6 LEFT ARM - Heavy Cannon Shield
 
-14 Great Bear 2
-2 HEAD - Aggressive
-6 RIGHT ARM - Battle Mace
-6 LEFT ARM - Heavy Cannon Shield
-
-2 Battle Mechanik 1
-
-2 Battle Mechanik 2
+2 Battle Mechanik
 
 3 Koldun Lord Damien Korovnik
 
+4 Kontroller
+
 5 Sergeant Sergei Krol
 
-3 Winter Korps Officer 1
+4 Arkanists 1
 
-3 Winter Korps Officer 2
+4 Arkanists 2
 
-5 Zacchaeus, The Winter’s Chill
+11 Man-O-War Suppressors 1
 
-4 Arkanists
+11 Man-O-War Suppressors 2
 
-10 Man-O-War Wrecking Crew 1
-
-10 Man-O-War Wrecking Crew 2
-
-8 Shock Trooper Pikemen 1
-
-8 Shock Trooper Pikemen 2
+10 Man-O-War Wrecking Crew
 
 
 PC COMMAND CARD
 Blessing of the Gods
 Careful Reconnaissance
-Hit & Run
-Put the Fires Out
+Lucky Penny
+Old Faithful
 Sapper
 
 TOTAL POINTS 100/100
