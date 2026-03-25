@@ -1,52 +1,48 @@
-# 3/21/26 12/25
+# 3/21/26 6/18
 
 Khymaera - Shadowflame Shard
 Grand Melee - 100 pts
 
 PC CARD
 
-Defenses
-DEFENSE 1 - Barrier
-DEFENSE 1 - Barrier
-DEFENSE 1 - Spike Trap
-
 Lylyth, the Raven Vengeance
 
-12 Vypex
-1 HEAD - Asp
-3 TAIL - Hunter's Mark
-8 ARMS - Impalers
+14 Aklyss
 
-19 Wyvern 1
+13 Hydrix
+3 CENTRAL HEAD - Diviner
+3 SMALLER HEAD - Flame Sprayer
+4 SMALLER HEAD - Venom Spitter
+3 DORSAL FEATURE - Wings
 
-19 Wyvern 2
+19 Wyvern
 
 4 Bellighul, Master of Pain
 
 3 Pythia
 
-3 Shadowmancer Scion 1
+3 Shadowmancer Scion
 
-3 Shadowmancer Scion 2
+11 Incarnate Knights
 
-5 Wraithwing Paragon 1
+7 Quick Fang Stalkers 1
 
-5 Wraithwing Paragon 2
+3 Quick Fang Master 1
+
+7 Quick Fang Stalkers 2
+
+3 Quick Fang Master 2
 
 9 Shades
-
-7 Talon Death Dealers 1
-
-7 Talon Death Dealers 2
 
 4 Wyrmspine Shadowmancers
 
 
 PC COMMAND CARD
 Blessing of the Gods
-Defenses
+Duck and Cover!
 Hit & Run
 Lucky Penny
-Old Faithful
+Sapper
 
 TOTAL POINTS 100/100
