@@ -1,4 +1,4 @@
-# 9/21/25 3rd/65 Welsh Masters
+# 3/21/26 8/25
 
 Khador - Old Umbrey
 Grand Melee - 100 pts
@@ -8,50 +8,37 @@ PC CARD
 Defenses
 DEFENSE 1 - Barrier
 DEFENSE 1 - Barrier
-DEFENSE 1 - Barrier
+DEFENSE 1 - Powder Keg
 
 Kapitan Maksim Azlanov
-SPELL - Curse of Shadows
-SPELL - Earth Spikes
 
-9 Feral 1
+9 Feral
 5 HEAD - Alke
 4 BACK - Wings
 
-8 Feral 2
-6 HEAD - Razorback
-2 BACK - Mane
-
-15 Primeval
-3 HEAD - Bear
-7 RIGHT ARM - Bone Sword
-5 LEFT ARM - Enchanted Shield
+16 Strix
 
 16 The Starved
 
-2 Animist 1
+3 Animist
 
-2 Animist 2
+5 Liegemen Ursan Champion
 
-4 Lupine Apex 1
+4 Ursine Apex
 
-4 Lupine Apex 2
-
-2 Lupine Shifted
+3 Ursine Shifted
 
 4 Vorony
 
 9 Chosen of the Witch
 
-5 Liegemen Wardens 1
+11 Liegemen Ursans 1
 
-2 Liegemen Primalist
+11 Liegemen Ursans 2
 
-5 Liegemen Wardens 2
+5 Liegemen Wardens
 
-5 Shearlings
-
-8 The Hounds
+4 Shearlings
 
 
 PC COMMAND CARD
@@ -59,6 +46,6 @@ Blessing of the Gods
 Defenses
 Hit & Run
 Lucky Penny
-Sapper
+Put the Fires Out
 
 TOTAL POINTS 100/100
