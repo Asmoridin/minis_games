@@ -1,49 +1,40 @@
-# 8/31/25 4th/62
+# 3/21/26 4/25
 
 Cygnar - Gravediggers
 Grand Melee - 100 pts
 
-Defenses
-DEFENSE 1 - Barrier
-DEFENSE 1 - Barrier
-DEFENSE 1 - Barrier
+PC CARD
 
 Major Allister Caine
 
-10 Patriot 1
-2 HEAD - Reposition
-6 RIGHT ARM - Dual Cannon
+17 Deuce
+
+6 Patriot
+1 HEAD - Arc Node
+3 RIGHT ARM - Pole Cleaver
 2 LEFT ARM - Trench Blade
 
-10 Patriot 2
-2 HEAD - Reposition
-6 RIGHT ARM - Dual Cannon
-2 LEFT ARM - Trench Blade
+20 Carver Ultimus
 
-10 Patriot 3
-2 HEAD - Reposition
-6 RIGHT ARM - Dual Cannon
-2 LEFT ARM - Trench Blade
+War Boar MMD47
 
-10 Patriot 4
-2 HEAD - Reposition
-6 RIGHT ARM - Dual Cannon
-2 LEFT ARM - Trench Blade
+3 Eilish Garrity, the Dark Traitor
 
-17 Plugger
-HEAD - Plugger
-RIGHT ARM - Trench Ripper
-LEFT ARM - Trench Ripper
+5 Eiryss, Shadow of Retribution
 
-4 Gravedigger Gun Mages 1
+4 Greygore Boomhowler
 
-4 Gravedigger Gun Mages 2
+3 Heavy Machine Gun Crew 1
 
-4 Gravedigger Gun Mages 3
+3 Heavy Machine Gun Crew 2
 
-8 Gravedigger Rangers
+3 Heavy Machine Gun Crew 3
 
-5 Storm Vanes
+4 Gravedigger Gun Mages
+
+7 Gravedigger Rangers 1
+
+7 Gravedigger Rangers 2
 
 9 The Black 13th
 
@@ -52,12 +43,12 @@ LEFT ARM - Trench Ripper
 
 PC COMMAND CARD
 Blessing of the Gods
-Defenses
 Duck and Cover!
+Hit & Run
 Light Airdrop 1
 Light Airdrop 2
 Lucky Penny
 Military Engineering
-Old Faithful
+Put the Fires Out
 
 TOTAL POINTS 100/100
