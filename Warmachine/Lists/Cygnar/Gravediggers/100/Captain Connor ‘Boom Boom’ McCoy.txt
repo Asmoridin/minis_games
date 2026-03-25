@@ -1,4 +1,4 @@
-# 9/21/25 2nd/65 Welsh Masters
+# 3/21/26 11/18
 
 Cygnar - Gravediggers
 Grand Melee - 100 pts
@@ -21,61 +21,63 @@ Mantlet 2
 
 Fuel Canister 2
 
-Defenses
-DEFENSE 1 - Spike Trap
-DEFENSE 1 - Spike Trap
-DEFENSE 1 - Spike Trap
-
-Heavy Weapon Crate
+Heavy Weapon Crate 1
 HEAVY WEAPON - Heavy Flamethrower
 
-Blocker
+Blocker 1
 
-Skirmisher
+Skirmisher 1
 
-Raider
+Raider 1
+
+Heavy Weapon Crate 2
+HEAVY WEAPON - Heavy Flamethrower
+
+Skirmisher 2
+
+Blocker 2
+
+Raider 2
 
 Captain Connor ‘Boom Boom’ McCoy
-SPELL - Silence of Death
-SPELL - Dash
 
-17 Plugger
-HEAD - Plugger
-RIGHT ARM - Trench Ripper
-LEFT ARM - Trench Ripper
+7 Patriot 1
+1 HEAD - Arc Node
+4 RIGHT ARM - Sniper Cannon
+2 LEFT ARM - Trench Blade
 
-13 Valiant
-2 HEAD - Aggressive
-5 RIGHT ARM - Piston Hammer
-6 LEFT ARM - Volley Shield
+7 Patriot 2
+1 HEAD - Arc Node
+4 RIGHT ARM - Sniper Cannon
+2 LEFT ARM - Trench Blade
 
-4 Captain Argo Brock
+10 Assault Strider 1
 
-8 Gravedigger Commandos 1
+10 Assault Strider 2
 
-2 Commando Officer 1
+3 Captain Argo Brock
 
-8 Gravedigger Commandos 2
+3 Heavy Machine Gun Crew 1
 
-2 Commando Officer 2
+3 Heavy Machine Gun Crew 2
+
+20 Magnus the Unstoppable
+
+Invictus
 
 4 Gravedigger Gun Mages
 
-8 Gravedigger Rangers 1
+7 Gravedigger Rangers 1
 
-8 Gravedigger Rangers 2
-
-3 Trollkin Express Sniper
-
-9 The Black 13th
+7 Gravedigger Rangers 2
 
 9 The Rowdies
 
 
 PC COMMAND CARD
 Blessing of the Gods
-Defenses
 5 Heavy Airdrop 1
+5 Heavy Airdrop 2
 Light Airdrop 1
 Light Airdrop 2
 Lucky Penny
