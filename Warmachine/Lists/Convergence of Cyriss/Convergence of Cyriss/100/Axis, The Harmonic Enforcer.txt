@@ -1,50 +1,27 @@
-# 6/8/25 3rd/8 Cali tournament
+# 3/21/26 11/12
 
-Axis
 Convergence of Cyriss - Convergence of Cyriss
 Grand Melee - 100 pts
 
 PC CARD
-
-Defenses
-DEFENSE 1 - Barrier
-DEFENSE 1 - Spike Trap
-DEFENSE 1 - Spike Trap
-
 Axis, The Harmonic Enforcer
-
-10 Conservator 1
-
-10 Conservator 2
-
-10 Conservator 3
-
-6 Corollary
-
-26 Prime Conflux
-
-2 Algorithmic Dispersion Optifex
-
-3 Enigma Foundry
-
-4 Frustum Locus
-
-2 Reflex Servitors 1
-
-2 Reflex Servitors 2
-
+13 Cipher 1
+13 Cipher 2
+5 Corollary
+13 Inverter
+14 Monitor
+3 Frustum Locus 1
+3 Frustum Locus 2
+3 Steelsoul Protector
 7 Eradicators 1
-
 7 Eradicators 2
-
-9 Perforators
-
-2 Transverse Enumerator
-
+3 Optifex Directive
+8 Reciprocators 1
+8 Reciprocators 2
 
 PC COMMAND CARD
 Blessing of the Gods
-Defenses
+Duck and Cover!
 Hit & Run
 Lucky Penny
 Old Faithful
