@@ -1,4 +1,4 @@
-# 7/19/25 1st/24 Ottawa
+# 3/21/26 10/18
 
 Dusk - House Kallyss
 Grand Melee - 100 pts
@@ -6,49 +6,51 @@ Grand Melee - 100 pts
 PC CARD
 
 Hazaroth, Narcissar of Ruin
-SPELL - Deceleration
-SPELL - Revive
 
-15 Eidolon
-2 HEAD - True Sight
+15 Eidolon 1
+2 HEAD - Flight
 6 RIGHT ARM - Dawn Blade
-4 LEFT ARM - Dusk Blade
-3 BACK - Vortex Cannon
+5 LEFT ARM - Force Shield
+2 BACK - Vortex Cannon
 
-17 Israfyl
-HEAD - Israfyl
-LEFT ARM - Serpentine Blade
-RIGHT ARM - Serpentine Blade
-BACK - Death Whisper
+15 Eidolon 2
+2 HEAD - Flight
+6 RIGHT ARM - Dawn Blade
+5 LEFT ARM - Force Shield
+2 BACK - Vortex Cannon
 
-10 Specter
+8 Ghast 1
+1 HEAD - Arc Node
+4 RIGHT ARM - Halberd
+3 LEFT ARM - Battle Shield
 
-4 Dreadguard Scyir
+7 Ghast 2
+1 HEAD - Arc Node
+3 RIGHT ARM - Heavy Blade Fist
+3 LEFT ARM - Battle Shield
 
 4 Dyssiss, the Eye of Darkness
 
-4 Mage Hunter Commander
+18 Lanyssa Ryssyl, Aransor of Sorrows
 
-4 Vaelyss, The Hand of Mourning
+Benkei
 
-2 Void Shaper
+Sasha
 
-9 Dreadguard Archers
+9 Dreadguard Archers 1
+
+9 Dreadguard Archers 2
 
 11 Dreadguard Cavalry
-
-8 Dreadguard Slayers 1
-
-8 Dreadguard Slayers 2
 
 4 Seeker Adepts
 
 
 PC COMMAND CARD
+Blessing of the Gods
+Break Through
 Careful Reconnaissance
 Duck and Cover!
 Lucky Penny
-Put the Fires Out
-Sapper
 
 TOTAL POINTS 100/100
