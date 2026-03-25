@@ -1,14 +1,25 @@
-# 9/21/25 1st/65 Welsh Masters
+# 3/21/26 6/12
 
 Cygnar - Gravediggers
 Grand Melee - 100 pts
 
 PC CARD
 
-Defenses
-DEFENSE 1 - Barrier
-DEFENSE 1 - Barrier
-DEFENSE 1 - Barrier
+Ammo Crate 1
+
+Medical Crate 1
+
+Mantlet 1
+
+Fuel Canister 1
+
+Ammo Crate 2
+
+Medical Crate 2
+
+Mantlet 2
+
+Fuel Canister 2
 
 Colonel Allison Jakes
 
@@ -32,34 +43,35 @@ HEAD - Plugger
 RIGHT ARM - Trench Ripper
 LEFT ARM - Trench Ripper
 
-11 Valiant 1
-2 HEAD - Righteous Vengeance
+14 Valiant 1
+2 HEAD - Aggressive
+5 RIGHT ARM - Piston Hammer
+7 LEFT ARM - Volley Shield
+
+14 Valiant 2
+2 HEAD - Aggressive
+5 RIGHT ARM - Piston Hammer
+7 LEFT ARM - Volley Shield
+
+11 Valiant 3
+2 HEAD - Aggressive
 5 RIGHT ARM - Piston Hammer
 4 LEFT ARM - Slug Fist
-
-11 Valiant 2
-2 HEAD - Righteous Vengeance
-5 RIGHT ARM - Piston Hammer
-4 LEFT ARM - Slug Fist
-
-20 Exulon Nostilla
-
-Aberration
-
-8 Gravedigger Commandos
-
-2 Commando Officer
 
 4 Gravedigger Gun Mages 1
 
 4 Gravedigger Gun Mages 2
 
-5 Storm Vanes
+4 Gravedigger Gun Mages 3
+
+7 Gravedigger Rangers 1
+
+7 Gravedigger Rangers 2
 
 
 PC COMMAND CARD
 Blessing of the Gods
-Defenses
+Hit & Run
 Light Airdrop 1
 Light Airdrop 2
 Lucky Penny
