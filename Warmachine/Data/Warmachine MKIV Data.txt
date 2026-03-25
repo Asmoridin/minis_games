@@ -30,6 +30,44 @@ Sludge Thralls;Necrofactorium;Unit;6;CRYX_NECROFACTORIUM_AUXILIARY;8;2;0;0;0
 The Furies;Necrofactorium;Unit;6;CRYX_NECROFACTORIUM_COMMAND_STARTER;10;1;0;0;0
 Wraithbinder Nekane;Necrofactorium;Warcaster;Banishing Ward/Crimson Veil/Crippling Grasp/Mirage/Venom;1;CRYX_NECROFACTORIUM_COMMAND_STARTER;0;1;0;0;0
 
+Captain Buck Hasker;Gravediggers;Warcaster;1;?;0;1;0;0;0
+Captain Connor 'Boom Boom' McCoy;Gravediggers;Warcaster;?;?;0;1;0;0;0
+Captain Cynthia Rosko;Gravediggers;Warcaster;?;?;0;1;0;0;0
+Colonel Allison Jakes;Gravediggers;Warcaster;?;?;0;1;0;0;0
+Major Allister Caine;Gravediggers;Warcaster;?;?;0;1;0;0;0
+Major Grant Vargus;Gravediggers;Warcaster;?;?;0;1;0;0;0
+Mechanik Adept Sparkhammer;Gravediggers;Warcaster;?;?;0;1;0;0;0
+Valiant;Gravediggers;? Warjack;?;?;16;4;0;0;0
+Beaker;Gravediggers;? Warjack;?;?;14;1;0;0;0
+Borealis;Gravediggers;? Warjack;?;?;14;2;0;0;0
+Deuce;Gravediggers;? Warjack;?;?;17;1;0;0;0
+Patriot;Gravediggers;? Warjack;?;?;11;4;0;0;0
+Plugger;Gravediggers;? Warjack;?;?;17;1;0;0;0
+Sky Bomber;MKIV Mercenary;Battle Engine;?;?;12;2;0;0;0
+Sky Raider;MKIV Mercenary;Battle Engine;?;?;10;2;0;0;0
+Heavy Field Gun;Gravediggers;Structure;?;?;7;2;0;0;0
+Assault Strider;Gravediggers;Solo;?;?;10;2;0;0;0
+Captain Argo Brock;Gravediggers;Solo;?;?;3;1;0;0;0
+Captain Bastian Falk;Gravediggers;Solo;?;?;4;1;0;0;0
+Heavy Machine Gun Crew;Gravediggers;Solo;?;?;3;4;0;0;0
+Lt. Stella Barron;Gravediggers;Solo;?;?;3;1;0;0;0
+Sergeant Brunaugh "Bruno" Ramjaw;Gravediggers;Solo;?;?;4;1;0;0;0
+Specialist Tyson Vas;Gravediggers;Solo;?;?;3;1;0;0;0
+Weather Station;Gravediggers;Solo;?;?;3;4;0;0;0
+Alexia, Queen of the Damned;MKIV Mercenary;Solo;?;?;4;1;0;0;0
+Eilish Garrity, the Dark Traitor;MKIV Mercenary;Solo;?;?;3;1;0;0;0
+Eiryss, Shadow of Retribution;MKIV Mercenary;Solo;?;?;5;1;0;0;0
+Greygore Boomhowler;MKIV Mercenary;Solo;?;?;4;1;0;0;0
+Gravedigger Commandos;Gravediggers;Unit;?;?;8;4;0;0;0
+Gravedigger Gun Mages;Gravediggers;Unit;?;?;4;3;0;0;0
+Gravedigger Rangers;Gravediggers;Unit;?;?;7;4;0;0;0
+Storm Callers;Gravediggers;Unit;?;?;5;6;0;0;0
+Storm Vanes;Gravediggers;Unit;?;?;5;2;0;0;0
+The Black 13th;Gravediggers;Unit;?;?;9;1;0;0;0
+The Rowdies;Gravediggers;Unit;?;?;9;1;0;0;0
+Commando Officer;Gravediggers;Command Attachment;?;?;2;4;0;0;0
+Trollkin Express Sniper;Gravediggers;Command Attachment;?;?;3;4;0;0;0
+
 Accretion Servitors;Convergence of Cyriss/Legacy Convergence of Cyriss;Solo;3;10.99;2;3;3;0;0
 Ace;First Army/Legacy Cygnar;Light Warjack;2;24.99;8;1;0;0;0
 Agata, Queen of Carnage;Legacy Circle Orboros;Solo;1;12.99;3;1;1;0;0
@@ -507,5 +545,4 @@ Wraith Engine;Dark Host/Legacy Cryx;Battle Engine;10;84.99;11;2;2;0;0
 Wrong Eye & Snapjaw;Legacy Circle Orboros;Solo;6;44.99;15;1;1;1;0
 Wurmwood, Tree of Fate;Devourer's Host/Legacy Circle Orboros;Warlock;5;30.99;0;1;1;0;0
 
-Captain Buck Hasker;Gravediggers;Warcaster;1;?;0;1;0;0;0
 Captain Athena di Baro;Storm Legion;Warcaster;1;?;0;1;0;0;0
