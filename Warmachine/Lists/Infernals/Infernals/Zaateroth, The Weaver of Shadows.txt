@@ -1,51 +1,50 @@
-# 3/21/26 4/18
+# 3/21/26 2/12
 
 Infernals - Infernals
 Grand Melee - 100 pts
 
 PC CARD
 
-Defenses 1
+Defenses
 DEFENSE 1 - Barrier
 DEFENSE 1 - Barrier
-DEFENSE 1 - Powder Keg
-
-Defenses 2
-DEFENSE 1 - Barrier
-DEFENSE 2 - Fire Pit
-DEFENSE 1 - Fire Pit
+DEFENSE 1 - Spike Trap
 
 Zaateroth, The Weaver of Shadows
 
-3 Foreboder
+3 Foreboder 1
 
-13 Soul Stalker
+12 Tormentor 1
 
-12 Tormentor
+12 Tormentor 2
+
+3 Alain Runewood, Lord of Ash
+
+4 Eilish Garrity, the Dark Seeker
 
 4 Great Princess Regna Gravnoy
 
-7 Lamenter
+3 Foreboder 2
 
 4 Hermit of Henge Hold
 
 4 Lord Roget D’Vyaros
 
-3 The Wretch
+3 The Wretch 1
 
-5 Umbral Guardian
+3 The Wretch 2
+
+5 Umbral Guardian 1
+
+5 Umbral Guardian 2
 
 5 Valin Hauke, the Fallen Knight
 
-4 Cultist Band
+4 Cultist Band 1
 
-5 Dark Sentinels
+4 Cultist Band 2
 
-3 Master Preceptor Orin Midwinter
-
-6 Griever Swarm 1
-
-6 Griever Swarm 2
+6 Griever Swarm
 
 8 Howlers 1
 
@@ -54,9 +53,9 @@ Zaateroth, The Weaver of Shadows
 
 PC COMMAND CARD
 Blessing of the Gods
+Careful Reconnaissance
 Defenses
 Duck and Cover!
-Hit & Run
 Lucky Penny
 
 TOTAL POINTS 100/100
