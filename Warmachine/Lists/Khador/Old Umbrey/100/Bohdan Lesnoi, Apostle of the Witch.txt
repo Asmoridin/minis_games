@@ -1,4 +1,4 @@
-# 3/21/26 8/25
+# 3/21/26 1/12
 
 Khador - Old Umbrey
 Grand Melee - 100 pts
@@ -12,34 +12,33 @@ DEFENSE 1 - Barrier
 
 Bohdan Lesnoi, Apostle of the Witch
 
-9 Feral
-5 HEAD - Alke
-4 BACK - Wings
-
-15 Primeval
+14 Primeval 1
 3 HEAD - Bear
 7 RIGHT ARM - Hunting Spear
-5 LEFT ARM - Enchanted Shield
+4 LEFT ARM - Enchanted Claw
 
-16 The Starved
-
-3 Animist
+15 Primeval 2
+4 HEAD - Stag
+7 RIGHT ARM - Hunting Spear
+4 LEFT ARM - Enchanted Claw
 
 18 Kapitan Zahara Vilkul
 
 Razor
 
-3 Ursine Shifted
+5 Liegemen Ursan Champion
 
 4 Vorony
 
-9 Chosen of the Witch
+1 Witch-Marked Totem
 
-5 Liegemen Wardens 1
+6 Liegemen Hunters 1
 
-5 Liegemen Wardens 2
+6 Liegemen Hunters 2
 
-4 Shearlings
+11 Liegemen Ursans 1
+
+11 Liegemen Ursans 2
 
 9 The Hounds
 
