@@ -1,6 +1,5 @@
-# 6/7/25 3rd/11 Australian tournament
+# 3/21/26 1/7
 
-Gone crit fishing
 Khymaera - Shadowflame Shard
 Grand Melee - 100 pts
 
@@ -8,51 +7,41 @@ PC CARD
 
 Defenses
 DEFENSE 1 - Barrier
-DEFENSE 2 - Barrier
-DEFENSE 1 - Spiker trap
-
+DEFENSE 1 - Barrier
+DEFENSE 1 - Spike Trap
 
 Vallyx, Fate's Eclipse
-SPELL - Silence of Death
-SPELL - Dash
 
-12 Hydrix 1
+11 Drakyon
+
+12 Hydrix
 3 CENTRAL HEAD - Diviner
-4 SMALLER HEAD - Horned Piercer
 3 SMALLER HEAD - Blockhead
+4 SMALLER HEAD - Horned Piercer
 2 DORSAL FEATURE - Bladeback
 
-13 Hydrix 2
-3 CENTRAL HEAD - Diviner
-3 SMALLER HEAD - Blockhead
-4 SMALLER HEAD - Horned Piercer
-4 DORSAL FEATURE - Wings
-
-16 Skylla, The Abyssal Fury
-9 CENTRAL HEAD - Skylla
-4 SMALLER HEAD 1 - Horned Piercer
-3 SMALLER HEAD 2 - Gnashing Fangs
-
-10 Vypex
+12 Vypex
 1 HEAD - Asp
 3 TAIL - Hunter's Mark
-6 ARMS - Cleavers
+8 ARMS - Impalers
+
+19 Wyvern
 
 4 Bellighul, Master of Pain
 
 3 Pythia
 
-4 Shadowmancer Scion
-
 5 Wraithwing Paragon
+
+7 Quick Fang Stalkers
+
+3 Quick Fang Master
 
 6 Quick Fang Wind Strikers
 
-9 Shades
+7 Talon Death Dealers
 
-7 Talon Lashers 1
-
-7 Talon Lashers 2
+7 Talon Lashers
 
 4 Wyrmspine Shadowmancers
 
@@ -61,7 +50,7 @@ PC COMMAND CARD
 Blessing of the Gods
 Defenses
 Duck and Cover!
+Hit & Run
 Lucky Penny
-Put the Fires Out
 
 TOTAL POINTS 100/100

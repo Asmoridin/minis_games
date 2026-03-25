@@ -1,58 +1,53 @@
-#4/5/25 6th/10
+# 3/21/26 4/8
 
-Broriax
 Orgoth - Sea Raiders
 Grand Melee - 100 pts
 
 PC CARD
 
-Oriax, the Soul Slaver
-SPELL - Inviolable Resolve
-SPELL - Windstorm
+Oriax, The Soul Slaver
 
-6 Jackal 1
+6 Jackal
 2 HEAD - Arc Node
 3 RIGHT ARM - Mace
 1 LEFT ARM - Clawed Fist
 
-6 Jackal 2
-2 HEAD - Arc Node
-3 RIGHT ARM - Mace
-1 LEFT ARM - Clawed Fist
+13 Sky Bomber 1
 
-28 Gharlghast
-6 HEAD - Frother
-5 RIGHT FOREARM - Bile Jet Right
-6 RIGHT FIST - Rending Claws Right
-5 LEFT FOREARM - Bile Jet Left
-6 LEFT FIST - Rending Claws Left
+13 Sky Bomber 2
 
-12 Ravener
-
-5 Grhotten Keeper
-
-4 Maulgreth, The Charnel Plague
+11 Sky Raider
 
 3 Reaver Commander
 
-4 Therion Vhanek
+4 Revenant Champion
 
 2 Vulcar Forge Master
 
-10 Rhok Harriers
+6 Assault Reavers 1
 
-8 Ulkor Axers
+1 Reaver Standard 2
 
-8 Ulkor Barragers
+6 Assault Reavers 2
+
+1 Reaver Standard 1
+
+6 Reaver Skirmishers
+
+9 Rhok Harriers
+
+7 Strike Reavers
+
+8 The Execrators
 
 4 Warwitch Coven
 
 
 PC COMMAND CARD
 Blessing of the Gods
-Break Through
-Careful Reconnaissance
+Hit & Run
 Lucky Penny
+Put the Fires Out
 Sapper
 
 TOTAL POINTS 100/100

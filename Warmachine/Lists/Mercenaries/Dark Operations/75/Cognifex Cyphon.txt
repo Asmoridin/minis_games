@@ -1,6 +1,5 @@
-# 7/12/2025 1st/8 Australia
+# 3/21/26 2nd/4
 
-Cyphon
 Mercenaries - Dark Operations
 Pitched Battle - 75 pts
 
@@ -12,30 +11,36 @@ Cognifex Cyphon
 
 10 Subduer 2
 
-12 Wrecker 1
+9 Warden
 
-12 Wrecker 2
+2 Akulon Stygius
 
-12 Wrecker 3
+3 Silexus Xiphus
 
-2 Agitator 1
+4 Drudge Slayers 1
 
-2 Agitator 2
+2 Mind Slaver 1
 
-3 Akulon Thaemestra
+4 Drudge Slayers 2
 
-4 Silexus Xiphus
+2 Mind Slaver 2
 
-2 Stygius
+4 Drudge Slayers 3
+
+2 Mind Slaver 3
+
+9 Iconoclast Drudges 1
+
+9 Iconoclast Drudges 2
 
 5 Overlords
 
 
 PC COMMAND CARD
-Blessing of the Gods
 Break Through
-Careful Reconnaissance
+Hit & Run
 Lucky Penny
 Old Faithful
+Put the Fires Out
 
-TOTAL POINTS 74/75
+TOTAL POINTS 75/75

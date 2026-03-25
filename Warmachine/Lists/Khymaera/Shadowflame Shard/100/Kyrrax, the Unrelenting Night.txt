@@ -1,57 +1,50 @@
-# 7/20/25 1st/20 Australia
+# 3/21/26 2/9
 
 Khymaera - Shadowflame Shard
 Grand Melee - 100 pts
 
 PC CARD
 
-Defenses
-DEFENSE 1 - Barrier
-DEFENSE 1 - Barrier
-DEFENSE 1 - Barrier
-
 Kyrrax, the Unrelenting Night
-SPELL - Carnivore
-SPELL - Curse of Shadows
 
-31 Trikhymaerax
-9 ARCANE HEADS - Many-Eyed Head
-RANGE HEADS - Flame Head
-8 MELEE HEADS - Gulper Head
-ARCANE TAILS - Negation Tail
-8 RANGE TAILS - Frost Tail
-6 MELEE TAILS - Stinger
+11 Drakyon
+
+12 Hydrix
+4 CENTRAL HEAD - Toothy Maw
+3 SMALLER HEAD - Blockhead
+3 SMALLER HEAD - Blockhead
+2 DORSAL FEATURE - Bladeback
 
 10 Vypex 1
 1 HEAD - Asp
 3 TAIL - Hunter's Mark
 6 ARMS - Cleavers
 
-10 Vypex 2
-1 HEAD - Asp
-1 TAIL - Chasten
+12 Vypex 2
+3 HEAD - Viper
+1 TAIL - Bladed Gale
 8 ARMS - Impalers
+
+4 Bellighul, Master of Pain
+
+5 Ryvyn, the Onyx Rampant
 
 5 Wraithwing Paragon 1
 
 5 Wraithwing Paragon 2
 
-7 Quick Fang Stalkers
+11 Incarnate Knights 1
+
+11 Incarnate Knights 2
 
 7 Talon Death Dealers 1
 
 7 Talon Death Dealers 2
 
-7 Talon Lashers 1
-
-7 Talon Lashers 2
-
-4 Wyrmspine Shadowmancers
-
 
 PC COMMAND CARD
 Blessing of the Gods
-Defenses
+Break Through
 Hit & Run
 Lucky Penny
 Put the Fires Out

@@ -1,59 +1,57 @@
-# 8/23/25 1st/18 German Masters
+# 3/21/26 3/18
 
 Khador - Old Umbrey
 Grand Melee - 100 pts
 
 PC CARD
 
-Defenses
-DEFENSE 1 - Barrier
-DEFENSE 1 - Barrier
-DEFENSE 1 - Barrier
-
 Kapitan Yana Kovoskiy
-SPELL - Curse of Shadows
-SPELL - Earth Spikes
 
-9 Feral 1
+9 Feral
 5 HEAD - Alke
 4 BACK - Wings
 
-9 Feral 2
-6 HEAD - Peryton
-3 BACK - Quills
+28 Gorger
+10 HEAD - Tusked Head
+9 RIGHT ARM - Primal Club
+9 LEFT ARM - Hornet's Nest
 
-9 Feral 3
-6 HEAD - Drek
-3 BACK - Bony Spine
+3 Koldun Lord Damien Korovnik
 
-14 Primeval 1
-3 HEAD - Raven
-7 RIGHT ARM - Hunting Spear
-4 LEFT ARM - Runed Skull
+5 Liegemen Ursan Champion 1
 
-15 Primeval 2
-3 HEAD - Bear
-7 RIGHT ARM - Bone Sword
-5 LEFT ARM - Enchanted Shield
+5 Liegemen Ursan Champion 2
 
-15 Strix
+4 Ursine Apex
 
-4 Vorony
+3 Ursine Shifted 1
 
-2 Witch-Marked Totem
+3 Ursine Shifted 2
 
-6 Zacchaeus, The Winter’s Chill
+3 Ursine Shifted 3
+
+1 Witch-Marked Totem
 
 9 Chosen of the Witch
 
-8 The Hounds
+5 Liegemen Wardens 1
+
+2 Liegemen Primalist 1
+
+5 Liegemen Wardens 2
+
+2 Liegemen Primalist 2
+
+4 Shearlings
+
+9 The Hounds
 
 
 PC COMMAND CARD
 Blessing of the Gods
-Defenses
 Hit & Run
 Lucky Penny
+Put the Fires Out
 Sapper
 
 TOTAL POINTS 100/100

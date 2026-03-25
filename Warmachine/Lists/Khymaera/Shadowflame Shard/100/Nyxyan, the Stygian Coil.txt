@@ -1,4 +1,4 @@
-# 8/30/25 1st/48
+# 3/21/26 2/25
 
 Khymaera - Shadowflame Shard
 Grand Melee - 100 pts
@@ -11,8 +11,6 @@ DEFENSE 1 - Barrier
 DEFENSE 1 - Barrier
 
 Nyxyan, the Stygian Coil
-SPELL - Execration of Blackest Night
-SPELL - Silence of Death
 
 14 Aklyss
 
@@ -25,19 +23,23 @@ SPELL - Silence of Death
 
 4 Bellighul, Master of Pain
 
+4 Incarnate Conjuror 1
+
+4 Incarnate Conjuror 2
+
 3 Pythia
+
+5 Ryvyn, the Onyx Rampant
 
 5 Wraithwing Paragon
 
-11 Incarnate Knights
+5 Zacchaeus, The Winter’s Chill
 
-7 Quick Fang Stalkers
+6 Quick Fang Wind Strikers
 
 9 Shades
 
-7 Talon Lashers 1
-
-7 Talon Lashers 2
+8 Wyrmspine Cinderbacks
 
 4 Wyrmspine Shadowmancers
 
@@ -45,8 +47,8 @@ SPELL - Silence of Death
 PC COMMAND CARD
 Blessing of the Gods
 Defenses
-Hit & Run
+Duck and Cover!
 Lucky Penny
-Put the Fires Out
+Sapper
 
 TOTAL POINTS 100/100

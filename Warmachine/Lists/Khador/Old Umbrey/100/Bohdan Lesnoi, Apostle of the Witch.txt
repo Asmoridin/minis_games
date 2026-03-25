@@ -1,4 +1,4 @@
-# 9/21/25 3rd/65 Welsh Masters
+# 3/21/26 1/12
 
 Khador - Old Umbrey
 Grand Melee - 100 pts
@@ -11,41 +11,36 @@ DEFENSE 1 - Barrier
 DEFENSE 1 - Barrier
 
 Bohdan Lesnoi, Apostle of the Witch
-SPELL - Curse of Shadows
-SPELL - Earth Spikes
 
-9 Feral
-5 HEAD - Alke
-4 BACK - Wings
-
-15 Primeval 1
+14 Primeval 1
 3 HEAD - Bear
-7 RIGHT ARM - Bone Sword
-5 LEFT ARM - Enchanted Shield
-
-15 Primeval 2
-3 HEAD - Bear
-7 RIGHT ARM - Bone Sword
-5 LEFT ARM - Enchanted Shield
-
-13 Primeval 3
-3 HEAD - Bear
-6 RIGHT ARM - Ancient Staff
+7 RIGHT ARM - Hunting Spear
 4 LEFT ARM - Enchanted Claw
 
-2 Animist
+15 Primeval 2
+4 HEAD - Stag
+7 RIGHT ARM - Hunting Spear
+4 LEFT ARM - Enchanted Claw
 
-20 Kapitan Zahara Vilkul
+18 Kapitan Zahara Vilkul
 
 Razor
 
+5 Liegemen Ursan Champion
+
 4 Vorony
 
-9 Chosen of the Witch
+1 Witch-Marked Totem
 
-5 Liegemen Wardens
+6 Liegemen Hunters 1
 
-8 The Hounds
+6 Liegemen Hunters 2
+
+11 Liegemen Ursans 1
+
+11 Liegemen Ursans 2
+
+9 The Hounds
 
 
 PC COMMAND CARD
@@ -53,6 +48,6 @@ Blessing of the Gods
 Defenses
 Hit & Run
 Lucky Penny
-Old Faithful
+Sapper
 
 TOTAL POINTS 100/100

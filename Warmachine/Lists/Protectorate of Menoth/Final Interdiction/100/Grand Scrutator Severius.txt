@@ -1,8 +1,5 @@
-#3/29/25 5th/16 Walsall March Steamroller
+# 3/21/26 16/18
 
-
-
-Sevy You're a Firework
 Protectorate of Menoth - Final Interdiction
 Grand Melee - 100 pts
 
@@ -11,50 +8,50 @@ PC CARD
 Defenses
 DEFENSE 1 - Barrier
 DEFENSE 1 - Barrier
-DEFENSE 1 - Barrier
+DEFENSE 1 - Fire Pit
 
 Grand Scrutator Severius
 
 11 Blessing of Vengeance
 
-28 Judicator
+8 Revenger
+
+10 Shrine of the Lawgiver
+
+4 Exemplar Bastion Seneschal
+
+8 Devout
+
+3 Exemplar Errant Seneschal
 
 3 Exemplar Warder 1
 
 3 Exemplar Warder 2
 
-1 Vassal Mechanik 1
+5 Exemplar Warder Elias Gade
 
-1 Vassal Mechanik 2
+7 High Exemplar Gravus
 
-1 Vassal of Menoth 1
-
-1 Vassal of Menoth 2
-
-1 Vassal of Menoth 3
+2 Reclaimer Gatekeeper
 
 3 Choir of Menoth
 
-8 Exemplar Errants 1
+8 Exemplar Bastions 1
 
-3 Exemplar Errant Officer & Standard 1
+8 Exemplar Bastions 2
 
-8 Exemplar Errants 2
+8 Exemplar Errants
 
-3 Exemplar Errant Officer & Standard 2
-
-9 Exemplar Vengers 1
-
-9 Exemplar Vengers 2
+2 Exemplar Errant Officer & Standard
 
 7 Visgoth Juviah Rhoven & Honor Guard
 
 
 PC COMMAND CARD
+Careful Reconnaissance
 Defenses
-Duck and Cover!
 Lucky Penny
-Old Faithful
+Put the Fires Out
 Sapper
 
 TOTAL POINTS 100/100

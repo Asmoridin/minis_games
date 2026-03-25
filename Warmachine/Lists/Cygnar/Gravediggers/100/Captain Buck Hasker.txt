@@ -1,58 +1,43 @@
-# 8/31/25 3rd/62
+# 3/21/26 4/25
 
 Cygnar - Gravediggers
 Grand Melee - 100 pts
 
 PC CARD
 
-Ammo Crate 1
-
-Medical Crate 1
-
-Mantlet 1
-
-Ammo Crate 2
-
-Medical Crate 2
-
-Mantlet 2
-
-Defenses
-DEFENSE 1 - Spike Trap
-DEFENSE 1 - Spike Trap
-DEFENSE 1 - Spike Trap
-
 Captain Buck Hasker
-SPELL - Arcane Shield
-SPELL - Chasten
 
-17 Deuce
+6 Patriot
+1 HEAD - Shield Guard
+3 RIGHT ARM - Pole Cleaver
+2 LEFT ARM - Trench Blade
 
-12 Valiant 1
+17 Plugger
+HEAD - Plugger
+RIGHT ARM - Trench Ripper
+LEFT ARM - Trench Ripper
+
+15 Valiant 1
 2 HEAD - Aggressive
+6 RIGHT ARM - Trench Sword
+7 LEFT ARM - Volley Shield
+
+10 Valiant 2
+1 HEAD - Evasive
 5 RIGHT ARM - Piston Hammer
-5 LEFT ARM - Harpoon Fist
+4 LEFT ARM - Slug Fist
 
-12 Valiant 2
-2 HEAD - Aggressive
-5 RIGHT ARM - Piston Hammer
-5 LEFT ARM - Harpoon Fist
-
-4 Greygore Boomhowler
-
-3 Lt. Stella Barron
+3 Captain Argo Brock
 
 20 Magnus the Unstoppable
 
 Invictus
 
-8 Gravedigger Commandos
-
-2 Commando Officer
-
 4 Gravedigger Gun Mages 1
 
 4 Gravedigger Gun Mages 2
+
+7 Gravedigger Rangers
 
 5 Storm Vanes
 
@@ -61,12 +46,12 @@ Invictus
 
 PC COMMAND CARD
 Blessing of the Gods
-Defenses
 Hit & Run
 Light Airdrop 1
 Light Airdrop 2
 Lucky Penny
 Military Engineering
 Old Faithful
+Put the Fires Out
 
 TOTAL POINTS 100/100

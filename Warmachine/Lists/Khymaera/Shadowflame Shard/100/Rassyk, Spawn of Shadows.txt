@@ -1,4 +1,4 @@
-# 8/31/25 2nd/62
+# 3/21/26 2/25
 
 Khymaera - Shadowflame Shard
 Grand Melee - 100 pts
@@ -11,45 +11,50 @@ DEFENSE 1 - Barrier
 DEFENSE 1 - Barrier
 
 Rassyk, Spawn of Shadows
-SPELL - Silence of Death
-SPELL - Execration of Blackest Night
 
-14 Aklyss
+12 Hydrix
+3 CENTRAL HEAD - Diviner
+3 SMALLER HEAD - Blockhead
+3 SMALLER HEAD - Blockhead
+3 DORSAL FEATURE - Wings
 
-11 Drakyon
+16 Skylla, The Abyssal Fury
+9 CENTRAL HEAD - Skylla
+4 SMALLER HEAD 1 - Horned Piercer
+3 SMALLER HEAD 2 - Gnashing Fangs
 
-12 Vypex
+10 Vypex
 1 HEAD - Asp
 3 TAIL - Hunter's Mark
-8 ARMS - Impalers
+6 ARMS - Cleavers
+
+4 Bellighul, Master of Pain
 
 3 Pythia
 
-6 Ryvyn, the Onyx Rampant
+5 Ryvyn, the Onyx Rampant
 
 2 Spinner 1
 
 2 Spinner 2
 
-5 Wraithwing Paragon
+5 Wraithwing Paragon 1
 
-11 Incarnate Knights
+5 Wraithwing Paragon 2
 
-7 Talon Death Dealers
+11 Incarnate Knights 1
 
-7 Talon Lashers 1
+11 Incarnate Knights 2
 
-7 Talon Lashers 2
+7 Talon Death Dealers 1
 
-9 Wyrmspine Cinderbacks
-
-4 Wyrmspine Shadowmancers
+7 Talon Death Dealers 2
 
 
 PC COMMAND CARD
 Blessing of the Gods
-Break Through
 Defenses
+Duck and Cover!
 Lucky Penny
 Sapper
 
