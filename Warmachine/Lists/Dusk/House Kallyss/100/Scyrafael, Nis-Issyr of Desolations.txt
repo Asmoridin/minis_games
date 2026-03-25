@@ -1,5 +1,4 @@
-# 7/19/25 1st/24 Ottawa
-
+# 3/21/26 23/25
 
 Dusk - House Kallyss
 Grand Melee - 100 pts
@@ -7,53 +6,44 @@ Grand Melee - 100 pts
 PC CARD
 
 Scyrafael, Nis-Issyr of Desolations
-SPELL - Battle Lust
-SPELL - Inviolable Resolve
 
-15 Eidolon 1
-1 HEAD - Arcane Stasis
-6 RIGHT ARM - Dawn Blade
-5 LEFT ARM - Force Shield
-3 BACK - Vortex Cannon
+7 Ghast
+1 HEAD - Arc Node
+3 RIGHT ARM - Heavy Blade Fist
+3 LEFT ARM - Force Lash
 
-15 Eidolon 2
-1 HEAD - Arcane Stasis
-6 RIGHT ARM - Dawn Blade
-5 LEFT ARM - Force Shield
-3 BACK - Vortex Cannon
+31 Phantasm
+3 HEAD - Focus Vault
+8 CHEST - Desolator
+10 RIGHT HEX BLADE - Revivifier Right
+10 LEFT HEX BLADE - Revivifier Left
 
-17 Israfyl
-HEAD - Israfyl
-LEFT ARM - Serpentine Blade
-RIGHT ARM - Serpentine Blade
-BACK - Death Whisper
+4 Mage Hunter Commander
 
-4 Dreadguard Scyir
+20 Magnus the Unstoppable
 
-3 Mage Hunter Sniper Team
+Invictus
+
+8 Void Engine
+
+Wight
 
 2 Void Shaper
 
-11 Dreadguard Cavalry 1
+9 Dreadguard Archers
 
-11 Dreadguard Cavalry 2
+7 Mage Hunter Assassins
 
-4 Seeker Adepts 1
+4 Seeker Adepts
 
-4 Seeker Adepts 2
-
-6 Soulless Blademasters
-
-2 Seeker Warden
-
-6 Soulless Guardians
+8 The Last Watch
 
 
 PC COMMAND CARD
-Careful Reconnaissance
-Duck and Cover!
-Hit & Run
+Blessing of the Gods
 Lucky Penny
 Old Faithful
+Put the Fires Out
+Sapper
 
 TOTAL POINTS 100/100
