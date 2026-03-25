@@ -1,19 +1,25 @@
-# 9/6/24 11th/12
+# 3/21/26 13/14
 
 Mercenaries - Thornfall Alliance
 Grand Melee - 100 pts
 
 PC CARD
 
-Lord Carver, BMMD, Esq. III
+Emperor Carver Ultimus, BMMD, Esq. III
 
 6 Battle Boar
 
 8 Gun Boar
 
+13 Road Hog
+
+17 War Boar MMD 47
+
 13 War Hog 1
 
 13 War Hog 2
+
+2 Targ
 
 4 Farrow Bone Grinders 1
 
@@ -27,24 +33,12 @@ Lord Carver, BMMD, Esq. III
 
 3 Farrow Brigand Warlord 2
 
-7 Farrow Brigands 3
-
-3 Farrow Brigand Warlord 3
-
-4 Farrow Razorback Crew 1
-
-4 Farrow Razorback Crew 2
-
-7 Farrow Slaughterhousers 1
-
-7 Farrow Slaughterhousers 2
-
 
 PC COMMAND CARD
 Blessing of the Gods
-Break Through
 Careful Reconnaissance
 Lucky Penny
-Put the Fires Out
+Old Faithful
+Sapper
 
 TOTAL POINTS 100/100
