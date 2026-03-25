@@ -1,61 +1,53 @@
-# 3/21/26 7/12
+# 3/21/26 4/8
 
 Orgoth - Sea Raiders
 Grand Melee - 100 pts
 
 PC CARD
 
-Defenses
-DEFENSE 1 - Barrier
-DEFENSE 1 - Barrier
-DEFENSE 1 - Barrier
-
 Oriax, The Soul Slaver
 
-7 Jackal 1
-1 HEAD - Advance Deployment
-5 RIGHT ARM - Hunter Rifle
+6 Jackal
+2 HEAD - Arc Node
+3 RIGHT ARM - Mace
 1 LEFT ARM - Clawed Fist
 
-7 Jackal 2
-1 HEAD - Advance Deployment
-5 RIGHT ARM - Hunter Rifle
-1 LEFT ARM - Clawed Fist
+13 Sky Bomber 1
 
-14 Tyrant 1
-3 HEAD - Arcane Vortex
-8 RIGHT ARM - Shredder
-3 LEFT ARM - Claw
+13 Sky Bomber 2
 
-12 Tyrant 2
-1 HEAD - Relentless Charge
-8 RIGHT ARM - Shredder
-3 LEFT ARM - Claw
-
-12 Ravener 1
-
-12 Ravener 2
+11 Sky Raider
 
 3 Reaver Commander
 
 4 Revenant Champion
 
-2 Vulcar Forge Master 1
+2 Vulcar Forge Master
 
-2 Vulcar Forge Master 2
+6 Assault Reavers 1
+
+1 Reaver Standard 2
+
+6 Assault Reavers 2
+
+1 Reaver Standard 1
+
+6 Reaver Skirmishers
 
 9 Rhok Harriers
 
+7 Strike Reavers
+
 8 The Execrators
 
-8 Ulkor Barragers
+4 Warwitch Coven
 
 
 PC COMMAND CARD
 Blessing of the Gods
-Break Through
-Careful Reconnaissance
-Defenses
+Hit & Run
 Lucky Penny
+Put the Fires Out
+Sapper
 
 TOTAL POINTS 100/100
