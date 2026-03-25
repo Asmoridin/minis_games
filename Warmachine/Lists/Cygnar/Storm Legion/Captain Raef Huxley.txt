@@ -1,4 +1,4 @@
-# 3/21/26 8/12
+# 3/21/26 1/11
 
 Cygnar - Storm Legion
 Grand Melee - 100 pts
@@ -9,29 +9,29 @@ Drone Servitor
 
 Captain Raef Huxley
 
-9 Courser 1
-1 HEAD - Advance Deployment
-5 RIGHT ARM - Mag-Bolter
-3 LEFT ARM - Voltaic Punching Spike
+14 Borealis 1
+HEAD - Repulsor Field
+RIGHT ARM - Thunder Maul
+LEFT ARM - Sky Breaker
 
-9 Courser 2
-1 HEAD - Advance Deployment
-5 RIGHT ARM - Mag-Bolter
-3 LEFT ARM - Voltaic Punching Spike
+14 Borealis 2
+HEAD - Repulsor Field
+RIGHT ARM - Thunder Maul
+LEFT ARM - Sky Breaker
 
-15 Stryker 1
+12 Stryker 1
 2 HEAD - True Sight
-6 RIGHT ARM - Voltaic Hammer
-7 LEFT ARM - Heavy Mag-Bolter
+6 RIGHT ARM - Voltaic Javelin
+4 LEFT ARM - Stormblazer Cannon
 
-15 Stryker 2
+12 Stryker 2
 2 HEAD - True Sight
-6 RIGHT ARM - Voltaic Hammer
-7 LEFT ARM - Heavy Mag-Bolter
+6 RIGHT ARM - Voltaic Javelin
+4 LEFT ARM - Stormblazer Cannon
 
 20 Thunderhead, Heart of the Storm
 
-3 Weather Station
+4 Captain Bastian Falk
 
 9 Zephyr
 
@@ -39,14 +39,17 @@ Captain Raef Huxley
 
 5 Arcane Mechaniks 2
 
-5 Storm Callers 1
+5 Storm Vanes
 
-5 Storm Callers 2
+Defenses
+DEFENSE 1 - Barrier
+DEFENSE 1 - Barrier
+DEFENSE 1 - Barrier
 
 
 PC COMMAND CARD
 Blessing of the Gods
-Careful Reconnaissance
+Defenses
 Lucky Penny
 Old Faithful
 Sapper
