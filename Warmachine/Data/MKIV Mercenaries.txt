@@ -1,9 +1,11 @@
+Alexia, Queen of the Damned;Gravediggers
 Carver Ultimus & War Boar MMD47;Blackfleet
 Carver Ultimus & War Boar MMD47;Convergence of Cyriss
 Carver Ultimus & War Boar MMD47;Crucible Guard
 Carver Ultimus & War Boar MMD47;Dark Host
 Carver Ultimus & War Boar MMD47;Devourer's Host
 Carver Ultimus & War Boar MMD47;First Army
+Carver Ultimus & War Boar MMD47;Gravediggers
 Carver Ultimus & War Boar MMD47;Legacy Circle Orboros
 Carver Ultimus & War Boar MMD47;Legacy Convergence of Cyriss
 Carver Ultimus & War Boar MMD47;Legacy Crucible Guard
@@ -12,17 +14,22 @@ Carver Ultimus & War Boar MMD47;Legacy Cygnar
 Carver Ultimus & War Boar MMD47;Necrofactorium
 Carver Ultimus & War Boar MMD47;Secret Dominion
 Carver Ultimus & War Boar MMD47;Storm Knights
+Eilish Garrity, the Dark Traitor;Gravediggers
+Eiryss, Shadow of Retribution;Gravediggers
+Exulon Nostilla & Aberration;Gravediggers
 Exulon Nostilla & Aberration;Necrofactorium
+Gorman di Wulfe, Revolutionary Agent;Gravediggers
 Gorman di Wulfe, Revolutionary Agent;Necrofactorium
+Greygore Boomhowler;Gravediggers
 Magnus the Unstoppable & Invictus;Blackfleet
 Magnus the Unstoppable & Invictus;Convergence of Cyriss
 Magnus the Unstoppable & Invictus;Crucible Guard
 Magnus the Unstoppable & Invictus;Dark Host
 Magnus the Unstoppable & Invictus;Devourer's Host
 Magnus the Unstoppable & Invictus;First Army
+Magnus the Unstoppable & Invictus;Gravediggers
 Magnus the Unstoppable & Invictus;Legacy Circle Orboros
 Magnus the Unstoppable & Invictus;Legacy Convergence of Cyriss
-Magnus the Unstoppable & Invictus;Legacy Crucible Guard
 Magnus the Unstoppable & Invictus;Legacy Crucible Guard
 Magnus the Unstoppable & Invictus;Legacy Cryx
 Magnus the Unstoppable & Invictus;Legacy Cygnar
@@ -32,3 +39,5 @@ Magnus the Unstoppable & Invictus;Storm Knights
 Maulgreth, The Charnel Plague;House Kallyss
 Maulgreth, The Charnel Plague;Necrofactorium
 Maulgreth, The Charnel Plague;Sea Raiders
+Sky Bomber;Gravediggers
+Sky Raider;Gravediggers
