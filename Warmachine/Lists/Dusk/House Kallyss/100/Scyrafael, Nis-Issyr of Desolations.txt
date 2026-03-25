@@ -1,57 +1,52 @@
-# 3/21/26 4/14
+# 3/21/26 1/9
 
 Dusk - House Kallyss
 Grand Melee - 100 pts
 
 PC CARD
 
-Defenses
-DEFENSE 1 - Barrier
-DEFENSE 1 - Barrier
-DEFENSE 1 - Barrier
-
 Scyrafael, Nis-Issyr of Desolations
 
-14 Eidolon 1
-2 HEAD - True Sight
-4 RIGHT ARM - Force Fist
+15 Eidolon 1
+1 HEAD - Arcane Stasis
+6 RIGHT ARM - Dawn Blade
 5 LEFT ARM - Force Shield
 3 BACK - Force Cannon
 
-14 Eidolon 2
-2 HEAD - True Sight
-4 RIGHT ARM - Force Fist
+15 Eidolon 2
+1 HEAD - Arcane Stasis
+6 RIGHT ARM - Dawn Blade
 5 LEFT ARM - Force Shield
 3 BACK - Force Cannon
 
-27 Phantasm
-3 HEAD - Focus Vault
-8 CHEST - Desolator
-8 RIGHT HEX BLADE - Force Generator Right
-8 LEFT HEX BLADE - Force Generator Left
+18 Israfyl
+HEAD - Israfyl
+LEFT ARM - Serpentine Blade
+RIGHT ARM - Serpentine Blade
+BACK - Death Whisper
 
 4 Dreadguard Scyir
 
-4 Dyssiss, the Eye of Darkness
+2 Void Shaper
 
 9 Dreadguard Archers
 
 11 Dreadguard Cavalry
 
+8 Dreadguard Slayers
+
 4 Seeker Adepts
 
 6 Soulless Guardians
 
-6 Soulless Hunters
-
-1 Seeker Warden
+8 The Last Watch
 
 
 PC COMMAND CARD
-Defenses
+Careful Reconnaissance
+Duck and Cover!
 Lucky Penny
 Old Faithful
 Put the Fires Out
-Sapper
 
 TOTAL POINTS 100/100
