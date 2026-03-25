@@ -1,22 +1,11 @@
-# 3/21/26 15/25
+# 3/21/26 12/21
 
 Dusk - House Kallyss
 Grand Melee - 100 pts
 
 PC CARD
 
-Defenses
-DEFENSE 1 - Barrier
-DEFENSE 1 - Barrier
-DEFENSE 1 - Barrier
-
 Hellyth, Scyir of Nightfall
-
-12 Eidolon
-2 HEAD - Flight
-4 RIGHT ARM - Force Fist
-3 LEFT ARM - Light Null Blade
-3 BACK - Force Cannon
 
 31 Phantasm
 3 HEAD - Focus Vault
@@ -26,19 +15,23 @@ Hellyth, Scyir of Nightfall
 
 4 Dyssiss, the Eye of Darkness
 
-4 Mage Hunter Commander
+6 Krueger, Wrath of Blighterghast
 
 3 Mage Hunter Sniper Team
 
-8 Void Engine
+20 Magnus the Unstoppable
 
-Wight
+Invictus
+
+8 Void Engine 1
+
+Wight 1
+
+8 Void Engine 2
+
+Wight 2
 
 2 Void Shaper
-
-9 Dreadguard Archers 1
-
-9 Dreadguard Archers 2
 
 4 Seeker Adepts
 
@@ -48,10 +41,10 @@ Wight
 
 
 PC COMMAND CARD
-Defenses
+Blessing of the Gods
+Duck and Cover!
 Hit & Run
 Lucky Penny
 Old Faithful
-Sapper
 
 TOTAL POINTS 100/100
