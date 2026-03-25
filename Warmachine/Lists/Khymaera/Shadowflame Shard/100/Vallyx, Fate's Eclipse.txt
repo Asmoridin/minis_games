@@ -1,46 +1,58 @@
-# 3/21/26 13/25
+# 3/21/26 4/11
 
 Khymaera - Shadowflame Shard
 Grand Melee - 100 pts
 
 PC CARD
 
+Defenses
+DEFENSE 1 - Barrier
+DEFENSE 1 - Barrier
+DEFENSE 1 - Barrier
+
 Vallyx, Fate's Eclipse
 
 14 Aklyss
 
-16 Skylla, The Abyssal Fury
-9 CENTRAL HEAD - Skylla
-4 SMALLER HEAD 1 - Horned Piercer
-3 SMALLER HEAD 2 - Gnashing Fangs
+11 Drakyon
 
-10 Vypex
+13 Hydrix 1
+3 CENTRAL HEAD - Diviner
+4 SMALLER HEAD - Horned Piercer
+3 SMALLER HEAD - Flame Sprayer
+3 DORSAL FEATURE - Wings
+
+14 Hydrix 2
+3 CENTRAL HEAD - Diviner
+4 SMALLER HEAD - Horned Piercer
+4 SMALLER HEAD - Venom Spitter
+3 DORSAL FEATURE - Wings
+
+12 Vypex
 1 HEAD - Asp
 3 TAIL - Hunter's Mark
-6 ARMS - Cleavers
-
-19 Wyvern
+8 ARMS - Impalers
 
 4 Bellighul, Master of Pain
 
 3 Pythia
 
-3 Shadowmancer Scion
-
 5 Wraithwing Paragon
 
-11 Incarnate Knights 1
+6 Quick Fang Wind Strikers
 
-11 Incarnate Knights 2
+7 Talon Lashers 1
+
+7 Talon Lashers 2
 
 4 Wyrmspine Shadowmancers
 
 
 PC COMMAND CARD
 Blessing of the Gods
+Defenses
 Duck and Cover!
 Lucky Penny
 Put the Fires Out
-Sapper
 
 TOTAL POINTS 100/100
