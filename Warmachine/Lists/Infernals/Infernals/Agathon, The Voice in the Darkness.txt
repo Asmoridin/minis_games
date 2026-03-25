@@ -1,4 +1,4 @@
-# 3/21/26 9/12
+# 3/21/26 2/12
 
 Infernals - Infernals
 Grand Melee - 100 pts
@@ -11,48 +11,46 @@ Agathon, The Voice in the Darkness
 
 3 Foreboder 2
 
-13 Soul Stalker
+26 Guardian of Souls
 
-12 Tormentor
+3 Alain Runewood, Lord of Ash
 
 4 Eilish Garrity, the Dark Seeker
+
+4 Great Princess Regna Gravnoy
+
+3 Foreboder 3
 
 4 Hermit of Henge Hold
 
 4 Lord Roget D’Vyaros
 
-3 Lynda the Forgotten
-
-4 Nicia, Hound of the Abyss
-
 3 The Wretch 1
 
 3 The Wretch 2
 
-5 Umbral Guardian 1
+5 Umbral Guardian
 
-5 Umbral Guardian 2
+5 Valin Hauke, the Fallen Knight
 
 4 Cultist Band 1
 
-4 Cultist Band 2
-
-5 Dark Sentinels 1
-
 3 Master Preceptor Orin Midwinter
 
-5 Dark Sentinels 2
+4 Cultist Band 2
 
-6 Griever Swarm 1
+5 Dark Sentinels
 
-6 Griever Swarm 2
+6 Griever Swarm
+
+8 Howlers
 
 
 PC COMMAND CARD
-Break Through
+Blessing of the Gods
 Careful Reconnaissance
-Hit & Run
+Duck and Cover!
 Lucky Penny
 Sapper
 
-TOTAL POINTS 99/100
+TOTAL POINTS 100/100
