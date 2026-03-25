@@ -1,73 +1,50 @@
-# 7/19/25 2nd/24 Ottawa
+# 3/21/26 6th/25
 
 Orgoth - Sea Raiders
 Grand Melee - 100 pts
 
 PC CARD
 
-Defenses
-DEFENSE 1 - Barrier
-DEFENSE 2 - Fire Pit
-DEFENSE 1 - Fire Pit
-
 Kishtaar, The Howling Silence
-SPELL - Redline
-SPELL - Silence of Death
 
-6 Jackal 1
-1 HEAD - Bloodthirst
-3 RIGHT ARM - Mace
-2 LEFT ARM - Pneumatic Spike
+17 Tyrant 1
+3 HEAD - Hunter
+8 RIGHT ARM - Shredder
+6 LEFT ARM - Quad Bolt Thrower
 
-6 Jackal 2
-1 HEAD - Bloodthirst
-3 RIGHT ARM - Mace
-2 LEFT ARM - Pneumatic Spike
+15 Tyrant 2
+1 HEAD - Relentless Charge
+8 RIGHT ARM - Shredder
+6 LEFT ARM - Quad Bolt Thrower
 
-6 Jackal 3
-1 HEAD - Bloodthirst
-3 RIGHT ARM - Mace
-2 LEFT ARM - Pneumatic Spike
+3 Eilish Garrity, the Dark Traitor
 
-6 Jackal 4
-1 HEAD - Bloodthirst
-3 RIGHT ARM - Mace
-2 LEFT ARM - Pneumatic Spike
+20 Magnus the Unstoppable
 
-5 Grhotten Keeper 1
+Invictus
 
-5 Grhotten Keeper 2
-
-3 Reaver Commander 1
-
-3 Reaver Commander 2
+4 Revenant Champion
 
 4 Therion Vhanek
 
-2 Vulcar Forge Master 1
+2 Vulcar Forge Master
 
-2 Vulcar Forge Master 2
+6 Assault Reavers
 
-9 Gnashers 1
+9 Rhok Harriers
 
-9 Gnashers 2
+8 The Execrators
 
-10 Rhok Harriers
+8 Ulkor Barragers
 
-8 Ulkor Barragers 1
-
-8 Ulkor Barragers 2
-
-4 Warwitch Coven 1
-
-4 Warwitch Coven 2
+4 Warwitch Coven
 
 
 PC COMMAND CARD
-Blessing of the Gods
 Careful Reconnaissance
-Defenses
 Duck and Cover!
+Lucky Penny
 Old Faithful
+Sapper
 
 TOTAL POINTS 100/100
