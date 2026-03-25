@@ -1,4 +1,4 @@
-# 3/21/26 23/25
+# 3/21/26 12/21
 
 Dusk - House Kallyss
 Grand Melee - 100 pts
@@ -7,41 +7,40 @@ PC CARD
 
 Scyrafael, Nis-Issyr of Desolations
 
-7 Ghast
-1 HEAD - Arc Node
-3 RIGHT ARM - Heavy Blade Fist
-3 LEFT ARM - Force Lash
-
 31 Phantasm
 3 HEAD - Focus Vault
 8 CHEST - Desolator
 10 RIGHT HEX BLADE - Revivifier Right
 10 LEFT HEX BLADE - Revivifier Left
 
-4 Mage Hunter Commander
+10 Specter
 
-20 Magnus the Unstoppable
+6 Krueger, Wrath of Blighterghast
 
-Invictus
+18 Lanyssa Ryssyl, Aransor of Sorrows
 
-8 Void Engine
+Benkei
 
-Wight
+Sasha
+
+4 Mage Hunter Commander 1
+
+4 Mage Hunter Commander 2
+
+3 Mage Hunter Sniper Team
 
 2 Void Shaper
 
-9 Dreadguard Archers
+9 Dreadguard Archers 1
 
-7 Mage Hunter Assassins
+9 Dreadguard Archers 2
 
 4 Seeker Adepts
-
-8 The Last Watch
 
 
 PC COMMAND CARD
 Blessing of the Gods
-Lucky Penny
+Hit & Run
 Old Faithful
 Put the Fires Out
 Sapper
