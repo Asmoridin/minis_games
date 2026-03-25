@@ -1,4 +1,4 @@
-# 3/21/26 7/18
+# 3/21/26 4/14
 
 Dusk - House Kallyss
 Grand Melee - 100 pts
@@ -8,54 +8,50 @@ PC CARD
 Defenses
 DEFENSE 1 - Barrier
 DEFENSE 1 - Barrier
-DEFENSE 1 - Spike Trap
+DEFENSE 1 - Barrier
 
 Scyrafael, Nis-Issyr of Desolations
 
-31 Phantasm
+14 Eidolon 1
+2 HEAD - True Sight
+4 RIGHT ARM - Force Fist
+5 LEFT ARM - Force Shield
+3 BACK - Force Cannon
+
+14 Eidolon 2
+2 HEAD - True Sight
+4 RIGHT ARM - Force Fist
+5 LEFT ARM - Force Shield
+3 BACK - Force Cannon
+
+27 Phantasm
 3 HEAD - Focus Vault
 8 CHEST - Desolator
-10 RIGHT HEX BLADE - Revivifier Right
-10 LEFT HEX BLADE - Revivifier Left
+8 RIGHT HEX BLADE - Force Generator Right
+8 LEFT HEX BLADE - Force Generator Left
 
-10 Specter
+4 Dreadguard Scyir
 
-4 Dreadguard Scyir 1
+4 Dyssiss, the Eye of Darkness
 
-4 Dreadguard Scyir 2
+9 Dreadguard Archers
 
-4 Mage Hunter Commander
-
-3 Mage Hunter Sniper Team
-
-8 Void Engine
-
-Wight
-
-2 Void Shaper 1
-
-2 Void Shaper 2
+11 Dreadguard Cavalry
 
 4 Seeker Adepts
 
-6 Soulless Blademasters 1
-
-1 Seeker Warden 1
-
-6 Soulless Blademasters 2
-
-1 Seeker Warden 2
-
 6 Soulless Guardians
 
-8 The Last Watch
+6 Soulless Hunters
+
+1 Seeker Warden
 
 
 PC COMMAND CARD
-Blessing of the Gods
-Break Through
 Defenses
-Hit & Run
 Lucky Penny
+Old Faithful
+Put the Fires Out
+Sapper
 
 TOTAL POINTS 100/100
