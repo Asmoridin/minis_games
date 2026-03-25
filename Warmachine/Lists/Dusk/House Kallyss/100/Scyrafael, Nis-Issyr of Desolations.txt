@@ -1,9 +1,14 @@
-# 3/21/26 12/21
+# 3/21/26 7/18
 
 Dusk - House Kallyss
 Grand Melee - 100 pts
 
 PC CARD
+
+Defenses
+DEFENSE 1 - Barrier
+DEFENSE 1 - Barrier
+DEFENSE 1 - Spike Trap
 
 Scyrafael, Nis-Issyr of Desolations
 
@@ -15,34 +20,42 @@ Scyrafael, Nis-Issyr of Desolations
 
 10 Specter
 
-6 Krueger, Wrath of Blighterghast
+4 Dreadguard Scyir 1
 
-18 Lanyssa Ryssyl, Aransor of Sorrows
+4 Dreadguard Scyir 2
 
-Benkei
-
-Sasha
-
-4 Mage Hunter Commander 1
-
-4 Mage Hunter Commander 2
+4 Mage Hunter Commander
 
 3 Mage Hunter Sniper Team
 
-2 Void Shaper
+8 Void Engine
 
-9 Dreadguard Archers 1
+Wight
 
-9 Dreadguard Archers 2
+2 Void Shaper 1
+
+2 Void Shaper 2
 
 4 Seeker Adepts
+
+6 Soulless Blademasters 1
+
+1 Seeker Warden 1
+
+6 Soulless Blademasters 2
+
+1 Seeker Warden 2
+
+6 Soulless Guardians
+
+8 The Last Watch
 
 
 PC COMMAND CARD
 Blessing of the Gods
+Break Through
+Defenses
 Hit & Run
-Old Faithful
-Put the Fires Out
-Sapper
+Lucky Penny
 
 TOTAL POINTS 100/100
