@@ -1,4 +1,4 @@
-# 3/21/26 10/25
+# 3/21/26 4/14
 
 Dusk - House Kallyss
 Grand Melee - 100 pts
@@ -12,44 +12,38 @@ Morayne, The Blade of Twilight
 3 RIGHT ARM - Heavy Blade Fist
 2 LEFT ARM - Light Blade Fist
 
-4 Cylena Raefyll
+18 Israfyl
+HEAD - Israfyl
+LEFT ARM - Serpentine Blade
+RIGHT ARM - Serpentine Blade
+BACK - Death Whisper
+
+31 Phantasm
+3 HEAD - Focus Vault
+8 CHEST - Desolator
+10 RIGHT HEX BLADE - Revivifier Right
+10 LEFT HEX BLADE - Revivifier Left
 
 4 Dreadguard Scyir
 
 4 Dyssiss, the Eye of Darkness
 
-6 Krueger, Wrath of Blighterghast
-
-18 Lanyssa Ryssyl, Aransor of Sorrows
-
-Benkei
-
-Sasha
-
-4 Mage Hunter Commander
-
-3 Mage Hunter Sniper Team 1
-
-3 Mage Hunter Sniper Team 2
-
 9 Dreadguard Archers
 
 11 Dreadguard Cavalry
 
-7 Mage Hunter Assassins 1
-
-7 Mage Hunter Assassins 2
+7 Mage Hunter Assassins
 
 6 Mage Hunter Rangers
 
-8 The Last Watch
+4 Seeker Adepts
 
 
 PC COMMAND CARD
-Careful Reconnaissance
+Blessing of the Gods
 Duck and Cover!
-Hit & Run
 Lucky Penny
+Old Faithful
 Sapper
 
 TOTAL POINTS 100/100
