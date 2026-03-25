@@ -1,4 +1,4 @@
-# 3/21/26 4/12
+# 3/21/26 3/12
 
 Grymkin - Grymkin
 Grand Melee - 100 pts
@@ -9,11 +9,15 @@ The Dreamer
 
 Phantasm
 
-12 Cage Rager
+12 Cage Rager 1
+
+12 Cage Rager 2
 
 13 Clockatrice 1
 
 13 Clockatrice 2
+
+3 Crabbit
 
 12 Skin & Moans 1
 
@@ -23,19 +27,13 @@ Phantasm
 
 6 Death Knell
 
-3 Grave Ghoul
+3 Grave Ghoul 1
 
-2 Gremlin Swarm 1
-
-2 Gremlin Swarm 2
+3 Grave Ghoul 2
 
 3 Lady Karianna Rose
 
-5 Zacchaeus, The Winter’s Chill
-
 5 Dread Rots
-
-9 The Bloody Parliament
 
 
 PC COMMAND CARD
@@ -43,7 +41,7 @@ Accursed
 Fortune’s Path
 Ill Omens
 Labyrinth
-Lucky Penny
+Ruin
 Sacrifice
 Shroud
 
