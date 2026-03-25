@@ -1,4 +1,4 @@
-# 3/21/26 20/25
+# 3/21/26 2/9
 
 Khymaera - Shadowflame Shard
 Grand Melee - 100 pts
@@ -9,10 +9,11 @@ Kyrrax, the Unrelenting Night
 
 11 Drakyon
 
-16 Skylla, The Abyssal Fury
-9 CENTRAL HEAD - Skylla
-4 SMALLER HEAD 1 - Horned Piercer
-3 SMALLER HEAD 2 - Gnashing Fangs
+12 Hydrix
+4 CENTRAL HEAD - Toothy Maw
+3 SMALLER HEAD - Blockhead
+3 SMALLER HEAD - Blockhead
+2 DORSAL FEATURE - Bladeback
 
 10 Vypex 1
 1 HEAD - Asp
@@ -24,21 +25,21 @@ Kyrrax, the Unrelenting Night
 1 TAIL - Bladed Gale
 8 ARMS - Impalers
 
-3 Pythia
+4 Bellighul, Master of Pain
 
-2 Spinner
+5 Ryvyn, the Onyx Rampant
 
-5 Wraithwing Paragon
+5 Wraithwing Paragon 1
+
+5 Wraithwing Paragon 2
 
 11 Incarnate Knights 1
 
 11 Incarnate Knights 2
 
-7 Talon Death Dealers
+7 Talon Death Dealers 1
 
-7 Talon Lashers
-
-4 Wyrmspine Shadowmancers
+7 Talon Death Dealers 2
 
 
 PC COMMAND CARD
@@ -48,4 +49,4 @@ Hit & Run
 Lucky Penny
 Put the Fires Out
 
-TOTAL POINTS 99/100
+TOTAL POINTS 100/100
