@@ -1,4 +1,4 @@
-# 8/31/25 19th/62
+# 3/21/26 11/25
 
 Crucible Guard - Crucible Guard
 Grand Melee - 100 pts
@@ -9,7 +9,7 @@ Marshal General Baldwin Gearhart
 
 Mr. Clogg
 
-10 Toro
+8 Retaliator
 
 28 Vulcan
 
@@ -19,29 +19,29 @@ Mr. Clogg
 
 1 Crucible Guard Mechanik 2
 
-3 Rocketman Stinger 1
-
-3 Rocketman Stinger 2
-
 2 Trancer 1
 
 2 Trancer 2
 
 2 Trancer 3
 
-7 Crucible Guard Assault Troopers 1
+8 Crucible Guard Assault Troopers 1
 
-7 Crucible Guard Assault Troopers 2
+8 Crucible Guard Assault Troopers 2
 
-7 Crucible Guard Assault Troopers 3
+8 Crucible Guard Assault Troopers 3
 
 6 Crucible Guard Rocketmen 1
 
+3 Crucible Guard Rocketman Captain 1
+
 6 Crucible Guard Rocketmen 2
+
+3 Crucible Guard Rocketman Captain 2
 
 6 Crucible Guard Rocketmen 3
 
-4 Dragon's Breath Rocket
+3 Crucible Guard Rocketman Captain 3
 
 
 PC COMMAND CARD
