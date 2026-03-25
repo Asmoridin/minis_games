@@ -1,4 +1,4 @@
-# 3/21/26 6/14
+# 3/21/26 3/9
 
 Khador - Winter Korps
 Grand Melee - 100 pts
@@ -9,13 +9,23 @@ Kommander Valerii Savaryn
 
 23 Behemoth, Spirit of Imperial Khador
 
-17 Razor
+14 Great Bear 1
+2 HEAD - Aggressive
+6 RIGHT ARM - Battle Mace
+6 LEFT ARM - Heavy Cannon Shield
 
-9 AC-2 Bison
+14 Great Bear 2
+2 HEAD - Aggressive
+6 RIGHT ARM - Battle Mace
+6 LEFT ARM - Heavy Cannon Shield
 
-4 Jackall
+9 AC-2 Bison 1
 
-4 Magziev Zariyah Volkova
+9 AC-2 Bison 2
+
+2 Battle Mechanik 1
+
+2 Battle Mechanik 2
 
 3 Winter Korps Officer 1
 
@@ -23,22 +33,16 @@ Kommander Valerii Savaryn
 
 4 Arkanists
 
-11 Man-O-War Suppressors
+8 Shock Trooper Pikemen 1
 
-8 Shock Trooper Gunners 1
-
-8 Shock Trooper Gunners 2
-
-4 Winter Korps Snipers
-
-1 Winter Korps Hunting Dog
+8 Shock Trooper Pikemen 2
 
 
 PC COMMAND CARD
 Blessing of the Gods
-Hit & Run
+Careful Reconnaissance
+For the Motherland
 Lucky Penny
-Put the Fires Out
-Sapper
+Old Faithful
 
 TOTAL POINTS 99/100
