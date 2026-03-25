@@ -1,10 +1,9 @@
-# 3/21/26 8/25
+# 3/21/26 1/18
 
 Khador - Old Umbrey
 Grand Melee - 100 pts
 
 PC CARD
-
 Defenses
 DEFENSE 1 - Barrier
 DEFENSE 1 - Barrier
@@ -16,17 +15,25 @@ Kapitan Maksim Azlanov
 5 HEAD - Alke
 4 BACK - Wings
 
-16 Strix
+15 Primeval 1
+3 HEAD - Bear
+7 RIGHT ARM - Bone Sword
+5 LEFT ARM - Enchanted Shield
 
-16 The Starved
+15 Primeval 2
+3 HEAD - Bear
+7 RIGHT ARM - Bone Sword
+5 LEFT ARM - Enchanted Shield
 
 3 Animist
 
+3 Koldun Lord Damien Korovnik
+
 5 Liegemen Ursan Champion
 
-4 Ursine Apex
+3 Ursine Shifted 1
 
-3 Ursine Shifted
+3 Ursine Shifted 2
 
 4 Vorony
 
