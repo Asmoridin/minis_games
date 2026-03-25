@@ -1,7 +1,5 @@
-# 5/30/25 1st/16 Swedish Masters
+# 3/21/26 4/18
 
-
-Omo BEEF
 Infernals - Infernals
 Grand Melee - 100 pts
 
@@ -9,7 +7,7 @@ PC CARD
 
 Omodamos, The Black Gate
 
-13 Soul Stalker
+26 Guardian of Souls
 
 12 Tormentor 1
 
@@ -17,34 +15,28 @@ Omodamos, The Black Gate
 
 12 Tormentor 3
 
-4 Alain Runewood, Lord of Ash
-
-4 Great Princess Regna Gravnoy
-
-3 Foreboder
+3 Alain Runewood, Lord of Ash
 
 4 Hermit of Henge Hold
 
 4 Lord Roget D’Vyaros
 
-3 The Wretch
+4 Nicia, Hound of the Abyss
 
-5 Valin Hauke, the Fallen Knight
+3 The Wretch
 
 4 Cultist Band
 
-6 Griever Swarm
+8 Howlers 1
 
-7 Howlers 1
-
-7 Howlers 2
+8 Howlers 2
 
 
 PC COMMAND CARD
 Blessing of the Gods
 Careful Reconnaissance
-Duck and Cover!
 Hit & Run
 Lucky Penny
+Old Faithful
 
 TOTAL POINTS 100/100
