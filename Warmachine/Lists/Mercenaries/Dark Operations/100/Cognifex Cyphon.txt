@@ -1,48 +1,24 @@
-# 8/30/25 2nd/48
-
-Mercenaries - Dark Operations
-Grand Melee - 100 pts
-
-PC CARD
+# 3/21/26 8/14
 
 Cognifex Cyphon
+Malfessor
+Subduer
+Warden 1
+Warden 2
+Wrecker 1
+Wrecker 2
 
-10 Subduer 1
+Agitator 1
+Agitator 2
+Akulon Stygius
+Criterions
+Drudge Conduits
+- Mind Bender
+Overlords 1
+Overlords 2
 
-10 Subduer 2
-
-9 Warden 1
-
-9 Warden 2
-
-9 Warden 3
-
-12 Wrecker 1
-
-12 Wrecker 2
-
-2 Agitator 1
-
-2 Agitator 2
-
-2 Agitator 3
-
-8 Criterions
-
-4 Drudge Conduits 1
-
-2 Mind Bender
-
-4 Drudge Conduits 2
-
-5 Overlords
-
-
-PC COMMAND CARD
-Blessing of the Gods
-Hit & Run
+Break Through
+Lucky Penny
 Old Faithful
 Put the Fires Out
 Sapper
-
-TOTAL POINTS 100/100
