@@ -1,9 +1,14 @@
-# 3/21/26 13/14
+# 3/21/26 8/9
 
 Mercenaries - Thornfall Alliance
 Grand Melee - 100 pts
 
 PC CARD
+
+Defenses
+DEFENSE 1 - Spike Trap
+DEFENSE 1 - Spike Trap
+DEFENSE 1 - Powder Keg
 
 Emperor Carver Ultimus, BMMD, Esq. III
 
@@ -15,30 +20,32 @@ Emperor Carver Ultimus, BMMD, Esq. III
 
 17 War Boar MMD 47
 
-13 War Hog 1
+13 War Hog
 
-13 War Hog 2
+3 Efaarit Scouts
 
-2 Targ
+2 Farrow Sapper
 
 4 Farrow Bone Grinders 1
 
 4 Farrow Bone Grinders 2
 
-7 Farrow Brigands 1
+4 Farrow Bone Grinders 3
 
-3 Farrow Brigand Warlord 1
+7 Farrow Slaughterhousers 1
 
-7 Farrow Brigands 2
+7 Farrow Slaughterhousers 2
 
-3 Farrow Brigand Warlord 2
+6 Farrow Valkyries 1
+
+6 Farrow Valkyries 2
 
 
 PC COMMAND CARD
-Blessing of the Gods
-Careful Reconnaissance
+Defenses
+Hit & Run
 Lucky Penny
 Old Faithful
-Sapper
+Put the Fires Out
 
 TOTAL POINTS 100/100
