@@ -1,41 +1,38 @@
-# 3/21/26 5/25
+# 3/21/26 3/18
 
 Khador - Old Umbrey
 Grand Melee - 100 pts
 
 PC CARD
 
-Defenses
-DEFENSE 1 - Barrier
-DEFENSE 1 - Barrier
-DEFENSE 1 - Barrier
-
 Kapitan Yana Kovoskiy
 
-9 Feral 1
+9 Feral
 5 HEAD - Alke
 4 BACK - Wings
-
-9 Feral 2
-6 HEAD - Razorback
-3 BACK - Quills
 
 28 Gorger
 10 HEAD - Tusked Head
 9 RIGHT ARM - Primal Club
 9 LEFT ARM - Hornet's Nest
 
+3 Koldun Lord Damien Korovnik
+
 5 Liegemen Ursan Champion 1
 
 5 Liegemen Ursan Champion 2
+
+4 Ursine Apex
 
 3 Ursine Shifted 1
 
 3 Ursine Shifted 2
 
-9 Chosen of the Witch
+3 Ursine Shifted 3
 
-11 Liegemen Ursans
+1 Witch-Marked Totem
+
+9 Chosen of the Witch
 
 5 Liegemen Wardens 1
 
@@ -47,10 +44,12 @@ Kapitan Yana Kovoskiy
 
 4 Shearlings
 
+9 The Hounds
+
 
 PC COMMAND CARD
 Blessing of the Gods
-Defenses
+Hit & Run
 Lucky Penny
 Put the Fires Out
 Sapper
