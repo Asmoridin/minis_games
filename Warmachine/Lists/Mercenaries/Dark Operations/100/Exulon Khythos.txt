@@ -1,53 +1,47 @@
-# 7/19/25 5th/24 Ottawa
+# 3/21/26 3/25
 
 Mercenaries - Dark Operations
 Grand Melee - 100 pts
 
 PC CARD
 
-Exulon Khythos
+Exulon Thexus
 
-15 Malfessor
-
-9 Warden
+10 Subduer
 
 12 Wrecker
 
-2 Agitator 1
+3 Agitator
 
-2 Agitator 2
+2 Akulon Stygius
 
-2 Agitator 3
+20 Magnus the Unstoppable
 
-3 Akulon Thaemestra
+Invictus
 
-20 Carver Ultimus
+9 Criterions 1
 
-War Boar MMD47
-
-4 Silexus Xiphus
-
-2 Stygius
-
-8 Criterions
+9 Criterions 2
 
 4 Drudge Conduits 1
 
-2 Mind Bender
+2 Mind Bender 1
 
 4 Drudge Conduits 2
 
-4 Drudge Slayers
+2 Mind Bender 2
 
-2 Mind Slaver
+9 Iconoclast Drudges 1
+
+9 Iconoclast Drudges 2
 
 5 Overlords
 
 
 PC COMMAND CARD
 Blessing of the Gods
-Duck and Cover!
-Lucky Penny
+Careful Reconnaissance
+Hit & Run
 Old Faithful
 Put the Fires Out
 
