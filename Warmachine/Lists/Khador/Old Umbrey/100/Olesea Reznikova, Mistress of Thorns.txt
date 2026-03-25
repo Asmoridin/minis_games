@@ -1,55 +1,57 @@
-# 3/21/26 16/25
+# 3/21/26 3/21
 
 Khador - Old Umbrey
 Grand Melee - 100 pts
 
 PC CARD
 
+Defenses
+DEFENSE 1 - Barrier
+DEFENSE 1 - Barrier
+DEFENSE 1 - Spike Trap
+
 Olesea Reznikova, Mistress of Thorns
 
 9 Feral
-5 HEAD - Alke
+5 HEAD - Drek
 4 BACK - Wings
 
-15 Primeval
-3 HEAD - Bear
+13 Primeval 1
+3 HEAD - Raven
+6 RIGHT ARM - Ancient Staff
+4 LEFT ARM - Enchanted Claw
+
+14 Primeval 2
+3 HEAD - Raven
 7 RIGHT ARM - Bone Sword
-5 LEFT ARM - Enchanted Shield
+4 LEFT ARM - Runed Skull
 
-16 The Starved
+3 Animist
 
-3 Animist 1
+18 Kapitan Zahara Vilkul
 
-3 Animist 2
-
-5 Jezhana Agha, Dark Sister
-
-4 Lupine Apex 1
-
-4 Lupine Apex 2
-
-3 Ursine Shifted 1
-
-3 Ursine Shifted 2
+Razor
 
 4 Vorony
 
+1 Witch-Marked Totem
+
 9 Chosen of the Witch
 
-6 Liegemen Hunters
+11 Liegemen Ursans
 
-5 Liegemen Wardens 1
-
-5 Liegemen Wardens 2
-
-2 Liegemen Primalist
+5 Liegemen Wardens
 
 4 Shearlings
+
+9 The Hounds
 
 
 PC COMMAND CARD
 Blessing of the Gods
+Defenses
 Hit & Run
 Lucky Penny
-Old Faithful
 Sapper
+
+TOTAL POINTS 100/100
