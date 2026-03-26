@@ -29,44 +29,44 @@ Skarlock Lieutenant;Necrofactorium;Solo;1;CRYX_NECROFACTORIUM_CORE;3;4;0;0;0
 Sludge Thralls;Necrofactorium;Unit;6;CRYX_NECROFACTORIUM_AUXILIARY;8;2;0;0;0
 The Furies;Necrofactorium;Unit;6;CRYX_NECROFACTORIUM_COMMAND_STARTER;10;1;0;0;0
 Wraithbinder Nekane;Necrofactorium;Warcaster;Banishing Ward/Crimson Veil/Crippling Grasp/Mirage/Venom;1;CRYX_NECROFACTORIUM_COMMAND_STARTER;0;1;0;0;0
+Captain Buck Hasker;Gravediggers;Warcaster;Carnage/Earth's Sanctuary/Escort/Silence of Death/Veil of Mists;1;CYGNAR_GRAVEDIGGER_COMMAND_STARTER;0;1;0;0;0
+Captain Connor 'Boom Boom' McCoy;Gravediggers;Warcaster;Fire For Effect/Fury's Strength/Inhospitable Ground/Sentry;6;99.99;0;1;0;0;0
+Captain Cynthia Rosko;Gravediggers;Scout Warcaster;Admonition/Arcane Charge/Deceleration/Second Sight/Shadow Step;1;CYGNAR_GRAVEDIGGER_BATTLEGROUP;0;1;0;0;0
+Colonel Allison Jakes;Gravediggers;Warcaster;Chasten/Eliminator/Fail-Safe/Flashing Blade/Synergy;1;CYGNAR_GRAVEDIGGER_AUXILIARY;0;1;0;0;0
+Major Allister Caine;Gravediggers/Hellslinger Cadre;Warcaster;Blur/Calamity/Heightened Reflexes/Mage Sight/Magic Bullet;1;CYGNAR_HELLSLINGERS_CADRE;0;1;0;0;0
+Major Grant Vargus;Gravediggers;Warcaster;Hand of Destruction/Return Fire/Rhythm of War/Rift/Rock Wall;2;CYGNAR_GRAVEDIGGER_CORE;0;1;0;0;0
+Mechanik Adept Sparkhammer;Gravediggers/Storm Forge Cadre;Warcaster;Electrify/Force Hammer/Inhospitable Ground/Jackhammer/Lightning Pulse/Mobility;CYGNAR_STORM_FORGE_CADRE;1;0;1;0;0;0
+Valiant;Gravediggers;Heavy Warjack;4;CYGNAR_GRAVEDIGGER_BATTLEGROUP;16;4;0;0;0
+Beaker;Gravediggers;Heavy Warjack;4;CYGNAR_GRAVEDIGGER_AUXILIARY;14;1;0;0;0
+Borealis;Gravediggers/Storm Forge Cadre;Heavy Warjack;4;CYGNAR_STORM_FORGE_CADRE;14;2;0;0;0
+Deuce;Gravediggers/Hellslinger Cadre;Heavy Warjack;4;CYGNAR_HELLSLINGERS_CADRE;17;1;0;0;0
+Patriot;Gravediggers;Light Warjack;2;CYGNAR_GRAVEDIGGER_BATTLEGROUP;11;4;0;0;0
+Plugger;Gravediggers;Heavy Warjack;4;CYGNAR_GRAVEDIGGER_COMMAND_STARTER;17;1;0;0;0
+Sky Bomber;MKIV Mercenary;Battle Engine;10;109.99;12;2;0;0;0
+Sky Raider;MKIV Mercenary;Battle Engine;10;109.99;10;2;0;0;0
+Heavy Field Gun;Gravediggers;Structure;6;64.99;7;2;0;0;0
 
-Captain Buck Hasker;Gravediggers;Warcaster;1;?;0;1;0;0;0
-Captain Connor 'Boom Boom' McCoy;Gravediggers;Warcaster;?;?;0;1;0;0;0
-Captain Cynthia Rosko;Gravediggers;Warcaster;?;?;0;1;0;0;0
-Colonel Allison Jakes;Gravediggers;Warcaster;?;?;0;1;0;0;0
-Major Allister Caine;Gravediggers;Warcaster;?;?;0;1;0;0;0
-Major Grant Vargus;Gravediggers;Warcaster;?;?;0;1;0;0;0
-Mechanik Adept Sparkhammer;Gravediggers;Warcaster;?;?;0;1;0;0;0
-Valiant;Gravediggers;? Warjack;?;?;16;4;0;0;0
-Beaker;Gravediggers;? Warjack;?;?;14;1;0;0;0
-Borealis;Gravediggers;? Warjack;?;?;14;2;0;0;0
-Deuce;Gravediggers;? Warjack;?;?;17;1;0;0;0
-Patriot;Gravediggers;? Warjack;?;?;11;4;0;0;0
-Plugger;Gravediggers;? Warjack;?;?;17;1;0;0;0
-Sky Bomber;MKIV Mercenary;Battle Engine;?;?;12;2;0;0;0
-Sky Raider;MKIV Mercenary;Battle Engine;?;?;10;2;0;0;0
-Heavy Field Gun;Gravediggers;Structure;?;?;7;2;0;0;0
-Assault Strider;Gravediggers;Solo;?;?;10;2;0;0;0
-Captain Argo Brock;Gravediggers;Solo;?;?;3;1;0;0;0
-Captain Bastian Falk;Gravediggers;Solo;?;?;4;1;0;0;0
-Heavy Machine Gun Crew;Gravediggers;Solo;?;?;3;4;0;0;0
-Lt. Stella Barron;Gravediggers;Solo;?;?;3;1;0;0;0
-Sergeant Brunaugh "Bruno" Ramjaw;Gravediggers;Solo;?;?;4;1;0;0;0
-Specialist Tyson Vas;Gravediggers;Solo;?;?;3;1;0;0;0
-Weather Station;Gravediggers;Solo;?;?;3;4;0;0;0
-Alexia, Queen of the Damned;MKIV Mercenary;Solo;?;?;4;1;0;0;0
-Eilish Garrity, the Dark Traitor;MKIV Mercenary;Solo;?;?;3;1;0;0;0
-Eiryss, Shadow of Retribution;MKIV Mercenary;Solo;?;?;5;1;0;0;0
-Greygore Boomhowler;MKIV Mercenary;Solo;?;?;4;1;0;0;0
-Gravedigger Commandos;Gravediggers;Unit;?;?;8;4;0;0;0
-Gravedigger Gun Mages;Gravediggers;Unit;?;?;4;3;0;0;0
-Gravedigger Rangers;Gravediggers;Unit;?;?;7;4;0;0;0
-Storm Callers;Gravediggers;Unit;?;?;5;6;0;0;0
-Storm Vanes;Gravediggers;Unit;?;?;5;2;0;0;0
-The Black 13th;Gravediggers;Unit;?;?;9;1;0;0;0
-The Rowdies;Gravediggers;Unit;?;?;9;1;0;0;0
-Commando Officer;Gravediggers;Command Attachment;?;?;2;4;0;0;0
-Trollkin Express Sniper;Gravediggers;Command Attachment;?;?;3;4;0;0;0
+Assault Strider;Gravediggers;Solo;?;99.99;10;2;0;0;0
+Captain Argo Brock;Gravediggers;Solo;?;CYGNAR_GRAVEDIGGER_AUXILIARY;3;1;0;0;0
+Captain Bastian Falk;Gravediggers;Solo;?;CYGNAR_HELLSLINGERS_CADRE;4;1;0;0;0
+Heavy Machine Gun Crew;Gravediggers;Solo;?;CYGNAR_GRAVEDIGGER_CORE;3;4;0;0;0
+Lt. Stella Barron;Gravediggers;Solo;?;CYGNAR_GRAVEDIGGER_CORE;3;1;0;0;0
+Sergeant Brunaugh "Bruno" Ramjaw;Gravediggers;Solo;?;CYGNAR_GRAVEDIGGER_COMMAND_STARTER;4;1;0;0;0
+Specialist Tyson Vos;Gravediggers;Solo;?;CYGNAR_STORM_FORGE_CADRE;3;1;0;0;0
+Weather Station;Gravediggers;Solo;?;CYGNAR_STORM_FORGE_CADRE;3;4;0;0;0
+Alexia, Queen of the Damned;MKIV Mercenary;Solo;?;14.99;4;1;0;0;0
+Eilish Garrity, the Dark Traitor;MKIV Mercenary;Solo;?;14.99;3;1;0;0;0
+Eiryss, Shadow of Retribution;MKIV Mercenary;Solo;?;14.99;5;1;0;0;0
+Greygore Boomhowler;MKIV Mercenary;Solo;?;19.99;4;1;0;0;0
+Gravedigger Commandos;Gravediggers;Unit;?;CYGNAR_GRAVEDIGGER_AUXILIARY;8;4;0;0;0
+Gravedigger Gun Mages;Gravediggers;Unit;?;CYGNAR_GRAVEDIGGER_CORE;4;3;0;0;0
+Gravedigger Rangers;Gravediggers;Unit;?;CYGNAR_GRAVEDIGGER_CORE;7;4;0;0;0
+Storm Callers;Gravediggers;Unit;?;CYGNAR_STORM_FORGE_CADRE;5;6;0;0;0
+Storm Vanes;Gravediggers;Unit;?;CYGNAR_STORM_FORGE_CADRE;5;2;0;0;0
+The Black 13th;Gravediggers;Unit;?;CYGNAR_HELLSLINGERS_CADRE;9;1;0;0;0
+The Rowdies;Gravediggers;Unit;?;CYGNAR_GRAVEDIGGER_COMMAND_STARTER;9;1;0;0;0
+Commando Officer;Gravediggers;Command Attachment;?;CYGNAR_GRAVEDIGGER_AUXILIARY;2;4;0;0;0
+Trollkin Express Sniper;Gravediggers;Command Attachment;?;CYGNAR_GRAVEDIGGER_CORE;3;4;0;0;0
 
 Accretion Servitors;Convergence of Cyriss/Legacy Convergence of Cyriss;Solo;3;10.99;2;3;3;0;0
 Ace;First Army/Legacy Cygnar;Light Warjack;2;24.99;8;1;0;0;0

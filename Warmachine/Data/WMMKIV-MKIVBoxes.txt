@@ -1,18 +1,23 @@
-CRYX_NECROFACTORIUM_BATTLEGROUP;Discerptor Eviscerus-1/Raptor-2/Malefactor-1;69.99
 ARCHNUMEN_AURORA;Archnumen Aurora-1/Negation Angels-1/Prefect Hypatia-1;84.99
 CRUCIBLE_GUARD_INFANTRY;Crucible Guard Infantry-2/Crucible Guard Infantry Officer & Standard-1;54.99
 CRUCIBLE_GUARD_ROCKETMEN;Crucible Guard Rocketman Captain-1/Crucible Guard Rocketmen-2/Rocketmen Gunners-1;69.99
+CRYX_NECROFACTORIUM_AUXILIARY;Lich Lord Dekathus-1/Iron Lich Commander-1/Night Terrors-1/Mechanithrall Brutes-1/Sludge Thralls-1;149.99
+CRYX_NECROFACTORIUM_BATTLEGROUP;Discerptor Eviscerus-1/Raptor-2/Malefactor-1;69.99
+CRYX_NECROFACTORIUM_COMMAND_STARTER;Wraithbinder Nekane-1/Master Necrotech Chatterbane-1/Hades-1/The Furies-1;79.99
+CRYX_NECROFACTORIUM_CORE;Master Necrosurgeon Sepsira-1/Grendel-1/Machine Wraith Dominator-1/Skarlock Lieutenant-1/Mechanithrall Swarm-2/Necrosurgeon Initiates-1;159.99
+CYGNAR_GRAVEDIGGER_AUXILIARY;Colonel Allison Jakes-1/Captain Argo Brock-1/Beaker-1/Gravedigger Commandos-1/Commando Officer-1;149.99
+CYGNAR_GRAVEDIGGER_BATTLEGROUP;Captain Cynthia Rosko-1/Valiant-1/Patriot-1;;69.99
+CYGNAR_GRAVEDIGGER_COMMAND_STARTER;Captain Buck Hasker-1/Plugger-1/The Rowdies-1/Sergeant Brunaugh "Bruno" Ramjaw-1;;79.99
+CYGNAR_GRAVEDIGGER_CORE;Major Grant Vargus-1/Lt. Stella Barron-1/Heavy Machine Gun Crew-1/Gravedigger Gun Mages-1/Gravedigger Rangers-2/Trollkin Express Sniper-1;159.99
+CYGNAR_HELLSLINGERS_CADRE;Major Allister Caine-1/Deuce-1/Captain Bastian Falk-1/The Black 13th-1;64.99
+CYGNAR_STORM_FORGE_CADRE;Mechanik Adept Sparkhammer-1/Specialist Tyson Vos-1/Storm Callers-1/Storm Vanes-1/Weather Station-1/Borealis-1;99.99
 DEVIL_DOGS;Captain Sam MacHorne-1/Devil Dogs-1;59.99
+HIVE_MIND_CARDRE;Exulon Kythos-1/Silexus Xiphus-1/Akulon Thaemestra-1/Malfessor-1/Criterions-1;79.99
 RIOT_QUEST;Dez-1/Eiryss, Fortune Hunter of Ios-1/Sir Dreyfus the Storm Knight-1/Gubbin-1/Balthazar Bamfist-1;49.99
 RIOT_QUEST_WINTERTIME;Boomhowler the Destroyer-1/Stonecold Black Bella-1/Yssylla-1/Yuri the Hunter-1/Shivers-1;49.99
 SATYXIS_RAIDER;Satyxis Raiders-2/Satyxis Raider Sea Witch-1;49.99
 SCHARDE_PIRATE;Scharde Pirates-2/Scharde Pirate Officer-1;59.99
+STORMBLADE_INF;Stormblade Infantry-1/Stormblade Infantry Storm Gunner-3;44.99
 TRENCHER_ATTACH;Trencher Infantry Officer-1/Trencher Sniper-1;17.99
 TRENCHER_INFANTRY;Trencher Infantry-2/Trencher Rifle Grenadiers-1;49.99
 TRENCHER_LONG_GUNNERS;Trencher Long Gunner Officer-1/Trencher Long Gunners-2;69.99
-STORMBLADE_INF;Stormblade Infantry-1/Stormblade Infantry Storm Gunner-3;44.99
-HIVE_MIND_CARDRE;Exulon Kythos-1/Silexus Xiphus-1/Akulon Thaemestra-1/Malfessor-1/Criterions-1;79.99
-CRYX_NECROFACTORIUM_AUXILIARY;Lich Lord Dekathus-1/Iron Lich Commander-1/Night Terrors-1/Mechanithrall Brutes-1/Sludge Thralls-1;149.99
-CRYX_NECROFACTORIUM_CORE;Master Necrosurgeon Sepsira-1/Grendel-1/Machine Wraith Dominator-1/Skarlock Lieutenant-1/Mechanithrall Swarm-2/Necrosurgeon Initiates-1;159.99
-CRYX_NECROFACTORIUM_COMMAND_STARTER;Wraithbinder Nekane-1/Master Necrotech Chatterbane-1/Hades-1/The Furies-1;79.99
-
