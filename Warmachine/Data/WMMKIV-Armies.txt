@@ -16,3 +16,4 @@ Necrofactorium;Cryx;True;True;False
 Secret Dominion;Circle Orboros;True;False;False
 Storm Legion;Cygnar;True;True;False
 Storm Knights;Cygnar;True;False;False
+Hive Mind Cadre;Cryx;True;True;True

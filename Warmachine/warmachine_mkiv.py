@@ -6,19 +6,21 @@ Collection manager, points summary for Warmachine MKIV.
 
 import os
 
-from steve_utils.output_utils import double_print
-from steve_utils.sort_and_filter import sort_and_filter
-import minis_games.Libraries.wm_armies as wm_armies
+from minis_games.General.Libraries.output_utils import double_print
+from minis_games.General.Libraries.sort_and_filter import sort_and_filter
+import minis_games.Warmachine.Libraries.wm_armies as wm_armies
 
 # Devourer's Host is 366 points
 
 GAME_NAME = "Warmachine MKIV"
 COMPANY = "Privateer Press"
-
+FILE_PREFIX = os.path.join("minis_games", "Warmachine")
 if os.getcwd().endswith('minis_games'):
-    file_h = open('DB/WMMKIVData.txt', 'r', encoding="UTF-8")
-else:
-    file_h = open('minis_games/DB/WMMKIVData.txt', 'r', encoding="UTF-8")
+    FILE_PREFIX = os.path.join("Warmachine")
+LIST_PREFIX = os.path.join(FILE_PREFIX, "Lists")
+DATA_PREFIX = os.path.join(FILE_PREFIX, "Data")
+
+file_h = open(os.path.join(DATA_PREFIX, 'Warmachine MKIV Data.txt'), 'r', encoding="UTF-8")
 
 def validate_armies(army_string):
     """
@@ -38,10 +40,11 @@ def validate_model_types(in_model_type):
     """
     if in_model_type in ['Solo', 'Unit', 'Battle Engine']:
         return in_model_type
-    elif in_model_type in ['Warlock', 'Warcaster']:
+    elif in_model_type in ['Warlock', 'Warcaster', 'Scout Warcaster', 'Scout Warlock']:
         return "Leader"
     elif in_model_type in ['Heavy Warbeast', 'Light Warbeast', 'Gargantuan Warbeast',
-        'Heavy Warjack', 'Light Warjack', 'Colossal Warjack']:
+        'Heavy Warjack', 'Light Warjack', 'Colossal Warjack', 'Super Heavy Warjack',
+        'Monstrosity']:
         return "Battlegroup"
     elif in_model_type in ['Command Attachment', 'Weapon Attachment']:
         return "Unit"
@@ -62,12 +65,23 @@ model_names = set()
 for line in lines:
     if line == '' or line.startswith('#'):
         continue
-    try:
-        model_name, model_armies, model_type, paint_points, dollar_cost, points, max_fa, \
-            own_amount, built_amount, painted_amount = line.split(';')
-    except ValueError:
-        print(f"Issue with line for {line.split(';')[0]}")
-        continue
+    line_vals = line.split(';')
+    if line_vals[2] in ['Warcaster', 'Scout Warcaster', 'Warlock', 'Scout Warlock']:
+        try:
+            model_name, model_armies, model_type, spells, paint_points, dollar_cost, points, \
+                max_fa, own_amount, built_amount, painted_amount = line_vals
+        except ValueError:
+            print(f"Issue with line for {line_vals[0]}")
+            print(line)
+            continue
+    else:
+        try:
+            model_name, model_armies, model_type, paint_points, dollar_cost, points, max_fa, \
+                own_amount, built_amount, painted_amount = line_vals
+        except ValueError:
+            print(f"Issue with line for {line_vals[0]}")
+            print(line)
+            continue
     if model_name in model_names:
         print("Duplicate: " + model_name)
     model_names.add(model_name)

@@ -4,6 +4,13 @@
 Handler to identify the various WM armies
 """
 
+import os
+
+FILE_PREFIX = os.path.join("minis_games", "Warmachine")
+if os.getcwd().endswith('minis_games'):
+    FILE_PREFIX = os.path.join("Warmachine")
+DATA_PREFIX = os.path.join(FILE_PREFIX, "Data")
+
 VALID_FACTIONS = ['Cryx', 'Cygnar', 'Circle Orboros', 'Mercenaries', 'Convergence of Cyriss', 
     'Crucible Guard']
 
@@ -49,7 +56,7 @@ def get_era(in_armies):
 
 armies = []
 
-with open("minis_games/DB/WMMKIV-Armies.txt", 'r', encoding="UTF-8") as army_fh:
+with open(os.path.join(DATA_PREFIX, 'WMMKIV-Armies.txt'), 'r', encoding="UTF-8") as army_fh:
     for army_line in army_fh:
         if army_line.startswith('#'):
             continue
