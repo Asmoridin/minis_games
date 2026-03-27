@@ -35,7 +35,7 @@ Captain Cynthia Rosko;Gravediggers;Scout Warcaster;Admonition/Arcane Charge/Dece
 Colonel Allison Jakes;Gravediggers;Warcaster;Chasten/Eliminator/Fail-Safe/Flashing Blade/Synergy;1;CYGNAR_GRAVEDIGGER_AUXILIARY;0;1;0;0;0
 Major Allister Caine;Gravediggers/Hellslinger Cadre;Warcaster;Blur/Calamity/Heightened Reflexes/Mage Sight/Magic Bullet;1;CYGNAR_HELLSLINGERS_CADRE;0;1;0;0;0
 Major Grant Vargus;Gravediggers;Warcaster;Hand of Destruction/Return Fire/Rhythm of War/Rift/Rock Wall;2;CYGNAR_GRAVEDIGGER_CORE;0;1;0;0;0
-Mechanik Adept Sparkhammer;Gravediggers/Storm Forge Cadre;Warcaster;Electrify/Force Hammer/Inhospitable Ground/Jackhammer/Lightning Pulse/Mobility;CYGNAR_STORM_FORGE_CADRE;1;0;1;0;0;0
+Mechanik Adept Sparkhammer;Gravediggers/Storm Forge Cadre;Warcaster;Electrify/Force Hammer/Inhospitable Ground/Jackhammer/Lightning Pulse/Mobility;1;CYGNAR_STORM_FORGE_CADRE;0;1;0;0;0
 Valiant;Gravediggers;Heavy Warjack;4;CYGNAR_GRAVEDIGGER_BATTLEGROUP;16;4;0;0;0
 Beaker;Gravediggers;Heavy Warjack;4;CYGNAR_GRAVEDIGGER_AUXILIARY;14;1;0;0;0
 Borealis;Gravediggers/Storm Forge Cadre;Heavy Warjack;4;CYGNAR_STORM_FORGE_CADRE;14;2;0;0;0

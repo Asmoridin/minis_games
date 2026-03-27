@@ -89,7 +89,11 @@ for line in lines:
     MODEL_LEGALITY = wm_armies.get_legality(model_armies)
     MODEL_ERA = wm_armies.get_era(model_armies)
     model_type = validate_model_types(model_type)
-    paint_points = int(paint_points)
+    try:
+        paint_points = int(paint_points)
+    except ValueError:
+        print(f"Invalid paint points for {model_name}")
+        continue
     #TODO: Figure out dollar_cost
     points = int(points)
     max_fa = int(max_fa)
