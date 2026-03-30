@@ -1,15 +1,19 @@
-# 10/11/25 4th/12
+# 3/29/26 63/80
 
 Convergence of Cyriss - Convergence of Cyriss
 Grand Melee - 100 pts
 
 PC CARD
 
+Ionization Servitors
+
 Archnumen Aurora
 
-6 Corollary
+13 Cipher
 
-14 Monitor
+5 Corollary
+
+26 Prime Conflux
 
 8 Tesselator 1
 
@@ -17,37 +21,24 @@ Archnumen Aurora
 
 8 Tesselator 3
 
-8 Tesselator 4
+4
 
-12 Asphyxious the Sanctified
+5 Clockwork Angels 1
 
-Annihilation Servitors
-
-10 Conservator
-
-3 Enigma Foundry
-
-4 Prefect Hypatia
-
-5 Clockwork Angels
-
-2 Transverse Enumerator
+5 Clockwork Angels 2
 
 6 Negation Angels 1
 
 6 Negation Angels 2
 
-Defenses
-DEFENSE 1 - Barrier
-DEFENSE 1 - Barrier
-DEFENSE 1 - Fire Pit
+6 Negation Angels 3
 
 
 PC COMMAND CARD
 Blessing of the Gods
-Defenses
-Duck and Cover!
-Hit & Run
+Break Through
 Lucky Penny
+Old Faithful
+Sapper
 
 TOTAL POINTS 100/100
