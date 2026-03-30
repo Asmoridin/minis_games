@@ -1,4 +1,4 @@
-# 3/29/26 17/18
+# 3/29/26 2/7
 
 Retribution of Scyrah - Legions of Dawn
 Grand Melee - 100 pts
@@ -7,27 +7,33 @@ PC CARD
 
 Issyria, Sibyl of Dawn
 
-9 Gorgon
+7 Chimera
 
 12 Hemera
 
 27 Hyperion
 
-14 Dawnguard Trident
+5 Dawnguard Destor Thane
+
+3 Fane Knight Guardian
+
+3 Priest of Nyssor
 
 10 Dawnguard Destors 1
 
 10 Dawnguard Destors 2
 
-4 House Shyeel Arcanists
+4 House Shyeel Arcanists 1
 
-7 Stormfall Archers 1
+4 House Shyeel Arcanists 2
 
-7 Stormfall Archers 2
+8 Ryssovass Defenders
+
+7 Stormfall Archers
 
 
 PC COMMAND CARD
-Break Through
+Blessing of the Gods
 Careful Reconnaissance
 Lucky Penny
 Old Faithful
