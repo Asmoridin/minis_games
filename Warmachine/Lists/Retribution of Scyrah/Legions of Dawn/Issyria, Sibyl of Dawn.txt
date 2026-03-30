@@ -1,6 +1,5 @@
-# 6/8/25 4th/8 Cali tournament
+# 3/29/26 17/18
 
-issyria
 Retribution of Scyrah - Legions of Dawn
 Grand Melee - 100 pts
 
@@ -8,15 +7,13 @@ PC CARD
 
 Issyria, Sibyl of Dawn
 
-7 Chimera
+9 Gorgon
 
-28 Hyperion
+12 Hemera
 
-14 Dawnguard Trident 1
+27 Hyperion
 
-14 Dawnguard Trident 2
-
-5 Dawnguard Destor Thane
+14 Dawnguard Trident
 
 10 Dawnguard Destors 1
 
@@ -24,11 +21,13 @@ Issyria, Sibyl of Dawn
 
 4 House Shyeel Arcanists
 
-8 Stormfall Archers
+7 Stormfall Archers 1
+
+7 Stormfall Archers 2
 
 
 PC COMMAND CARD
-Blessing of the Gods
+Break Through
 Careful Reconnaissance
 Lucky Penny
 Old Faithful
