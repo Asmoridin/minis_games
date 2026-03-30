@@ -1,18 +1,38 @@
-# 3/21/26 4/25
+# 3/29/26 8/80
 
 Cygnar - Gravediggers
 Grand Melee - 100 pts
 
 PC CARD
 
+Ammo Crate 1
+
+Medical Crate 1
+
+Mantlet 1
+
+Fuel Canister 1
+
+Ammo Crate 2
+
+Medical Crate 2
+
+Mantlet 2
+
+Fuel Canister 2
+
+Heavy Weapon Crate
+HEAVY WEAPON - Heavy Flamethrower
+
+Skirmisher
+
+Blocker
+
+Raider
+
 Major Allister Caine
 
 17 Deuce
-
-6 Patriot
-1 HEAD - Arc Node
-3 RIGHT ARM - Pole Cleaver
-2 LEFT ARM - Trench Blade
 
 20 Carver Ultimus
 
@@ -30,11 +50,13 @@ War Boar MMD47
 
 3 Heavy Machine Gun Crew 3
 
+3 Heavy Machine Gun Crew 4
+
 4 Gravedigger Gun Mages
 
-7 Gravedigger Rangers 1
+7 Gravedigger Rangers
 
-7 Gravedigger Rangers 2
+5 Storm Vanes
 
 9 The Black 13th
 
@@ -44,7 +66,7 @@ War Boar MMD47
 PC COMMAND CARD
 Blessing of the Gods
 Duck and Cover!
-Hit & Run
+5 Heavy Airdrop 1
 Light Airdrop 1
 Light Airdrop 2
 Lucky Penny
