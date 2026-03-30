@@ -1,4 +1,4 @@
-# 3/21/26 10/25
+# 3/29/26 15/80
 
 Dusk - House Kallyss
 Grand Melee - 100 pts
@@ -7,14 +7,14 @@ PC CARD
 
 Tyrus, Nis-Arsyr of Spiders
 
-7 Ghast 1
-1 HEAD - Arc Node
-4 RIGHT ARM - Blaster Fist
-2 LEFT ARM - Light Blade Fist
-
-6 Ghast 2
+6 Ghast 1
 1 HEAD - Arc Node
 3 RIGHT ARM - Heavy Blade Fist
+2 LEFT ARM - Light Blade Fist
+
+7 Ghast 2
+1 HEAD - Arc Node
+4 RIGHT ARM - Blaster Fist
 2 LEFT ARM - Light Blade Fist
 
 4 Dreadguard Scyir
@@ -27,23 +27,19 @@ Sasha
 
 4 Mage Hunter Commander
 
-3 Mage Hunter Sniper Team
+3 Mage Hunter Sniper Team 1
 
-8 Void Engine
+3 Mage Hunter Sniper Team 2
 
-Wight
+9 Dreadguard Archers 1
+
+9 Dreadguard Archers 2
 
 11 Dreadguard Cavalry 1
 
 11 Dreadguard Cavalry 2
 
 7 Mage Hunter Assassins
-
-6 Soulless Blademasters
-
-6 Soulless Guardians
-
-1 Seeker Warden
 
 8 The Last Watch
 
