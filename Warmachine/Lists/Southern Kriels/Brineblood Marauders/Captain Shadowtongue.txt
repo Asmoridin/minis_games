@@ -1,17 +1,21 @@
-# 3/21/26 2/14
+# 3/29/26 2/18
 
-Southern Kriels - Brineblood Marauders
 Grand Melee - 100 pts
 
 PC CARD
+
+Defenses
+DEFENSE 1 - Barrier
+DEFENSE 2 - barriere
+DEFENSE 1 - barriere
 
 Captain Shadowtongue
 
 14 Deepborn Dire Troll
 3 HEAD - Cantankerous
-2 FIN - Lunker
+1 FIN - Minnow
 5 RIGHT ARM - Hammerhead
-4 LEFT ARM - Shark Skull Gauntlet
+5 LEFT ARM - Crab Net
 
 12 Vorogger 1
 
@@ -21,40 +25,38 @@ Captain Shadowtongue
 
 2 Booty Boss 2
 
-1 Fire Guardian
-
 4 First Mate Hargor Stormjaw
-
-4 Fugue Walker
-
-6 Krueger, Wrath of Blighterghast
 
 2 Pyg Dirge 1
 
 2 Pyg Dirge 2
 
+2 Sully
+
+8 Fire Spitters
+
 9 Lochabash Brothers
 
 6 Marauder Crew 1
 
-3 Marauder Crew Bosun 1
+1 Marauder Crew Tapper
 
 6 Marauder Crew 2
 
-3 Marauder Crew Bosun 2
+3 Marauder Crew Quartermaster
 
 6 Marauder Crew 3
 
-1 Marauder Crew Tapper
+3 Marauder Crew Bosun
 
 5 Pyg Boarding Party
+
+1 Pyg Coxswain
 
 
 PC COMMAND CARD
 Blessing of the Gods
-Careful Reconnaissance
+Break Through
+Defenses
 Hit & Run
-Put the Fires Out
-Sapper
-
-TOTAL POINTS 100/100
+Lucky Penny

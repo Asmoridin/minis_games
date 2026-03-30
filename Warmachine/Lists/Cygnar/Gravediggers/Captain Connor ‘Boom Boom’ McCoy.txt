@@ -1,25 +1,9 @@
-# 3/21/26 11/18
+# 3/29/26 3/7
 
 Cygnar - Gravediggers
 Grand Melee - 100 pts
 
 PC CARD
-
-Ammo Crate 1
-
-Medical Crate 1
-
-Mantlet 1
-
-Fuel Canister 1
-
-Ammo Crate 2
-
-Medical Crate 2
-
-Mantlet 2
-
-Fuel Canister 2
 
 Heavy Weapon Crate 1
 HEAVY WEAPON - Heavy Flamethrower
@@ -39,17 +23,69 @@ Blocker 2
 
 Raider 2
 
+Ammo Crate 1
+
+Medical Crate 1
+
+Mantlet 1
+
+Fuel Canister 1
+
+Ammo Crate 2
+
+Medical Crate 2
+
+Mantlet 2
+
+Fuel Canister 2
+
+Ammo Crate 3
+
+Medical Crate 3
+
+Mantlet 3
+
+Fuel Canister 3
+
+Ammo Crate 4
+
+Medical Crate 4
+
+Mantlet 4
+
+Fuel Canister 4
+
+Heavy Weapon Crate 3
+HEAVY WEAPON - Heavy Flamethrower
+
+Blocker 3
+
+Skirmisher 3
+
+Raider 3
+
+Heavy Weapon Crate 4
+HEAVY WEAPON - Heavy Flamethrower
+
+Skirmisher 4
+
+Blocker 4
+
+Raider 4
+
 Captain Connor ‘Boom Boom’ McCoy
 
-7 Patriot 1
-1 HEAD - Arc Node
-4 RIGHT ARM - Sniper Cannon
-2 LEFT ARM - Trench Blade
+9 Patriot
+2 HEAD - Reposition
+3 RIGHT ARM - Pole Cleaver
+4 LEFT ARM - Tracer Cannon
 
-7 Patriot 2
-1 HEAD - Arc Node
-4 RIGHT ARM - Sniper Cannon
-2 LEFT ARM - Trench Blade
+17 Plugger
+HEAD - Plugger
+RIGHT ARM - Trench Ripper
+LEFT ARM - Trench Ripper
+
+7 Heavy Field Gun
 
 10 Assault Strider 1
 
@@ -57,31 +93,25 @@ Captain Connor ‘Boom Boom’ McCoy
 
 3 Captain Argo Brock
 
-3 Heavy Machine Gun Crew 1
-
-3 Heavy Machine Gun Crew 2
-
-20 Magnus the Unstoppable
-
-Invictus
-
 4 Gravedigger Gun Mages
 
 7 Gravedigger Rangers 1
 
 7 Gravedigger Rangers 2
 
+7 Gravedigger Rangers 3
+
 9 The Rowdies
 
 
 PC COMMAND CARD
 Blessing of the Gods
+Duck and Cover!
 5 Heavy Airdrop 1
 5 Heavy Airdrop 2
 Light Airdrop 1
 Light Airdrop 2
 Lucky Penny
-Military Engineering
 Old Faithful
 
 TOTAL POINTS 100/100

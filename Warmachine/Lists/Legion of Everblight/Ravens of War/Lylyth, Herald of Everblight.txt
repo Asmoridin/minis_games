@@ -1,28 +1,29 @@
-# 5/31/25 4th/20 Texas
+# 3/29/26 26/33
 
-Lylyth3
 Legion of Everblight - Ravens of War
 Grand Melee - 100 pts
 
 PC CARD
 
-Lylyth, Reckoning of Everblight
+Lylyth, Herald of Everblight
 
-16 Azrael
+14 Angelius 1
 
-8 Nephilim Bolt Thrower 1
+14 Angelius 2
 
-8 Nephilim Bolt Thrower 2
+8 Nephilim Bolt Thrower
 
 7 Nephilim Protector
 
-6 Annyssa Ryvaal
+5 Annyssa Ryvaal
 
-1 Blighted Nyss Shepherd
+3 Blighted Nyss Warlord 1
 
-4 Blighted Nyss Warlord
+3 Blighted Nyss Warlord 2
 
 5 Craelix, Fang of Everblight
+
+2 Succubus
 
 6 Blackfrost Shard
 
@@ -30,20 +31,22 @@ Lylyth, Reckoning of Everblight
 
 3 Blighted Nyss Archer Officer & Ammo Porter
 
-10 Blighted Nyss Raptors 1
+6 Blighted Nyss Swordsmen 1
 
-10 Blighted Nyss Raptors 2
+4 Blighted Nyss Swordsman Abbot & Champion 2
 
-6 Blighted Nyss Swordsmen
+6 Blighted Nyss Swordsmen 2
 
-4 Blighted Nyss Swordsman Abbot & Champion
+4 Blighted Nyss Swordsman Abbot & Champion 1
+
+4 Ice Witches
 
 
 PC COMMAND CARD
 Blessing of the Gods
-Careful Reconnaissance
 Duck and Cover!
 Lucky Penny
+Put the Fires Out
 Sapper
 
 TOTAL POINTS 100/100

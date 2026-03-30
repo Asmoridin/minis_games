@@ -1,16 +1,18 @@
-#3/30/25 1st/7 Australia
+# 3/29/26 42/80
 
-Thags post update
 Legion of Everblight - Dragon's Host
 Grand Melee - 100 pts
 
 PC CARD
 
+Defenses
+DEFENSE 1 - Barrier
+DEFENSE 1 - Barrier
+DEFENSE 1 - Spike Trap
+
 Thagrosh, the Messiah
 
-25 Blightbringer
-
-16 Carnivean
+14 Angelius
 
 15 Golab
 
@@ -18,28 +20,30 @@ Thagrosh, the Messiah
 
 3 Harrier 2
 
+7 Raek
+
+15 Scythean
+
 11 Seraph
 
-1 Blighted Nyss Shepherd 1
+3 Shredder
 
-1 Blighted Nyss Shepherd 2
+3 Forsaken 1
 
-1 Blighted Nyss Shepherd 3
+3 Forsaken 2
 
-8 Blighted Ogrun Warmongers
+11 Chosen of Everblight
 
-4 Gorag Rotteneye
+6 Grotesque Banshees
 
-6 Hellmouth 1
-
-6 Hellmouth 2
+6 Hellmouth
 
 
 PC COMMAND CARD
 Blessing of the Gods
-Duck and Cover!
-Hit & Run
+Break Through
+Defenses
 Lucky Penny
-Put the Fires Out
+Old Faithful
 
 TOTAL POINTS 100/100

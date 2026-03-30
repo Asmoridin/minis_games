@@ -1,4 +1,4 @@
-# 3/21/26 3/14
+# 3/29/26 4/80
 
 Khymaera - Shadowflame Shard
 Grand Melee - 100 pts
@@ -23,24 +23,26 @@ Lylyth, the Raven Vengeance
 
 3 Shadowmancer Scion
 
-2 Spinner
+11 Incarnate Knights
 
-11 Incarnate Knights 1
+7 Quick Fang Stalkers 1
 
-11 Incarnate Knights 2
+3 Quick Fang Master 1
+
+7 Quick Fang Stalkers 2
+
+3 Quick Fang Master 2
 
 9 Shades
-
-7 Talon Lashers
 
 4 Wyrmspine Shadowmancers
 
 
 PC COMMAND CARD
 Blessing of the Gods
+Break Through
+Duck and Cover!
 Hit & Run
 Lucky Penny
-Put the Fires Out
-Sapper
 
 TOTAL POINTS 100/100

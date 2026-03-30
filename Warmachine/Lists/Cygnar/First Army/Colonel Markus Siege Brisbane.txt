@@ -1,57 +1,37 @@
-# 5/31/25 9th/12 NY 
+# 3/29/26 16/16
 
-Down and Gritty
 Cygnar - First Army
 Grand Melee - 100 pts
-
 PC CARD
-
 Colonel Markus "Siege" Brisbane
-
 Rocket Turret
-
-8 Ace
-
-15 Triumph
-
+14 Triumph
+9 Trencher Blockhouse
 2 Captain Jonas Murdoch
-
-5 Captain Maxwell Finn
-
-20 Carver Ultimus
-
-War Boar MMD47
-
 4 Commander Anson Hitch
-
 1 Patrol Dog
-
 4 Squire
-
-3 Trencher Master Gunner
-
-5 Trencher Cannon Crew
-
-3 Captain Karli
-
-7 Trencher Commandos
-
-3 Trencher Commando Officer
-
+4 Rangers
+6 Trencher Commando Scattergunners
+7 Trencher Commandos 1
+3 Trencher Commando Officer 1
+7 Trencher Commandos 2
+3 Trencher Commando Officer 2
 8 Trencher Infantry 1
-
 2 Trencher Infantry Officer 1
-
 8 Trencher Infantry 2
-
 2 Trencher Infantry Officer 2
-
+8 Trencher Infantry 3
+8 Trencher Infantry 4
 
 PC COMMAND CARD
-Blessing of the Gods
-Hits and Run
+Defenses
+DEFENSE 1 - Barrier
+DEFENSE 1 - Barrier
+DEFENSE 1 - Barrier
 Lucky Penny
 Old Faithful
 Put the Fires Out
+Sapper
 
 TOTAL POINTS 100/100

@@ -1,4 +1,4 @@
-# 3/21/26 7/21
+# 3/29/26 2/8
 
 Mercenaries - Thornfall Alliance
 Grand Melee - 100 pts
@@ -9,13 +9,15 @@ Sturm & Drang
 
 Drang
 
-15 Lytiersis
+6 Battle Boar
 
 17 War Boar MMD 47
 
-13 Meat Thresher
+13 War Hog
 
-2 Farrow Sapper
+2 Farrow Sapper 1
+
+2 Farrow Sapper 2
 
 20 Magnus the Unstoppable
 
@@ -25,11 +27,13 @@ Invictus
 
 4 Farrow Bone Grinders
 
-7 Farrow Brigands
-
 7 Farrow Slaughterhousers 1
 
 7 Farrow Slaughterhousers 2
+
+7 Farrow Slaughterhousers 3
+
+7 Farrow Slaughterhousers 4
 
 6 Farrow Valkyries
 
@@ -39,6 +43,6 @@ Blessing of the Gods
 Careful Reconnaissance
 Hit & Run
 Lucky Penny
-Old Faithful
+Put the Fires Out
 
 TOTAL POINTS 100/100

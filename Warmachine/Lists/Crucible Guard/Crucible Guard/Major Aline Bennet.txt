@@ -1,9 +1,14 @@
-# 3/21/26 6/12
+# 3/29/26 1/18
 
 Crucible Guard - Crucible Guard
 Grand Melee - 100 pts
 
 PC CARD
+
+Defenses
+DEFENSE 1 - Barrier
+DEFENSE 1 - Barrier
+DEFENSE 1 - Barrier
 
 Major Aline Bennet
 
@@ -11,41 +16,43 @@ Major Aline Bennet
 
 12 Suppressor
 
-10 Toro
+4 Ascendant Mentalist 1
 
-4 Ascendant Mentalist
+4 Ascendant Mentalist 2
 
 1 Crucible Guard Mechanik 1
 
 1 Crucible Guard Mechanik 2
 
-1 Crucible Guard Mechanik 3
+4 Doctor Alejandro Mosby
 
-4 Dragon's Breath Rocket 1
+3 Rocketman Ace 1
 
-4 Dragon's Breath Rocket 2
-
-3 Rocketman Ace
+3 Rocketman Ace 2
 
 3 Rocketman Stinger 1
 
 3 Rocketman Stinger 2
 
+2 Trancer
+
 6 Crucible Guard Rocketmen 1
-
-6 Crucible Guard Rocketmen 2
-
-5 Rocketmen Gunners 1
 
 3 Crucible Guard Rocketman Captain 1
 
-5 Rocketmen Gunners 2
+6 Crucible Guard Rocketmen 2
 
 3 Crucible Guard Rocketman Captain 2
 
-5 Rocketmen Gunners 3
+6 Crucible Guard Rocketmen 3
+
+5 Rocketmen Gunners 1
 
 3 Crucible Guard Rocketman Captain 3
+
+5 Rocketmen Gunners 2
+
+5 Rocketmen Gunners 3
 
 10 The Triumvirate
 
@@ -53,8 +60,8 @@ Major Aline Bennet
 PC COMMAND CARD
 Blessing of the Gods
 Careful Reconnaissance
+Defenses
 Duck and Cover!
 Lucky Penny
-Old Faithful
 
 TOTAL POINTS 100/100

@@ -1,35 +1,43 @@
-# 3/21/26 2/11
+# 3/29/26 5/80
 
 Cryx - Necrofactorium
 Grand Melee - 100 pts
+
 PC CARD
+
 Lich Lord Dekathus
-12 Malefactor 1
-3 HEAD - Accuracy
-7 RIGHT ARM - Fell Axe
-5 LEFT ARM - Vexing Cannon
-13 Malefactor 2
-3 HEAD - Berserk
-7 RIGHT ARM - Fell Axe
-3 LEFT ARM - Vexing Cannon
+
+26 Hellraker
+8 HEAD - Death Swarm
+9 RIGHT ARM - Void Plate Right
+9 LEFT ARM - Void Plate Left
+
 5 Raptor
 3 HEAD - Beaked Maw
 2 BACK - Arc Node
+
 3 Akulon Thaemestra
-20 Magnus the Unstoppable
-Invictus
-3 Silexus Xiphus
-3 Skarlock Lieutenant
-9 Criterions
-7 Mechanithrall Brutes
-6 Mechanithrall Swarm
-4 Necrosurgeon Initiates
-10 Night Terrors
+
+4 Iron Lich Commander
+
+9 Criterions 1
+
+9 Criterions 2
+
+7 Mechanithrall Brutes 1
+
+7 Mechanithrall Brutes 2
+
+10 Night Terrors 1
+
+10 Night Terrors 2
+
 10 The Furies
+
 
 PC COMMAND CARD
 Blessing of the Gods
-Careful Reconnaissance
+Duck and Cover!
 Lucky Penny
 Old Faithful
 Put the Fires Out

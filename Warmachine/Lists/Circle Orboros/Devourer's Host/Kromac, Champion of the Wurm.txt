@@ -1,9 +1,14 @@
-# 8/30/25 6th/48
+# 3/29/26 20/28
 
 Circle Orboros - Devourer's Host
 Grand Melee - 100 pts
 
 PC CARD
+
+Defenses
+DEFENSE 1 - Barrier
+DEFENSE 1 - Barrier
+DEFENSE 1 - Barrier
 
 Kromac, Champion of the Wurm
 
@@ -11,30 +16,30 @@ Kromac, Champion of the Wurm
 
 16 Ghetorix
 
-25 Storm Raptor
+10 Gnarlhorn Satyr
 
-15 Warpwolf Stalker
+15 Loki
 
-4 Bloodweaver Night Witch
+4 Tharn Ravager Shaman 1
 
-1 Gallows Grove
-
-3 Tharn Blood Shaman
-
-4 Tharn Ravager Shaman
+4 Tharn Ravager Shaman 2
 
 10 Tharn Blood Pack
 
-7 Tharn Bloodweavers
+9 Tharn Ravagers
 
-2 Tharn Bloodweaver Haruspex
+3 Tharn Ravager Chieftain
+
+8 Tharn Wolf Riders 1
+
+8 Tharn Wolf Riders 2
 
 
 PC COMMAND CARD
 Blessing of the Gods
 Break Through
-Hit & Run
+Defenses
 Lucky Penny
-Put the Fires Out
+Old Faithful
 
 TOTAL POINTS 100/100

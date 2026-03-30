@@ -1,9 +1,14 @@
-# 3/21/26 1st/25
+# 3/29/26 2/80
 
 Orgoth - Sea Raiders
 Grand Melee - 100 pts
 
 PC CARD
+
+Defenses
+DEFENSE 1 - Barrier
+DEFENSE 1 - Barrier
+DEFENSE 1 - Spike Trap
 
 Sabbreth, The Eternal Annihilation
 
@@ -17,9 +22,9 @@ Sabbreth, The Eternal Annihilation
 3 RIGHT ARM - Mace
 1 LEFT ARM - Clawed Fist
 
-13 Tyrant 1
-3 HEAD - Arcane Vortex
-7 RIGHT ARM - Scything Flail
+12 Tyrant 1
+1 HEAD - Relentless Charge
+8 RIGHT ARM - Shredder
 3 LEFT ARM - Claw
 
 11 Tyrant 2
@@ -27,19 +32,25 @@ Sabbreth, The Eternal Annihilation
 7 RIGHT ARM - Scything Flail
 3 LEFT ARM - Claw
 
-20 Magnus the Unstoppable
+5 Grhotten Champion
 
-Invictus
+3 Koldun Lord Damien Korovnik
 
-3 Reaver Commander
+3 Reaver Commander 1
+
+3 Reaver Commander 2
+
+4 Therion Vhanek
 
 2 Vulcar Forge Master
 
-9 Rhok Harriers 1
-
-9 Rhok Harriers 2
+9 Rhok Harriers
 
 8 The Execrators
+
+8 Ulkor Axers 1
+
+8 Ulkor Axers 2
 
 8 Ulkor Barragers
 
@@ -47,10 +58,10 @@ Invictus
 
 
 PC COMMAND CARD
-Blessing of the Gods
 Careful Reconnaissance
+Defenses
+Hit & Run
+Lucky Penny
 Old Faithful
-Put the Fires Out
-Sapper
 
-TOTAL POINTS 99/100
+TOTAL POINTS 100/100

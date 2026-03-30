@@ -1,4 +1,4 @@
-# 3/21/26 3/12
+# 3/29/26 1/28
 
 Grymkin - Grymkin
 Grand Melee - 100 pts
@@ -9,8 +9,6 @@ The Child
 
 12 Cage Rager
 
-3 Crabbit
-
 7 Frightmare
 
 26 Slaughterhouse 1
@@ -20,6 +18,8 @@ The Child
 3 Baron Tonguelick, Lord of Warts
 
 6 Death Knell
+
+3 Grave Ghoul
 
 3 Lady Karianna Rose
 
@@ -33,8 +33,8 @@ Accursed
 Fortune’s Path
 Ill Omens
 Labyrinth
+Lucky Penny
 Ruin
 Sacrifice
-Shroud
 
 TOTAL POINTS 100/100

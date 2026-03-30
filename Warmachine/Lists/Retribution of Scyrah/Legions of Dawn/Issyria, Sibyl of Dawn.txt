@@ -1,6 +1,5 @@
-# 6/8/25 4th/8 Cali tournament
+# 3/29/26 2/7
 
-issyria
 Retribution of Scyrah - Legions of Dawn
 Grand Melee - 100 pts
 
@@ -10,21 +9,27 @@ Issyria, Sibyl of Dawn
 
 7 Chimera
 
-28 Hyperion
+12 Hemera
 
-14 Dawnguard Trident 1
-
-14 Dawnguard Trident 2
+27 Hyperion
 
 5 Dawnguard Destor Thane
+
+3 Fane Knight Guardian
+
+3 Priest of Nyssor
 
 10 Dawnguard Destors 1
 
 10 Dawnguard Destors 2
 
-4 House Shyeel Arcanists
+4 House Shyeel Arcanists 1
 
-8 Stormfall Archers
+4 House Shyeel Arcanists 2
+
+8 Ryssovass Defenders
+
+7 Stormfall Archers
 
 
 PC COMMAND CARD

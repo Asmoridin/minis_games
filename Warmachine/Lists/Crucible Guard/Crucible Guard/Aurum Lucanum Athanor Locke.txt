@@ -1,6 +1,5 @@
-# 6/1/25 4th/8 England
+# 3/29/26 8/9
 
-locke
 Crucible Guard - Crucible Guard
 Grand Melee - 100 pts
 
@@ -12,9 +11,11 @@ Aurum Lucanum Athanor Locke
 
 10 Toro 2
 
-13 Vindicator 1
+9 Vanguard
 
 28 Vulcan
+
+4 Ascendant Mentalist
 
 5 Aurum Ominus Alyce Marc
 
@@ -22,24 +23,30 @@ Aurum Lucanum Athanor Locke
 
 1 Crucible Guard Mechanik 2
 
-4 Prospero
+1 Crucible Guard Mechanik 3
 
-13 Vindicator 2
+1 Crucible Guard Mechanik 4
 
-3 Rocketman Stinger
+3 Gorman di Wulfe, Revolutionary Agent
 
-2 Trancer
+2 Trancer 1
 
-6 Containment Operatives
+2 Trancer 2
 
-4 Dragon's Breath Rocket
+2 Trancer 3
+
+5 Combat Alchemists
+
+6 Crucible Guard Rocketmen
+
+10 The Triumvirate
 
 
 PC COMMAND CARD
 Blessing of the Gods
-Careful Reconnaissance
-Hit & Run
 Lucky Penny
 Old Faithful
+Put the Fires Out
+Sapper
 
 TOTAL POINTS 100/100

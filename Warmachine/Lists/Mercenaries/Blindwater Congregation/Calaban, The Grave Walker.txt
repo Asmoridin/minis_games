@@ -1,52 +1,50 @@
-#3/29/25 3rd/16
+# 3/29/26 9/9
 
-Calaban
 Mercenaries - Blindwater Congregation
 Grand Melee - 100 pts
 
 PC CARD
 
-Defenses
-DEFENSE 1 - Barrier
-DEFENSE 2 - Fire Pit
-DEFENSE 1 - Fire Pit
-
 Calaban, The Grave Walker
 
 13 Blackhide Wrastler
 
-5 Bull Snapper
+10 Blind Walker
 
-14 Sacral Vault
+4 Bull Snapper
 
-4 Barnabas the Conqueror
+4 Gatorman Soul Slave
 
-10 Blind Walker 1
+4 Kwaak Slickspine & Gub
 
-10 Blind Walker 2
+20 Magnus the Unstoppable
 
-3 Bog Trog Mist Speaker
+Invictus
 
-2 Bone Shrine
+1 Swamp Gobber Chef
 
-20 Carver Ultimus
+4 Thrullg 1
 
-War Boar MMD47
+4 Thrullg 2
 
-4 Kwaak Slickspine & Gub, Croak Sorcerers
+15 Wrong Eye
 
-1 Void Leech
+Snapjaw
 
-7 Croak Raiders 1
+6 Bog Trog Ambushers
 
-7 Croak Raiders 2
+7 Croak Raiders
+
+4 Gatorman Boil Master & Spirit Cauldron 1
+
+4 Gatorman Boil Master & Spirit Cauldron 2
 
 
 PC COMMAND CARD
 Blessing of the Gods
+Break Through
 Careful Reconnaissance
-Defenses
-Duck and Cover!
 Lucky Penny
+Put the Fires Out
 
 TOTAL POINTS 100/100

@@ -1,28 +1,18 @@
-# 5/31/25 5th/21 Colorado tournament
+# 3/29/26 43/80
 
-Rosko
 Cygnar - Gravediggers
 Grand Melee - 100 pts
 
 PC CARD
 
-Heavy Weapon Crate 1
+Heavy Weapon Crate
 HEAVY WEAPON - Heavy Flamethrower
 
-Blocker 1
+Skirmisher
 
-Skirmisher 1
+Blocker
 
-Raider 1
-
-Heavy Weapon Crate 2
-HEAVY WEAPON - Heavy Flamethrower
-
-Skirmisher 2
-
-Blocker 2
-
-Raider 2
+Raider
 
 Ammo Crate 1
 
@@ -40,52 +30,64 @@ Mantlet 2
 
 Fuel Canister 2
 
+Defenses
+DEFENSE 1 - Barrier
+DEFENSE 1 - Barrier
+DEFENSE 1 - Barrier
+
 Captain Cynthia Rosko
-SPELL - Arcane Shield
-SPELL - Chasten
 
-17 Deuce
+8 Patriot 1
+1 HEAD - Arc Node
+3 RIGHT ARM - Grenade Cannon
+4 LEFT ARM - Tracer Cannon
 
-8 Patriot
-1 HEAD - Shield Guard
-5 RIGHT ARM - Sniper Cannon
-2 LEFT ARM - Trench Blade
+8 Patriot 2
+1 HEAD - Arc Node
+3 RIGHT ARM - Pole Cleaver
+4 LEFT ARM - Tracer Cannon
 
-13 Valiant 1
-2 HEAD - Aggressive
-5 RIGHT ARM - Piston Hammer
-6 LEFT ARM - Volley Shield
+7 Heavy Field Gun 1
 
-12 Valiant 2
-2 HEAD - Reposition
-5 RIGHT ARM - Piston Hammer
-5 LEFT ARM - Harpoon Fist
+7 Heavy Field Gun 2
 
-4 Greygore Boomhowler
+10 Assault Strider
 
-4 Sergeant Brunaugh "Bruno" Ramjaw
+3 Captain Argo Brock
+
+3 Eilish Garrity, the Dark Traitor
+
+3 Heavy Machine Gun Crew 1
+
+3 Heavy Machine Gun Crew 2
+
+3 Heavy Machine Gun Crew 3
+
+3 Heavy Machine Gun Crew 4
+
+3 Lt. Stella Barron
+
+3 Weather Station 1
+
+3 Weather Station 2
 
 8 Gravedigger Commandos
 
 2 Commando Officer
 
-4 Gravedigger Gun Mages 1
-
-4 Gravedigger Gun Mages 2
-
-5 Storm Vanes
-
 9 The Black 13th
+
+9 The Rowdies
 
 
 PC COMMAND CARD
-Blessing of the Gods
-Duck and Cover!
-5 Heavy Airdrop 1
+Break Through
+Defenses
 5 Heavy Airdrop 2
+Hit & Run
 Light Airdrop 1
 Light Airdrop 2
+Lucky Penny
 Military Engineering
-Old Faithful
 
 TOTAL POINTS 100/100

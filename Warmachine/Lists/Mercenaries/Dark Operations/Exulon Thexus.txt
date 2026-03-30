@@ -1,35 +1,42 @@
-# 3/21/26 3/25
+# 3/29/26 2/80
 
 Mercenaries - Dark Operations
 Grand Melee - 100 pts
 
 PC CARD
 
+Defenses
+DEFENSE 1 - Barrier
+DEFENSE 1 - Barrier
+DEFENSE 1 - Powder Keg
+
 Exulon Thexus
 
 10 Subduer
 
-12 Wrecker
+9 Warden
 
 3 Agitator
 
-2 Akulon Stygius
+3 Akulon Thaemestra
 
-20 Magnus the Unstoppable
+20 Exulon Nostilla
 
-Invictus
+Aberration
 
-9 Criterions 1
+9 Criterions
 
-9 Criterions 2
+7 Dominated Stormblade Legionnaires
 
 4 Drudge Conduits 1
 
-2 Mind Bender 1
+2 Mind Bender
 
 4 Drudge Conduits 2
 
-2 Mind Bender 2
+4 Drudge Slayers
+
+2 Mind Slaver
 
 9 Iconoclast Drudges 1
 
@@ -41,8 +48,8 @@ Invictus
 PC COMMAND CARD
 Blessing of the Gods
 Careful Reconnaissance
-Hit & Run
-Old Faithful
+Defenses
+Lucky Penny
 Put the Fires Out
 
 TOTAL POINTS 100/100

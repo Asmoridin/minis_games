@@ -1,4 +1,4 @@
-# 3/21/26 12/12
+# 3/29/26 3/8
 
 Grymkin - Grymkin
 Grand Melee - 100 pts
@@ -6,6 +6,8 @@ Grand Melee - 100 pts
 PC CARD
 
 The King of Nothing
+
+12 Cage Rager
 
 13 Clockatrice 1
 
@@ -15,29 +17,29 @@ The King of Nothing
 
 3 Crabbit 2
 
+5 Gorehound
+
 3 Baron Tonguelick, Lord of Warts
 
 6 Death Knell
 
-3 Grave Ghoul 1
-
-3 Grave Ghoul 2
+3 Grave Ghoul
 
 6 Isaiah, Dread Harvester
 
-20 Magnus the Unstoppable
+3 Lady Karianna Rose
 
-Invictus
+5 Lord Longfellow
 
-5 Zacchaeus, The Winter’s Chill
+3 Malady Man
 
 5 Dread Rots 1
 
 5 Dread Rots 2
 
-6 Hollowmen 1
+9 Neigh Slayers
 
-6 Hollowmen 2
+3 Neigh Slayer War Horse
 
 
 PC COMMAND CARD
@@ -46,7 +48,7 @@ Fortune’s Path
 Ill Omens
 Labyrinth
 Lucky Penny
-Sacrifice
+Put the Fires Out
 Shroud
 
 TOTAL POINTS 100/100

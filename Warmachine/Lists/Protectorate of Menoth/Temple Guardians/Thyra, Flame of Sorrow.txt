@@ -1,26 +1,30 @@
-# 4/19/25 1st/12
+# 3/29/26 5/18
 
-
-
-Thyra
 Protectorate of Menoth - Temple Guardians
 Grand Melee - 100 pts
 
 PC CARD
 
+Defenses
+DEFENSE 1 - Barrier
+DEFENSE 2 - Fire Pit
+DEFENSE 1 - Fire Pit
+
 Thyra, Flame of Sorrow
 
 14 Blood of Martyrs
 
-28 Judicator
+15 Eye of Truth
 
-3 Allegiant of the Order of the Fist 1
+13 Vessel of Judgment
 
-3 Allegiant of the Order of the Fist 2
-
-3 Nicia, Tear of Vengeance
+2 Allegiant of the Order of the Fist
 
 4 Pyrrhus, Flameguard Hero
+
+1 Vassal Mechanik 1
+
+1 Vassal Mechanik 2
 
 1 Vassal of Menoth 1
 
@@ -30,7 +34,9 @@ Thyra, Flame of Sorrow
 
 3 Choir of Menoth
 
-7 Daughters of the Flame
+7 Daughters of the Flame 1
+
+7 Daughters of the Flame 2
 
 9 Flame Bringers 1
 
@@ -38,18 +44,18 @@ Thyra, Flame of Sorrow
 
 5 Temple Flameguard 1
 
-2 Temple Flameguard Officer & Standard 1
+1 Temple Flameguard Officer & Standard 1
 
 5 Temple Flameguard 2
 
-2 Temple Flameguard Officer & Standard 2
+1 Temple Flameguard Officer & Standard 2
 
 
 PC COMMAND CARD
 Blessing of the Gods
 Careful Reconnaissance
-Hit & Run
-Lucky Penny
+Defenses
 Old Faithful
+Sapper
 
 TOTAL POINTS 100/100
