@@ -1,46 +1,33 @@
-# 5/31/25 1st/21 Colorado tournament
+# 3/29/26 35/80
 
-Axe Zaddy
 Khador - Winter Korps
 Grand Melee - 100 pts
 
 PC CARD
 
 Kapitan Zahara Vilkul
-SPELL - Avenging Force
-SPELL - Fog of War
-SPELL - Freezing Grip
 
-10 Dire Wolf 1
-1 HEAD - Shield Guard
-5 RIGHT ARM - Long Axe
-4 LEFT ARM - Plow-Shield
+23 Behemoth, Spirit of Imperial Khador
 
-10 Dire Wolf 2
-1 HEAD - Shield Guard
-5 RIGHT ARM - Long Axe
-4 LEFT ARM - Plow-Shield
+9 AC-2 Bison 1
 
-15 Medveditsa
-HEAD - Medveditsa
-LEFT ARM - Left Bear Claw
-RIGHT ARM - Right Bear Claw
+9 AC-2 Bison 2
 
-10 AC-2 Bison 1
+4 Kontroller
 
-10 AC-2 Bison 2
+20 Magnus the Unstoppable
 
-7 Krueger, Wrath of Blighterghast
+Invictus
 
-3 Winter Korps Officer
+4 Magziev Zariyah Volkova
+
+5 Zacchaeus, The Winter’s Chill
 
 4 Arkanists
 
-11 Man-O-War Suppressors
+8 Shock Trooper Pikemen
 
-7 Shock Trooper Pikemen
-
-8 The Hounds
+9 The Hounds
 
 4 Winter Korps Snipers
 
@@ -50,8 +37,8 @@ RIGHT ARM - Right Bear Claw
 PC COMMAND CARD
 Blessing of the Gods
 Careful Reconnaissance
+Duck and Cover!
 Hit & Run
-Lucky Penny
-Put the Fires Out
+Old Faithful
 
 TOTAL POINTS 100/100
