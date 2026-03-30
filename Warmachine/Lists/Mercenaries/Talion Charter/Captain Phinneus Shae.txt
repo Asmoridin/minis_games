@@ -1,6 +1,5 @@
-#3/30/25 2nd/12
+# 3/29/26 7/8
 
-Shae
 Mercenaries - Talion Charter
 Grand Melee - 100 pts
 
@@ -8,17 +7,19 @@ PC CARD
 
 Captain Phinneus Shae
 
-9 Freebooter 1
+9 Freebooter
 
-9 Freebooter 2
+8 Swashbuckler 1
 
-9 Freebooter 3
+8 Swashbuckler 2
 
-9 Scallywag
+8 Swashbuckler 3
+
+4 Black Bella, Duchess of Dread
+
+3 Bloody Bradigan
 
 3 Bosun Grogspar
-
-2 Dirty Meg
 
 2 Doc Killingsworth
 
@@ -30,33 +31,40 @@ Captain Phinneus Shae
 
 Invictus
 
+4 Master Gunner Dougal MacNaile
+
 2 Powder Monkey 1
 
 2 Powder Monkey 2
 
-1 Swamp Gobber River Raider
+2 Powder Monkey 3
 
-6 Lady Aiyana & Master Holt
+1 Swamp Gobber River Raider 1
 
-5 Press Gangers
+1 Swamp Gobber River Raider 2
+
+1 Swamp Gobber River Raider 3
+
+1 Swamp Gobber River Raider 4
+
+1 Swamp Gobber River Raider 5
+
+1 Swamp Gobber River Raider 6
+
+2 Sea Dog Deck Gun 1
+
+2 Sea Dog Deck Gun 2
 
 5 Sea Dog Pirates
 
 3 Mr. Walls, the Quartermaster
 
-6 The Commodore Cannon & Crew
-
-Defenses
-DEFENSE 1 - Barrier
-DEFENSE 1 - Barrier
-DEFENSE 1 - Barrier
-
 
 PC COMMAND CARD
 Blessing of the Gods
-Defenses
-Hit & Run
+Careful Reconnaissance
+Duck and Cover!
 Lucky Penny
-Old Faithful
+Put the Fires Out
 
 TOTAL POINTS 100/100
