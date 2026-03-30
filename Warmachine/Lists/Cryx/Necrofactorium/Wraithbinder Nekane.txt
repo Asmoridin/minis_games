@@ -1,4 +1,4 @@
-# 3/29/26 52/80
+# 3/29/26 11/33
 
 Cryx - Necrofactorium
 Grand Melee - 100 pts
@@ -7,27 +7,29 @@ PC CARD
 
 Wraithbinder Nekane
 
-16 Hades
-
 6 Raptor 1
 4 HEAD - Doomspitter
 2 BACK - Arc Node
 
 5 Raptor 2
-3 HEAD - Beaked Maw
+3 HEAD - Deathripper
 2 BACK - Arc Node
 
 15 Malfessor
 
-3 Akulon Thaemestra
+20 Carver Ultimus
 
-4 Machine Wraith Dominator 1
+War Boar MMD47
 
-4 Machine Wraith Dominator 2
+4 Iron Lich Commander
 
-4 Master Necrotech Chatterbane
+4 Machine Wraith Dominator
 
 3 Silexus Xiphus
+
+3 Skarlock Lieutenant
+
+6 Mechanithrall Swarm
 
 4 Necrosurgeon Initiates
 
@@ -35,9 +37,7 @@ Wraithbinder Nekane
 
 10 Night Terrors 2
 
-8 Sludge Thralls 1
-
-8 Sludge Thralls 2
+10 The Furies
 
 
 PC COMMAND CARD
@@ -45,6 +45,6 @@ Blessing of the Gods
 Careful Reconnaissance
 Hit & Run
 Lucky Penny
-Old Faithful
+Put the Fires Out
 
 TOTAL POINTS 100/100
