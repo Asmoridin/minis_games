@@ -1,4 +1,4 @@
-# 3/21/26 1/11
+# 3/29/26 1/33
 
 Cygnar - Storm Legion
 Grand Melee - 100 pts
@@ -7,52 +7,41 @@ PC CARD
 
 Captain Madison Calder
 
-11 Stryker 1
-1 HEAD - Relentless Charge
-6 RIGHT ARM - Voltaic Halberd
-4 LEFT ARM - Stormblazer Cannon
+14 Borealis
+HEAD - Repulsor Field
+RIGHT ARM - Thunder Maul
+LEFT ARM - Sky Breaker
 
-11 Stryker 2
-1 HEAD - Relentless Charge
-6 RIGHT ARM - Voltaic Halberd
-4 LEFT ARM - Stormblazer Cannon
+4 Alexia, Queen of the Damned
 
-11 Stryker 3
-1 HEAD - Relentless Charge
-6 RIGHT ARM - Voltaic Halberd
-4 LEFT ARM - Stormblazer Cannon
+3 Legionnaire Officer
 
-6 Krueger, Wrath of Blighterghast
+4 Lieutenant Sara Brisbane
 
-3 Legionnaire Officer 1
+17 Deuce
 
-3 Legionnaire Officer 2
+3 Weather Station 1
 
-5 Arcane Mechaniks
+3 Weather Station 2
 
-10 Storm Lance Legionnaires 1
+9 Zephyr
 
-10 Storm Lance Legionnaires 2
+10 Storm Lance Legionnaires
 
-7 Stormguard Legionnaires 1
+5 Storm Vanes
 
-7 Stormguard Legionnaires 2
+9 Tempest Assailers 1
 
-7 Stormguard Legionnaires 3
+9 Tempest Assailers 2
 
 9 The Black 13th
-
-Defenses
-DEFENSE 1 - Barrier
-DEFENSE 1 - Barrier
-DEFENSE 1 - Barrier
 
 
 PC COMMAND CARD
 Blessing of the Gods
-Careful Reconnaissance
-Defenses
-Duck and Cover!
 Lucky Penny
+Old Faithful
+Put the Fires Out
+Sapper
 
-TOTAL POINTS 100/100
+TOTAL POINTS 99/100
