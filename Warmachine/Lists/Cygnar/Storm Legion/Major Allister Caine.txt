@@ -1,4 +1,4 @@
-# 3/21/26 8/12
+# 3/29/26 16/80
 
 Cygnar - Storm Legion
 Grand Melee - 100 pts
@@ -7,37 +7,32 @@ PC CARD
 
 Major Allister Caine
 
-10 Courser 1
+9 Courser
 1 HEAD - Arc Node
 5 RIGHT ARM - Mag-Bolter
-4 LEFT ARM - Rapid Fire Light Mag-Bolter
-
-10 Courser 2
-1 HEAD - Arc Node
-5 RIGHT ARM - Mag-Bolter
-4 LEFT ARM - Rapid Fire Light Mag-Bolter
+3 LEFT ARM - Voltaic Punching Spike
 
 20 Carver Ultimus
 
 War Boar MMD47
 
-5 Eiryss, Shadow of Retribution
+3 Eilish Garrity, the Dark Traitor
 
-6 Krueger, Wrath of Blighterghast
+3 Legionnaire Officer
 
 4 Lieutenant Sara Brisbane
 
 17 Deuce
 
-3 Sharpshooter 1
+5 Arcane Mechaniks
 
-3 Sharpshooter 2
+5 Storm Vanes
 
-3 Sharpshooter 3
+7 Stormguard Legionnaires
 
-5 Arcane Mechaniks 1
+9 Tempest Assailers 1
 
-5 Arcane Mechaniks 2
+9 Tempest Assailers 2
 
 9 The Black 13th
 
@@ -46,7 +41,7 @@ PC COMMAND CARD
 Blessing of the Gods
 Careful Reconnaissance
 Lucky Penny
-Old Faithful
+Put the Fires Out
 Sapper
 
 TOTAL POINTS 100/100
