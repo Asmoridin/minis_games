@@ -1,4 +1,4 @@
-# 8/29/25 1st/14
+# 3/29/26 15/33
 
 Grymkin - Grymkin
 Grand Melee - 100 pts
@@ -13,36 +13,38 @@ The Heretic
 
 3 Crabbit 2
 
-6 Gorehound 1
+7 Frightmare 1
 
-6 Gorehound 2
+7 Frightmare 2
+
+5 Gorehound
 
 12 Skin & Moans 1
 
 12 Skin & Moans 2
 
-9 Death Knell
-
-3 Baron Tonguelick, Lord of Warts
+6 Death Knell
 
 3 Grave Ghoul
 
-7 Isaiah, Dread Harvester
-
 3 Lady Karianna Rose
+
+5 Lord Longfellow
 
 5 Dread Rots 1
 
 5 Dread Rots 2
 
-8 Piggybacks
+5 Dread Rots 3
 
-3 Piggyback Officer
+6 Hollowmen
+
+1 Hollow Holden
 
 
 PC COMMAND CARD
+Accursed
 Fortune’s Path
-Hit & Run
 Ill Omens
 Lucky Penny
 Ruin
