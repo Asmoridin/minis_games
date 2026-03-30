@@ -1,4 +1,4 @@
-# 3/21/26 6/7
+# 3/29/26 61/80
 
 Crucible Guard - Crucible Guard
 Grand Melee - 100 pts
@@ -21,6 +21,8 @@ Captain Eira Mackay
 
 12 Railless Interceptor 2
 
+4 Ascendant Mentalist
+
 5 Aurum Ominus Alyce Marc
 
 1 Crucible Guard Mechanik 1
@@ -29,20 +31,18 @@ Captain Eira Mackay
 
 1 Crucible Guard Mechanik 3
 
-2 Trancer 1
+1 Crucible Guard Mechanik 4
 
-2 Trancer 2
+5 Combat Alchemists
 
-2 Trancer 3
-
-10 The Triumvirate
+6 Crucible Guard Rocketmen
 
 
 PC COMMAND CARD
 Blessing of the Gods
-Careful Reconnaissance
 Hit & Run
 Lucky Penny
 Put the Fires Out
+Sapper
 
 TOTAL POINTS 100/100
