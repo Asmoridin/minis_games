@@ -1,23 +1,24 @@
-# 3/29/26 2/33
+# 3/29/26 2/28
 
 Dusk - House Kallyss
 Grand Melee - 100 pts
 
 PC CARD
 
-Tyrus, Nis-Arsyr of Spiders
+Morayne, The Blade of Twilight
 
-6 Ghast 1
+6 Ghast
 1 HEAD - Arc Node
 3 RIGHT ARM - Heavy Blade Fist
 2 LEFT ARM - Light Blade Fist
 
-7 Ghast 2
-1 HEAD - Arc Node
-4 RIGHT ARM - Blaster Fist
-2 LEFT ARM - Light Blade Fist
+4 Cylena Raefyll
 
 4 Dreadguard Scyir
+
+4 Dyssiss, the Eye of Darkness
+
+6 Krueger, Wrath of Blighterghast
 
 18 Lanyssa Ryssyl, Aransor of Sorrows
 
@@ -27,21 +28,19 @@ Sasha
 
 4 Mage Hunter Commander
 
-3 Mage Hunter Sniper Team 1
-
-3 Mage Hunter Sniper Team 2
+4 Vaelyss, The Hand of Mourning
 
 9 Dreadguard Archers 1
 
 9 Dreadguard Archers 2
 
-11 Dreadguard Cavalry 1
+11 Dreadguard Cavalry
 
-11 Dreadguard Cavalry 2
+7 Mage Hunter Assassins 1
 
-7 Mage Hunter Assassins
+7 Mage Hunter Assassins 2
 
-8 The Last Watch
+7 Mage Hunter Assassins 3
 
 
 PC COMMAND CARD
