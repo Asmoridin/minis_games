@@ -1,4 +1,4 @@
-# 8/30/25 23rd/48
+# 3/29/26 16/16
 
 Mercenaries - Rhul Guard
 Grand Melee - 100 pts
@@ -9,36 +9,34 @@ Durgen Madhammer
 
 27 Ghordson Earthbreaker
 
-14 Hammerfall Siege Crawler
+14 Hammerfall Siege Crawler 1
 
-3 Balthazar Bamfist
+14 Hammerfall Siege Crawler 2
 
 20 Magnus the Unstoppable
 
 Invictus
 
-3 Ogrun Bokur
+2 Steelhead Gunner 1
 
-3 Steelhead Gunner 1
+2 Steelhead Gunner 2
 
-3 Steelhead Gunner 2
-
-5 Herne & Jonne
+4 Herne & Jonne
 
 4 Horgenhold Artillery Corps 1
 
 4 Horgenhold Artillery Corps 2
 
-9 Ogrun Assault Corps
+4 Tactical Arcanist Corps 1
 
-4 Tactical Arcanist Corps
+4 Tactical Arcanist Corps 2
 
 
 PC COMMAND CARD
 Blessing of the Gods
 Careful Reconnaissance
 Lucky Penny
-Old Faithful
 Put the Fires Out
+Sapper
 
 TOTAL POINTS 99/100
