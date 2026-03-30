@@ -1,4 +1,4 @@
-# 3/21/26 3/21
+# 3/29/26 8/80
 
 Khador - Old Umbrey
 Grand Melee - 100 pts
@@ -7,40 +7,36 @@ PC CARD
 
 Defenses
 DEFENSE 1 - Barrier
-DEFENSE 1 - Barrier
-DEFENSE 1 - Spike Trap
+DEFENSE 2 - Barrier
+DEFENSE 3 - Barrier
 
 Kapitan Galina Lissya, the Winter Fox
 
 9 Feral
-5 HEAD - Drek
+5 HEAD - Alke
 4 BACK - Wings
 
-15 Primeval 1
+14 Primeval 1
 3 HEAD - Bear
 7 RIGHT ARM - Bone Sword
-5 LEFT ARM - Enchanted Shield
+4 LEFT ARM - Enchanted Claw
 
 14 Primeval 2
 3 HEAD - Raven
 7 RIGHT ARM - Hunting Spear
 4 LEFT ARM - Enchanted Claw
 
+16 Strix
+
 16 The Starved
 
-3 Animist 1
-
-3 Animist 2
-
-9 Lord of the Hunt
-
-4 Vorony
+5 Liegemen Ursan Champion
 
 9 Chosen of the Witch
 
-5 Liegemen Wardens
+4 Shearlings 1
 
-4 Shearlings
+4 Shearlings 2
 
 9 The Hounds
 
@@ -50,6 +46,6 @@ Blessing of the Gods
 Defenses
 Hit & Run
 Lucky Penny
-Sapper
+Old Faithful
 
 TOTAL POINTS 100/100
