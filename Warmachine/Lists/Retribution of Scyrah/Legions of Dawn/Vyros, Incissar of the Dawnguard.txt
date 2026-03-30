@@ -1,6 +1,5 @@
-#4/6/25 15th/18
+# 3/29/26 2/7
 
-Vyros my boi
 Retribution of Scyrah - Legions of Dawn
 Grand Melee - 100 pts
 
@@ -8,36 +7,40 @@ PC CARD
 
 Vyros, Incissar of the Dawnguard
 
-8 Griffon
+5 Aspis
+
+7 Chimera
+
+8 Griffon 1
+
+8 Griffon 2
+
+8 Griffon 3
+
+12 Hydra
 
 17 Imperatus
 
-14 Dawnguard Trident 1
+4 Aelyth Vyr, Blade of Nyssor
 
-14 Dawnguard Trident 2
-
-5 Dawnguard Destor Thane
-
-3 Dawnguard Sentinel Scyir
+3 Fane Knight Guardian
 
 4 Lanyssa Ryssyl, Nyss Sorceress
 
-10 Dawnguard Destors 1
+8 Cylena Raefyll & Nyss Hunters
 
-10 Dawnguard Destors 2
+4 House Shyeel Arcanists 1
 
-8 Dawnguard Sentinels
+4 House Shyeel Arcanists 2
 
-3 Dawnguard Sentinel Officer & Standard
-
-4 House Shyeel Arcanists
+8 Ryssovass Defenders
 
 
 PC COMMAND CARD
-Break Through
+Blessing of the Gods
 Careful Reconnaissance
+Duck and Cover!
 Lucky Penny
 Old Faithful
-Put the Fires Out
 
 TOTAL POINTS 100/100
