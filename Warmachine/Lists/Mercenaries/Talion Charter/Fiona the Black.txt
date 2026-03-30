@@ -1,6 +1,5 @@
-#3/30/25 2nd/12
+# 3/29/26 7/8
 
-Fiona
 Mercenaries - Talion Charter
 Grand Melee - 100 pts
 
@@ -8,31 +7,51 @@ PC CARD
 
 Fiona the Black
 
-28 Blockader
+8 Swashbuckler 1
 
-9 Scallywag
+8 Swashbuckler 2
+
+8 Swashbuckler 3
+
+4 Black Bella, Duchess of Dread
+
+3 Bloody Bradigan
 
 3 Bosun Grogspar
 
-2 Dirty Meg
-
 2 Doc Killingsworth
+
+20 Exulon Nostilla
+
+Aberration
 
 4 First Mate Hawk
 
 3 Lord Rockbottom
 
-20 Magnus the Unstoppable
-
-Invictus
+4 Master Gunner Dougal MacNaile
 
 2 Powder Monkey 1
 
 2 Powder Monkey 2
 
-6 Lady Aiyana & Master Holt
+2 Powder Monkey 3
 
-5 Press Gangers
+1 Swamp Gobber River Raider 1
+
+1 Swamp Gobber River Raider 2
+
+1 Swamp Gobber River Raider 3
+
+1 Swamp Gobber River Raider 4
+
+1 Swamp Gobber River Raider 5
+
+1 Swamp Gobber River Raider 6
+
+5 Lady Aiyana & Master Holt
+
+2 Sea Dog Deck Gun
 
 5 Sea Dog Pirates
 
@@ -40,17 +59,12 @@ Invictus
 
 6 The Commodore Cannon & Crew
 
-Defenses
-DEFENSE 1 - Barrier
-DEFENSE 1 - Barrier
-DEFENSE 1 - Spike Trap
-
 
 PC COMMAND CARD
 Blessing of the Gods
-Defenses
+Careful Reconnaissance
+Duck and Cover!
 Hit & Run
 Lucky Penny
-Old Faithful
 
 TOTAL POINTS 100/100
