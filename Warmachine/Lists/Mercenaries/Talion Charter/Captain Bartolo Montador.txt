@@ -1,4 +1,5 @@
-Bart
+# 3/29/26 16/16
+
 Mercenaries - Talion Charter
 Grand Melee - 100 pts
 
@@ -6,9 +7,13 @@ PC CARD
 
 Captain Bartolo Montador
 
-28 Blockader
-
 30 Galleon
+
+6 Talon
+
+10 Toro
+
+1 Dirty Meg
 
 20 Magnus the Unstoppable
 
@@ -22,16 +27,22 @@ Invictus
 
 2 Powder Monkey 3
 
-1 Swamp Gobber River Raider
+1 Swamp Gobber River Raider 1
 
-6 Lady Aiyana & Master Holt
+1 Swamp Gobber River Raider 2
 
-5 Press Gangers
+5 Lady Aiyana & Master Holt
+
+5 Press Gangers 1
+
+5 Press Gangers 2
+
+6 The Commodore Cannon & Crew
 
 
 PC COMMAND CARD
 Blessing of the Gods
-Careful Reconnaissance
+Hit & Run
 Lucky Penny
 Old Faithful
 Sapper
