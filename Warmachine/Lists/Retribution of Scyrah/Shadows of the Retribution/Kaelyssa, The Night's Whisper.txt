@@ -1,8 +1,5 @@
-#4/7/25 6th/70 Wartable Team Championship
+# 3/29/26 75/80
 
-
-
-KaeWarded
 Retribution of Scyrah - Shadows of the Retribution
 Grand Melee - 100 pts
 
@@ -10,11 +7,15 @@ PC CARD
 
 Kaelyssa, The Night’s Whisper
 
-8 Harpy
+13 Banshee
 
-28 Hyperion
+8 Harpy 1
 
-13 Arcantrik Force Generator
+8 Harpy 2
+
+29 Helios
+
+9 Moros
 
 1 Arcanist Mechanik 1
 
@@ -24,26 +25,24 @@ Kaelyssa, The Night’s Whisper
 
 1 Arcanist Mechanik 4
 
-3 Elara, Tyro of the Third Chamber
+4 House Ellowuyr Warden Executioner
 
-9 Moros
+2 Mage Hunter Assassin 1
 
-8 House Ellowuyr Wardens 1
+2 Mage Hunter Assassin 2
 
-8 House Ellowuyr Wardens 2
+7 Mage Hunter Infiltrators 1
 
-7 Mage Hunter Strike Force
-
-4 Eiryss, Mage Hunter Commander
+7 Mage Hunter Infiltrators 2
 
 7 Spears of Scyrah
 
 
 PC COMMAND CARD
-Careful Reconnaissance
+Blessing of the Gods
 Hit & Run
 Lucky Penny
 Old Faithful
-Sapper
+Put the Fires Out
 
-TOTAL POINTS 99/100
+TOTAL POINTS 100/100
