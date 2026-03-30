@@ -1,27 +1,40 @@
-# 3/21/26 11/12
+# 3/29/26 1/9
 
 Convergence of Cyriss - Convergence of Cyriss
 Grand Melee - 100 pts
 
 PC CARD
+
 Axis, The Harmonic Enforcer
-13 Cipher 1
-13 Cipher 2
+
+13 Cipher
+
 5 Corollary
-13 Inverter
+
 14 Monitor
-3 Frustum Locus 1
-3 Frustum Locus 2
-3 Steelsoul Protector
-7 Eradicators 1
-7 Eradicators 2
-3 Optifex Directive
-8 Reciprocators 1
-8 Reciprocators 2
+
+29 Prime Axiom
+
+13 Transfinite Emergence Projector
+
+Permutation Servitors
+
+2 Attunement Servitors
+
+3 Enigma Foundry 1
+
+3 Enigma Foundry 2
+
+6 Obstructors 1
+
+6 Obstructors 2
+
+6 Obstructors 3
+
 
 PC COMMAND CARD
 Blessing of the Gods
-Duck and Cover!
+Careful Reconnaissance
 Hit & Run
 Lucky Penny
 Old Faithful
