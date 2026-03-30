@@ -1,4 +1,4 @@
-# 3/21/26 7/18
+# 3/29/26 15/80
 
 Dusk - House Kallyss
 Grand Melee - 100 pts
@@ -15,21 +15,15 @@ Hellyth, Scyir of Nightfall
 
 4 Dyssiss, the Eye of Darkness
 
-6 Krueger, Wrath of Blighterghast
-
-18 Lanyssa Ryssyl, Aransor of Sorrows
-
-Benkei
-
-Sasha
-
 4 Mage Hunter Commander
 
 3 Mage Hunter Sniper Team
 
-2 Void Shaper 1
+20 Magnus the Unstoppable
 
-2 Void Shaper 2
+Invictus
+
+2 Void Shaper
 
 9 Dreadguard Archers 1
 
@@ -37,14 +31,16 @@ Sasha
 
 4 Seeker Adepts
 
+6 Soulless Guardians
+
 8 The Last Watch
 
 
 PC COMMAND CARD
-Blessing of the Gods
 Careful Reconnaissance
-Hit & Run
+Duck and Cover!
 Lucky Penny
+Old Faithful
 Sapper
 
 TOTAL POINTS 100/100
