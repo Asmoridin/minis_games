@@ -1,4 +1,4 @@
-# 8/31/25 1st/62
+# 3/29/26 3/28
 
 Orgoth - Sea Raiders
 Grand Melee - 100 pts
@@ -6,54 +6,43 @@ Grand Melee - 100 pts
 PC CARD
 
 Horruskh, The Thousand Wraths
-SPELL - Carnage
-SPELL - Death March
 
-6 Jackal 1
+21 Azdharak, Herald of Immolation
+
+6 Jackal
 2 HEAD - Arc Node
 3 RIGHT ARM - Mace
 1 LEFT ARM - Clawed Fist
 
-5 Jackal 2
-1 HEAD - Bloodthirst
-3 RIGHT ARM - Mace
-1 LEFT ARM - Clawed Fist
-
-26 Gharlghast
+30 Gharlghast
 6 HEAD - Frother
-4 RIGHT FOREARM - Infernus Cannon Right
+5 RIGHT FOREARM - Bile Jet Right
 6 RIGHT FIST - Rending Claws Right
-4 LEFT FOREARM - Infernus Cannon Left
-6 LEFT FIST - Rending Claws Left
+5 LEFT FOREARM - Bile Jet Left
+8 LEFT FIST - Demolisher Fist Left
 
-5 Grhotten Keeper
+5 Grhotten Keeper 1
+
+5 Grhotten Keeper 2
+
+4 Halexus the Warlord
 
 3 Reaver Commander
 
-9 Siege Tarask
+4 Revenant Champion
 
-4 Therion Vhanek
+9 Rhok Harriers 1
 
-2 Vulcar Forge Master 1
-
-2 Vulcar Forge Master 2
-
-9 Gnashers 1
-
-9 Gnashers 2
-
-8 Ulkor Axers
-
-8 Ulkor Barragers
+9 Rhok Harriers 2
 
 4 Warwitch Coven
 
 
 PC COMMAND CARD
-Blessing of the Gods
+Break Through
 Careful Reconnaissance
-Hit & Run
 Lucky Penny
 Old Faithful
+Put the Fires Out
 
 TOTAL POINTS 100/100
