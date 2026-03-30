@@ -1,4 +1,4 @@
-# 3/21/26 2/14
+# 3/29/26 1st/80
 
 Southern Kriels - Brineblood Marauders
 Grand Melee - 100 pts
@@ -7,31 +7,31 @@ PC CARD
 
 Captain Firequill
 
-29 Abyssal King
+30 Abyssal King
 10 HEAD - Bulbous Chomper Head
-6 FIGUREHEAD - Triton
-7 TENTACLE WEAPON 1 - Main Gun
+7 FIGUREHEAD - Seahorse
 6 TENTACLE WEAPON 1 - Powder Cask
+7 TENTACLE WEAPON 1 - Main Gun
 
-8 Reef Troll
+9 Reef Troll 1
+HEAD - Matey
+1 BOOZE - Ale Tankard
+4 RIGHT ARM - Harpoon
+4 LEFT ARM - Chain Shot Explosive
+
+8 Reef Troll 2
 HEAD - Matey
 1 BOOZE - Ale Tankard
 5 RIGHT ARM - Ship's Gun
 2 LEFT ARM - Boarding Axe
 
-2 Booty Boss 1
-
-2 Booty Boss 2
-
-1 Fire Guardian
-
 4 First Mate Hargor Stormjaw
 
-6 Krueger, Wrath of Blighterghast
+3 Madame Moriarty
 
-2 Pyg Dirge 1
+9 Pyg Battle Brig
 
-2 Pyg Dirge 2
+2 Pyg Dirge
 
 9 Lochabash Brothers
 
@@ -43,20 +43,16 @@ HEAD - Matey
 
 3 Marauder Crew Quartermaster 2
 
-5 Pyg Boarding Party 1
-
-5 Pyg Boarding Party 2
+5 Pyg Boarding Party
 
 3 Pyg Galley Crew
-
-4 Spirit Shamans
 
 
 PC COMMAND CARD
 Blessing of the Gods
 Careful Reconnaissance
-Lucky Penny
+Duck and Cover!
+Hit & Run
 Put the Fires Out
-Sapper
 
 TOTAL POINTS 100/100
