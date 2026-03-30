@@ -1,35 +1,48 @@
-# 9/6/24 6th/9
+# 3/29/26 6/28
 
 Cryx - Blackfleet
 Grand Melee - 100 pts
 
 PC CARD
-Skarre, Admiral of the Black Fleet
+
+Skarre, Admiral of the Blackfleet
+
 12 Leviathan 1
+
 12 Leviathan 2
+
 12 Leviathan 3
-11 Reaper
+
+12 Leviathan 4
+
+4 Aiakos, Scourge of the Meredius
+
+14 Kharybdis
+
 4 Axiara Wraithblade
-5 General Gerlak Slaughterborn
+
+4 General Gerlak Slaughterborn
+
 1 Misery Cage
+
 3 Satyxis Blood Priestess
 
-3 Satyxis Raider Captain
-7 Blighted Trollkin Marauders
-4 Jussika Bloodtongue
-6 Satyxis Blood Witches 1
-3 Satyxis Blood Hag 1
-6 Satyxis Blood Witches 2
-3 Satyxis Blood Hag 2
+6 Satyxis Blood Witches
+
+3 Satyxis Blood Hag
+
 4 Scharde Dirge Seers 1
+
 4 Scharde Dirge Seers 2
+
+5 Scharde Ogrun Ironmongers
 
 
 PC COMMAND CARD
-Break Through
-Hit & Run
+Blessing of the Gods
+Sappers
+Lucky Penny
 Old Faithful
-Put the Fires Out
-Sapper
+Hit and Run
 
 TOTAL POINTS 100/100
