@@ -1,4 +1,4 @@
-# 3/29/26 63/80
+# 3/29/26 1/9
 
 Convergence of Cyriss - Convergence of Cyriss
 Grand Melee - 100 pts
@@ -11,26 +11,38 @@ Forge Master Syntherion
 
 13 Cipher
 
+10 Conservator
+
 5 Corollary
 
 13 Inverter
 
 14 Monitor
 
-29 Prime Axiom
+2 Attunement Servitors 1
 
-5 Clockwork Angels 1
+2 Attunement Servitors 2
 
-5 Clockwork Angels 2
+3 Frustum Locus 1
 
-3 Optifex Directive
+3 Frustum Locus 2
+
+3 Steelsoul Protector
+
+6 Obstructors
+
+3 Optifex Directive 1
+
+3 Optifex Directive 2
+
+8 Reciprocators
 
 
 PC COMMAND CARD
-Blessing of the Gods
 Break Through
 Careful Reconnaissance
+Hit & Run
+Lucky Penny
 Old Faithful
-Sapper
 
-TOTAL POINTS 99/100
+TOTAL POINTS 100/100
