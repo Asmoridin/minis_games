@@ -1,6 +1,5 @@
-#3/29/25 6th/16 Walsall March Steamroller
+# 3/29/26 16/16
 
-New gorten
 Mercenaries - Rhul Guard
 Grand Melee - 100 pts
 
@@ -8,47 +7,40 @@ PC CARD
 
 Gorten Grundback
 
+13 Ghordson Avalancher
+
 9 Ghordson Basher 1
 
 9 Ghordson Basher 2
 
-10 Ghordson Driller 1
-
-10 Ghordson Driller 2
-
-10 Ghordson Driller 3
-
-3 Balthazar Bamfist
-
-4 Gudrun the Wasted
+9 Ghordson Basher 3
 
 20 Magnus the Unstoppable
 
 Invictus
 
-2 Thor Steinhammer
+3 Ogrun Bokur
 
-5 Hammerfall High Shield Gun Corps 1
+4 Stone Lord Guvul Godor
 
-5 Hammerfall High Shield Gun Corps 2
+4 Herne & Jonne
 
-5 Herne & Jonne
+7 Horgenhold Forge Guard 1
+
+7 Horgenhold Forge Guard 2
+
+7 Horgenhold Forge Guard 3
 
 4 Tactical Arcanist Corps 1
 
 4 Tactical Arcanist Corps 2
 
-Defenses
-DEFENSE 1 - Barrier
-DEFENSE 1 - Barrier
-DEFENSE 1 - Spike Trap
-
 
 PC COMMAND CARD
 Blessing of the Gods
+Break Through
 Careful Reconnaissance
-Defenses
-Lucky Penny
-Sapper
+Hit & Run
+Put the Fires Out
 
 TOTAL POINTS 100/100
