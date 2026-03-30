@@ -1,87 +1,89 @@
-#3/29/25 34th/48 IG Qualifiers
+# 3/29/26 8/80
 
-Sparky100
 Cygnar - Gravediggers
 Grand Melee - 100 pts
 
 PC CARD
 
-Defenses
-DEFENSE 1 - Barrier
-DEFENSE 1 - Barrier
-DEFENSE 1 - Barrier
+Ammo Crate 1
 
-Heavy Weapon Crate 1
-HEAVY WEAPON - Heavy Flamethrower
+Medical Crate 1
 
-Ammo Crate
+Mantlet 1
 
-Medical Crate
+Fuel Canister 1
 
-Heavy Weapon Crate 2
+Ammo Crate 2
+
+Medical Crate 2
+
+Mantlet 2
+
+Fuel Canister 2
+
+Heavy Weapon Crate
 HEAVY WEAPON - Heavy Flamethrower
 
 Skirmisher
 
 Blocker
 
+Raider
+
 Mechanik Adept Sparkhammer
-SPELL - Arcane Shield
-SPELL - Silence of Death
 
-14 Borealis
-HEAD - Repulsor Field
-RIGHT ARM - Thunder Maul
-LEFT ARM - Sky Breaker
+7 Patriot
+1 HEAD - Arc Node
+4 RIGHT ARM - Sniper Cannon
+2 LEFT ARM - Trench Blade
 
-13 Valiant 1
-2 HEAD - Righteous Vengeance
-5 RIGHT ARM - Piston Hammer
-6 LEFT ARM - Volley Shield
+17 Plugger
+HEAD - Plugger
+RIGHT ARM - Trench Ripper
+LEFT ARM - Trench Ripper
 
-11 Valiant 2
-2 HEAD - Righteous Vengeance
-5 RIGHT ARM - Piston Hammer
+12 Valiant
+2 HEAD - Aggressive
+6 RIGHT ARM - Trench Sword
 4 LEFT ARM - Slug Fist
 
-4 Captain Bastian Falk
+3 Captain Argo Brock
 
-5 Eiryss, Shadow of Retribution
+3 Eilish Garrity, the Dark Traitor
 
-4 Greygore Boomhowler
+3 Heavy Machine Gun Crew 1
 
-4 Sergeant Brunaugh "Bruno" Ramjaw
+3 Heavy Machine Gun Crew 2
+
+3 Heavy Machine Gun Crew 3
+
+3 Heavy Machine Gun Crew 4
 
 3 Specialist Tyson Vas
 
 3 Weather Station
 
-5 Storm Callers 1
+8 Gravedigger Commandos
 
-5 Storm Callers 2
+2 Commando Officer
 
-9 The Black 13th
-RYAN 3 - Ryan 3
-WATTS 3 - Watts 3
-GLOVER 1 - Glover 1
+4 Gravedigger Gun Mages
+
+7 Gravedigger Rangers
+
+5 Storm Vanes
 
 9 The Rowdies
-DALTON - Dalton
-FRANKS - Franks
-JENKINS - Jenkins
 
 
 PC COMMAND CARD
 Blessing of the Gods
-Defenses
-5 Heavy Airdrop 1
+Duck and Cover!
 5 Heavy Airdrop 2
 Light Airdrop 1
+Light Airdrop 2
 Lucky Penny
 Military Engineering
-Old Faithful
-
-TOTAL POINTS 99/100
-
+Put the Fires Out
 
 TOTAL POINTS 100/100
