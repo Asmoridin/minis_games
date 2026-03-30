@@ -1,42 +1,34 @@
-# 5/17/25 9th/18 Wisconsin Tournament
+# 3/29/26 16/80
 
-Athena
 Cygnar - Storm Legion
 Grand Melee - 100 pts
 
 PC CARD
 
+Drone Servitor
+
 Captain Athena di Baro
-SPELL - Arcane Shield
-SPELL - Electrify
 
-12 Stryker 1
-1 HEAD - Relentless Charge
-6 RIGHT ARM - Voltaic Halberd
-5 LEFT ARM - Galvanic Shield
+9 Courser
+1 HEAD - Arc Node
+5 RIGHT ARM - Mag-Bolter
+3 LEFT ARM - Voltaic Punching Spike
 
-12 Stryker 2
-1 HEAD - Relentless Charge
-6 RIGHT ARM - Voltaic Halberd
-5 LEFT ARM - Galvanic Shield
+20 Thunderhead, Heart of the Storm
 
-15 Stryker 3
-2 HEAD - True Sight
-6 RIGHT ARM - Voltaic Halberd
-7 LEFT ARM - Heavy Mag-Bolter
+5 Eiryss, Shadow of Retribution
 
-14 Stryker 4
-1 HEAD - Relentless Charge
-6 RIGHT ARM - Voltaic Halberd
-7 LEFT ARM - Heavy Mag-Bolter
+20 Exulon Nostilla
 
-3 Legionnaire Officer 1
+Aberration
 
-3 Legionnaire Officer 2
+6 Krueger, Wrath of Blighterghast
 
-7 Stormguard Legionnaires 1
+3 Legionnaire Officer
 
-7 Stormguard Legionnaires 2
+5 Arcane Mechaniks
+
+5 Storm Vanes
 
 9 Tempest Assailers 1
 
@@ -48,8 +40,8 @@ SPELL - Electrify
 PC COMMAND CARD
 Blessing of the Gods
 Careful Reconnaissance
-Hit & Run
+Duck and Cover!
 Lucky Penny
-Old Faithful
+Put the Fires Out
 
 TOTAL POINTS 100/100
