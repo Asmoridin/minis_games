@@ -1,4 +1,4 @@
-# 3/21/26 4/21
+# 3/29/26 1/18
 
 Crucible Guard - Crucible Guard
 Grand Melee - 100 pts
@@ -19,17 +19,11 @@ Mr. Clogg
 
 1 Crucible Guard Mechanik 2
 
-2 Trancer 1
-
-2 Trancer 2
-
-2 Trancer 3
+4 Doctor Alejandro Mosby
 
 8 Crucible Guard Assault Troopers 1
 
 8 Crucible Guard Assault Troopers 2
-
-8 Crucible Guard Assault Troopers 3
 
 6 Crucible Guard Rocketmen 1
 
@@ -43,12 +37,14 @@ Mr. Clogg
 
 3 Crucible Guard Rocketman Captain 3
 
+10 The Triumvirate
+
 
 PC COMMAND CARD
 Blessing of the Gods
 Careful Reconnaissance
+Duck and Cover!
 Hit & Run
-Lucky Penny
 Sapper
 
 TOTAL POINTS 100/100
