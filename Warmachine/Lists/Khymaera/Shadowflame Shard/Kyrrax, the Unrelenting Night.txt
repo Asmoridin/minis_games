@@ -1,37 +1,39 @@
-# 3/21/26 2/9
+# 3/29/26 4/80
 
+Kyrax
 Khymaera - Shadowflame Shard
 Grand Melee - 100 pts
 
 PC CARD
 
+Defenses
+DEFENSE 1 - Barrier
+DEFENSE 1 - Barrier
+DEFENSE 1 - Spike Trap
+
 Kyrrax, the Unrelenting Night
 
-11 Drakyon
+14 Aklyss
 
-12 Hydrix
-4 CENTRAL HEAD - Toothy Maw
-3 SMALLER HEAD - Blockhead
-3 SMALLER HEAD - Blockhead
-2 DORSAL FEATURE - Bladeback
+16 Skylla, The Abyssal Fury
+9 CENTRAL HEAD - Skylla
+4 SMALLER HEAD 1 - Horned Piercer
+3 SMALLER HEAD 2 - Gnashing Fangs
 
-10 Vypex 1
+12 Vypex
 1 HEAD - Asp
 3 TAIL - Hunter's Mark
-6 ARMS - Cleavers
-
-12 Vypex 2
-3 HEAD - Viper
-1 TAIL - Bladed Gale
 8 ARMS - Impalers
 
 4 Bellighul, Master of Pain
 
-5 Ryvyn, the Onyx Rampant
+3 Pythia
 
-5 Wraithwing Paragon 1
+4 Regulus
 
-5 Wraithwing Paragon 2
+2 Spinner
+
+5 Wraithwing Paragon
 
 11 Incarnate Knights 1
 
@@ -41,11 +43,13 @@ Kyrrax, the Unrelenting Night
 
 7 Talon Death Dealers 2
 
+4 Wyrmspine Shadowmancers
+
 
 PC COMMAND CARD
 Blessing of the Gods
-Break Through
-Hit & Run
+Defenses
+Duck and Cover!
 Lucky Penny
 Put the Fires Out
 
