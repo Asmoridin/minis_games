@@ -106,10 +106,8 @@ for line in lines:
     TOTAL_MAX += max_fa
 
 if __name__ == "__main__":
-    if os.getcwd().endswith('minis_games'):
-        out_file_h = open("output/WM MKIV Output.txt", 'w', encoding="UTF-8")
-    else:
-        out_file_h = open("minis_games/output/WM MKIV Output.txt", 'w', encoding="UTF-8")
+
+    out_file_h = open(os.path.join(FILE_PREFIX, "WM MKIV Output.txt"), 'w', encoding="UTF-8")
 
     double_print("Warmachine MK IV Inventory Tracker and purchase suggester\n", out_file_h)
 
