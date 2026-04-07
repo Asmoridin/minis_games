@@ -1,4 +1,4 @@
-# 3/29/26 19/80
+# 4/4/26 2/10
 
 Khador - Winter Korps
 Grand Melee - 100 pts
@@ -17,22 +17,19 @@ Kommander Valerii Savaryn
 5 RIGHT ARM - Long Axe
 5 LEFT ARM - Heavy Chain Gun
 
-14 Great Bear
-2 HEAD - Aggressive
-6 RIGHT ARM - Battle Mace
-6 LEFT ARM - Heavy Cannon Shield
+17 Razor
 
 2 Battle Mechanik 1
 
 2 Battle Mechanik 2
+
+6 Krueger, Wrath of Blighterghast
 
 3 Winter Korps Officer 1
 
 3 Winter Korps Officer 2
 
 4 Arkanists
-
-10 Man-O-War Wrecking Crew
 
 8 Shock Trooper Gunners
 
@@ -44,7 +41,7 @@ Kommander Valerii Savaryn
 
 6 Winter Korps Infantry
 WEAPON SUPPORT TROOPERS - Grenade Porter
-WEAPON SUPPORT TROOPERS - Auto Cannon
+WEAPON SUPPORT TROOPERS - Grenade Porter
 
 1 Winter Korps Standard
 
@@ -54,6 +51,6 @@ Blessing of the Gods
 Careful Reconnaissance
 Duck and Cover!
 Lucky Penny
-Old Faithful
+Put the Fires Out
 
-TOTAL POINTS 100/100
+TOTAL POINTS 99/100
