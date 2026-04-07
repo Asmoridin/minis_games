@@ -1,64 +1,56 @@
-#3/29/25 14th/48 IG Qualifiers
+# 4/4/26 1/10
 
-Mordikaar
 Skorne - Exalted
 Grand Melee - 100 pts
 
 PC CARD
 
-Defenses
-DEFENSE 1 - Barrier
-DEFENSE 1 - Powder Keg
-DEFENSE 1 - Powder Keg
-
 Void Seer Mordikaar
 
-4 Agonizer
+4 Agonizer 1
 
-6 Basilisk Krea
+4 Agonizer 2
 
-28 Desert Hydra
+12 Aradus Soldier 1
 
-4 Abidan the Keeper
+12 Aradus Soldier 2
 
-4 Ancestral Guardian 1
+15 Despoiler
 
-4 Ancestral Guardian 2
+4 Aptimus Marketh
 
-5 Hakaar the Destroyer
+3 Immortal Vessel
 
-3 Immortal Vessel 1
+3 Paingiver Bloodrunner Master Tormentor
 
-3 Immortal Vessel 2
+3 Void Spirit 1
 
-3 Void Spirit
+3 Void Spirit 2
 
 6 Immortals 1
 
-1 Extoller Advocate 1
+1 Extoller Advocate
 
 6 Immortals 2
 
-1 Extoller Advocate 2
+5 Nihilators 1
 
-6 Immortals 3
+5 Nihilators 2
 
-1 Extoller Advocate 4
+3 Paingiver Beast Handlers 1
 
-6 Immortals 4
+3 Paingiver Beast Handlers 2
 
-1 Extoller Advocate 3
+4 Paingiver Bloodrunners 1
 
-5 Nihilators
-
-3 Paingiver Beast Handlers
+4 Paingiver Bloodrunners 2
 
 
 PC COMMAND CARD
 Blessing of the Gods
+Break Through
 Careful Reconnaissance
-Defenses
-Duck and Cover!
 Lucky Penny
+Old Faithful
 
 TOTAL POINTS 100/100

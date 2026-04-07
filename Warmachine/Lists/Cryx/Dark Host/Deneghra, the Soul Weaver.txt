@@ -1,6 +1,5 @@
-#3/29/25 6th/10 Central PA Clash 2025
+# 4/4/26 8/10
 
-List2
 Cryx - Dark Host
 Grand Melee - 100 pts
 
@@ -8,40 +7,48 @@ PC CARD
 
 Deneghra, the Soul Weaver
 
-25 Kraken
+4 Deathripper 1
 
-14 Nightmare
+4 Deathripper 2
+
+4 Deathripper 3
+
+14 Erebus
+
+11 Reaper
 
 10 Seether
 
-7 Stalker 1
-
-7 Stalker 2
-
-11 Wraith Engine
+9 Slayer
 
 5 Bane Lord Tartarus
 
-1 Necrotech
+1 Necrotech 1
 
-1 Soul Trapper 1
+1 Necrotech 2
 
-1 Soul Trapper 2
+1 Necrotech 3
 
-1 Soul Trapper 3
+1 Scrap Thrall
 
-7 Bane Warriors
+9 Bane Riders
 
-4 Bane Warrior Officer & Standard
+7 Bane Warriors 1
+
+3 Bane Warrior Officer & Standard 1
+
+7 Bane Warriors 2
+
+3 Bane Warrior Officer & Standard 2
 
 6 The Withershadow Combine
 
 
 PC COMMAND CARD
 Break Through
-Careful Reconnaissance
-Lucky Penny
+Hit & Run
 Old Faithful
 Put the Fires Out
+Sapper
 
 TOTAL POINTS 100/100

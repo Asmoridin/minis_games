@@ -11,6 +11,9 @@ CYGNAR_GRAVEDIGGER_COMMAND_STARTER;Captain Buck Hasker-1/Plugger-1/The Rowdies-1
 CYGNAR_GRAVEDIGGER_CORE;Major Grant Vargus-1/Lt. Stella Barron-1/Heavy Machine Gun Crew-1/Gravedigger Gun Mages-1/Gravedigger Rangers-2/Trollkin Express Sniper-1;159.99
 CYGNAR_HELLSLINGERS_CADRE;Major Allister Caine-1/Deuce-1/Captain Bastian Falk-1/The Black 13th-1;64.99
 CYGNAR_STORM_FORGE_CADRE;Mechanik Adept Sparkhammer-1/Specialist Tyson Vos-1/Storm Callers-1/Storm Vanes-1/Weather Station-1/Borealis-1;99.99
+CYGNAR_STORM_LEGION_AUXILIARY;Captain Madison Calder-1/Lieutenant Sara Brisbane-1/Sharpshooter-1/Storm Lance Legionnaires-1/Tempest Thunderers-1/Arcane Mechaniks-1/Legionnaire Standard Bearer-1/Tempest Assailers-1;149.99
+CYGNAR_STORM_LEGION_BATTLEGROUP;Captain Athena di Baro-1/Stryker-1/Courser-1;69.99
+CYGNAR_STORM_LEGION_CORE;Major Anson Wolfe-1/The General-1/Legionnaire Officer-1/Stormblade Legionnaires-1/Stormthrower Legionnaires-1/Stormguard Legionnaires-1/Legionnaire Standard Bearer-1;159.99
 DEVIL_DOGS;Captain Sam MacHorne-1/Devil Dogs-1;59.99
 HIVE_MIND_CARDRE;Exulon Kythos-1/Silexus Xiphus-1/Akulon Thaemestra-1/Malfessor-1/Criterions-1;79.99
 RIOT_QUEST;Dez-1/Eiryss, Fortune Hunter of Ios-1/Sir Dreyfus the Storm Knight-1/Gubbin-1/Balthazar Bamfist-1;49.99

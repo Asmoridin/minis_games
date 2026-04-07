@@ -1,17 +1,26 @@
-# 3/29/26 8/8
+# 4/4/26 4/14
 
 Skorne - Army of the Western Reaches
 Grand Melee - 100 pts
 
 PC CARD
 
+Defenses
+DEFENSE 1 - Barrier
+DEFENSE 1 - Barrier
+DEFENSE 1 - Spike Trap
+
 Supreme Archdomina Makeda
 
-16 Bronzeback Titan
+6 Basilisk Krea
 
-16 Molik Karn
+7 Cyclops Brute
 
-6 Razor Worm
+4 Aptimus Marketh
+
+20 Exulon Nostilla
+
+Aberration
 
 2 Mortitheurge Willbreaker 1
 
@@ -19,30 +28,28 @@ Supreme Archdomina Makeda
 
 8 Tyrant Rhadeim
 
-3 Paingiver Beast Handlers 1
+7 Legends of Halaak
 
-3 Paingiver Beast Handlers 2
+3 Paingiver Beast Handlers
 
 10 Praetorian Ferox 1
 
 10 Praetorian Ferox 2
 
+5 Praetorian Karax 1
+
+5 Praetorian Karax 2
+
+5 Praetorian Karax 3
+
 6 Praetorian Keltarii
-
-6 Praetorian Swordsmen 1
-
-2 Praetorian Swordsman Officer & Standard
-
-6 Praetorian Swordsmen 2
-
-4 Tyrant Commander & Standard Bearer
 
 
 PC COMMAND CARD
 Blessing of the Gods
-Break Through
 Careful Reconnaissance
-Lucky Penny
+Defenses
+Duck and Cover!
 Put the Fires Out
 
 TOTAL POINTS 100/100
