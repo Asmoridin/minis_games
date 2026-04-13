@@ -1,6 +1,5 @@
-#3/29/25 6th/16 Walsall March Steamroller
+# 4/12/26 8/24
 
-New ossrum
 Mercenaries - Rhul Guard
 Grand Melee - 100 pts
 
@@ -14,7 +13,7 @@ General Ossrum
 
 10 Ghordson Driller 3
 
-27 Ghordson Earthbreaker
+10 Ghordson Driller 4
 
 5 Grundback Blaster 1
 
@@ -22,15 +21,19 @@ General Ossrum
 
 5 Grundback Blaster 3
 
+5 Grundback Blaster 4
+
 3 Balthazar Bamfist
 
+20 Carver Ultimus
+
+War Boar MMD47
+
+4 Gudrun the Wasted
+
+3 Ogrun Bokur
+
 2 Thor Steinhammer
-
-5 Hammerfall High Shield Gun Corps 1
-
-5 Hammerfall High Shield Gun Corps 2
-
-5 Herne & Jonne
 
 4 Tactical Arcanist Corps 1
 
