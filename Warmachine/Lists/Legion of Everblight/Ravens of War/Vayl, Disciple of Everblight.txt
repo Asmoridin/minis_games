@@ -1,49 +1,51 @@
-# 5/31/25 4th/20 Texas
+# 4/12/26 2/8
 
-vayl
 Legion of Everblight - Ravens of War
 Grand Melee - 100 pts
 
 PC CARD
 
+Defenses
+DEFENSE 1 - Barrier
+DEFENSE 1 - Barrier
+DEFENSE 1 - Spike Trap
+
 Vayl, Disciple of Everblight
+
+14 Angelius
 
 16 Azrael
 
-8 Nephilim Bloodseer
+3 Harrier
 
-8 Nephilim Soldier
+10 Neraph
 
 11 Seraph
 
-6 Annyssa Ryvaal
+5 Annyssa Ryvaal
 
-5 Blighted Nyss Sorceress & Hellion
+1 Blighted Nyss Shepherd
 
-4 Blighted Nyss Warlord 1
-
-4 Blighted Nyss Warlord 2
-
-2 Succubus
+1 Spell Martyr
 
 6 Blackfrost Shard
 
-10 Blighted Nyss Raptors
+6 Blighted Nyss Archers
 
-6 Blighted Nyss Swordsmen 1
+3 Blighted Nyss Archer Officer & Ammo Porter
 
-4 Blighted Nyss Swordsman Abbot & Champion 1
+10 Blighted Nyss Raptors 1
 
-6 Blighted Nyss Swordsmen 2
+10 Blighted Nyss Raptors 2
 
-4 Blighted Nyss Swordsman Abbot & Champion 2
+4 Ice Witches
 
 
 PC COMMAND CARD
 Blessing of the Gods
-Careful Reconnaissance
-Duck and Cover!
+Defenses
 Hit & Run
 Lucky Penny
+Sapper
 
 TOTAL POINTS 100/100
