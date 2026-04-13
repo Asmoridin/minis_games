@@ -1,35 +1,50 @@
-#3/29/25 5th/7 
+# 4/12/26 10/48
 
-J-MacK Helga
 Mercenaries - Thornfall Alliance
 Grand Melee - 100 pts
 
 PC CARD
-Helga the Conquerer
+
+Helga the Conqueror
+
 6 Battle Boar
+
+15 Lytiersis
+
 13 War Hog
 
-13 Meat Thresher
+3 Agata, Queen of Carnage
 
-1 Gobber Tinker
-20 Magnus the Unstoppable
-Invictus
-4 Raluk Moorclaw, the Ironmonger
-6 Talon
-14 Rorsh
-Brine
-3 Targ
-4 The Wastelander
+2 Targ
 
-4 Farrow Bone Grinders
+7 Farrow Brigands 1
+
+3 Farrow Brigand Warlord 1
+
+7 Farrow Brigands 2
+
+3 Farrow Brigand Warlord 2
+
+7 Farrow Brigands 3
+
+3 Farrow Brigand Warlord 3
+
 5 Farrow Commandos
-6 Farrow Valkyries
+
+7 Farrow Slaughterhousers 1
+
+7 Farrow Slaughterhousers 2
+
+6 Farrow Valkyries 1
+
+6 Farrow Valkyries 2
+
 
 PC COMMAND CARD
 Blessing of the Gods
+Break Through
 Careful Reconnaissance
-Hit & Run
 Lucky Penny
 Put the Fires Out
 
-TOTAL POINTS 99/100
+TOTAL POINTS 100/100
