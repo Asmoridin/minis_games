@@ -1,56 +1,52 @@
-#3/29/25 3rd/16
+# 4/12/26 1/8
 
-Barnabas
 Mercenaries - Blindwater Congregation
 Grand Melee - 100 pts
 
 PC CARD
 
-Defenses
-DEFENSE 1 - Barrier
-DEFENSE 2 - Fire Pit
-DEFENSE 1 - Fire Pit
-
 Barnabas, Lord of Blood
 
 Bone Shaker
 
-13 Blackhide Wrastler
+13 Blackhide Wrastler 1
 
-6 Boneswarm
+13 Blackhide Wrastler 2
 
-2 Bone Shrine
+10 Blind Walker
 
-20 Carver Ultimus
+4 Captain Crawtooth
 
-War Boar MMD47
+4 Gatorman Soul Slave
 
-4 Kwaak Slickspine & Gub, Croak Sorcerers
+3 Gatorman Witch Doctor 1
+
+3 Gatorman Witch Doctor 2
 
 15 Wrong Eye
 
 Snapjaw
 
-6 Bog Trog Ambushers 1
+2 Croak Trappers
 
-6 Bog Trog Ambushers 2
+4 Gatorman Boil Master & Spirit Cauldron 1
 
-7 Croak Raiders 1
+4 Gatorman Boil Master & Spirit Cauldron 2
 
-7 Croak Raiders 2
+8 Gatorman Posse 1
 
-4 Gatorman Boil Master & Spirit Cauldron
+8 Gatorman Posse 2
 
-5 Gatorman Bokor & Bog Trog Swamp Shamblers 1
+8 Gatorman Posse 3
 
-5 Gatorman Bokor & Bog Trog Swamp Shamblers 2
+1 Swamp Gobber Bellows Crew
 
 
 PC COMMAND CARD
 Blessing of the Gods
-Defenses
+Break Through
 Duck and Cover!
 Lucky Penny
-Old Faithful
+Sapper
 
 TOTAL POINTS 100/100

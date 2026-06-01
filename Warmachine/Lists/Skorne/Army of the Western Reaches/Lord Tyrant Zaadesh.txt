@@ -1,21 +1,32 @@
-# 3/29/26 16/16
+# 4/4/26 4/14
 
 Skorne - Army of the Western Reaches
 Grand Melee - 100 pts
 
 PC CARD
 
+Defenses
+DEFENSE 1 - Barrier
+DEFENSE 1 - Barrier
+DEFENSE 1 - Spike Trap
+
 Lord Tyrant Zaadesh
 
-6 Basilisk Krea
+7 Cyclops Brute
 
-28 Mammoth
-
-16 Molik Karn
+12 Rhinodon
 
 13 Titan Gladiator
 
-8 Cataphract Cetrati
+14 Titan Sentry
+
+13 Siege Animantarax
+
+4 Aptimus Marketh
+
+2 Mortitheurge Willbreaker
+
+8 Tyrant Rhadeim
 
 7 Legends of Halaak
 
@@ -25,14 +36,14 @@ Lord Tyrant Zaadesh
 
 10 Praetorian Ferox
 
-6 Praetorian Keltarii
+4 Tyrant Commander & Standard Bearer
 
 
 PC COMMAND CARD
 Blessing of the Gods
-Careful Reconnaissance
-Duck and Cover!
-Hit & Run
+Defenses
 Lucky Penny
+Old Faithful
+Put the Fires Out
 
 TOTAL POINTS 100/100

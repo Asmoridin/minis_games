@@ -1,4 +1,4 @@
-# 8/23/25 3rd/6 UK tournament
+# 4/4/26 8/10
 
 Cryx - Dark Host
 Grand Melee - 100 pts
@@ -7,40 +7,46 @@ PC CARD
 
 Lord Exhumator Scaverous
 
-12 Desecrator
+4 Deathripper 1
+
+4 Deathripper 2
 
 14 Erebus
 
 11 Reaper
 
-9 Slayer 1
+5 Bane Lord Tartarus
 
-9 Slayer 2
+20 Exulon Nostilla
 
-9 Slayer 3
+Aberration
 
-2 Machine Wraith 1
+1 Necrotech 1
 
-2 Machine Wraith 2
+1 Necrotech 2
 
-2 Machine Wraith 3
+1 Necrotech 3
 
-7 Bane Knights
+4 Pistol Wraith
+
+9 Bane Riders
 
 7 Bane Warriors 1
 
-4 Bane Warrior Officer & Standard 1
+3 Bane Warrior Officer & Standard 1
 
 7 Bane Warriors 2
 
-4 Bane Warrior Officer & Standard 2
+3 Bane Warrior Officer & Standard 2
+
+6 The Withershadow Combine
 
 
 PC COMMAND CARD
-Blessing of the Gods
-Careful Reconnaissance
-Lucky Penny
+Break Through
+Hit & Run
 Old Faithful
 Put the Fires Out
+Sapper
 
-TOTAL POINTS 99/100
+TOTAL POINTS 100/100

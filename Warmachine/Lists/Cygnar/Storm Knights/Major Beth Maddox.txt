@@ -1,43 +1,60 @@
-# 10/11/25 3rd/13
+# 4/12/26 11/13
 
 Cygnar - Storm Knights
 Grand Melee - 100 pts
 
 PC CARD
 
-Defenses
-DEFENSE 1 - Barrier
-DEFENSE 1 - Barrier
-DEFENSE 1 - Barrier
-
 Major Beth Maddox
 
-28 Hurricane
+15 Brickhouse
 
-14 Storm Strider 1
+8 Firefly 1
 
-14 Storm Strider 2
+8 Firefly 2
 
 3 Captain Arlan Strangewayes
 
-7 Major Katherine Laddermore
+3 Lieutenant Gwen Keller
 
 4 Squire
 
 4 Stormblade Captain
 
+15 Stormclad
+
 4 Stormsmith Stormcallers
 
-11 Storm Lances 1
+2 Field Mechaniks 1
 
-11 Storm Lances 2
+2 Field Mechaniks 2
+
+11 Storm Lances
+
+6 Stormblade Infantry 1
+
+2 Stormblade Infantry Officer & Standard 1
+
+1 Stormblade Infantry Storm Gunner 1
+
+1 Stormblade Infantry Storm Gunner 2
+
+6 Stormblade Infantry 2
+
+2 Stormblade Infantry Officer & Standard 2
+
+1 Stormblade Infantry Storm Gunner 3
+
+1 Stormblade Infantry Storm Gunner 4
+
+1 Stormblade Infantry Storm Gunner 5
 
 
 PC COMMAND CARD
 Blessing of the Gods
 Careful Reconnaissance
-Defenses
 Lucky Penny
 Old Faithful
+Put the Fires Out
 
 TOTAL POINTS 100/100

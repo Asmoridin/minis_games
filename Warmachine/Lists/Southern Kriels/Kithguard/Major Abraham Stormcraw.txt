@@ -1,43 +1,56 @@
-# 3/29/26 16/16
+# 4/4/26 1/11
 
 Southern Kriels - Kithguard
 Grand Melee - 100 pts
 
 PC CARD
 
+Defenses
+DEFENSE 1 - Spike Trap
+DEFENSE 1 - Spike Trap
+DEFENSE 1 - Spike Trap
+
+Trapdoor 1
+
+Trapdoor 2
+
+Trapdoor 3
+
 Major Abraham Stormcraw
+
+6 Jungle Troll 1
+2 HEAD - Headband
+3 RIGHT ARM - Machete
+1 LEFT ARM - Combat Knife
+
+6 Jungle Troll 2
+2 HEAD - Headband
+3 RIGHT ARM - Machete
+1 LEFT ARM - Combat Knife
 
 16 Klangor
 
 12 Vorogger
 
-5 Corporal Rhud Felleye
+5 Guard Post
 
-4 Greygore Boomhowler
+3 Captain Logan Grindstone
 
-18 Kithguard Journeyman
+6 Lieutenant Frag Thornbane
 
-Ramhead
+1 Pvt. Rattles
 
-4 Mawga'Bawza
-
-6 Kithguard Infantry 1
-WEAPON SUPPORT TROOPERS - Slugger
-WEAPON SUPPORT TROOPERS - Slugger
-
-2 Kithguard Sergeant 1
-
-6 Kithguard Infantry 2
-WEAPON SUPPORT TROOPERS - Slugger
-WEAPON SUPPORT TROOPERS - Slugger
-
-2 Kithguard Sergeant 2
+3 Medics
 
 8 Scrappers
 
 4 Spirit Shamans
 
-8 Throat Cutters
+9 Steelbacks
+
+8 Throat Cutters 1
+
+8 Throat Cutters 2
 
 5 Tunnel Rats
 
@@ -45,8 +58,8 @@ WEAPON SUPPORT TROOPERS - Slugger
 PC COMMAND CARD
 Blessing of the Gods
 Careful Reconnaissance
+Defenses
 Lucky Penny
-Old Faithful
-Sapper
+Put the Fires Out
 
 TOTAL POINTS 100/100

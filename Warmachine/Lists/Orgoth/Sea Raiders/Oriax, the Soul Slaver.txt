@@ -1,4 +1,4 @@
-# 3/21/26 4/8
+# 4/4/26 3/11
 
 Orgoth - Sea Raiders
 Grand Melee - 100 pts
@@ -7,36 +7,33 @@ PC CARD
 
 Oriax, The Soul Slaver
 
-6 Jackal
-2 HEAD - Arc Node
-3 RIGHT ARM - Mace
-1 LEFT ARM - Clawed Fist
+21 Azdharak, Herald of Immolation
 
-13 Sky Bomber 1
+15 Tyrant 1
+3 HEAD - Hunter
+6 RIGHT ARM - Belcher
+6 LEFT ARM - Quad Bolt Thrower
 
-13 Sky Bomber 2
+15 Tyrant 2
+3 HEAD - Hunter
+6 RIGHT ARM - Belcher
+6 LEFT ARM - Quad Bolt Thrower
 
-11 Sky Raider
+20 Anathia, The Imperishable Desolation
 
-3 Reaver Commander
+Barrow Ghoul
 
-4 Revenant Champion
+Charnel Hound
 
-2 Vulcar Forge Master
+2 Vulcar Forge Master 1
 
-6 Assault Reavers 1
+2 Vulcar Forge Master 2
 
-1 Reaver Standard 2
+6 Assault Reavers
 
-6 Assault Reavers 2
-
-1 Reaver Standard 1
+1 Reaver Standard
 
 6 Reaver Skirmishers
-
-9 Rhok Harriers
-
-7 Strike Reavers
 
 8 The Execrators
 
@@ -45,9 +42,9 @@ Oriax, The Soul Slaver
 
 PC COMMAND CARD
 Blessing of the Gods
+Duck and Cover!
 Hit & Run
 Lucky Penny
-Put the Fires Out
-Sapper
+Old Faithful
 
 TOTAL POINTS 100/100

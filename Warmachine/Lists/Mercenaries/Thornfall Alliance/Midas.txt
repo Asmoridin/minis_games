@@ -1,30 +1,46 @@
-#3/29/25 5th/7 
+# 4/12/26 7/13
 
-J-MacK Midas
 Mercenaries - Thornfall Alliance
 Grand Melee - 100 pts
 
 PC CARD
-Midas
-6 Battle Boar 1
-6 Battle Boar 2
-8 Splatter Boar
-13 War Hog
 
-4 Alten Ashley
-20 Magnus the Unstoppable
-Invictus
-3 Targ
-4 The Wastelander
-3 Viktor Pendrake
+Midas
+
+6 Battle Boar 1
+
+6 Battle Boar 2
+
+8 Gun Boar
+
+3 Razor Boar 1
+
+3 Razor Boar 2
+
+3 Razor Boar 3
+
+13 War Hog 1
+
+13 War Hog 2
 
 4 Farrow Bone Grinders 1
+
 4 Farrow Bone Grinders 2
-7 Farrow Brigands
-3 Farrow Brigand Warlord
+
+4 Farrow Bone Grinders 3
+
+7 Farrow Brigands 1
+
+3 Farrow Brigand Warlord 1
+
+7 Farrow Brigands 2
+
+3 Farrow Brigand Warlord 2
+
+7 Farrow Brigands 3
+
 5 Farrow Commandos
-6 Farrow Valkyries
-4 Lynus Wesselbaum & Edrea Lloryrr
+
 
 PC COMMAND CARD
 Blessing of the Gods
@@ -33,4 +49,4 @@ Careful Reconnaissance
 Lucky Penny
 Put the Fires Out
 
-TOTAL POINTS 100/100
+TOTAL POINTS 99/100

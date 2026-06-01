@@ -1,72 +1,94 @@
 #name;armies;unit_type;paint_points;cost;points;max_fa;own_amount;built_amount;painted_amount
 Akulon Thaemestra;Necrofactorium/Hive Mind Cadre;Solo;1;HIVE_MIND_CARDRE;3;1;0;0;0
+Alexia, Queen of the Damned;MKIV Mercenary;Solo;1;14.99;4;1;0;0;0
+Assault Strider;Gravediggers;Solo;6;99.99;10;2;0;0;0
+Beaker;Gravediggers;Heavy Warjack;4;CYGNAR_GRAVEDIGGER_AUXILIARY;14;1;0;0;0
+Borealis;Gravediggers/Storm Forge Cadre/Storm Legion;Heavy Warjack;4;CYGNAR_STORM_FORGE_CADRE;14;2;0;0;0
+Captain Argo Brock;Gravediggers;Solo;2;CYGNAR_GRAVEDIGGER_AUXILIARY;3;1;0;0;0
+Captain Bastian Falk;Gravediggers/Hellslinger Cadre/Storm Legion;Solo;1;CYGNAR_HELLSLINGERS_CADRE;4;1;0;0;0
+Captain Buck Hasker;Gravediggers;Warcaster;Carnage/Earth's Sanctuary/Escort/Silence of Death/Veil of Mists;1;CYGNAR_GRAVEDIGGER_COMMAND_STARTER;0;1;0;0;0
+Captain Connor 'Boom Boom' McCoy;Gravediggers;Warcaster;Fire For Effect/Fury's Strength/Inhospitable Ground/Sentry;6;99.99;0;1;0;0;0
+Captain Cynthia Rosko;Gravediggers;Scout Warcaster;Admonition/Arcane Charge/Deceleration/Second Sight/Shadow Step;1;CYGNAR_GRAVEDIGGER_BATTLEGROUP;0;1;0;0;0
+Colonel Allison Jakes;Gravediggers;Warcaster;Chasten/Eliminator/Fail-Safe/Flashing Blade/Synergy;1;CYGNAR_GRAVEDIGGER_AUXILIARY;0;1;0;0;0
+Commando Officer;Gravediggers;Command Attachment;1;CYGNAR_GRAVEDIGGER_AUXILIARY;2;4;0;0;0
 Criterions;Necrofactorium/Hive Mind Cadre;Unit;6;HIVE_MIND_CARDRE;9;2;0;0;0
 Deathjack, Dark Apotheosis;Necrofactorium;Super Heavy Warjack;6;79.99;20;1;0;0;0
+Deuce;Gravediggers/Hellslinger Cadre/Storm Legion;Heavy Warjack;4;CYGNAR_HELLSLINGERS_CADRE;17;1;0;0;0
 Discerptor Eviscerus;Necrofactorium;Scout Warcaster;Carrion Feast/Deceleration/Ghost Walk/Occultation/Redline;2;CRYX_NECROFACTORIUM_BATTLEGROUP;0;1;0;0;0
+Eilish Garrity, the Dark Traitor;MKIV Mercenary;Solo;1;14.99;3;1;0;0;0
+Eiryss, Shadow of Retribution;MKIV Mercenary;Solo;1;14.99;5;1;0;0;0
 Exulon Khythos;Necrofactorium/Hive Mind Cadre;Warcaster;Deadweight/Occult Whispers/Psychic Assault/Psycho Surgery/Revive/Scything Touch;2;HIVE_MIND_CARDRE;0;1;0;0;0
 Exulon Nostilla & Aberration;MKIV Mercenary;Solo;8;69.99;20;1;0;0;0
 Gorman di Wulfe, Revolutionary Agent;MKIV Mercenary;Solo;1;19.99;3;1;0;0;0
+Gravedigger Commandos;Gravediggers;Unit;5;CYGNAR_GRAVEDIGGER_AUXILIARY;8;4;0;0;0
+Gravedigger Gun Mages;Gravediggers;Unit;3;CYGNAR_GRAVEDIGGER_CORE;4;3;0;0;0
+Gravedigger Rangers;Gravediggers;Unit;5;CYGNAR_GRAVEDIGGER_CORE;7;4;0;0;0
 Grendel;Necrofactorium;Heavy Warjack;4;CRYX_NECROFACTORIUM_CORE;16;1;0;0;0
+Greygore Boomhowler;MKIV Mercenary;Solo;2;19.99;4;1;0;0;0
 Hades;Necrofactorium;Heavy Warjack;4;CRYX_NECROFACTORIUM_COMMAND_STARTER;16;1;0;0;0
+Heavy Field Gun;Gravediggers;Structure;6;64.99;7;2;0;0;0
+Heavy Machine Gun Crew;Gravediggers;Solo;4;CYGNAR_GRAVEDIGGER_CORE;3;4;0;0;0
 Hellraker;Necrofactorium;Colossal Warjack;10;149.99;30;2;0;0;0
 Iron Lich Commander;Necrofactorium;Solo;2;CRYX_NECROFACTORIUM_AUXILIARY;4;2;0;0;0
 Lich Lord Dekathus;Necrofactorium;Warcaster;Annihilation/Death Ward/Ghost Walk/Impending Doom/Shadowmancer;2;CRYX_NECROFACTORIUM_AUXILIARY;0;1;0;0;0
+Lt. Stella Barron;Gravediggers;Solo;1;CYGNAR_GRAVEDIGGER_CORE;3;1;0;0;0
 Machine Wraith Dominator;Necrofactorium;Solo;2;CRYX_NECROFACTORIUM_CORE;4;4;0;0;0
+Major Allister Caine;Gravediggers/Hellslinger Cadre/Storm Legion;Warcaster;Blur/Calamity/Heightened Reflexes/Mage Sight/Magic Bullet;1;CYGNAR_HELLSLINGERS_CADRE;0;1;0;0;0
+Major Grant Vargus;Gravediggers;Warcaster;Hand of Destruction/Return Fire/Rhythm of War/Rift/Rock Wall;2;CYGNAR_GRAVEDIGGER_CORE;0;1;0;0;0
 Malefactor;Necrofactorium;Heavy Warjack;4;CRYX_NECROFACTORIUM_BATTLEGROUP;16;4;0;0;0
 Malfessor;Necrofactorium/Hive Mind Cadre;Monstrosity;4;HIVE_MIND_CARDRE;15;1;0;0;0
 Master Necrosurgeon Sepsira;Necrofactorium;Warcaster;Breath Stealer/Death's Dominion/Excarnate/Gravetouched/Onslaught;1;CRYX_NECROFACTORIUM_CORE;0;1;0;0;0
 Master Necrotech Chatterbane;Necrofactorium;Solo;4;CRYX_NECROFACTORIUM_COMMAND_STARTER;4;1;0;0;0
 Maulgreth, The Charnel Plague;MKIV Mercenary;Solo;2;19.99;4;1;0;0;0
+Mechanik Adept Sparkhammer;Gravediggers/Storm Forge Cadre/Storm Legion;Warcaster;Electrify/Force Hammer/Inhospitable Ground/Jackhammer/Lightning Pulse/Mobility;1;CYGNAR_STORM_FORGE_CADRE;0;1;0;0;0
 Mechanithrall Brutes;Necrofactorium;Unit;6;CRYX_NECROFACTORIUM_AUXILIARY;7;2;0;0;0
 Mechanithrall Swarm;Necrofactorium;Unit;5;CRYX_NECROFACTORIUM_CORE;6;6;0;0;0
 Mortenebra Perfected;Necrofactorium;Warcaster;Admonition/Arcantrik Bolt/Hellwrought/Jumpstart/Mobility/Synergy;4;39.99;0;1;0;0;0
 Necroharvester;Necrofactorium;Solo;9;99.99;8;2;0;0;0
 Necrosurgeon Initiates;Necrofactorium;Unit;3;CRYX_NECROFACTORIUM_CORE;4;4;0;0;0
 Night Terrors;Necrofactorium;Unit;12;CRYX_NECROFACTORIUM_AUXILIARY;10;2;0;0;0
-Raptor;Necrofactorium;Light Warjack;2;CRYX_NECROFACTORIUM_BATTLEGROUP;8;6;0;0;0
-Silexus Xiphus;Necrofactorium/Hive Mind Cadre;Solo;1;HIVE_MIND_CARDRE;3;1;0;0;0
-Skarlock Lieutenant;Necrofactorium;Solo;1;CRYX_NECROFACTORIUM_CORE;3;4;0;0;0
-Sludge Thralls;Necrofactorium;Unit;6;CRYX_NECROFACTORIUM_AUXILIARY;8;2;0;0;0
-The Furies;Necrofactorium;Unit;6;CRYX_NECROFACTORIUM_COMMAND_STARTER;10;1;0;0;0
-Wraithbinder Nekane;Necrofactorium;Warcaster;Banishing Ward/Crimson Veil/Crippling Grasp/Mirage/Venom;1;CRYX_NECROFACTORIUM_COMMAND_STARTER;0;1;0;0;0
-Captain Buck Hasker;Gravediggers;Warcaster;Carnage/Earth's Sanctuary/Escort/Silence of Death/Veil of Mists;1;CYGNAR_GRAVEDIGGER_COMMAND_STARTER;0;1;0;0;0
-Captain Connor 'Boom Boom' McCoy;Gravediggers;Warcaster;Fire For Effect/Fury's Strength/Inhospitable Ground/Sentry;6;99.99;0;1;0;0;0
-Captain Cynthia Rosko;Gravediggers;Scout Warcaster;Admonition/Arcane Charge/Deceleration/Second Sight/Shadow Step;1;CYGNAR_GRAVEDIGGER_BATTLEGROUP;0;1;0;0;0
-Colonel Allison Jakes;Gravediggers;Warcaster;Chasten/Eliminator/Fail-Safe/Flashing Blade/Synergy;1;CYGNAR_GRAVEDIGGER_AUXILIARY;0;1;0;0;0
-Major Allister Caine;Gravediggers/Hellslinger Cadre;Warcaster;Blur/Calamity/Heightened Reflexes/Mage Sight/Magic Bullet;1;CYGNAR_HELLSLINGERS_CADRE;0;1;0;0;0
-Major Grant Vargus;Gravediggers;Warcaster;Hand of Destruction/Return Fire/Rhythm of War/Rift/Rock Wall;2;CYGNAR_GRAVEDIGGER_CORE;0;1;0;0;0
-Mechanik Adept Sparkhammer;Gravediggers/Storm Forge Cadre;Warcaster;Electrify/Force Hammer/Inhospitable Ground/Jackhammer/Lightning Pulse/Mobility;1;CYGNAR_STORM_FORGE_CADRE;0;1;0;0;0
-Valiant;Gravediggers;Heavy Warjack;4;CYGNAR_GRAVEDIGGER_BATTLEGROUP;16;4;0;0;0
-Beaker;Gravediggers;Heavy Warjack;4;CYGNAR_GRAVEDIGGER_AUXILIARY;14;1;0;0;0
-Borealis;Gravediggers/Storm Forge Cadre;Heavy Warjack;4;CYGNAR_STORM_FORGE_CADRE;14;2;0;0;0
-Deuce;Gravediggers/Hellslinger Cadre;Heavy Warjack;4;CYGNAR_HELLSLINGERS_CADRE;17;1;0;0;0
 Patriot;Gravediggers;Light Warjack;2;CYGNAR_GRAVEDIGGER_BATTLEGROUP;11;4;0;0;0
 Plugger;Gravediggers;Heavy Warjack;4;CYGNAR_GRAVEDIGGER_COMMAND_STARTER;17;1;0;0;0
+Raptor;Necrofactorium;Light Warjack;2;CRYX_NECROFACTORIUM_BATTLEGROUP;8;6;0;0;0
+Sergeant Brunaugh "Bruno" Ramjaw;Gravediggers;Solo;2;CYGNAR_GRAVEDIGGER_COMMAND_STARTER;4;1;0;0;0
+Silexus Xiphus;Necrofactorium/Hive Mind Cadre;Solo;1;HIVE_MIND_CARDRE;3;1;0;0;0
+Skarlock Lieutenant;Necrofactorium;Solo;1;CRYX_NECROFACTORIUM_CORE;3;4;0;0;0
 Sky Bomber;MKIV Mercenary;Battle Engine;10;109.99;12;2;0;0;0
 Sky Raider;MKIV Mercenary;Battle Engine;10;109.99;10;2;0;0;0
-Heavy Field Gun;Gravediggers;Structure;6;64.99;7;2;0;0;0
-
-Assault Strider;Gravediggers;Solo;6;99.99;10;2;0;0;0
-Captain Argo Brock;Gravediggers;Solo;2;CYGNAR_GRAVEDIGGER_AUXILIARY;3;1;0;0;0
-Captain Bastian Falk;Gravediggers/Hellslinger Cadre;Solo;1;CYGNAR_HELLSLINGERS_CADRE;4;1;0;0;0
-Heavy Machine Gun Crew;Gravediggers;Solo;4;CYGNAR_GRAVEDIGGER_CORE;3;4;0;0;0
-Lt. Stella Barron;Gravediggers;Solo;1;CYGNAR_GRAVEDIGGER_CORE;3;1;0;0;0
-Sergeant Brunaugh "Bruno" Ramjaw;Gravediggers;Solo;2;CYGNAR_GRAVEDIGGER_COMMAND_STARTER;4;1;0;0;0
-Specialist Tyson Vos;Gravediggers/Storm Forge Cadre;Solo;1;CYGNAR_STORM_FORGE_CADRE;3;1;0;0;0
-Weather Station;Gravediggers/Storm Forge Cadre;Solo;4;CYGNAR_STORM_FORGE_CADRE;3;4;0;0;0
-Alexia, Queen of the Damned;MKIV Mercenary;Solo;1;14.99;4;1;0;0;0
-Eilish Garrity, the Dark Traitor;MKIV Mercenary;Solo;1;14.99;3;1;0;0;0
-Eiryss, Shadow of Retribution;MKIV Mercenary;Solo;1;14.99;5;1;0;0;0
-Greygore Boomhowler;MKIV Mercenary;Solo;2;19.99;4;1;0;0;0
-Gravedigger Commandos;Gravediggers;Unit;5;CYGNAR_GRAVEDIGGER_AUXILIARY;8;4;0;0;0
-Gravedigger Gun Mages;Gravediggers;Unit;3;CYGNAR_GRAVEDIGGER_CORE;4;3;0;0;0
-Gravedigger Rangers;Gravediggers;Unit;5;CYGNAR_GRAVEDIGGER_CORE;7;4;0;0;0
-Storm Callers;Gravediggers/Storm Forge Cadre;Unit;3;CYGNAR_STORM_FORGE_CADRE;5;6;0;0;0
-Storm Vanes;Gravediggers/Storm Forge Cadre;Unit;3;CYGNAR_STORM_FORGE_CADRE;5;2;0;0;0
-The Black 13th;Gravediggers/Hellslinger Cadre;Unit;3;CYGNAR_HELLSLINGERS_CADRE;9;1;0;0;0
+Sludge Thralls;Necrofactorium;Unit;6;CRYX_NECROFACTORIUM_AUXILIARY;8;2;0;0;0
+Specialist Tyson Vos;Gravediggers/Storm Forge Cadre/Storm Legion;Solo;1;CYGNAR_STORM_FORGE_CADRE;3;1;0;0;0
+Storm Callers;Gravediggers/Storm Forge Cadre/Storm Legion;Unit;3;CYGNAR_STORM_FORGE_CADRE;5;6;0;0;0
+Storm Vanes;Gravediggers/Storm Forge Cadre/Storm Legion;Unit;3;CYGNAR_STORM_FORGE_CADRE;5;2;0;0;0
+The Black 13th;Gravediggers/Hellslinger Cadre/Storm Legion;Unit;3;CYGNAR_HELLSLINGERS_CADRE;9;1;0;0;0
+The Furies;Necrofactorium;Unit;6;CRYX_NECROFACTORIUM_COMMAND_STARTER;10;1;0;0;0
 The Rowdies;Gravediggers;Unit;3;CYGNAR_GRAVEDIGGER_COMMAND_STARTER;9;1;0;0;0
-Commando Officer;Gravediggers;Command Attachment;1;CYGNAR_GRAVEDIGGER_AUXILIARY;2;4;0;0;0
 Trollkin Express Sniper;Gravediggers;Command Attachment;2;CYGNAR_GRAVEDIGGER_CORE;3;4;0;0;0
+Valiant;Gravediggers;Heavy Warjack;4;CYGNAR_GRAVEDIGGER_BATTLEGROUP;16;4;0;0;0
+Weather Station;Gravediggers/Storm Forge Cadre/Storm Legion;Solo;4;CYGNAR_STORM_FORGE_CADRE;3;4;0;0;0
+Wraithbinder Nekane;Necrofactorium;Warcaster;Banishing Ward/Crimson Veil/Crippling Grasp/Mirage/Venom;1;CRYX_NECROFACTORIUM_COMMAND_STARTER;0;1;0;0;0
+
+Captain Athena di Baro;Storm Legion;Warcaster;Avenging Force/Banishing Ward/Blinding Light/Hand of Morrow;1;CYGNAR_STORM_LEGION_BATTLEGROUP;0;1;0;0;0
+Captain Madison Calder;Storm Legion;Warcaster;Countermeasure/Crusader's Call/Fury's Strength/Lock the Target/Rhythm of War;4;CYGNAR_STORM_LEGION_AUXILIARY;0;1;0;0;0
+Captain Raef Huxley;Storm Legion;Warcaster;Fail-Safe/Full Throttle/Ground Zero/Storm Rager/Windstorm;4;34.99;0;1;0;0;0
+Major Anson Wolfe;Storm Legion;Warcaster;Arcane Shield/Energizer/Lightning Pulse/Onslaught/Positive Charge/Snipe;1;CYGNAR_STORM_LEGION_CORE;0;1;0;0;0
+
+Courser;Storm Legion;? Warjack;?;?;10;4;0;0;0
+Stryker;Storm Legion;? Warjack;?;?;16;4;0;0;0
+The General;Storm Legion;? Warjack;?;?;17;1;0;0;0
+Maelstrom;Storm Legion;? Warjack;?;?;32;2;0;0;0
+Thunderhead, Heart of the Storm;Storm Legion;? Warjack;?;?;20;1;0;0;0
+Legionnaire Officer;Storm Legion;Solo;?;?;3;2;0;0;0
+Lieutenant Sara Brisbane;Storm Legion;Solo;?;?;4;1;0;0;0
+Zephyr;Storm Legion;Solo;?;?;9;2;0;0;0
+Krueger, Wrath of Blighterghast;MKIV Mercenary;Solo;?;?;6;1;0;0;0
+Arcane Mechaniks;Storm Legion;Unit;?;?;5;4;0;0;0
+Storm Lance Legionnaires;Storm Legion;Unit;?;?;10;2;0;0;0
+Stormblade Legionnaires;Storm Legion;Unit;?;?;6;4;0;0;0
+Stormguard Legionnaires;Storm Legion;Unit;?;?;7;4;0;0;0
+Stormthrower Legionnaires;Storm Legion;Unit;?;?;8;4;0;0;0
+Tempest Assailers;Storm Legion;Unit;?;?;9;2;0;0;0
+Tempest Thunderers;Storm Legion;Unit;?;?;9;2;0;0;0
+Legionnaire Standard Bearer;Storm Legion;Command Attachment;?;?;1;8;0;0;0
 
 Accretion Servitors;Convergence of Cyriss/Legacy Convergence of Cyriss;Solo;3;10.99;2;3;3;0;0
 Ace;First Army/Legacy Cygnar;Light Warjack;2;24.99;8;1;0;0;0
@@ -544,5 +566,3 @@ Wolves of Orboros;Secret Dominion/Legacy Circle Orboros;Unit;5;54.99/2;5;3;2;0;0
 Wraith Engine;Dark Host/Legacy Cryx;Battle Engine;10;84.99;11;2;2;0;0
 Wrong Eye & Snapjaw;Legacy Circle Orboros;Solo;6;44.99;15;1;1;1;0
 Wurmwood, Tree of Fate;Devourer's Host/Legacy Circle Orboros;Warlock;5;30.99;0;1;1;0;0
-
-Captain Athena di Baro;Storm Legion;Warcaster;1;?;0;1;0;0;0

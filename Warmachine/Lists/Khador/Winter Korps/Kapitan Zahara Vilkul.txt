@@ -1,4 +1,4 @@
-# 3/29/26 35/80
+# 4/4/26 2/10
 
 Khador - Winter Korps
 Grand Melee - 100 pts
@@ -7,23 +7,33 @@ PC CARD
 
 Kapitan Zahara Vilkul
 
-23 Behemoth, Spirit of Imperial Khador
+9 Dire Wolf
+HEAD - Shield Guard
+5 RIGHT ARM - Long Axe
+4 LEFT ARM - Flame Fist
 
-9 AC-2 Bison 1
+12 Great Bear
+2 HEAD - Aggressive
+6 RIGHT ARM - Battle Mace
+4 LEFT ARM - Blasting Fist
 
-9 AC-2 Bison 2
+2 Battle Mechanik
 
-4 Kontroller
+6 Krueger, Wrath of Blighterghast
 
 20 Magnus the Unstoppable
 
 Invictus
 
-4 Magziev Zariyah Volkova
+3 Winter Korps Officer
 
 5 Zacchaeus, The Winter’s Chill
 
 4 Arkanists
+
+8 Shock Trooper Gunners 1
+
+8 Shock Trooper Gunners 2
 
 8 Shock Trooper Pikemen
 
@@ -37,8 +47,8 @@ Invictus
 PC COMMAND CARD
 Blessing of the Gods
 Careful Reconnaissance
-Duck and Cover!
 Hit & Run
+Lucky Penny
 Old Faithful
 
-TOTAL POINTS 100/100
+TOTAL POINTS 99/100

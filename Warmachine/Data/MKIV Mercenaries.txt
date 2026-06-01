@@ -1,4 +1,5 @@
 Alexia, Queen of the Damned;Gravediggers
+Alexia, Queen of the Damned;Storm Legion
 Carver Ultimus & War Boar MMD47;Blackfleet
 Carver Ultimus & War Boar MMD47;Convergence of Cyriss
 Carver Ultimus & War Boar MMD47;Crucible Guard
@@ -14,13 +15,19 @@ Carver Ultimus & War Boar MMD47;Legacy Cygnar
 Carver Ultimus & War Boar MMD47;Necrofactorium
 Carver Ultimus & War Boar MMD47;Secret Dominion
 Carver Ultimus & War Boar MMD47;Storm Knights
+Carver Ultimus & War Boar MMD47;Storm Legion
 Eilish Garrity, the Dark Traitor;Gravediggers
+Eilish Garrity, the Dark Traitor;Storm Legion
 Eiryss, Shadow of Retribution;Gravediggers
+Eiryss, Shadow of Retribution;Storm Legion
 Exulon Nostilla & Aberration;Gravediggers
 Exulon Nostilla & Aberration;Necrofactorium
+Exulon Nostilla & Aberration;Storm Legion
 Gorman di Wulfe, Revolutionary Agent;Gravediggers
 Gorman di Wulfe, Revolutionary Agent;Necrofactorium
+Gorman di Wulfe, Revolutionary Agent;Storm Legion
 Greygore Boomhowler;Gravediggers
+Krueger, Wrath of Everblight;Storm Legion
 Magnus the Unstoppable & Invictus;Blackfleet
 Magnus the Unstoppable & Invictus;Convergence of Cyriss
 Magnus the Unstoppable & Invictus;Crucible Guard
@@ -36,8 +43,11 @@ Magnus the Unstoppable & Invictus;Legacy Cygnar
 Magnus the Unstoppable & Invictus;Necrofactorium
 Magnus the Unstoppable & Invictus;Secret Dominion
 Magnus the Unstoppable & Invictus;Storm Knights
+Magnus the Unstoppable & Invictus;Storm Legion
 Maulgreth, The Charnel Plague;House Kallyss
 Maulgreth, The Charnel Plague;Necrofactorium
 Maulgreth, The Charnel Plague;Sea Raiders
 Sky Bomber;Gravediggers
+Sky Bomber;Storm Legion
 Sky Raider;Gravediggers
+Sky Raider;Storm Legion
