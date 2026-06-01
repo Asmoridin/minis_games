@@ -1,17 +1,16 @@
 #!/usr/bin/python3
 
 """
-Summarizes the current collection status of all tracked board games
+Summarizes the current collection status of all tracked minis games
 """
 
 import os
 import math
-import sys
 
 from board_games.General.Libraries.output_utils import double_print
 
-FILE_PREFIX = "board_games/General"
-if os.getcwd().endswith('board_games'):
+FILE_PREFIX = "minis_games/General"
+if os.getcwd().endswith('minis_games'):
     FILE_PREFIX = "General"
 
 # Process Play Data
@@ -20,10 +19,34 @@ PLAY_DIR = os.path.join(FILE_PREFIX, "Data", "Plays")
 
 # Fix for renamed games
 GAME_NAME_FIX = {
-    "Hordes: High Command": "Warmachine: High Command",
-    "Shadowfist: Combat In Kowloon": "Shadowfist",
-    "Spearpoint 1943: Eastern Front": "Spearpoint 1943",
-    "Summoner Wars": "Summoner Wars (Second Edition)",
+    "Hordes Primal Mk III": "Warmachine",
+    "Warmachine Prime Mk II": "Warmachine",
+    "Hordes Primal Mk II": "Warmachine",
+    "Warmachine Prime Mk III": "Warmachine",
+    "Warmachine: MKIV": "Warmachine",
+    "Hordes": "Warmachine",
+    "Star Wars: X-Wing Miniatures Game": "Star Wars: X-Wing",
+    "Star Wars: X-Wing (Second Edition)": "Star Wars: X-Wing",
+    "Warhammer 40,000 (Third Edition)": "Warhammer 40,000",
+    "Warhammer 40,000 (Fourth Edition)": "Warhammer 40,000",
+    "Warhammer 40,000 (Fifth Edition)": "Warhammer 40,000",
+    "Warhammer 40,000 (Eighth Edition)": "Warhammer 40,000",
+    "Warhammer 40,000 (Tenth Edition)": "Warhammer 40,000",
+    "Blood Bowl (Third Edition)": "Blood Bowl",
+    "Blood Bowl: Living Rulebook": "Blood Bowl",
+    "Blood Bowl (2016 Edition)": "Blood Bowl",
+    "Marvel: Crisis Protocol Core Set": "Marvel: Crisis Protocol",
+    "Warhammer Underworlds: Shadespire": "Warhammer Underworlds",
+    "Warhammer Underworlds: Beastgrave": "Warhammer Underworlds",
+    "Warhammer Underworlds: Nightvault": "Warhammer Underworlds",
+    "Warhammer: The Game of Fantasy Battles (8th Edition)": "Warhammer Fantasy Battles",
+    "Warhammer: The Game of Fantasy Battles (7th Edition)": "Warhammer Fantasy Battles",
+    "Warhammer: The Game of Fantasy Battles (6th Edition)": "Warhammer Fantasy Battles",
+    "A Song of Ice & Fire: Tabletop Miniatures Game - Stark vs Lannister Starter Set": \
+        "A Song of Ice & Fire: Tabletop Miniatures Game",
+    "Malifaux (Fourth Edition)": "Malifaux",
+    "Malifaux (Second Edition)": "Malifaux",
+    "Monsterpocalypse Miniatures Game": "Monsterpocalypse",
 }
 
 game_plays_total = {}
@@ -80,10 +103,10 @@ for play_line in current_play_lines:
         THIS_YEAR_PLAYS += play_count
 
 if __name__ == "__main__":
-    if os.getcwd().endswith('board_games'):
-        out_file_h = open("General/BGSummaryOut.txt", 'w', encoding="UTF-8")
+    if os.getcwd().endswith('minis_games'):
+        out_file_h = open("General/MinisSummaryOut.txt", 'w', encoding="UTF-8")
     else:
-        out_file_h = open("board_games/General/BGSummaryOut.txt", 'w', encoding="UTF-8")
+        out_file_h = open("minis_games/General/MinisSummaryOut.txt", 'w', encoding="UTF-8")
 
     game_goals = {}
     TOTAL_PLAYS_GOAL = 0
