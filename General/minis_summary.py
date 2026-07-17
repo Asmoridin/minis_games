@@ -97,6 +97,8 @@ for play_line in current_play_lines:
     if play_line == "":
         continue
     play_game, play_count = play_line.split(';')
+    if play_game in GAME_NAME_FIX:
+        play_game = GAME_NAME_FIX[play_game]
     play_count = int(play_count)
     current_year_plays[play_game] = play_count
     if play_game != "New Game":

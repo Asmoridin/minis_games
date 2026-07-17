@@ -1,17 +1,18 @@
 
-Top 10 Games Behind Expected Play Count (based on 41.35% of year):
-- Marvel: Crisis Protocol: 0 plays out of 13 (5.38 behind)
-- Warmachine: 0 plays out of 8 (3.31 behind)
-- Blood Bowl: 0 plays out of 4 (1.65 behind)
-- Warhammer Underworlds: 0 plays out of 4 (1.65 behind)
-- Star Wars: X-Wing: 0 plays out of 3 (1.24 behind)
-- Warhammer Fantasy Battles: 0 plays out of 2 (0.83 behind)
-- Monsterpocalypse: 0 plays out of 2 (0.83 behind)
-- Malifaux: 0 plays out of 2 (0.83 behind)
-- Warhammer 40,000: Kill Team: 0 plays out of 2 (0.83 behind)
-- A Song of Ice & Fire: Tabletop Miniatures Game: 0 plays out of 2 (0.83 behind)
+Top 10 Games Behind Expected Play Count (based on 54.09% of year):
+- Marvel: Crisis Protocol: 0 plays out of 13 (7.03 behind)
+- Warmachine: 0 plays out of 8 (4.33 behind)
+- Blood Bowl: 0 plays out of 4 (2.16 behind)
+- Warhammer Underworlds: 0 plays out of 4 (2.16 behind)
+- Star Wars: X-Wing: 0 plays out of 3 (1.62 behind)
+- Warhammer Fantasy Battles: 0 plays out of 2 (1.08 behind)
+- Monsterpocalypse: 0 plays out of 2 (1.08 behind)
+- Warhammer 40,000: Kill Team: 0 plays out of 2 (1.08 behind)
+- A Song of Ice & Fire: Tabletop Miniatures Game: 0 plays out of 2 (1.08 behind)
+- Warhammer 40,000: 0 plays out of 1 (0.54 behind)
 
-Total Plays so far: 0 out of 61 (0.00 percent)
-At 41.35% of the year, you should have played 25.23 games. You are behind pace by 25.23 plays.
-In total, you have played 0 games this year, compared to 6 last year.
-Completed Games List: (0)
+Total Plays so far: 2 out of 61 (3.28 percent)
+At 54.09% of the year, you should have played 32.99 games. You are behind pace by 30.99 plays.
+In total, you have played 2 games this year, compared to 6 last year.
+Completed Games List: (1)
+- Malifaux

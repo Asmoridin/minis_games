@@ -19,9 +19,9 @@ FACTION_CONVERT = {'Res':'Resurrectionists', 'Explorer':"The Explorer's Society"
 VALID_STATIONS = ['Master', 'Minion', 'Henchman', 'Totem', 'Enforcer', 'Peon']
 
 if os.getcwd().endswith('minis_games'):
-    file_h = open('DB/Malifaux Data.txt', 'r', encoding="UTF-8")
+    file_h = open('Data/Malifaux Data.txt', 'r', encoding="UTF-8")
 else:
-    file_h = open('minis_games/DB/Malifaux Data.txt', 'r', encoding="UTF-8")
+    file_h = open('minis_games/Malifaux/Data/Malifaux Data.txt', 'r', encoding="UTF-8")
 
 lines = file_h.readlines()
 file_h.close()
@@ -67,9 +67,9 @@ filtered_list = filtered_list[0]
 
 if __name__ == "__main__":
     if os.getcwd().endswith('minis_games'):
-        out_file_h = open("output/Malifaux Out.txt", 'w', encoding="UTF-8")
+        out_file_h = open("Malifaux Out.txt", 'w', encoding="UTF-8")
     else:
-        out_file_h = open("minis_games/output/Malifaux Out.txt", 'w', encoding="UTF-8")
+        out_file_h = open("minis_games/Malifaux/Malifaux Out.txt", 'w', encoding="UTF-8")
 
     double_print("Inventory tracker and purchase suggestions for the Malifaux " + \
         "miniatures game.\n", out_file_h)
