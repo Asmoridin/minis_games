@@ -1,1 +1,3 @@
-Banished;Silken King, Long Live;Ampersand;Clockwork Queen, Matriarch of the Machine;Elias P;Corner;Informants;W;10;5
+Banished;Silken King, Long Live;Ampersand;Clockwork Queen, Matriarch of the Machine;Elias P;Informants;W;10;5
+Banished;Silken King, Long Live;Augmented;Charles Hoffman, Steel Sculptor;Ben K;Stuff the Ballots;L;1;8
+Banished;Silken King, Long Live;Ampersand;Clockwork Queen, Matriarch of the Machine;Elias P;Map the Area;W;7;1
